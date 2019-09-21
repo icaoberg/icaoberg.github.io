@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories | icaoberg AT cbd cmu edu</title>
+    <link>http://linus.cbd.cs.cmu.edu/categories/</link>
+      <atom:link href="http://linus.cbd.cs.cmu.edu/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright (c) 2006-2019 icaoberg AT cbd cmu edu</copyright><lastBuildDate>Fri, 20 Sep 2019 21:17:12 -0400</lastBuildDate>
+    <image>
+      <url>http://linus.cbd.cs.cmu.edu/img/icon-192.png</url>
+      <title>Categories</title>
+      <link>http://linus.cbd.cs.cmu.edu/categories/</link>
+    </image>
+    
+    <item>
+      <title>programming</title>
+      <link>http://linus.cbd.cs.cmu.edu/categories/programming/</link>
+      <pubDate>Fri, 20 Sep 2019 21:17:12 -0400</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/categories/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>puerto rico</title>
+      <link>http://linus.cbd.cs.cmu.edu/categories/puerto-rico/</link>
+      <pubDate>Thu, 19 Sep 2019 12:49:15 -0400</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/categories/puerto-rico/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>events</title>
+      <link>http://linus.cbd.cs.cmu.edu/categories/events/</link>
+      <pubDate>Wed, 18 Sep 2019 23:43:09 -0400</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/categories/events/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>volunteering</title>
+      <link>http://linus.cbd.cs.cmu.edu/categories/volunteering/</link>
+      <pubDate>Mon, 16 Sep 2019 23:01:17 -0400</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/categories/volunteering/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | icaoberg AT cbd cmu edu</title>
+    <link>http://linus.cbd.cs.cmu.edu/publication/</link>
+      <atom:link href="http://linus.cbd.cs.cmu.edu/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright (c) 2006-2019 icaoberg AT cbd cmu edu</copyright>
+    <image>
+      <url>http://linus.cbd.cs.cmu.edu/img/icon-192.png</url>
+      <title>Publications</title>
+      <link>http://linus.cbd.cs.cmu.edu/publication/</link>
+    </image>
+    
+  </channel>
+</rss>

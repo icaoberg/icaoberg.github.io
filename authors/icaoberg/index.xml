@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>icaoberg | icaoberg AT cbd cmu edu</title>
+    <link>http://linus.cbd.cs.cmu.edu/authors/icaoberg/</link>
+      <atom:link href="http://linus.cbd.cs.cmu.edu/authors/icaoberg/index.xml" rel="self" type="application/rss+xml" />
+    <description>icaoberg</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright (c) 2006-2019 icaoberg AT cbd cmu edu</copyright><lastBuildDate>Fri, 20 Sep 2019 21:17:12 -0400</lastBuildDate>
+    <image>
+      <url>http://linus.cbd.cs.cmu.edu/img/icon-192.png</url>
+      <title>icaoberg</title>
+      <link>http://linus.cbd.cs.cmu.edu/authors/icaoberg/</link>
+    </image>
+    
+    <item>
+      <title>Docker - Matlab MCR 2019b</title>
+      <link>http://linus.cbd.cs.cmu.edu/post/docker-matlabmcr2019b/</link>
+      <pubDate>Fri, 20 Sep 2019 21:17:12 -0400</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/post/docker-matlabmcr2019b/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;github-card&#34; data-github=&#34;icaoberg/docker-matlabmcr2019b&#34; data-width=&#34;400&#34; data-height=&#34;153&#34; data-theme=&#34;default&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;//cdn.jsdelivr.net/github-cards/latest/widget.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;Mathworks release version 2019b a few days ago. Alas, here are the links to the Docker and Singularity images. I hope there is someone out there that find these useful.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/icaoberg/docker-matlabmcr2019b&#34; target=&#34;_blank&#34;&gt;Dockerfile on Github&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloud.docker.com/u/icaoberg/repository/docker/icaoberg/matlabmcr2019b&#34; target=&#34;_blank&#34;&gt;Docker image on DockerHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/icaoberg/singularity-matlabmcr2019b&#34; target=&#34;_blank&#34;&gt;Singularity recipe on GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloud.sylabs.io/library/icaoberg/default/matlabmcr2019b&#34; target=&#34;_blank&#34;&gt;Singularity image on GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Puerto Rico at a Crossroad</title>
+      <link>http://linus.cbd.cs.cmu.edu/post/pr_at_a_crossroad/</link>
+      <pubDate>Thu, 19 Sep 2019 12:49:15 -0400</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/post/pr_at_a_crossroad/</guid>
+      <description>&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;und&#34; dir=&#34;ltr&#34;&gt;&lt;a href=&#34;https://t.co/yg0sr71cPG&#34;&gt;pic.twitter.com/yg0sr71cPG&lt;/a&gt;&lt;/p&gt;&amp;mdash; icaoberg (@justahappygeek) &lt;a href=&#34;https://twitter.com/justahappygeek/status/1174726894585090049?ref_src=twsrc%5Etfw&#34;&gt;September 19, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Latinx Leaders Gathering</title>
+      <link>http://linus.cbd.cs.cmu.edu/post/latinx_leaders_gathering/</link>
+      <pubDate>Wed, 18 Sep 2019 23:43:09 -0400</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/post/latinx_leaders_gathering/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;http://linus.cbd.cs.cmu.edu/images/2019/clas/latinx_leaders_gathering/presentation.jpg&#34; data-caption=&#34;Latinx Leaders&#34;&gt;
+&lt;img src=&#34;http://linus.cbd.cs.cmu.edu/images/2019/clas/latinx_leaders_gathering/presentation.jpg&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Latinx Leaders
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;Today I had the opportunity to represent Barrio Latino WRCT 88.3FM at the Latinx leaders gathering organized by the Pittsburgh Hispanic Chamber of Commerce at the Center for Latin American Studies.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Woman it Woman</title>
+      <link>http://linus.cbd.cs.cmu.edu/post/woman_it_woman/</link>
+      <pubDate>Tue, 17 Sep 2019 18:00:00 +0000</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/post/woman_it_woman/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;http://linus.cbd.cs.cmu.edu/images/2019/carlow/woman_it_woman.jpg&#34; data-caption=&#34;Woman IT Woman&#34;&gt;
+&lt;img src=&#34;http://linus.cbd.cs.cmu.edu/images/2019/carlow/woman_it_woman.jpg&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Woman IT Woman
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Volunteer at SOY Pittsburgh After School!</title>
+      <link>http://linus.cbd.cs.cmu.edu/post/volunteer_at_soy_pittsburgh/</link>
+      <pubDate>Mon, 16 Sep 2019 23:01:17 -0400</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/post/volunteer_at_soy_pittsburgh/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;http://linus.cbd.cs.cmu.edu/images/2019/soy_pittsburgh/volunteer_at_soy_pittsburgh.jpg&#34; data-caption=&#34;SOY Pittsburgh&#34;&gt;
+&lt;img src=&#34;http://linus.cbd.cs.cmu.edu/images/2019/soy_pittsburgh/volunteer_at_soy_pittsburgh.jpg&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    SOY Pittsburgh
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>
