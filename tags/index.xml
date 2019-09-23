@@ -5,12 +5,60 @@
     <link>http://linus.cbd.cs.cmu.edu/tags/</link>
       <atom:link href="http://linus.cbd.cs.cmu.edu/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright (c) 2006-2019 icaoberg AT cbd cmu edu</copyright><lastBuildDate>Fri, 20 Sep 2019 21:17:12 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright (c) 2006-2019 icaoberg AT cbd cmu edu</copyright><lastBuildDate>Sun, 22 Sep 2019 21:57:35 -0400</lastBuildDate>
     <image>
       <url>http://linus.cbd.cs.cmu.edu/img/icon-192.png</url>
       <title>Tags</title>
       <link>http://linus.cbd.cs.cmu.edu/tags/</link>
     </image>
+    
+    <item>
+      <title>spanish</title>
+      <link>http://linus.cbd.cs.cmu.edu/tags/spanish/</link>
+      <pubDate>Sun, 22 Sep 2019 21:57:35 -0400</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/tags/spanish/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tinycards</title>
+      <link>http://linus.cbd.cs.cmu.edu/tags/tinycards/</link>
+      <pubDate>Sun, 22 Sep 2019 21:57:35 -0400</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/tags/tinycards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cbd10</title>
+      <link>http://linus.cbd.cs.cmu.edu/tags/cbd10/</link>
+      <pubDate>Sat, 21 Sep 2019 11:19:17 -0400</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/tags/cbd10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>twitter</title>
+      <link>http://linus.cbd.cs.cmu.edu/tags/twitter/</link>
+      <pubDate>Sat, 21 Sep 2019 11:19:17 -0400</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/tags/twitter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>singularity</title>
+      <link>http://linus.cbd.cs.cmu.edu/tags/singularity/</link>
+      <pubDate>Sat, 21 Sep 2019 00:20:50 -0400</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/tags/singularity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lacu</title>
+      <link>http://linus.cbd.cs.cmu.edu/tags/lacu/</link>
+      <pubDate>Sat, 21 Sep 2019 00:12:06 -0400</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/tags/lacu/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>docker</title>
@@ -41,6 +89,14 @@
       <link>http://linus.cbd.cs.cmu.edu/tags/pittsburgh/</link>
       <pubDate>Wed, 18 Sep 2019 23:43:09 -0400</pubDate>
       <guid>http://linus.cbd.cs.cmu.edu/tags/pittsburgh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gear</title>
+      <link>http://linus.cbd.cs.cmu.edu/tags/gear/</link>
+      <pubDate>Wed, 18 Sep 2019 00:15:38 -0400</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/tags/gear/</guid>
       <description></description>
     </item>
     

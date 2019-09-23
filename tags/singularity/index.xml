@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>singularity | icaoberg AT cbd cmu edu</title>
+    <link>http://linus.cbd.cs.cmu.edu/tags/singularity/</link>
+      <atom:link href="http://linus.cbd.cs.cmu.edu/tags/singularity/index.xml" rel="self" type="application/rss+xml" />
+    <description>singularity</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright (c) 2006-2019 icaoberg AT cbd cmu edu</copyright><lastBuildDate>Sat, 21 Sep 2019 00:20:50 -0400</lastBuildDate>
+    <image>
+      <url>http://linus.cbd.cs.cmu.edu/img/icon-192.png</url>
+      <title>singularity</title>
+      <link>http://linus.cbd.cs.cmu.edu/tags/singularity/</link>
+    </image>
+    
+    <item>
+      <title>CellOrganizer for Singularity</title>
+      <link>http://linus.cbd.cs.cmu.edu/post/singularity_retweet_ceo/</link>
+      <pubDate>Sat, 21 Sep 2019 00:20:50 -0400</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/post/singularity_retweet_ceo/</guid>
+      <description>&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;I have been using Matlab for about 18 years to do anything and everything. Currently, I am using it to develop &lt;a href=&#34;https://twitter.com/CellOrganizer?ref_src=twsrc%5Etfw&#34;&gt;@CellOrganizer&lt;/a&gt; along with CellOrganizer for &lt;a href=&#34;https://twitter.com/ProjectJupyter?ref_src=twsrc%5Etfw&#34;&gt;@ProjectJupyter&lt;/a&gt; on  &lt;a href=&#34;https://twitter.com/Docker?ref_src=twsrc%5Etfw&#34;&gt;@docker&lt;/a&gt;, CellOrganizer for &lt;a href=&#34;https://twitter.com/galaxyproject?ref_src=twsrc%5Etfw&#34;&gt;@galaxyproject&lt;/a&gt; and CellOrganizer on &lt;a href=&#34;https://twitter.com/SingularityApp?ref_src=twsrc%5Etfw&#34;&gt;@SingularityApp&lt;/a&gt;. All part of &lt;a href=&#34;https://twitter.com/MMBioS?ref_src=twsrc%5Etfw&#34;&gt;@MMBioS&lt;/a&gt; &lt;a href=&#34;https://t.co/qSUGxgmeAX&#34;&gt;pic.twitter.com/qSUGxgmeAX&lt;/a&gt;&lt;/p&gt;&amp;mdash; icaoberg (@justahappygeek) &lt;a href=&#34;https://twitter.com/justahappygeek/status/1174705344339161089?ref_src=twsrc%5Etfw&#34;&gt;September 19, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;P.S. I got retweeted by the official Singularity account on Twitter as well as their CEO. What a time to be alive.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,7 +5,7 @@
     <link>http://linus.cbd.cs.cmu.edu/categories/</link>
       <atom:link href="http://linus.cbd.cs.cmu.edu/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright (c) 2006-2019 icaoberg AT cbd cmu edu</copyright><lastBuildDate>Fri, 20 Sep 2019 21:17:12 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright (c) 2006-2019 icaoberg AT cbd cmu edu</copyright><lastBuildDate>Sat, 21 Sep 2019 00:20:50 -0400</lastBuildDate>
     <image>
       <url>http://linus.cbd.cs.cmu.edu/img/icon-192.png</url>
       <title>Categories</title>
@@ -15,8 +15,16 @@
     <item>
       <title>programming</title>
       <link>http://linus.cbd.cs.cmu.edu/categories/programming/</link>
-      <pubDate>Fri, 20 Sep 2019 21:17:12 -0400</pubDate>
+      <pubDate>Sat, 21 Sep 2019 00:20:50 -0400</pubDate>
       <guid>http://linus.cbd.cs.cmu.edu/categories/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>events</title>
+      <link>http://linus.cbd.cs.cmu.edu/categories/events/</link>
+      <pubDate>Sat, 21 Sep 2019 00:12:06 -0400</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/categories/events/</guid>
       <description></description>
     </item>
     
@@ -29,10 +37,10 @@
     </item>
     
     <item>
-      <title>events</title>
-      <link>http://linus.cbd.cs.cmu.edu/categories/events/</link>
-      <pubDate>Wed, 18 Sep 2019 23:43:09 -0400</pubDate>
-      <guid>http://linus.cbd.cs.cmu.edu/categories/events/</guid>
+      <title>random</title>
+      <link>http://linus.cbd.cs.cmu.edu/categories/random/</link>
+      <pubDate>Wed, 18 Sep 2019 00:15:38 -0400</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/categories/random/</guid>
       <description></description>
     </item>
     
