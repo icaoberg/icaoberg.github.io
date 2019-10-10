@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vegetarian | icaoberg AT cbd cmu edu</title>
+    <link>http://linus.cbd.cs.cmu.edu/tags/vegetarian/</link>
+      <atom:link href="http://linus.cbd.cs.cmu.edu/tags/vegetarian/index.xml" rel="self" type="application/rss+xml" />
+    <description>vegetarian</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright (c) 2006-2019 icaoberg AT cbd cmu edu</copyright><lastBuildDate>Wed, 05 Jul 2017 02:13:18 -0400</lastBuildDate>
+    <image>
+      <url>http://linus.cbd.cs.cmu.edu/img/icon-192.png</url>
+      <title>vegetarian</title>
+      <link>http://linus.cbd.cs.cmu.edu/tags/vegetarian/</link>
+    </image>
+    
+    <item>
+      <title>Vegfest 2017</title>
+      <link>http://linus.cbd.cs.cmu.edu/post/vegfest2017/</link>
+      <pubDate>Wed, 05 Jul 2017 02:13:18 -0400</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/post/vegfest2017/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.thenorthsidechronicle.com/vegfest-2017&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;http://linus.cbd.cs.cmu.edu/images/2017/vegfest2017.jpg&#34; alt=&#34;VegFest&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Click the image above to read the article.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

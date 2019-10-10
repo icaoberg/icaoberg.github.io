@@ -5,7 +5,7 @@
     <link>http://linus.cbd.cs.cmu.edu/categories/</link>
       <atom:link href="http://linus.cbd.cs.cmu.edu/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright (c) 2006-2019 icaoberg AT cbd cmu edu</copyright><lastBuildDate>Sat, 21 Sep 2019 00:20:50 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright (c) 2006-2019 icaoberg AT cbd cmu edu</copyright><lastBuildDate>Thu, 10 Oct 2019 10:00:00 +0000</lastBuildDate>
     <image>
       <url>http://linus.cbd.cs.cmu.edu/img/icon-192.png</url>
       <title>Categories</title>
@@ -13,10 +13,58 @@
     </image>
     
     <item>
+      <title>Spanish II</title>
+      <link>http://linus.cbd.cs.cmu.edu/categories/spanish-ii/</link>
+      <pubDate>Thu, 10 Oct 2019 10:00:00 +0000</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/categories/spanish-ii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spanish Meetup</title>
+      <link>http://linus.cbd.cs.cmu.edu/categories/spanish-meetup/</link>
+      <pubDate>Thu, 10 Oct 2019 10:00:00 +0000</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/categories/spanish-meetup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fermentation</title>
+      <link>http://linus.cbd.cs.cmu.edu/categories/fermentation/</link>
+      <pubDate>Sun, 29 Sep 2019 01:50:57 -0400</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/categories/fermentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>random</title>
+      <link>http://linus.cbd.cs.cmu.edu/categories/random/</link>
+      <pubDate>Sat, 28 Sep 2019 18:36:03 -0400</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/categories/random/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>programming</title>
       <link>http://linus.cbd.cs.cmu.edu/categories/programming/</link>
-      <pubDate>Sat, 21 Sep 2019 00:20:50 -0400</pubDate>
+      <pubDate>Thu, 26 Sep 2019 02:10:48 -0400</pubDate>
       <guid>http://linus.cbd.cs.cmu.edu/categories/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carnegie Mellon University</title>
+      <link>http://linus.cbd.cs.cmu.edu/categories/carnegie-mellon-university/</link>
+      <pubDate>Sat, 21 Sep 2019 11:19:17 -0400</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/categories/carnegie-mellon-university/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational Biology</title>
+      <link>http://linus.cbd.cs.cmu.edu/categories/computational-biology/</link>
+      <pubDate>Sat, 21 Sep 2019 11:19:17 -0400</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/categories/computational-biology/</guid>
       <description></description>
     </item>
     
@@ -33,14 +81,6 @@
       <link>http://linus.cbd.cs.cmu.edu/categories/puerto-rico/</link>
       <pubDate>Thu, 19 Sep 2019 12:49:15 -0400</pubDate>
       <guid>http://linus.cbd.cs.cmu.edu/categories/puerto-rico/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>random</title>
-      <link>http://linus.cbd.cs.cmu.edu/categories/random/</link>
-      <pubDate>Wed, 18 Sep 2019 00:15:38 -0400</pubDate>
-      <guid>http://linus.cbd.cs.cmu.edu/categories/random/</guid>
       <description></description>
     </item>
     

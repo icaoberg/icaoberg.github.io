@@ -5,7 +5,7 @@
     <link>http://linus.cbd.cs.cmu.edu/tags/</link>
       <atom:link href="http://linus.cbd.cs.cmu.edu/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright (c) 2006-2019 icaoberg AT cbd cmu edu</copyright><lastBuildDate>Sun, 22 Sep 2019 21:57:35 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright (c) 2006-2019 icaoberg AT cbd cmu edu</copyright><lastBuildDate>Thu, 10 Oct 2019 10:00:00 +0000</lastBuildDate>
     <image>
       <url>http://linus.cbd.cs.cmu.edu/img/icon-192.png</url>
       <title>Tags</title>
@@ -13,9 +13,25 @@
     </image>
     
     <item>
+      <title>documentary</title>
+      <link>http://linus.cbd.cs.cmu.edu/tags/documentary/</link>
+      <pubDate>Thu, 10 Oct 2019 10:00:00 +0000</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/tags/documentary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>university of pittsburgh</title>
+      <link>http://linus.cbd.cs.cmu.edu/tags/university-of-pittsburgh/</link>
+      <pubDate>Thu, 10 Oct 2019 10:00:00 +0000</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/tags/university-of-pittsburgh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>spanish</title>
       <link>http://linus.cbd.cs.cmu.edu/tags/spanish/</link>
-      <pubDate>Sun, 22 Sep 2019 21:57:35 -0400</pubDate>
+      <pubDate>Wed, 09 Oct 2019 14:57:35 -0400</pubDate>
       <guid>http://linus.cbd.cs.cmu.edu/tags/spanish/</guid>
       <description></description>
     </item>
@@ -23,8 +39,104 @@
     <item>
       <title>tinycards</title>
       <link>http://linus.cbd.cs.cmu.edu/tags/tinycards/</link>
-      <pubDate>Sun, 22 Sep 2019 21:57:35 -0400</pubDate>
+      <pubDate>Wed, 09 Oct 2019 14:57:35 -0400</pubDate>
       <guid>http://linus.cbd.cs.cmu.edu/tags/tinycards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>clp</title>
+      <link>http://linus.cbd.cs.cmu.edu/tags/clp/</link>
+      <pubDate>Thu, 03 Oct 2019 14:11:35 -0400</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/tags/clp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pittsburgh</title>
+      <link>http://linus.cbd.cs.cmu.edu/tags/pittsburgh/</link>
+      <pubDate>Wed, 02 Oct 2019 10:00:00 +0000</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/tags/pittsburgh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>computing</title>
+      <link>http://linus.cbd.cs.cmu.edu/tags/computing/</link>
+      <pubDate>Tue, 01 Oct 2019 10:56:00 -0400</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/tags/computing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tacos</title>
+      <link>http://linus.cbd.cs.cmu.edu/tags/tacos/</link>
+      <pubDate>Sun, 29 Sep 2019 02:28:59 -0400</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/tags/tacos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fermentation</title>
+      <link>http://linus.cbd.cs.cmu.edu/tags/fermentation/</link>
+      <pubDate>Sun, 29 Sep 2019 01:50:57 -0400</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/tags/fermentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vegan</title>
+      <link>http://linus.cbd.cs.cmu.edu/tags/vegan/</link>
+      <pubDate>Sun, 29 Sep 2019 01:50:57 -0400</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/tags/vegan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>android</title>
+      <link>http://linus.cbd.cs.cmu.edu/tags/android/</link>
+      <pubDate>Sat, 28 Sep 2019 18:36:03 -0400</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/tags/android/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nintendo</title>
+      <link>http://linus.cbd.cs.cmu.edu/tags/nintendo/</link>
+      <pubDate>Sat, 28 Sep 2019 18:36:03 -0400</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/tags/nintendo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LAMP</title>
+      <link>http://linus.cbd.cs.cmu.edu/tags/lamp/</link>
+      <pubDate>Fri, 27 Sep 2019 13:48:54 -0400</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/tags/lamp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>webservers</title>
+      <link>http://linus.cbd.cs.cmu.edu/tags/webservers/</link>
+      <pubDate>Fri, 27 Sep 2019 13:48:54 -0400</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/tags/webservers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cody</title>
+      <link>http://linus.cbd.cs.cmu.edu/tags/cody/</link>
+      <pubDate>Thu, 26 Sep 2019 02:10:48 -0400</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/tags/cody/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>matlab</title>
+      <link>http://linus.cbd.cs.cmu.edu/tags/matlab/</link>
+      <pubDate>Thu, 26 Sep 2019 02:10:48 -0400</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/tags/matlab/</guid>
       <description></description>
     </item>
     
@@ -69,14 +181,6 @@
     </item>
     
     <item>
-      <title>matlab</title>
-      <link>http://linus.cbd.cs.cmu.edu/tags/matlab/</link>
-      <pubDate>Fri, 20 Sep 2019 21:17:12 -0400</pubDate>
-      <guid>http://linus.cbd.cs.cmu.edu/tags/matlab/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>hurricane maria</title>
       <link>http://linus.cbd.cs.cmu.edu/tags/hurricane-maria/</link>
       <pubDate>Thu, 19 Sep 2019 12:49:15 -0400</pubDate>
@@ -85,18 +189,18 @@
     </item>
     
     <item>
-      <title>pittsburgh</title>
-      <link>http://linus.cbd.cs.cmu.edu/tags/pittsburgh/</link>
-      <pubDate>Wed, 18 Sep 2019 23:43:09 -0400</pubDate>
-      <guid>http://linus.cbd.cs.cmu.edu/tags/pittsburgh/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>gear</title>
       <link>http://linus.cbd.cs.cmu.edu/tags/gear/</link>
       <pubDate>Wed, 18 Sep 2019 00:15:38 -0400</pubDate>
       <guid>http://linus.cbd.cs.cmu.edu/tags/gear/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vegetarian</title>
+      <link>http://linus.cbd.cs.cmu.edu/tags/vegetarian/</link>
+      <pubDate>Wed, 05 Jul 2017 02:13:18 -0400</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/tags/vegetarian/</guid>
       <description></description>
     </item>
     

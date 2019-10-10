@@ -5,12 +5,23 @@
     <link>http://linus.cbd.cs.cmu.edu/tags/matlab/</link>
       <atom:link href="http://linus.cbd.cs.cmu.edu/tags/matlab/index.xml" rel="self" type="application/rss+xml" />
     <description>matlab</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright (c) 2006-2019 icaoberg AT cbd cmu edu</copyright><lastBuildDate>Fri, 20 Sep 2019 21:17:12 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright (c) 2006-2019 icaoberg AT cbd cmu edu</copyright><lastBuildDate>Thu, 26 Sep 2019 02:10:48 -0400</lastBuildDate>
     <image>
       <url>http://linus.cbd.cs.cmu.edu/img/icon-192.png</url>
       <title>matlab</title>
       <link>http://linus.cbd.cs.cmu.edu/tags/matlab/</link>
     </image>
+    
+    <item>
+      <title>Cody</title>
+      <link>http://linus.cbd.cs.cmu.edu/post/cody/</link>
+      <pubDate>Thu, 26 Sep 2019 02:10:48 -0400</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/post/cody/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.mathworks.com/matlabcentral/cody/&#34; target=&#34;_blank&#34;&gt;Mathworks Cody&lt;/a&gt; is a platform for having fun with Matlab. I mean I am having fun. I think it is similar to LeetCode or HackerRank. Main difference is, it is meant for Matlab.&lt;/p&gt;
+
+&lt;p&gt;Some of these exercises are simple -so far-. I like these kind of sites because it keep my old brain active.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Docker - Matlab MCR 2019b</title>
