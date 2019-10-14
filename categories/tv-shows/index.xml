@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TV Shows | icaoberg AT cbd cmu edu</title>
+    <link>http://linus.cbd.cs.cmu.edu/categories/tv-shows/</link>
+      <atom:link href="http://linus.cbd.cs.cmu.edu/categories/tv-shows/index.xml" rel="self" type="application/rss+xml" />
+    <description>TV Shows</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright (c) 2006-2019 icaoberg AT cbd cmu edu</copyright><lastBuildDate>Thu, 10 Oct 2019 14:09:00 -0400</lastBuildDate>
+    <image>
+      <url>http://linus.cbd.cs.cmu.edu/img/icon-192.png</url>
+      <title>TV Shows</title>
+      <link>http://linus.cbd.cs.cmu.edu/categories/tv-shows/</link>
+    </image>
+    
+    <item>
+      <title>Blank Space</title>
+      <link>http://linus.cbd.cs.cmu.edu/post/doctor-who-blank-space/</link>
+      <pubDate>Thu, 10 Oct 2019 14:09:00 -0400</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/post/doctor-who-blank-space/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/nF1QI_strwg&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;P.S. Times change, and so must I&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

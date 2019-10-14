@@ -5,7 +5,7 @@
     <link>http://linus.cbd.cs.cmu.edu/tags/singularity/</link>
       <atom:link href="http://linus.cbd.cs.cmu.edu/tags/singularity/index.xml" rel="self" type="application/rss+xml" />
     <description>singularity</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright (c) 2006-2019 icaoberg AT cbd cmu edu</copyright><lastBuildDate>Sat, 21 Sep 2019 00:20:50 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright (c) 2006-2019 icaoberg AT cbd cmu edu</copyright><lastBuildDate>Sun, 13 Oct 2019 01:19:33 -0400</lastBuildDate>
     <image>
       <url>http://linus.cbd.cs.cmu.edu/img/icon-192.png</url>
       <title>singularity</title>
@@ -13,11 +13,33 @@
     </image>
     
     <item>
+      <title>browsh</title>
+      <link>http://linus.cbd.cs.cmu.edu/post/singularity-browsh/</link>
+      <pubDate>Sun, 13 Oct 2019 01:19:33 -0400</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/post/singularity-browsh/</guid>
+      <description>&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Just created and pushed an image to &lt;a href=&#34;https://twitter.com/SylabsIO?ref_src=twsrc%5Etfw&#34;&gt;@SylabsIO&lt;/a&gt; cloud for &lt;a href=&#34;https://twitter.com/brow_sh?ref_src=twsrc%5Etfw&#34;&gt;@brow_sh&lt;/a&gt;, an amazing fully-modern text-based browser developed by &lt;a href=&#34;https://twitter.com/twombh?ref_src=twsrc%5Etfw&#34;&gt;@twombh&lt;/a&gt; &lt;a href=&#34;https://t.co/0FxdxDqO8U&#34;&gt;pic.twitter.com/0FxdxDqO8U&lt;/a&gt;&lt;/p&gt;&amp;mdash; justahappygeek (@justahappygeek) &lt;a href=&#34;https://twitter.com/justahappygeek/status/1183250309612789765?ref_src=twsrc%5Etfw&#34;&gt;October 13, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;Here is the deal, I have been using &lt;a href=&#34;http://lynx.browser.org/&#34; target=&#34;_blank&#34;&gt;Lynx&lt;/a&gt; since forever. Just because. However today I found about &lt;a href=&#34;https://www.brow.sh/&#34; target=&#34;_blank&#34;&gt;browsh&lt;/a&gt;. What a joyous moment!&lt;/p&gt;
+
+&lt;p&gt;Finally a browser I would feel happy running on the HPC cluster. As always, I think Singularity is the best way to deploy tools like this for larger machines (especially if you are a user without root privileges).&lt;/p&gt;
+
+&lt;p&gt;Enjoy!&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/icaoberg/singularity-browsh&#34; target=&#34;_blank&#34;&gt;GitHub source code repository&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloud.sylabs.io/library/icaoberg/default/browsh&#34; target=&#34;_blank&#34;&gt;SyLabs.io Cloud image repository&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>CellOrganizer for Singularity</title>
       <link>http://linus.cbd.cs.cmu.edu/post/singularity_retweet_ceo/</link>
       <pubDate>Sat, 21 Sep 2019 00:20:50 -0400</pubDate>
       <guid>http://linus.cbd.cs.cmu.edu/post/singularity_retweet_ceo/</guid>
-      <description>&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;I have been using Matlab for about 18 years to do anything and everything. Currently, I am using it to develop &lt;a href=&#34;https://twitter.com/CellOrganizer?ref_src=twsrc%5Etfw&#34;&gt;@CellOrganizer&lt;/a&gt; along with CellOrganizer for &lt;a href=&#34;https://twitter.com/ProjectJupyter?ref_src=twsrc%5Etfw&#34;&gt;@ProjectJupyter&lt;/a&gt; on  &lt;a href=&#34;https://twitter.com/Docker?ref_src=twsrc%5Etfw&#34;&gt;@docker&lt;/a&gt;, CellOrganizer for &lt;a href=&#34;https://twitter.com/galaxyproject?ref_src=twsrc%5Etfw&#34;&gt;@galaxyproject&lt;/a&gt; and CellOrganizer on &lt;a href=&#34;https://twitter.com/SingularityApp?ref_src=twsrc%5Etfw&#34;&gt;@SingularityApp&lt;/a&gt;. All part of &lt;a href=&#34;https://twitter.com/MMBioS?ref_src=twsrc%5Etfw&#34;&gt;@MMBioS&lt;/a&gt; &lt;a href=&#34;https://t.co/qSUGxgmeAX&#34;&gt;pic.twitter.com/qSUGxgmeAX&lt;/a&gt;&lt;/p&gt;&amp;mdash; icaoberg (@justahappygeek) &lt;a href=&#34;https://twitter.com/justahappygeek/status/1174705344339161089?ref_src=twsrc%5Etfw&#34;&gt;September 19, 2019&lt;/a&gt;&lt;/blockquote&gt;
+      <description>&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;I have been using Matlab for about 18 years to do anything and everything. Currently, I am using it to develop &lt;a href=&#34;https://twitter.com/CellOrganizer?ref_src=twsrc%5Etfw&#34;&gt;@CellOrganizer&lt;/a&gt; along with CellOrganizer for &lt;a href=&#34;https://twitter.com/ProjectJupyter?ref_src=twsrc%5Etfw&#34;&gt;@ProjectJupyter&lt;/a&gt; on  &lt;a href=&#34;https://twitter.com/Docker?ref_src=twsrc%5Etfw&#34;&gt;@docker&lt;/a&gt;, CellOrganizer for &lt;a href=&#34;https://twitter.com/galaxyproject?ref_src=twsrc%5Etfw&#34;&gt;@galaxyproject&lt;/a&gt; and CellOrganizer on &lt;a href=&#34;https://twitter.com/SingularityApp?ref_src=twsrc%5Etfw&#34;&gt;@SingularityApp&lt;/a&gt;. All part of &lt;a href=&#34;https://twitter.com/MMBioS?ref_src=twsrc%5Etfw&#34;&gt;@MMBioS&lt;/a&gt; &lt;a href=&#34;https://t.co/qSUGxgmeAX&#34;&gt;pic.twitter.com/qSUGxgmeAX&lt;/a&gt;&lt;/p&gt;&amp;mdash; justahappygeek (@justahappygeek) &lt;a href=&#34;https://twitter.com/justahappygeek/status/1174705344339161089?ref_src=twsrc%5Etfw&#34;&gt;September 19, 2019&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 
 

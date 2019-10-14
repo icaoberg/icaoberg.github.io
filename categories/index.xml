@@ -5,7 +5,7 @@
     <link>http://linus.cbd.cs.cmu.edu/categories/</link>
       <atom:link href="http://linus.cbd.cs.cmu.edu/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright (c) 2006-2019 icaoberg AT cbd cmu edu</copyright><lastBuildDate>Thu, 10 Oct 2019 10:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright (c) 2006-2019 icaoberg AT cbd cmu edu</copyright><lastBuildDate>Sun, 13 Oct 2019 01:19:33 -0400</lastBuildDate>
     <image>
       <url>http://linus.cbd.cs.cmu.edu/img/icon-192.png</url>
       <title>Categories</title>
@@ -13,18 +13,26 @@
     </image>
     
     <item>
-      <title>Spanish II</title>
-      <link>http://linus.cbd.cs.cmu.edu/categories/spanish-ii/</link>
-      <pubDate>Thu, 10 Oct 2019 10:00:00 +0000</pubDate>
-      <guid>http://linus.cbd.cs.cmu.edu/categories/spanish-ii/</guid>
+      <title>Programming</title>
+      <link>http://linus.cbd.cs.cmu.edu/categories/programming/</link>
+      <pubDate>Sun, 13 Oct 2019 01:19:33 -0400</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/categories/programming/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spanish Meetup</title>
       <link>http://linus.cbd.cs.cmu.edu/categories/spanish-meetup/</link>
-      <pubDate>Thu, 10 Oct 2019 10:00:00 +0000</pubDate>
+      <pubDate>Sat, 12 Oct 2019 18:00:00 +0000</pubDate>
       <guid>http://linus.cbd.cs.cmu.edu/categories/spanish-meetup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spanish II</title>
+      <link>http://linus.cbd.cs.cmu.edu/categories/spanish-ii/</link>
+      <pubDate>Sat, 12 Oct 2019 10:00:00 +0000</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/categories/spanish-ii/</guid>
       <description></description>
     </item>
     
@@ -41,14 +49,6 @@
       <link>http://linus.cbd.cs.cmu.edu/categories/random/</link>
       <pubDate>Sat, 28 Sep 2019 18:36:03 -0400</pubDate>
       <guid>http://linus.cbd.cs.cmu.edu/categories/random/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>programming</title>
-      <link>http://linus.cbd.cs.cmu.edu/categories/programming/</link>
-      <pubDate>Thu, 26 Sep 2019 02:10:48 -0400</pubDate>
-      <guid>http://linus.cbd.cs.cmu.edu/categories/programming/</guid>
       <description></description>
     </item>
     
@@ -81,6 +81,14 @@
       <link>http://linus.cbd.cs.cmu.edu/categories/puerto-rico/</link>
       <pubDate>Thu, 19 Sep 2019 12:49:15 -0400</pubDate>
       <guid>http://linus.cbd.cs.cmu.edu/categories/puerto-rico/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pittsburgh</title>
+      <link>http://linus.cbd.cs.cmu.edu/categories/pittsburgh/</link>
+      <pubDate>Tue, 17 Sep 2019 18:00:00 +0000</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/categories/pittsburgh/</guid>
       <description></description>
     </item>
     

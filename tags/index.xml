@@ -5,12 +5,60 @@
     <link>http://linus.cbd.cs.cmu.edu/tags/</link>
       <atom:link href="http://linus.cbd.cs.cmu.edu/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright (c) 2006-2019 icaoberg AT cbd cmu edu</copyright><lastBuildDate>Thu, 10 Oct 2019 10:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright (c) 2006-2019 icaoberg AT cbd cmu edu</copyright><lastBuildDate>Sun, 13 Oct 2019 01:19:33 -0400</lastBuildDate>
     <image>
       <url>http://linus.cbd.cs.cmu.edu/img/icon-192.png</url>
       <title>Tags</title>
       <link>http://linus.cbd.cs.cmu.edu/tags/</link>
     </image>
+    
+    <item>
+      <title>singularity</title>
+      <link>http://linus.cbd.cs.cmu.edu/tags/singularity/</link>
+      <pubDate>Sun, 13 Oct 2019 01:19:33 -0400</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/tags/singularity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>clp</title>
+      <link>http://linus.cbd.cs.cmu.edu/tags/clp/</link>
+      <pubDate>Sat, 12 Oct 2019 18:00:00 +0000</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/tags/clp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pittsburgh</title>
+      <link>http://linus.cbd.cs.cmu.edu/tags/pittsburgh/</link>
+      <pubDate>Sat, 12 Oct 2019 18:00:00 +0000</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/tags/pittsburgh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vocabulary</title>
+      <link>http://linus.cbd.cs.cmu.edu/tags/vocabulary/</link>
+      <pubDate>Sat, 12 Oct 2019 18:00:00 +0000</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/tags/vocabulary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>brookline teen outreach center</title>
+      <link>http://linus.cbd.cs.cmu.edu/tags/brookline-teen-outreach-center/</link>
+      <pubDate>Sat, 12 Oct 2019 10:00:00 +0000</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/tags/brookline-teen-outreach-center/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lclaa</title>
+      <link>http://linus.cbd.cs.cmu.edu/tags/lclaa/</link>
+      <pubDate>Sat, 12 Oct 2019 10:00:00 +0000</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/tags/lclaa/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>documentary</title>
@@ -41,22 +89,6 @@
       <link>http://linus.cbd.cs.cmu.edu/tags/tinycards/</link>
       <pubDate>Wed, 09 Oct 2019 14:57:35 -0400</pubDate>
       <guid>http://linus.cbd.cs.cmu.edu/tags/tinycards/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>clp</title>
-      <link>http://linus.cbd.cs.cmu.edu/tags/clp/</link>
-      <pubDate>Thu, 03 Oct 2019 14:11:35 -0400</pubDate>
-      <guid>http://linus.cbd.cs.cmu.edu/tags/clp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>pittsburgh</title>
-      <link>http://linus.cbd.cs.cmu.edu/tags/pittsburgh/</link>
-      <pubDate>Wed, 02 Oct 2019 10:00:00 +0000</pubDate>
-      <guid>http://linus.cbd.cs.cmu.edu/tags/pittsburgh/</guid>
       <description></description>
     </item>
     
@@ -153,14 +185,6 @@
       <link>http://linus.cbd.cs.cmu.edu/tags/twitter/</link>
       <pubDate>Sat, 21 Sep 2019 11:19:17 -0400</pubDate>
       <guid>http://linus.cbd.cs.cmu.edu/tags/twitter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>singularity</title>
-      <link>http://linus.cbd.cs.cmu.edu/tags/singularity/</link>
-      <pubDate>Sat, 21 Sep 2019 00:20:50 -0400</pubDate>
-      <guid>http://linus.cbd.cs.cmu.edu/tags/singularity/</guid>
       <description></description>
     </item>
     
