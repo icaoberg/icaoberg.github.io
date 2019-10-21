@@ -5,7 +5,7 @@
     <link>http://linus.cbd.cs.cmu.edu/tags/</link>
       <atom:link href="http://linus.cbd.cs.cmu.edu/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright (c) 2006-2019 icaoberg AT cbd cmu edu</copyright><lastBuildDate>Sun, 13 Oct 2019 01:19:33 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright (c) 2006-2019 icaoberg AT cbd cmu edu</copyright><lastBuildDate>Wed, 16 Oct 2019 10:10:00 -0400</lastBuildDate>
     <image>
       <url>http://linus.cbd.cs.cmu.edu/img/icon-192.png</url>
       <title>Tags</title>
@@ -13,26 +13,66 @@
     </image>
     
     <item>
-      <title>singularity</title>
-      <link>http://linus.cbd.cs.cmu.edu/tags/singularity/</link>
-      <pubDate>Sun, 13 Oct 2019 01:19:33 -0400</pubDate>
-      <guid>http://linus.cbd.cs.cmu.edu/tags/singularity/</guid>
+      <title>clp</title>
+      <link>http://linus.cbd.cs.cmu.edu/tags/clp/</link>
+      <pubDate>Wed, 16 Oct 2019 10:10:00 -0400</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/tags/clp/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>clp</title>
-      <link>http://linus.cbd.cs.cmu.edu/tags/clp/</link>
-      <pubDate>Sat, 12 Oct 2019 18:00:00 +0000</pubDate>
-      <guid>http://linus.cbd.cs.cmu.edu/tags/clp/</guid>
+      <title>spanish</title>
+      <link>http://linus.cbd.cs.cmu.edu/tags/spanish/</link>
+      <pubDate>Wed, 16 Oct 2019 10:10:00 -0400</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/tags/spanish/</guid>
       <description></description>
     </item>
     
     <item>
       <title>pittsburgh</title>
       <link>http://linus.cbd.cs.cmu.edu/tags/pittsburgh/</link>
-      <pubDate>Sat, 12 Oct 2019 18:00:00 +0000</pubDate>
+      <pubDate>Wed, 16 Oct 2019 10:00:00 +0000</pubDate>
       <guid>http://linus.cbd.cs.cmu.edu/tags/pittsburgh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>breakfast</title>
+      <link>http://linus.cbd.cs.cmu.edu/tags/breakfast/</link>
+      <pubDate>Tue, 15 Oct 2019 20:44:39 -0400</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/tags/breakfast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>doctor who</title>
+      <link>http://linus.cbd.cs.cmu.edu/tags/doctor-who/</link>
+      <pubDate>Tue, 15 Oct 2019 14:09:00 -0400</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/tags/doctor-who/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>education</title>
+      <link>http://linus.cbd.cs.cmu.edu/tags/education/</link>
+      <pubDate>Mon, 14 Oct 2019 15:57:35 -0400</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/tags/education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>golang</title>
+      <link>http://linus.cbd.cs.cmu.edu/tags/golang/</link>
+      <pubDate>Mon, 14 Oct 2019 15:57:35 -0400</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/tags/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>singularity</title>
+      <link>http://linus.cbd.cs.cmu.edu/tags/singularity/</link>
+      <pubDate>Sun, 13 Oct 2019 01:19:33 -0400</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/tags/singularity/</guid>
       <description></description>
     </item>
     
@@ -73,14 +113,6 @@
       <link>http://linus.cbd.cs.cmu.edu/tags/university-of-pittsburgh/</link>
       <pubDate>Thu, 10 Oct 2019 10:00:00 +0000</pubDate>
       <guid>http://linus.cbd.cs.cmu.edu/tags/university-of-pittsburgh/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>spanish</title>
-      <link>http://linus.cbd.cs.cmu.edu/tags/spanish/</link>
-      <pubDate>Wed, 09 Oct 2019 14:57:35 -0400</pubDate>
-      <guid>http://linus.cbd.cs.cmu.edu/tags/spanish/</guid>
       <description></description>
     </item>
     
