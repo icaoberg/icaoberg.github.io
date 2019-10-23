@@ -5,7 +5,7 @@
     <link>http://linus.cbd.cs.cmu.edu/tags/</link>
       <atom:link href="http://linus.cbd.cs.cmu.edu/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright (c) 2006-2019 icaoberg AT cbd cmu edu</copyright><lastBuildDate>Wed, 16 Oct 2019 10:10:00 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright (c) 2006-2019 icaoberg AT cbd cmu edu</copyright><lastBuildDate>Tue, 22 Oct 2019 21:00:00 +0000</lastBuildDate>
     <image>
       <url>http://linus.cbd.cs.cmu.edu/img/icon-192.png</url>
       <title>Tags</title>
@@ -13,18 +13,50 @@
     </image>
     
     <item>
-      <title>clp</title>
-      <link>http://linus.cbd.cs.cmu.edu/tags/clp/</link>
-      <pubDate>Wed, 16 Oct 2019 10:10:00 -0400</pubDate>
-      <guid>http://linus.cbd.cs.cmu.edu/tags/clp/</guid>
+      <title>spanish</title>
+      <link>http://linus.cbd.cs.cmu.edu/tags/spanish/</link>
+      <pubDate>Tue, 22 Oct 2019 21:00:00 +0000</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/tags/spanish/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>spanish</title>
-      <link>http://linus.cbd.cs.cmu.edu/tags/spanish/</link>
+      <title>tinycards</title>
+      <link>http://linus.cbd.cs.cmu.edu/tags/tinycards/</link>
+      <pubDate>Tue, 22 Oct 2019 21:00:00 +0000</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/tags/tinycards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>matlab</title>
+      <link>http://linus.cbd.cs.cmu.edu/tags/matlab/</link>
+      <pubDate>Tue, 22 Oct 2019 16:11:26 -0400</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/tags/matlab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>finland</title>
+      <link>http://linus.cbd.cs.cmu.edu/tags/finland/</link>
+      <pubDate>Mon, 21 Oct 2019 01:47:39 -0400</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/tags/finland/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>twitter</title>
+      <link>http://linus.cbd.cs.cmu.edu/tags/twitter/</link>
+      <pubDate>Mon, 21 Oct 2019 01:47:39 -0400</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/tags/twitter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>clp</title>
+      <link>http://linus.cbd.cs.cmu.edu/tags/clp/</link>
       <pubDate>Wed, 16 Oct 2019 10:10:00 -0400</pubDate>
-      <guid>http://linus.cbd.cs.cmu.edu/tags/spanish/</guid>
+      <guid>http://linus.cbd.cs.cmu.edu/tags/clp/</guid>
       <description></description>
     </item>
     
@@ -117,14 +149,6 @@
     </item>
     
     <item>
-      <title>tinycards</title>
-      <link>http://linus.cbd.cs.cmu.edu/tags/tinycards/</link>
-      <pubDate>Wed, 09 Oct 2019 14:57:35 -0400</pubDate>
-      <guid>http://linus.cbd.cs.cmu.edu/tags/tinycards/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>computing</title>
       <link>http://linus.cbd.cs.cmu.edu/tags/computing/</link>
       <pubDate>Tue, 01 Oct 2019 10:56:00 -0400</pubDate>
@@ -197,26 +221,10 @@
     </item>
     
     <item>
-      <title>matlab</title>
-      <link>http://linus.cbd.cs.cmu.edu/tags/matlab/</link>
-      <pubDate>Thu, 26 Sep 2019 02:10:48 -0400</pubDate>
-      <guid>http://linus.cbd.cs.cmu.edu/tags/matlab/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>cbd10</title>
       <link>http://linus.cbd.cs.cmu.edu/tags/cbd10/</link>
       <pubDate>Sat, 21 Sep 2019 11:19:17 -0400</pubDate>
       <guid>http://linus.cbd.cs.cmu.edu/tags/cbd10/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>twitter</title>
-      <link>http://linus.cbd.cs.cmu.edu/tags/twitter/</link>
-      <pubDate>Sat, 21 Sep 2019 11:19:17 -0400</pubDate>
-      <guid>http://linus.cbd.cs.cmu.edu/tags/twitter/</guid>
       <description></description>
     </item>
     

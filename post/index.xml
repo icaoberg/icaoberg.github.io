@@ -5,12 +5,129 @@
     <link>http://linus.cbd.cs.cmu.edu/post/</link>
       <atom:link href="http://linus.cbd.cs.cmu.edu/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright (c) 2006-2019 icaoberg AT cbd cmu edu</copyright><lastBuildDate>Thu, 17 Oct 2019 20:37:20 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright (c) 2006-2019 icaoberg AT cbd cmu edu</copyright><lastBuildDate>Tue, 22 Oct 2019 21:00:00 +0000</lastBuildDate>
     <image>
       <url>http://linus.cbd.cs.cmu.edu/img/icon-192.png</url>
       <title>Posts</title>
       <link>http://linus.cbd.cs.cmu.edu/post/</link>
     </image>
+    
+    <item>
+      <title>Yera ft. Morat - Mejores Amigos</title>
+      <link>http://linus.cbd.cs.cmu.edu/post/tinycards-mejores-amigos/</link>
+      <pubDate>Tue, 22 Oct 2019 21:00:00 +0000</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/post/tinycards-mejores-amigos/</guid>
+      <description>&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/fi30ZeWtSEo&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;This flashcards set was created for the attendees of the &lt;a href=&#34;https://www.meetup.com/Pittsburgh-Spanish/events/264262917/&#34; target=&#34;_blank&#34;&gt;Pittsburgh Spanish Meetup Group&lt;/a&gt; and the &lt;a href=&#34;https://www.carnegielibrary.org/?s=spanish+ii&amp;amp;search-location=Website&#34; target=&#34;_blank&#34;&gt;Spanish II&lt;/a&gt; experience at Carnegie Library of Pittsburgh.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://tinycards.duolingo.com/decks/P9xMcxgK/yera-ft-morat-mejores-amigos&#34; target=&#34;_blank&#34;&gt;TinyCards set&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Find Files</title>
+      <link>http://linus.cbd.cs.cmu.edu/post/matlab-find-files/</link>
+      <pubDate>Tue, 22 Oct 2019 16:11:26 -0400</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/post/matlab-find-files/</guid>
+      <description>&lt;p&gt;I have been using Matlab for so long that I need to update some of my code. Some of the features aren&amp;rsquo;t that new but are certainly more efficient. Loving this.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.mathworks.com/matlabcentral/answers/32038-can-you-use-dir-to-list-files-in-subfolders&#34; target=&#34;_blank&#34;&gt;Useful link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Daily Report</title>
+      <link>http://linus.cbd.cs.cmu.edu/post/daily-report-2019-10-22/</link>
+      <pubDate>Tue, 22 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/post/daily-report-2019-10-22/</guid>
+      <description>
+
+&lt;h3 id=&#34;this-is-automated-report&#34;&gt;THIS IS AUTOMATED REPORT&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code&gt;                               Daily Burndown ()
+2000 |
+     |
+     |
+     |
+     |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+     |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+     |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .     . Done
+     |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .     + Started
+1000 |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .     X Pending
+     |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+     |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+     |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+     |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+     |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+     |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  X  X  X  X  .
+     |  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X
+   0 +--------------------------------------------------------------
+       03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22
+       Oct
+
+      Net Fix Rate:         5.7/d
+      Estimated completion: 2019-12-10 (6w)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;P.S. A slow but efficient day at the office. I am still going thru my journey to finding the most efficient way to do my job. TimeWarrior and TaskWarrior are definitely a must since I use terminal so much.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sword</title>
+      <link>http://linus.cbd.cs.cmu.edu/post/doctorate-finland/</link>
+      <pubDate>Mon, 21 Oct 2019 01:47:39 -0400</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/post/doctorate-finland/</guid>
+      <description>&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Nothing pompous UNTIL they do their march of the doctors &lt;a href=&#34;https://t.co/2D5eaPQ76a&#34;&gt;pic.twitter.com/2D5eaPQ76a&lt;/a&gt;&lt;/p&gt;&amp;mdash; Dr Hannimal 🇪🇺🇬🇧🏳️‍🌈 (@hisotalus) &lt;a href=&#34;https://twitter.com/hisotalus/status/1185455359852343296?ref_src=twsrc%5Etfw&#34;&gt;October 19, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;P.S. I mean, who wouldn&amp;rsquo;t want a sword?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Weekly Report</title>
+      <link>http://linus.cbd.cs.cmu.edu/post/weekly-report-2019-10-21/</link>
+      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/post/weekly-report-2019-10-21/</guid>
+      <description>
+
+&lt;h3 id=&#34;this-is-automated-report&#34;&gt;THIS IS AUTOMATED REPORT&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code&gt;                               Weekly Burndown ()
+2000 |
+     |
+     |
+     |
+     |                                .  .  .  .  .  .  .  .  .  .
+     |                       .  .  .  .  .  .  .  .  .  .  .  .  .
+     |                    .  .  .  .  .  .  .  .  .  .  .  .  .  .     . Done
+     |        .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .     + Started
+1000 |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .     X Pending
+     |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+     |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+     |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+     |  .  .  .  .  .  .  X  X  X  X  .  .  .  .  .  .  .  .  .  .
+     |  X  X  X  X  X  X  X  X  X  X  .  .  .  .  .  .  .  .  .  .
+     |  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  .  .  X  X
+     |  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X
+   0 +--------------------------------------------------------------
+       24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43
+       2019
+
+      Net Fix Rate:         5.9/d
+      Estimated completion: 2019-12-07 (6w)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;P.S. Today is going to be a very productive day! 😄&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Apple Cider</title>

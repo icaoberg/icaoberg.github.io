@@ -3,37 +3,112 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://linus.cbd.cs.cmu.edu/authors/</loc>
+    <lastmod>2019-10-22T21:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://linus.cbd.cs.cmu.edu/categories/</loc>
+    <lastmod>2019-10-22T21:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://linus.cbd.cs.cmu.edu/authors/icaoberg/</loc>
+    <lastmod>2019-10-22T21:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://linus.cbd.cs.cmu.edu/</loc>
+    <lastmod>2019-10-22T21:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://linus.cbd.cs.cmu.edu/post/</loc>
+    <lastmod>2019-10-22T21:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://linus.cbd.cs.cmu.edu/tags/spanish/</loc>
+    <lastmod>2019-10-22T21:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://linus.cbd.cs.cmu.edu/categories/spanish-ii/</loc>
+    <lastmod>2019-10-22T21:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://linus.cbd.cs.cmu.edu/categories/spanish-meetup/</loc>
+    <lastmod>2019-10-22T21:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://linus.cbd.cs.cmu.edu/tags/</loc>
+    <lastmod>2019-10-22T21:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://linus.cbd.cs.cmu.edu/tags/tinycards/</loc>
+    <lastmod>2019-10-22T21:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://linus.cbd.cs.cmu.edu/post/tinycards-mejores-amigos/</loc>
+    <lastmod>2019-10-22T21:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://linus.cbd.cs.cmu.edu/post/matlab-find-files/</loc>
+    <lastmod>2019-10-22T16:11:26-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://linus.cbd.cs.cmu.edu/tags/matlab/</loc>
+    <lastmod>2019-10-22T16:11:26-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://linus.cbd.cs.cmu.edu/categories/programming/</loc>
+    <lastmod>2019-10-22T16:11:26-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://linus.cbd.cs.cmu.edu/post/daily-report-2019-10-22/</loc>
+    <lastmod>2019-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://linus.cbd.cs.cmu.edu/tags/finland/</loc>
+    <lastmod>2019-10-21T01:47:39-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://linus.cbd.cs.cmu.edu/categories/random/</loc>
+    <lastmod>2019-10-21T01:47:39-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://linus.cbd.cs.cmu.edu/post/doctorate-finland/</loc>
+    <lastmod>2019-10-21T01:47:39-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://linus.cbd.cs.cmu.edu/tags/twitter/</loc>
+    <lastmod>2019-10-21T01:47:39-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://linus.cbd.cs.cmu.edu/post/weekly-report-2019-10-21/</loc>
+    <lastmod>2019-10-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://linus.cbd.cs.cmu.edu/post/instant-pot-apple-cider/</loc>
     <lastmod>2019-10-17T20:37:20-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://linus.cbd.cs.cmu.edu/authors/</loc>
-    <lastmod>2019-10-17T20:37:20-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://linus.cbd.cs.cmu.edu/categories/</loc>
-    <lastmod>2019-10-17T20:37:20-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://linus.cbd.cs.cmu.edu/authors/icaoberg/</loc>
-    <lastmod>2019-10-17T20:37:20-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://linus.cbd.cs.cmu.edu/</loc>
-    <lastmod>2019-10-17T20:37:20-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://linus.cbd.cs.cmu.edu/categories/instant-pot/</loc>
-    <lastmod>2019-10-17T20:37:20-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://linus.cbd.cs.cmu.edu/post/</loc>
     <lastmod>2019-10-17T20:37:20-04:00</lastmod>
   </url>
   
@@ -44,21 +119,6 @@
   
   <url>
     <loc>http://linus.cbd.cs.cmu.edu/post/spanish2-fall2019-bonita/</loc>
-    <lastmod>2019-10-16T10:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://linus.cbd.cs.cmu.edu/tags/spanish/</loc>
-    <lastmod>2019-10-16T10:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://linus.cbd.cs.cmu.edu/categories/spanish-ii/</loc>
-    <lastmod>2019-10-16T10:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://linus.cbd.cs.cmu.edu/tags/</loc>
     <lastmod>2019-10-16T10:00:00-04:00</lastmod>
   </url>
   
@@ -113,11 +173,6 @@
   </url>
   
   <url>
-    <loc>http://linus.cbd.cs.cmu.edu/categories/programming/</loc>
-    <lastmod>2019-10-14T15:57:35-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://linus.cbd.cs.cmu.edu/post/programming-for-lovers/</loc>
     <lastmod>2019-10-14T15:57:35-04:00</lastmod>
   </url>
@@ -134,11 +189,6 @@
   
   <url>
     <loc>http://linus.cbd.cs.cmu.edu/post/spanish-meetup-pregnant/</loc>
-    <lastmod>2019-10-12T18:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://linus.cbd.cs.cmu.edu/categories/spanish-meetup/</loc>
     <lastmod>2019-10-12T18:00:00+00:00</lastmod>
   </url>
   
@@ -184,11 +234,6 @@
   
   <url>
     <loc>http://linus.cbd.cs.cmu.edu/post/tinycards-pideme-la-luna/</loc>
-    <lastmod>2019-10-09T14:57:35-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://linus.cbd.cs.cmu.edu/tags/tinycards/</loc>
     <lastmod>2019-10-09T14:57:35-04:00</lastmod>
   </url>
   
@@ -278,11 +323,6 @@
   </url>
   
   <url>
-    <loc>http://linus.cbd.cs.cmu.edu/categories/random/</loc>
-    <lastmod>2019-09-28T18:36:03-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://linus.cbd.cs.cmu.edu/tags/lamp/</loc>
     <lastmod>2019-09-27T13:48:54-04:00</lastmod>
   </url>
@@ -304,11 +344,6 @@
   
   <url>
     <loc>http://linus.cbd.cs.cmu.edu/tags/cody/</loc>
-    <lastmod>2019-09-26T02:10:48-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://linus.cbd.cs.cmu.edu/tags/matlab/</loc>
     <lastmod>2019-09-26T02:10:48-04:00</lastmod>
   </url>
   
@@ -344,11 +379,6 @@
   
   <url>
     <loc>http://linus.cbd.cs.cmu.edu/categories/computational-biology/</loc>
-    <lastmod>2019-09-21T11:19:17-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://linus.cbd.cs.cmu.edu/tags/twitter/</loc>
     <lastmod>2019-09-21T11:19:17-04:00</lastmod>
   </url>
   

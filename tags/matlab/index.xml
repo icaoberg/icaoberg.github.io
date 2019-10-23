@@ -5,12 +5,25 @@
     <link>http://linus.cbd.cs.cmu.edu/tags/matlab/</link>
       <atom:link href="http://linus.cbd.cs.cmu.edu/tags/matlab/index.xml" rel="self" type="application/rss+xml" />
     <description>matlab</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright (c) 2006-2019 icaoberg AT cbd cmu edu</copyright><lastBuildDate>Thu, 26 Sep 2019 02:10:48 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright (c) 2006-2019 icaoberg AT cbd cmu edu</copyright><lastBuildDate>Tue, 22 Oct 2019 16:11:26 -0400</lastBuildDate>
     <image>
       <url>http://linus.cbd.cs.cmu.edu/img/icon-192.png</url>
       <title>matlab</title>
       <link>http://linus.cbd.cs.cmu.edu/tags/matlab/</link>
     </image>
+    
+    <item>
+      <title>Find Files</title>
+      <link>http://linus.cbd.cs.cmu.edu/post/matlab-find-files/</link>
+      <pubDate>Tue, 22 Oct 2019 16:11:26 -0400</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/post/matlab-find-files/</guid>
+      <description>&lt;p&gt;I have been using Matlab for so long that I need to update some of my code. Some of the features aren&amp;rsquo;t that new but are certainly more efficient. Loving this.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.mathworks.com/matlabcentral/answers/32038-can-you-use-dir-to-list-files-in-subfolders&#34; target=&#34;_blank&#34;&gt;Useful link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Cody</title>
