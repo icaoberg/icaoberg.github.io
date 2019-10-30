@@ -5,12 +5,165 @@
     <link>http://linus.cbd.cs.cmu.edu/authors/icaoberg/</link>
       <atom:link href="http://linus.cbd.cs.cmu.edu/authors/icaoberg/index.xml" rel="self" type="application/rss+xml" />
     <description>icaoberg</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright (c) 2006-2019 icaoberg AT cbd cmu edu</copyright><lastBuildDate>Tue, 22 Oct 2019 21:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright (c) 2006-2019 icaoberg AT cbd cmu edu</copyright><lastBuildDate>Wed, 30 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://linus.cbd.cs.cmu.edu/img/icon-192.png</url>
       <title>icaoberg</title>
       <link>http://linus.cbd.cs.cmu.edu/authors/icaoberg/</link>
     </image>
+    
+    <item>
+      <title>Daily Report</title>
+      <link>http://linus.cbd.cs.cmu.edu/post/daily-report-2019-10-30/</link>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/post/daily-report-2019-10-30/</guid>
+      <description>
+
+&lt;h3 id=&#34;this-is-automated-report&#34;&gt;THIS IS AUTOMATED REPORT&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code&gt;                               Daily Burndown ()
+2000 |
+     |
+     |
+     |                                         .  .  .  .  .  .  .
+     |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+     |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+     |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .     . Done
+     |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .     + Started
+1000 |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .     X Pending
+     |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+     |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+     |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+     |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+     |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+     |  .  .  .  .  .  .  .  X  X  X  X  .  .  X  X  X  X  X  X  X
+     |  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X
+   0 +--------------------------------------------------------------
+       11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30
+       Oct
+
+      Net Fix Rate:         5.3/d
+      Estimated completion: 2019-12-19 (7w)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Today has been a productive day. Removed many tasks from TODO and have been working on crushing a bug in CellOrganizer. Productive and efficient days are the best.&lt;/p&gt;
+
+&lt;p&gt;I also had the opportunity to drink some mate with the new gourd I got on Amazon.&lt;/p&gt;
+
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;es&#34; dir=&#34;ltr&#34;&gt;Tomando mate y programando &lt;a href=&#34;https://t.co/s6WFGS58Um&#34;&gt;pic.twitter.com/s6WFGS58Um&lt;/a&gt;&lt;/p&gt;&amp;mdash; justahappygeek (@justahappygeek) &lt;a href=&#34;https://twitter.com/justahappygeek/status/1189667453535707141?ref_src=twsrc%5Etfw&#34;&gt;October 30, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Without Reward</title>
+      <link>http://linus.cbd.cs.cmu.edu/post/doctor-who-without-reward/</link>
+      <pubDate>Sun, 27 Oct 2019 23:20:52 -0400</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/post/doctor-who-without-reward/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/ysn7sMWjQ4g&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;P.S. I am going to name a town after you&amp;hellip; a really rubbish one&amp;hellip; (and probably a pig)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Weekly Report</title>
+      <link>http://linus.cbd.cs.cmu.edu/post/weekly-report-2019-10-27/</link>
+      <pubDate>Sun, 27 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/post/weekly-report-2019-10-27/</guid>
+      <description>
+
+&lt;h3 id=&#34;this-is-automated-report&#34;&gt;THIS IS AUTOMATED REPORT&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code&gt;                               Weekly Burndown ()
+2000 |
+     |
+     |
+     |                                                        .  .
+     |                             .  .  .  .  .  .  .  .  .  .  .
+     |                    .  .  .  .  .  .  .  .  .  .  .  .  .  .
+     |                 .  .  .  .  .  .  .  .  .  .  .  .  .  .  .     . Done
+     |     .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .     + Started
+1000 |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .     X Pending
+     |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+     |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+     |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+     |  .  .  .  .  .  X  X  X  X  .  .  .  .  .  .  .  .  .  .  .
+     |  X  X  X  X  X  X  X  X  X  .  .  .  .  .  .  .  .  .  .  .
+     |  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  .  .  X  X  X
+     |  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X
+   0 +--------------------------------------------------------------
+       25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44
+       2019
+
+      Net Fix Rate:         5.6/d
+      Estimated completion: 2019-12-12 (6w)
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Blank Space</title>
+      <link>http://linus.cbd.cs.cmu.edu/post/doctor-who-blank-space/</link>
+      <pubDate>Fri, 25 Oct 2019 14:09:00 -0400</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/post/doctor-who-blank-space/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/nF1QI_strwg&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;P.S. Times change, and so must I&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Regeneration</title>
+      <link>http://linus.cbd.cs.cmu.edu/post/doctor-who-regeneration/</link>
+      <pubDate>Thu, 24 Oct 2019 23:14:15 -0400</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/post/doctor-who-regeneration/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/4F84WapAH7M&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;P.S. I am not crying&amp;hellip; you crying&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tommy Torres - Querido Tommy</title>
+      <link>http://linus.cbd.cs.cmu.edu/post/tinycards-querido-tommy/</link>
+      <pubDate>Thu, 24 Oct 2019 21:00:00 +0000</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/post/tinycards-querido-tommy/</guid>
+      <description>&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/CktQxuDkYGg&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;This flashcards set was created for the attendees of the &lt;a href=&#34;https://www.meetup.com/Pittsburgh-Spanish/events/264262917/&#34; target=&#34;_blank&#34;&gt;Pittsburgh Spanish Meetup Group&lt;/a&gt; and the &lt;a href=&#34;https://www.carnegielibrary.org/?s=spanish+ii&amp;amp;search-location=Website&#34; target=&#34;_blank&#34;&gt;Spanish II&lt;/a&gt; experience at Carnegie Library of Pittsburgh.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://tiny.cards/decks/PJ1RXDEj/tommy-torres-querido-tommy&#34; target=&#34;_blank&#34;&gt;TinyCards set&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lab Meeting</title>
+      <link>http://linus.cbd.cs.cmu.edu/post/lab-meeting/</link>
+      <pubDate>Thu, 24 Oct 2019 09:31:29 -0400</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/post/lab-meeting/</guid>
+      <description>&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Presenting research progress at lab meeting: expectation vs. reality &lt;a href=&#34;https://t.co/t700Fvjm1V&#34;&gt;pic.twitter.com/t700Fvjm1V&lt;/a&gt;&lt;/p&gt;&amp;mdash; Liz Karan (@lizakaran) &lt;a href=&#34;https://twitter.com/lizakaran/status/1187070666379411457?ref_src=twsrc%5Etfw&#34;&gt;October 23, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;P.S. Testify!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Yera ft. Morat - Mejores Amigos</title>

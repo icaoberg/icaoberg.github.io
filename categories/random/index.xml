@@ -5,12 +5,25 @@
     <link>http://linus.cbd.cs.cmu.edu/categories/random/</link>
       <atom:link href="http://linus.cbd.cs.cmu.edu/categories/random/index.xml" rel="self" type="application/rss+xml" />
     <description>random</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright (c) 2006-2019 icaoberg AT cbd cmu edu</copyright><lastBuildDate>Mon, 21 Oct 2019 01:47:39 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright (c) 2006-2019 icaoberg AT cbd cmu edu</copyright><lastBuildDate>Thu, 24 Oct 2019 09:31:29 -0400</lastBuildDate>
     <image>
       <url>http://linus.cbd.cs.cmu.edu/img/icon-192.png</url>
       <title>random</title>
       <link>http://linus.cbd.cs.cmu.edu/categories/random/</link>
     </image>
+    
+    <item>
+      <title>Lab Meeting</title>
+      <link>http://linus.cbd.cs.cmu.edu/post/lab-meeting/</link>
+      <pubDate>Thu, 24 Oct 2019 09:31:29 -0400</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/post/lab-meeting/</guid>
+      <description>&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Presenting research progress at lab meeting: expectation vs. reality &lt;a href=&#34;https://t.co/t700Fvjm1V&#34;&gt;pic.twitter.com/t700Fvjm1V&lt;/a&gt;&lt;/p&gt;&amp;mdash; Liz Karan (@lizakaran) &lt;a href=&#34;https://twitter.com/lizakaran/status/1187070666379411457?ref_src=twsrc%5Etfw&#34;&gt;October 23, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;P.S. Testify!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Sword</title>

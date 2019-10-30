@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>doctor who | icaoberg AT cbd cmu edu</title>
+    <link>http://linus.cbd.cs.cmu.edu/categories/doctor-who/</link>
+      <atom:link href="http://linus.cbd.cs.cmu.edu/categories/doctor-who/index.xml" rel="self" type="application/rss+xml" />
+    <description>doctor who</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright (c) 2006-2019 icaoberg AT cbd cmu edu</copyright><lastBuildDate>Thu, 24 Oct 2019 23:14:15 -0400</lastBuildDate>
+    <image>
+      <url>http://linus.cbd.cs.cmu.edu/img/icon-192.png</url>
+      <title>doctor who</title>
+      <link>http://linus.cbd.cs.cmu.edu/categories/doctor-who/</link>
+    </image>
+    
+    <item>
+      <title>Regeneration</title>
+      <link>http://linus.cbd.cs.cmu.edu/post/doctor-who-regeneration/</link>
+      <pubDate>Thu, 24 Oct 2019 23:14:15 -0400</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/post/doctor-who-regeneration/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/4F84WapAH7M&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>
