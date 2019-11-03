@@ -5,7 +5,7 @@
     <link>http://linus.cbd.cs.cmu.edu/categories/</link>
       <atom:link href="http://linus.cbd.cs.cmu.edu/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright (c) 2006-2019 icaoberg AT cbd cmu edu</copyright><lastBuildDate>Sun, 27 Oct 2019 23:20:52 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright (c) 2006-2019 icaoberg AT cbd cmu edu</copyright><lastBuildDate>Fri, 01 Nov 2019 21:00:00 +0000</lastBuildDate>
     <image>
       <url>http://linus.cbd.cs.cmu.edu/img/icon-192.png</url>
       <title>Categories</title>
@@ -13,17 +13,9 @@
     </image>
     
     <item>
-      <title>TV Shows</title>
-      <link>http://linus.cbd.cs.cmu.edu/categories/tv-shows/</link>
-      <pubDate>Sun, 27 Oct 2019 23:20:52 -0400</pubDate>
-      <guid>http://linus.cbd.cs.cmu.edu/categories/tv-shows/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Spanish II</title>
       <link>http://linus.cbd.cs.cmu.edu/categories/spanish-ii/</link>
-      <pubDate>Thu, 24 Oct 2019 21:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Nov 2019 21:00:00 +0000</pubDate>
       <guid>http://linus.cbd.cs.cmu.edu/categories/spanish-ii/</guid>
       <description></description>
     </item>
@@ -31,8 +23,16 @@
     <item>
       <title>Spanish Meetup</title>
       <link>http://linus.cbd.cs.cmu.edu/categories/spanish-meetup/</link>
-      <pubDate>Thu, 24 Oct 2019 21:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Nov 2019 21:00:00 +0000</pubDate>
       <guid>http://linus.cbd.cs.cmu.edu/categories/spanish-meetup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TV Shows</title>
+      <link>http://linus.cbd.cs.cmu.edu/categories/tv-shows/</link>
+      <pubDate>Sun, 27 Oct 2019 23:20:52 -0400</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/categories/tv-shows/</guid>
       <description></description>
     </item>
     

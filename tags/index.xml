@@ -5,7 +5,7 @@
     <link>http://linus.cbd.cs.cmu.edu/tags/</link>
       <atom:link href="http://linus.cbd.cs.cmu.edu/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright (c) 2006-2019 icaoberg AT cbd cmu edu</copyright><lastBuildDate>Sun, 27 Oct 2019 23:20:52 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright (c) 2006-2019 icaoberg AT cbd cmu edu</copyright><lastBuildDate>Fri, 01 Nov 2019 21:00:00 +0000</lastBuildDate>
     <image>
       <url>http://linus.cbd.cs.cmu.edu/img/icon-192.png</url>
       <title>Tags</title>
@@ -13,17 +13,9 @@
     </image>
     
     <item>
-      <title>doctor who</title>
-      <link>http://linus.cbd.cs.cmu.edu/tags/doctor-who/</link>
-      <pubDate>Sun, 27 Oct 2019 23:20:52 -0400</pubDate>
-      <guid>http://linus.cbd.cs.cmu.edu/tags/doctor-who/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>spanish</title>
       <link>http://linus.cbd.cs.cmu.edu/tags/spanish/</link>
-      <pubDate>Thu, 24 Oct 2019 21:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Nov 2019 21:00:00 +0000</pubDate>
       <guid>http://linus.cbd.cs.cmu.edu/tags/spanish/</guid>
       <description></description>
     </item>
@@ -31,8 +23,16 @@
     <item>
       <title>tinycards</title>
       <link>http://linus.cbd.cs.cmu.edu/tags/tinycards/</link>
-      <pubDate>Thu, 24 Oct 2019 21:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Nov 2019 21:00:00 +0000</pubDate>
       <guid>http://linus.cbd.cs.cmu.edu/tags/tinycards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>doctor who</title>
+      <link>http://linus.cbd.cs.cmu.edu/tags/doctor-who/</link>
+      <pubDate>Sun, 27 Oct 2019 23:20:52 -0400</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/tags/doctor-who/</guid>
       <description></description>
     </item>
     
