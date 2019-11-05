@@ -3,37 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://linus.cbd.cs.cmu.edu/authors/</loc>
-    <lastmod>2019-11-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://linus.cbd.cs.cmu.edu/authors/icaoberg/</loc>
-    <lastmod>2019-11-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://linus.cbd.cs.cmu.edu/</loc>
-    <lastmod>2019-11-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://linus.cbd.cs.cmu.edu/post/</loc>
-    <lastmod>2019-11-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://linus.cbd.cs.cmu.edu/post/weekly-report-2019-11-03/</loc>
-    <lastmod>2019-11-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://linus.cbd.cs.cmu.edu/post/tinycards-amiga-mia/</loc>
     <lastmod>2019-11-01T21:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>http://linus.cbd.cs.cmu.edu/authors/</loc>
+    <lastmod>2019-11-01T21:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://linus.cbd.cs.cmu.edu/categories/</loc>
+    <lastmod>2019-11-01T21:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://linus.cbd.cs.cmu.edu/authors/icaoberg/</loc>
+    <lastmod>2019-11-01T21:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://linus.cbd.cs.cmu.edu/</loc>
+    <lastmod>2019-11-01T21:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://linus.cbd.cs.cmu.edu/post/</loc>
     <lastmod>2019-11-01T21:00:00+00:00</lastmod>
   </url>
   
@@ -373,12 +368,12 @@
   </url>
   
   <url>
-    <loc>http://linus.cbd.cs.cmu.edu/categories/fermentation/</loc>
+    <loc>http://linus.cbd.cs.cmu.edu/tags/fermentation/</loc>
     <lastmod>2019-09-29T01:50:57-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://linus.cbd.cs.cmu.edu/tags/fermentation/</loc>
+    <loc>http://linus.cbd.cs.cmu.edu/categories/fermentation/</loc>
     <lastmod>2019-09-29T01:50:57-04:00</lastmod>
   </url>
   

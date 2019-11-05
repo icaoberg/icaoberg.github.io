@@ -5,48 +5,12 @@
     <link>http://linus.cbd.cs.cmu.edu/authors/icaoberg/</link>
       <atom:link href="http://linus.cbd.cs.cmu.edu/authors/icaoberg/index.xml" rel="self" type="application/rss+xml" />
     <description>icaoberg</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright (c) 2006-2019 icaoberg AT cbd cmu edu</copyright><lastBuildDate>Sun, 03 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright (c) 2006-2019 icaoberg AT cbd cmu edu</copyright><lastBuildDate>Fri, 01 Nov 2019 21:00:00 +0000</lastBuildDate>
     <image>
       <url>http://linus.cbd.cs.cmu.edu/img/icon-192.png</url>
       <title>icaoberg</title>
       <link>http://linus.cbd.cs.cmu.edu/authors/icaoberg/</link>
     </image>
-    
-    <item>
-      <title>Weekly Report</title>
-      <link>http://linus.cbd.cs.cmu.edu/post/weekly-report-2019-11-03/</link>
-      <pubDate>Sun, 03 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>http://linus.cbd.cs.cmu.edu/post/weekly-report-2019-11-03/</guid>
-      <description>
-
-&lt;h3 id=&#34;this-is-automated-report&#34;&gt;THIS IS AUTOMATED REPORT&lt;/h3&gt;
-
-&lt;pre&gt;&lt;code&gt;                               Weekly Burndown ()
-2000 |
-     |
-     |
-     |                                                     .  .  .
-     |                          .  .  .  .  .  .  .  .  .  .  .  .
-     |                 .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
-     |              .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .     . Done
-     |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .     + Started
-1000 |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .     X Pending
-     |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
-     |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
-     |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
-     |  .  .  .  .  X  X  X  X  .  .  .  .  .  .  .  .  .  .  .  .
-     |  X  X  X  X  X  X  X  X  .  .  .  .  .  .  .  .  .  .  .  .
-     |  X  X  X  X  X  X  X  X  X  X  X  X  X  X  .  .  X  X  X  X
-     |  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X
-   0 +--------------------------------------------------------------
-       26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45
-       2019
-
-      Net Fix Rate:         4.9/d
-      Estimated completion: 2019-12-29 (8w)
-&lt;/code&gt;&lt;/pre&gt;
-</description>
-    </item>
     
     <item>
       <title>Alejandro Sanz - Amiga Mía</title>
