@@ -4,31 +4,56 @@
   
   <url>
     <loc>http://linus.cbd.cs.cmu.edu/authors/</loc>
-    <lastmod>2019-11-01T22:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://linus.cbd.cs.cmu.edu/tags/books/</loc>
-    <lastmod>2019-11-01T22:00:00-04:00</lastmod>
+    <lastmod>2019-11-06T10:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://linus.cbd.cs.cmu.edu/categories/</loc>
-    <lastmod>2019-11-01T22:00:00-04:00</lastmod>
+    <lastmod>2019-11-06T10:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://linus.cbd.cs.cmu.edu/tags/clp/</loc>
-    <lastmod>2019-11-01T22:00:00-04:00</lastmod>
+    <lastmod>2019-11-06T10:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://linus.cbd.cs.cmu.edu/authors/icaoberg/</loc>
-    <lastmod>2019-11-01T22:00:00-04:00</lastmod>
+    <lastmod>2019-11-06T10:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://linus.cbd.cs.cmu.edu/</loc>
+    <lastmod>2019-11-06T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://linus.cbd.cs.cmu.edu/tags/pittsburgh/</loc>
+    <lastmod>2019-11-06T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://linus.cbd.cs.cmu.edu/post/</loc>
+    <lastmod>2019-11-06T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://linus.cbd.cs.cmu.edu/categories/spanish-ii/</loc>
+    <lastmod>2019-11-06T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://linus.cbd.cs.cmu.edu/post/spanish2-2019-11-06/</loc>
+    <lastmod>2019-11-06T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://linus.cbd.cs.cmu.edu/tags/</loc>
+    <lastmod>2019-11-06T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://linus.cbd.cs.cmu.edu/tags/books/</loc>
     <lastmod>2019-11-01T22:00:00-04:00</lastmod>
   </url>
   
@@ -38,22 +63,7 @@
   </url>
   
   <url>
-    <loc>http://linus.cbd.cs.cmu.edu/post/</loc>
-    <lastmod>2019-11-01T22:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://linus.cbd.cs.cmu.edu/tags/spanish/</loc>
-    <lastmod>2019-11-01T22:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://linus.cbd.cs.cmu.edu/categories/spanish-ii/</loc>
-    <lastmod>2019-11-01T22:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://linus.cbd.cs.cmu.edu/tags/</loc>
     <lastmod>2019-11-01T22:00:00-04:00</lastmod>
   </url>
   
@@ -228,11 +238,6 @@
   </url>
   
   <url>
-    <loc>http://linus.cbd.cs.cmu.edu/tags/pittsburgh/</loc>
-    <lastmod>2019-10-16T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://linus.cbd.cs.cmu.edu/post/spanish2-2019-10-16/</loc>
     <lastmod>2019-10-16T10:00:00+00:00</lastmod>
   </url>
@@ -305,6 +310,11 @@
   <url>
     <loc>http://linus.cbd.cs.cmu.edu/post/que-viva-clemente/</loc>
     <lastmod>2019-10-12T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://linus.cbd.cs.cmu.edu/post/spanish2-book-2019-10-11/</loc>
+    <lastmod>2019-10-11T22:00:00-04:00</lastmod>
   </url>
   
   <url>
@@ -388,12 +398,12 @@
   </url>
   
   <url>
-    <loc>http://linus.cbd.cs.cmu.edu/categories/fermentation/</loc>
+    <loc>http://linus.cbd.cs.cmu.edu/tags/fermentation/</loc>
     <lastmod>2019-09-29T01:50:57-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://linus.cbd.cs.cmu.edu/tags/fermentation/</loc>
+    <loc>http://linus.cbd.cs.cmu.edu/categories/fermentation/</loc>
     <lastmod>2019-09-29T01:50:57-04:00</lastmod>
   </url>
   
