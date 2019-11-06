@@ -5,7 +5,7 @@
     <link>http://linus.cbd.cs.cmu.edu/tags/</link>
       <atom:link href="http://linus.cbd.cs.cmu.edu/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright (c) 2006-2019 icaoberg AT cbd cmu edu</copyright><lastBuildDate>Fri, 01 Nov 2019 21:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright (c) 2006-2019 icaoberg AT cbd cmu edu</copyright><lastBuildDate>Fri, 01 Nov 2019 22:00:00 -0400</lastBuildDate>
     <image>
       <url>http://linus.cbd.cs.cmu.edu/img/icon-192.png</url>
       <title>Tags</title>
@@ -13,9 +13,25 @@
     </image>
     
     <item>
+      <title>books</title>
+      <link>http://linus.cbd.cs.cmu.edu/tags/books/</link>
+      <pubDate>Fri, 01 Nov 2019 22:00:00 -0400</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/tags/books/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>clp</title>
+      <link>http://linus.cbd.cs.cmu.edu/tags/clp/</link>
+      <pubDate>Fri, 01 Nov 2019 22:00:00 -0400</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/tags/clp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>spanish</title>
       <link>http://linus.cbd.cs.cmu.edu/tags/spanish/</link>
-      <pubDate>Fri, 01 Nov 2019 21:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Nov 2019 22:00:00 -0400</pubDate>
       <guid>http://linus.cbd.cs.cmu.edu/tags/spanish/</guid>
       <description></description>
     </item>
@@ -65,14 +81,6 @@
       <link>http://linus.cbd.cs.cmu.edu/tags/twitter/</link>
       <pubDate>Mon, 21 Oct 2019 01:47:39 -0400</pubDate>
       <guid>http://linus.cbd.cs.cmu.edu/tags/twitter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>clp</title>
-      <link>http://linus.cbd.cs.cmu.edu/tags/clp/</link>
-      <pubDate>Wed, 16 Oct 2019 10:10:00 -0400</pubDate>
-      <guid>http://linus.cbd.cs.cmu.edu/tags/clp/</guid>
       <description></description>
     </item>
     
