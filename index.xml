@@ -5,7 +5,7 @@
     <link>http://linus.cbd.cs.cmu.edu/</link>
       <atom:link href="http://linus.cbd.cs.cmu.edu/index.xml" rel="self" type="application/rss+xml" />
     <description>icaoberg AT andrew cmu edu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2006-2019 icaoberg AT andrew cmu edu</copyright><lastBuildDate>Wed, 06 Nov 2019 22:00:00 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2006-2019 icaoberg AT andrew cmu edu</copyright><lastBuildDate>Wed, 06 Nov 2019 21:00:00 -0400</lastBuildDate>
     <image>
       <url>http://linus.cbd.cs.cmu.edu/img/icon-192.png</url>
       <title>icaoberg AT andrew cmu edu</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Posts</title>
       <link>http://linus.cbd.cs.cmu.edu/post/</link>
-      <pubDate>Wed, 06 Nov 2019 22:00:00 -0400</pubDate>
+      <pubDate>Wed, 06 Nov 2019 21:00:00 -0400</pubDate>
       <guid>http://linus.cbd.cs.cmu.edu/post/</guid>
       <description></description>
     </item>
