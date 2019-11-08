@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>family | icaoberg AT andrew cmu edu</title>
-    <link>http://linus.cbd.cs.cmu.edu/tags/family/</link>
-      <atom:link href="http://linus.cbd.cs.cmu.edu/tags/family/index.xml" rel="self" type="application/rss+xml" />
+    <title>family | icaoberg github io</title>
+    <link>http://icaoberg.github.io/tags/family/</link>
+      <atom:link href="http://icaoberg.github.io/tags/family/index.xml" rel="self" type="application/rss+xml" />
     <description>family</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright (c) 2006-2019 icaoberg AT andrew cmu edu</copyright><lastBuildDate>Wed, 06 Jan 2016 10:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright (c) 2006-2019 icaoberg github io</copyright><lastBuildDate>Wed, 06 Jan 2016 10:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://linus.cbd.cs.cmu.edu/img/icon-192.png</url>
+      <url>http://icaoberg.github.io/img/icon-192.png</url>
       <title>family</title>
-      <link>http://linus.cbd.cs.cmu.edu/tags/family/</link>
+      <link>http://icaoberg.github.io/tags/family/</link>
     </image>
     
     <item>
       <title>123 Andres</title>
-      <link>http://linus.cbd.cs.cmu.edu/post/123-andres/</link>
+      <link>http://icaoberg.github.io/post/123-andres/</link>
       <pubDate>Wed, 06 Jan 2016 10:00:00 +0000</pubDate>
-      <guid>http://linus.cbd.cs.cmu.edu/post/123-andres/</guid>
+      <guid>http://icaoberg.github.io/post/123-andres/</guid>
       <description>
 
 
@@ -33,8 +33,8 @@
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;http://linus.cbd.cs.cmu.edu/images/2016/123_andres.jpg&#34; data-caption=&#34;123 Andres&#34;&gt;
-&lt;img src=&#34;http://linus.cbd.cs.cmu.edu/images/2016/123_andres.jpg&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;http://icaoberg.github.io/images/2016/123_andres.jpg&#34; data-caption=&#34;123 Andres&#34;&gt;
+&lt;img src=&#34;http://icaoberg.github.io/images/2016/123_andres.jpg&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   

@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>youtube | icaoberg AT andrew cmu edu</title>
-    <link>http://linus.cbd.cs.cmu.edu/categories/youtube/</link>
-      <atom:link href="http://linus.cbd.cs.cmu.edu/categories/youtube/index.xml" rel="self" type="application/rss+xml" />
+    <title>youtube | icaoberg github io</title>
+    <link>http://icaoberg.github.io/categories/youtube/</link>
+      <atom:link href="http://icaoberg.github.io/categories/youtube/index.xml" rel="self" type="application/rss+xml" />
     <description>youtube</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright (c) 2006-2019 icaoberg AT andrew cmu edu</copyright><lastBuildDate>Tue, 15 Oct 2019 20:44:39 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright (c) 2006-2019 icaoberg github io</copyright><lastBuildDate>Tue, 15 Oct 2019 20:44:39 -0400</lastBuildDate>
     <image>
-      <url>http://linus.cbd.cs.cmu.edu/img/icon-192.png</url>
+      <url>http://icaoberg.github.io/img/icon-192.png</url>
       <title>youtube</title>
-      <link>http://linus.cbd.cs.cmu.edu/categories/youtube/</link>
+      <link>http://icaoberg.github.io/categories/youtube/</link>
     </image>
     
     <item>
       <title>Savory Oatmeal</title>
-      <link>http://linus.cbd.cs.cmu.edu/post/savory-oatmeal/</link>
+      <link>http://icaoberg.github.io/post/savory-oatmeal/</link>
       <pubDate>Tue, 15 Oct 2019 20:44:39 -0400</pubDate>
-      <guid>http://linus.cbd.cs.cmu.edu/post/savory-oatmeal/</guid>
+      <guid>http://icaoberg.github.io/post/savory-oatmeal/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/5kIWyVq4cnU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;

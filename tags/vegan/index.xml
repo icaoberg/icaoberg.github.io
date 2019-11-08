@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>vegan | icaoberg AT andrew cmu edu</title>
-    <link>http://linus.cbd.cs.cmu.edu/tags/vegan/</link>
-      <atom:link href="http://linus.cbd.cs.cmu.edu/tags/vegan/index.xml" rel="self" type="application/rss+xml" />
+    <title>vegan | icaoberg github io</title>
+    <link>http://icaoberg.github.io/tags/vegan/</link>
+      <atom:link href="http://icaoberg.github.io/tags/vegan/index.xml" rel="self" type="application/rss+xml" />
     <description>vegan</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright (c) 2006-2019 icaoberg AT andrew cmu edu</copyright><lastBuildDate>Sun, 29 Sep 2019 01:50:57 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright (c) 2006-2019 icaoberg github io</copyright><lastBuildDate>Sun, 29 Sep 2019 01:50:57 -0400</lastBuildDate>
     <image>
-      <url>http://linus.cbd.cs.cmu.edu/img/icon-192.png</url>
+      <url>http://icaoberg.github.io/img/icon-192.png</url>
       <title>vegan</title>
-      <link>http://linus.cbd.cs.cmu.edu/tags/vegan/</link>
+      <link>http://icaoberg.github.io/tags/vegan/</link>
     </image>
     
     <item>
       <title>Adventures in Failure</title>
-      <link>http://linus.cbd.cs.cmu.edu/post/carrot-failure/</link>
+      <link>http://icaoberg.github.io/post/carrot-failure/</link>
       <pubDate>Sun, 29 Sep 2019 01:50:57 -0400</pubDate>
-      <guid>http://linus.cbd.cs.cmu.edu/post/carrot-failure/</guid>
+      <guid>http://icaoberg.github.io/post/carrot-failure/</guid>
       <description>&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Kind of upset at my failed experiment fermenting carrots &lt;a href=&#34;https://twitter.com/hashtag/failure?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#failure&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/fermentation?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#fermentation&lt;/a&gt; &lt;a href=&#34;https://t.co/BZb3tZtS7B&#34;&gt;pic.twitter.com/BZb3tZtS7B&lt;/a&gt;&lt;/p&gt;&amp;mdash; justahappygeek (@justahappygeek) &lt;a href=&#34;https://twitter.com/justahappygeek/status/1178179182674747392?ref_src=twsrc%5Etfw&#34;&gt;September 29, 2019&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 
@@ -45,10 +45,10 @@
     
     <item>
       <title>Vegfest 2017</title>
-      <link>http://linus.cbd.cs.cmu.edu/post/vegfest2017/</link>
+      <link>http://icaoberg.github.io/post/vegfest2017/</link>
       <pubDate>Wed, 05 Jul 2017 02:13:18 -0400</pubDate>
-      <guid>http://linus.cbd.cs.cmu.edu/post/vegfest2017/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.thenorthsidechronicle.com/vegfest-2017&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;http://linus.cbd.cs.cmu.edu/images/2017/vegfest2017.jpg&#34; alt=&#34;VegFest&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+      <guid>http://icaoberg.github.io/post/vegfest2017/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.thenorthsidechronicle.com/vegfest-2017&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;http://icaoberg.github.io/images/2017/vegfest2017.jpg&#34; alt=&#34;VegFest&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Click the image above to read the article.&lt;/p&gt;
 </description>
