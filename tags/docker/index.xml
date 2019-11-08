@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>docker | icaoberg AT cbd cmu edu</title>
-    <link>http://linus.cbd.cs.cmu.edu/tags/docker/</link>
-      <atom:link href="http://linus.cbd.cs.cmu.edu/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+    <title>docker | icaoberg AT github DOT io</title>
+    <link>http://icaoberg.github.io/tags/docker/</link>
+      <atom:link href="http://icaoberg.github.io/tags/docker/index.xml" rel="self" type="application/rss+xml" />
     <description>docker</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2006-2019 icaoberg AT cbd cmu edu</copyright><lastBuildDate>Fri, 20 Sep 2019 21:17:12 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2006-2019 icaoberg AT github DOT io</copyright><lastBuildDate>Fri, 20 Sep 2019 21:17:12 -0400</lastBuildDate>
     <image>
-      <url>http://linus.cbd.cs.cmu.edu/img/icon-192.png</url>
+      <url>http://icaoberg.github.io/img/icon-192.png</url>
       <title>docker</title>
-      <link>http://linus.cbd.cs.cmu.edu/tags/docker/</link>
+      <link>http://icaoberg.github.io/tags/docker/</link>
     </image>
     
     <item>
       <title>Docker - Matlab MCR 2019b</title>
-      <link>http://linus.cbd.cs.cmu.edu/post/docker-matlabmcr2019b/</link>
+      <link>http://icaoberg.github.io/post/docker-matlabmcr2019b/</link>
       <pubDate>Fri, 20 Sep 2019 21:17:12 -0400</pubDate>
-      <guid>http://linus.cbd.cs.cmu.edu/post/docker-matlabmcr2019b/</guid>
+      <guid>http://icaoberg.github.io/post/docker-matlabmcr2019b/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;github-card&#34; data-github=&#34;icaoberg/docker-matlabmcr2019b&#34; data-width=&#34;400&#34; data-height=&#34;153&#34; data-theme=&#34;default&#34;&gt;&lt;/div&gt;
 &lt;script src=&#34;//cdn.jsdelivr.net/github-cards/latest/widget.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
 

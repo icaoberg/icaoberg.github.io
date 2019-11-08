@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>events | icaoberg AT cbd cmu edu</title>
-    <link>http://linus.cbd.cs.cmu.edu/categories/events/</link>
-      <atom:link href="http://linus.cbd.cs.cmu.edu/categories/events/index.xml" rel="self" type="application/rss+xml" />
+    <title>events | icaoberg AT github DOT io</title>
+    <link>http://icaoberg.github.io/categories/events/</link>
+      <atom:link href="http://icaoberg.github.io/categories/events/index.xml" rel="self" type="application/rss+xml" />
     <description>events</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2006-2019 icaoberg AT cbd cmu edu</copyright><lastBuildDate>Sat, 21 Sep 2019 00:12:06 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2006-2019 icaoberg AT github DOT io</copyright><lastBuildDate>Sat, 21 Sep 2019 00:12:06 -0400</lastBuildDate>
     <image>
-      <url>http://linus.cbd.cs.cmu.edu/img/icon-192.png</url>
+      <url>http://icaoberg.github.io/img/icon-192.png</url>
       <title>events</title>
-      <link>http://linus.cbd.cs.cmu.edu/categories/events/</link>
+      <link>http://icaoberg.github.io/categories/events/</link>
     </image>
     
     <item>
       <title>Latinx Picnic 2019</title>
-      <link>http://linus.cbd.cs.cmu.edu/post/lacu-picnic2019/</link>
+      <link>http://icaoberg.github.io/post/lacu-picnic2019/</link>
       <pubDate>Sat, 21 Sep 2019 00:12:06 -0400</pubDate>
-      <guid>http://linus.cbd.cs.cmu.edu/post/lacu-picnic2019/</guid>
+      <guid>http://icaoberg.github.io/post/lacu-picnic2019/</guid>
       <description>&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;und&#34; dir=&#34;ltr&#34;&gt;&lt;a href=&#34;https://t.co/FJvtAaM5Vc&#34;&gt;pic.twitter.com/FJvtAaM5Vc&lt;/a&gt;&lt;/p&gt;&amp;mdash; justahappygeek (@justahappygeek) &lt;a href=&#34;https://twitter.com/justahappygeek/status/1174887914309861377?ref_src=twsrc%5Etfw&#34;&gt;September 20, 2019&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 
@@ -25,9 +25,9 @@
     
     <item>
       <title>Latinx Leaders Gathering</title>
-      <link>http://linus.cbd.cs.cmu.edu/post/latinx-leaders-gathering/</link>
+      <link>http://icaoberg.github.io/post/latinx-leaders-gathering/</link>
       <pubDate>Wed, 18 Sep 2019 23:43:09 -0400</pubDate>
-      <guid>http://linus.cbd.cs.cmu.edu/post/latinx-leaders-gathering/</guid>
+      <guid>http://icaoberg.github.io/post/latinx-leaders-gathering/</guid>
       <description>
 
 
@@ -44,8 +44,8 @@
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;http://linus.cbd.cs.cmu.edu/images/2019/clas/latinx_leaders_gathering/presentation.jpg&#34; data-caption=&#34;Latinx Leaders&#34;&gt;
-&lt;img src=&#34;http://linus.cbd.cs.cmu.edu/images/2019/clas/latinx_leaders_gathering/presentation.jpg&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;http://icaoberg.github.io/images/2019/clas/latinx_leaders_gathering/presentation.jpg&#34; data-caption=&#34;Latinx Leaders&#34;&gt;
+&lt;img src=&#34;http://icaoberg.github.io/images/2019/clas/latinx_leaders_gathering/presentation.jpg&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -64,9 +64,9 @@
     
     <item>
       <title>Woman it Woman</title>
-      <link>http://linus.cbd.cs.cmu.edu/post/woman-it-woman/</link>
+      <link>http://icaoberg.github.io/post/woman-it-woman/</link>
       <pubDate>Tue, 17 Sep 2019 18:00:00 +0000</pubDate>
-      <guid>http://linus.cbd.cs.cmu.edu/post/woman-it-woman/</guid>
+      <guid>http://icaoberg.github.io/post/woman-it-woman/</guid>
       <description>
 
 
@@ -83,8 +83,8 @@
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;http://linus.cbd.cs.cmu.edu/images/2019/carlow/woman_it_woman.jpg&#34; data-caption=&#34;Woman IT Woman&#34;&gt;
-&lt;img src=&#34;http://linus.cbd.cs.cmu.edu/images/2019/carlow/woman_it_woman.jpg&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;http://icaoberg.github.io/images/2019/carlow/woman_it_woman.jpg&#34; data-caption=&#34;Woman IT Woman&#34;&gt;
+&lt;img src=&#34;http://icaoberg.github.io/images/2019/carlow/woman_it_woman.jpg&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   

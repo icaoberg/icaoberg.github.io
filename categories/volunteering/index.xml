@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>volunteering | icaoberg AT cbd cmu edu</title>
-    <link>http://linus.cbd.cs.cmu.edu/categories/volunteering/</link>
-      <atom:link href="http://linus.cbd.cs.cmu.edu/categories/volunteering/index.xml" rel="self" type="application/rss+xml" />
+    <title>volunteering | icaoberg AT github DOT io</title>
+    <link>http://icaoberg.github.io/categories/volunteering/</link>
+      <atom:link href="http://icaoberg.github.io/categories/volunteering/index.xml" rel="self" type="application/rss+xml" />
     <description>volunteering</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2006-2019 icaoberg AT cbd cmu edu</copyright><lastBuildDate>Mon, 16 Sep 2019 23:01:17 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2006-2019 icaoberg AT github DOT io</copyright><lastBuildDate>Mon, 16 Sep 2019 23:01:17 -0400</lastBuildDate>
     <image>
-      <url>http://linus.cbd.cs.cmu.edu/img/icon-192.png</url>
+      <url>http://icaoberg.github.io/img/icon-192.png</url>
       <title>volunteering</title>
-      <link>http://linus.cbd.cs.cmu.edu/categories/volunteering/</link>
+      <link>http://icaoberg.github.io/categories/volunteering/</link>
     </image>
     
     <item>
       <title>Volunteer at SOY Pittsburgh After School!</title>
-      <link>http://linus.cbd.cs.cmu.edu/post/volunteer-at-soy-pittsburgh/</link>
+      <link>http://icaoberg.github.io/post/volunteer-at-soy-pittsburgh/</link>
       <pubDate>Mon, 16 Sep 2019 23:01:17 -0400</pubDate>
-      <guid>http://linus.cbd.cs.cmu.edu/post/volunteer-at-soy-pittsburgh/</guid>
+      <guid>http://icaoberg.github.io/post/volunteer-at-soy-pittsburgh/</guid>
       <description>
 
 
@@ -33,8 +33,8 @@
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;http://linus.cbd.cs.cmu.edu/images/2019/soy_pittsburgh/volunteer_at_soy_pittsburgh.jpg&#34; data-caption=&#34;SOY Pittsburgh&#34;&gt;
-&lt;img src=&#34;http://linus.cbd.cs.cmu.edu/images/2019/soy_pittsburgh/volunteer_at_soy_pittsburgh.jpg&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;http://icaoberg.github.io/images/2019/soy_pittsburgh/volunteer_at_soy_pittsburgh.jpg&#34; data-caption=&#34;SOY Pittsburgh&#34;&gt;
+&lt;img src=&#34;http://icaoberg.github.io/images/2019/soy_pittsburgh/volunteer_at_soy_pittsburgh.jpg&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   

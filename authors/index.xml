@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | icaoberg AT cbd cmu edu</title>
-    <link>http://linus.cbd.cs.cmu.edu/authors/</link>
-      <atom:link href="http://linus.cbd.cs.cmu.edu/authors/index.xml" rel="self" type="application/rss+xml" />
+    <title>Authors | icaoberg AT github DOT io</title>
+    <link>http://icaoberg.github.io/authors/</link>
+      <atom:link href="http://icaoberg.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2006-2019 icaoberg AT cbd cmu edu</copyright><lastBuildDate>Wed, 06 Nov 2019 21:00:00 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2006-2019 icaoberg AT github DOT io</copyright><lastBuildDate>Wed, 06 Nov 2019 21:00:00 -0400</lastBuildDate>
     <image>
-      <url>http://linus.cbd.cs.cmu.edu/img/icon-192.png</url>
+      <url>http://icaoberg.github.io/img/icon-192.png</url>
       <title>Authors</title>
-      <link>http://linus.cbd.cs.cmu.edu/authors/</link>
+      <link>http://icaoberg.github.io/authors/</link>
     </image>
     
     <item>
       <title>icaoberg</title>
-      <link>http://linus.cbd.cs.cmu.edu/authors/icaoberg/</link>
+      <link>http://icaoberg.github.io/authors/icaoberg/</link>
       <pubDate>Wed, 06 Nov 2019 21:00:00 -0400</pubDate>
-      <guid>http://linus.cbd.cs.cmu.edu/authors/icaoberg/</guid>
+      <guid>http://icaoberg.github.io/authors/icaoberg/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://linus.cbd.cs.cmu.edu/authors/admin/</link>
+      <link>http://icaoberg.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://linus.cbd.cs.cmu.edu/authors/admin/</guid>
+      <guid>http://icaoberg.github.io/authors/admin/</guid>
       <description>&lt;p&gt;I am responsible for designing and developing experimental research applications and modifying existing software for specific research applications based on knowledge of the theoretical foundations of information and computation including algorithms and data structures, and the application of state-of-the-art programming methodology and languages for their implementation and application in computer-based systems. I also provide consulting services to researchers relative to software technology and capability as well as supervising student programmers at the Computational Biology Department, formerly known as the Lane Center for Computational Biology.&lt;/p&gt;
 </description>
     </item>
