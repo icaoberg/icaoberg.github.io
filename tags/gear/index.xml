@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>gear | icaoberg AT cbd cmu edu</title>
+    <title>gear | icaoberg AT andrew cmu edu</title>
     <link>http://linus.cbd.cs.cmu.edu/tags/gear/</link>
       <atom:link href="http://linus.cbd.cs.cmu.edu/tags/gear/index.xml" rel="self" type="application/rss+xml" />
     <description>gear</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright (c) 2006-2019 icaoberg AT cbd cmu edu</copyright><lastBuildDate>Wed, 18 Sep 2019 00:15:38 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright (c) 2006-2019 icaoberg AT andrew cmu edu</copyright><lastBuildDate>Wed, 18 Sep 2019 00:15:38 -0400</lastBuildDate>
     <image>
       <url>http://linus.cbd.cs.cmu.edu/img/icon-192.png</url>
       <title>gear</title>
