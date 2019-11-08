@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>icaoberg github io</title>
-    <link>http://icaoberg.github.io/</link>
-      <atom:link href="http://icaoberg.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>icaoberg github io</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright (c) 2006-2019 icaoberg github io</copyright><lastBuildDate>Wed, 06 Nov 2019 22:00:00 -0400</lastBuildDate>
+    <title>icaoberg AT andrew cmu edu</title>
+    <link>http://linus.cbd.cs.cmu.edu/</link>
+      <atom:link href="http://linus.cbd.cs.cmu.edu/index.xml" rel="self" type="application/rss+xml" />
+    <description>icaoberg AT andrew cmu edu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2006-2019 icaoberg AT andrew cmu edu</copyright><lastBuildDate>Wed, 06 Nov 2019 22:00:00 -0400</lastBuildDate>
     <image>
-      <url>http://icaoberg.github.io/img/icon-192.png</url>
-      <title>icaoberg github io</title>
-      <link>http://icaoberg.github.io/</link>
+      <url>http://linus.cbd.cs.cmu.edu/img/icon-192.png</url>
+      <title>icaoberg AT andrew cmu edu</title>
+      <link>http://linus.cbd.cs.cmu.edu/</link>
     </image>
     
     <item>
       <title>Posts</title>
-      <link>http://icaoberg.github.io/post/</link>
+      <link>http://linus.cbd.cs.cmu.edu/post/</link>
       <pubDate>Wed, 06 Nov 2019 22:00:00 -0400</pubDate>
-      <guid>http://icaoberg.github.io/post/</guid>
+      <guid>http://linus.cbd.cs.cmu.edu/post/</guid>
       <description></description>
     </item>
     
@@ -30,17 +30,17 @@
     
     <item>
       <title>Publications</title>
-      <link>http://icaoberg.github.io/publication/</link>
+      <link>http://linus.cbd.cs.cmu.edu/publication/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://icaoberg.github.io/publication/</guid>
+      <guid>http://linus.cbd.cs.cmu.edu/publication/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>http://icaoberg.github.io/talk/</link>
+      <link>http://linus.cbd.cs.cmu.edu/talk/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://icaoberg.github.io/talk/</guid>
+      <guid>http://linus.cbd.cs.cmu.edu/talk/</guid>
       <description></description>
     </item>
     

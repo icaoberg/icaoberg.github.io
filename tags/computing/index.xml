@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>computing | icaoberg github io</title>
-    <link>http://icaoberg.github.io/tags/computing/</link>
-      <atom:link href="http://icaoberg.github.io/tags/computing/index.xml" rel="self" type="application/rss+xml" />
+    <title>computing | icaoberg AT andrew cmu edu</title>
+    <link>http://linus.cbd.cs.cmu.edu/tags/computing/</link>
+      <atom:link href="http://linus.cbd.cs.cmu.edu/tags/computing/index.xml" rel="self" type="application/rss+xml" />
     <description>computing</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright (c) 2006-2019 icaoberg github io</copyright><lastBuildDate>Tue, 01 Oct 2019 10:56:00 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2006-2019 icaoberg AT andrew cmu edu</copyright><lastBuildDate>Tue, 01 Oct 2019 10:56:00 -0400</lastBuildDate>
     <image>
-      <url>http://icaoberg.github.io/img/icon-192.png</url>
+      <url>http://linus.cbd.cs.cmu.edu/img/icon-192.png</url>
       <title>computing</title>
-      <link>http://icaoberg.github.io/tags/computing/</link>
+      <link>http://linus.cbd.cs.cmu.edu/tags/computing/</link>
     </image>
     
     <item>
       <title>Big Data Workshop</title>
-      <link>http://icaoberg.github.io/post/big-data/</link>
+      <link>http://linus.cbd.cs.cmu.edu/post/big-data/</link>
       <pubDate>Tue, 01 Oct 2019 10:56:00 -0400</pubDate>
-      <guid>http://icaoberg.github.io/post/big-data/</guid>
+      <guid>http://linus.cbd.cs.cmu.edu/post/big-data/</guid>
       <description>&lt;p&gt;&lt;iframe src=&#34;https://giphy.com/embed/sIG1BX6N5j2P6&#34; width=&#34;480&#34; height=&#34;360&#34; frameBorder=&#34;0&#34; class=&#34;giphy-embed&#34; allowFullScreen&gt;&lt;/iframe&gt;&lt;p&gt;&lt;a href=&#34;https://giphy.com/gifs/images-time-what-a-to-be-alive-sIG1BX6N5j2P6&#34;&gt;via GIPHY&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;
 
 &lt;p&gt;I have been trying to attend this &lt;a href=&#34;https://www.psc.edu/hpc-workshop-series/big-data&#34; target=&#34;_blank&#34;&gt;workshop&lt;/a&gt; for at least two years.&lt;/p&gt;

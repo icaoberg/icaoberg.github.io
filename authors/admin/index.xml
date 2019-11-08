@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>icaoberg github io</title>
-    <link>http://icaoberg.github.io/authors/admin/</link>
-      <atom:link href="http://icaoberg.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
-    <description>icaoberg github io</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright (c) 2006-2019 icaoberg github io</copyright>
+    <title>icaoberg AT andrew cmu edu</title>
+    <link>http://linus.cbd.cs.cmu.edu/authors/admin/</link>
+      <atom:link href="http://linus.cbd.cs.cmu.edu/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <description>icaoberg AT andrew cmu edu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2006-2019 icaoberg AT andrew cmu edu</copyright>
     <image>
-      <url>http://icaoberg.github.io/img/icon-192.png</url>
-      <title>icaoberg github io</title>
-      <link>http://icaoberg.github.io/authors/admin/</link>
+      <url>http://linus.cbd.cs.cmu.edu/img/icon-192.png</url>
+      <title>icaoberg AT andrew cmu edu</title>
+      <link>http://linus.cbd.cs.cmu.edu/authors/admin/</link>
     </image>
     
   </channel>

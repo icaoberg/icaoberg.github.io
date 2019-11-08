@@ -1,126 +1,126 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories | icaoberg github io</title>
-    <link>http://icaoberg.github.io/categories/</link>
-      <atom:link href="http://icaoberg.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <title>Categories | icaoberg AT andrew cmu edu</title>
+    <link>http://linus.cbd.cs.cmu.edu/categories/</link>
+      <atom:link href="http://linus.cbd.cs.cmu.edu/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright (c) 2006-2019 icaoberg github io</copyright><lastBuildDate>Wed, 06 Nov 2019 22:00:00 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2006-2019 icaoberg AT andrew cmu edu</copyright><lastBuildDate>Wed, 06 Nov 2019 22:00:00 -0400</lastBuildDate>
     <image>
-      <url>http://icaoberg.github.io/img/icon-192.png</url>
+      <url>http://linus.cbd.cs.cmu.edu/img/icon-192.png</url>
       <title>Categories</title>
-      <link>http://icaoberg.github.io/categories/</link>
+      <link>http://linus.cbd.cs.cmu.edu/categories/</link>
     </image>
     
     <item>
       <title>Spanish II</title>
-      <link>http://icaoberg.github.io/categories/spanish-ii/</link>
+      <link>http://linus.cbd.cs.cmu.edu/categories/spanish-ii/</link>
       <pubDate>Wed, 06 Nov 2019 22:00:00 -0400</pubDate>
-      <guid>http://icaoberg.github.io/categories/spanish-ii/</guid>
+      <guid>http://linus.cbd.cs.cmu.edu/categories/spanish-ii/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spanish Meetup</title>
-      <link>http://icaoberg.github.io/categories/spanish-meetup/</link>
+      <link>http://linus.cbd.cs.cmu.edu/categories/spanish-meetup/</link>
       <pubDate>Fri, 01 Nov 2019 21:00:00 +0000</pubDate>
-      <guid>http://icaoberg.github.io/categories/spanish-meetup/</guid>
+      <guid>http://linus.cbd.cs.cmu.edu/categories/spanish-meetup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TV Shows</title>
-      <link>http://icaoberg.github.io/categories/tv-shows/</link>
+      <link>http://linus.cbd.cs.cmu.edu/categories/tv-shows/</link>
       <pubDate>Sun, 27 Oct 2019 23:20:52 -0400</pubDate>
-      <guid>http://icaoberg.github.io/categories/tv-shows/</guid>
+      <guid>http://linus.cbd.cs.cmu.edu/categories/tv-shows/</guid>
       <description></description>
     </item>
     
     <item>
       <title>random</title>
-      <link>http://icaoberg.github.io/categories/random/</link>
+      <link>http://linus.cbd.cs.cmu.edu/categories/random/</link>
       <pubDate>Thu, 24 Oct 2019 09:31:29 -0400</pubDate>
-      <guid>http://icaoberg.github.io/categories/random/</guid>
+      <guid>http://linus.cbd.cs.cmu.edu/categories/random/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Programming</title>
-      <link>http://icaoberg.github.io/categories/programming/</link>
+      <link>http://linus.cbd.cs.cmu.edu/categories/programming/</link>
       <pubDate>Tue, 22 Oct 2019 16:11:26 -0400</pubDate>
-      <guid>http://icaoberg.github.io/categories/programming/</guid>
+      <guid>http://linus.cbd.cs.cmu.edu/categories/programming/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Instant Pot</title>
-      <link>http://icaoberg.github.io/categories/instant-pot/</link>
+      <link>http://linus.cbd.cs.cmu.edu/categories/instant-pot/</link>
       <pubDate>Thu, 17 Oct 2019 20:37:20 -0400</pubDate>
-      <guid>http://icaoberg.github.io/categories/instant-pot/</guid>
+      <guid>http://linus.cbd.cs.cmu.edu/categories/instant-pot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>youtube</title>
-      <link>http://icaoberg.github.io/categories/youtube/</link>
+      <link>http://linus.cbd.cs.cmu.edu/categories/youtube/</link>
       <pubDate>Tue, 15 Oct 2019 20:44:39 -0400</pubDate>
-      <guid>http://icaoberg.github.io/categories/youtube/</guid>
+      <guid>http://linus.cbd.cs.cmu.edu/categories/youtube/</guid>
       <description></description>
     </item>
     
     <item>
       <title>fermentation</title>
-      <link>http://icaoberg.github.io/categories/fermentation/</link>
+      <link>http://linus.cbd.cs.cmu.edu/categories/fermentation/</link>
       <pubDate>Sun, 29 Sep 2019 01:50:57 -0400</pubDate>
-      <guid>http://icaoberg.github.io/categories/fermentation/</guid>
+      <guid>http://linus.cbd.cs.cmu.edu/categories/fermentation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Carnegie Mellon University</title>
-      <link>http://icaoberg.github.io/categories/carnegie-mellon-university/</link>
+      <link>http://linus.cbd.cs.cmu.edu/categories/carnegie-mellon-university/</link>
       <pubDate>Sat, 21 Sep 2019 11:19:17 -0400</pubDate>
-      <guid>http://icaoberg.github.io/categories/carnegie-mellon-university/</guid>
+      <guid>http://linus.cbd.cs.cmu.edu/categories/carnegie-mellon-university/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Computational Biology</title>
-      <link>http://icaoberg.github.io/categories/computational-biology/</link>
+      <link>http://linus.cbd.cs.cmu.edu/categories/computational-biology/</link>
       <pubDate>Sat, 21 Sep 2019 11:19:17 -0400</pubDate>
-      <guid>http://icaoberg.github.io/categories/computational-biology/</guid>
+      <guid>http://linus.cbd.cs.cmu.edu/categories/computational-biology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>events</title>
-      <link>http://icaoberg.github.io/categories/events/</link>
+      <link>http://linus.cbd.cs.cmu.edu/categories/events/</link>
       <pubDate>Sat, 21 Sep 2019 00:12:06 -0400</pubDate>
-      <guid>http://icaoberg.github.io/categories/events/</guid>
+      <guid>http://linus.cbd.cs.cmu.edu/categories/events/</guid>
       <description></description>
     </item>
     
     <item>
       <title>puerto rico</title>
-      <link>http://icaoberg.github.io/categories/puerto-rico/</link>
+      <link>http://linus.cbd.cs.cmu.edu/categories/puerto-rico/</link>
       <pubDate>Thu, 19 Sep 2019 12:49:15 -0400</pubDate>
-      <guid>http://icaoberg.github.io/categories/puerto-rico/</guid>
+      <guid>http://linus.cbd.cs.cmu.edu/categories/puerto-rico/</guid>
       <description></description>
     </item>
     
     <item>
       <title>pittsburgh</title>
-      <link>http://icaoberg.github.io/categories/pittsburgh/</link>
+      <link>http://linus.cbd.cs.cmu.edu/categories/pittsburgh/</link>
       <pubDate>Tue, 17 Sep 2019 18:00:00 +0000</pubDate>
-      <guid>http://icaoberg.github.io/categories/pittsburgh/</guid>
+      <guid>http://linus.cbd.cs.cmu.edu/categories/pittsburgh/</guid>
       <description></description>
     </item>
     
     <item>
       <title>volunteering</title>
-      <link>http://icaoberg.github.io/categories/volunteering/</link>
+      <link>http://linus.cbd.cs.cmu.edu/categories/volunteering/</link>
       <pubDate>Mon, 16 Sep 2019 23:01:17 -0400</pubDate>
-      <guid>http://icaoberg.github.io/categories/volunteering/</guid>
+      <guid>http://linus.cbd.cs.cmu.edu/categories/volunteering/</guid>
       <description></description>
     </item>
     

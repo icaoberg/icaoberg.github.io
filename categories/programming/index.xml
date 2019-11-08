@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Programming | icaoberg github io</title>
-    <link>http://icaoberg.github.io/categories/programming/</link>
-      <atom:link href="http://icaoberg.github.io/categories/programming/index.xml" rel="self" type="application/rss+xml" />
+    <title>Programming | icaoberg AT andrew cmu edu</title>
+    <link>http://linus.cbd.cs.cmu.edu/categories/programming/</link>
+      <atom:link href="http://linus.cbd.cs.cmu.edu/categories/programming/index.xml" rel="self" type="application/rss+xml" />
     <description>Programming</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright (c) 2006-2019 icaoberg github io</copyright><lastBuildDate>Tue, 22 Oct 2019 16:11:26 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2006-2019 icaoberg AT andrew cmu edu</copyright><lastBuildDate>Tue, 22 Oct 2019 16:11:26 -0400</lastBuildDate>
     <image>
-      <url>http://icaoberg.github.io/img/icon-192.png</url>
+      <url>http://linus.cbd.cs.cmu.edu/img/icon-192.png</url>
       <title>Programming</title>
-      <link>http://icaoberg.github.io/categories/programming/</link>
+      <link>http://linus.cbd.cs.cmu.edu/categories/programming/</link>
     </image>
     
     <item>
       <title>Find Files</title>
-      <link>http://icaoberg.github.io/post/matlab-find-files/</link>
+      <link>http://linus.cbd.cs.cmu.edu/post/matlab-find-files/</link>
       <pubDate>Tue, 22 Oct 2019 16:11:26 -0400</pubDate>
-      <guid>http://icaoberg.github.io/post/matlab-find-files/</guid>
+      <guid>http://linus.cbd.cs.cmu.edu/post/matlab-find-files/</guid>
       <description>&lt;p&gt;I have been using Matlab for so long that I need to update some of my code. Some of the features aren&amp;rsquo;t that new but are certainly more efficient. Loving this.&lt;/p&gt;
 
 &lt;ul&gt;
@@ -27,9 +27,9 @@
     
     <item>
       <title>Programming for Lovers</title>
-      <link>http://icaoberg.github.io/post/programming-for-lovers/</link>
+      <link>http://linus.cbd.cs.cmu.edu/post/programming-for-lovers/</link>
       <pubDate>Mon, 14 Oct 2019 15:57:35 -0400</pubDate>
-      <guid>http://icaoberg.github.io/post/programming-for-lovers/</guid>
+      <guid>http://linus.cbd.cs.cmu.edu/post/programming-for-lovers/</guid>
       <description>&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;For anyone who wants to follow along to lecture 0 of &lt;a href=&#34;https://twitter.com/hashtag/ProgrammingForLovers?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#ProgrammingForLovers&lt;/a&gt; this evening at 8 ET, the public YouTube Live link is at &lt;a href=&#34;https://t.co/wPefWSSnCB&#34;&gt;https://t.co/wPefWSSnCB&lt;/a&gt;&lt;/p&gt;&amp;mdash; Phillip Compeau (@PhillipCompeau) &lt;a href=&#34;https://twitter.com/PhillipCompeau/status/1183859120283279371?ref_src=twsrc%5Etfw&#34;&gt;October 14, 2019&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 
@@ -40,9 +40,9 @@
     
     <item>
       <title>browsh</title>
-      <link>http://icaoberg.github.io/post/singularity-browsh/</link>
+      <link>http://linus.cbd.cs.cmu.edu/post/singularity-browsh/</link>
       <pubDate>Sun, 13 Oct 2019 01:19:33 -0400</pubDate>
-      <guid>http://icaoberg.github.io/post/singularity-browsh/</guid>
+      <guid>http://linus.cbd.cs.cmu.edu/post/singularity-browsh/</guid>
       <description>&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Just created and pushed an image to &lt;a href=&#34;https://twitter.com/SylabsIO?ref_src=twsrc%5Etfw&#34;&gt;@SylabsIO&lt;/a&gt; cloud for &lt;a href=&#34;https://twitter.com/brow_sh?ref_src=twsrc%5Etfw&#34;&gt;@brow_sh&lt;/a&gt;, an amazing fully-modern text-based browser developed by &lt;a href=&#34;https://twitter.com/twombh?ref_src=twsrc%5Etfw&#34;&gt;@twombh&lt;/a&gt; &lt;a href=&#34;https://t.co/0FxdxDqO8U&#34;&gt;pic.twitter.com/0FxdxDqO8U&lt;/a&gt;&lt;/p&gt;&amp;mdash; justahappygeek (@justahappygeek) &lt;a href=&#34;https://twitter.com/justahappygeek/status/1183250309612789765?ref_src=twsrc%5Etfw&#34;&gt;October 13, 2019&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 
@@ -62,9 +62,9 @@
     
     <item>
       <title>Cody</title>
-      <link>http://icaoberg.github.io/post/cody/</link>
+      <link>http://linus.cbd.cs.cmu.edu/post/cody/</link>
       <pubDate>Thu, 26 Sep 2019 02:10:48 -0400</pubDate>
-      <guid>http://icaoberg.github.io/post/cody/</guid>
+      <guid>http://linus.cbd.cs.cmu.edu/post/cody/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.mathworks.com/matlabcentral/cody/&#34; target=&#34;_blank&#34;&gt;Mathworks Cody&lt;/a&gt; is a platform for having fun with Matlab. I mean I am having fun. I think it is similar to LeetCode or HackerRank. Main difference is, it is meant for Matlab.&lt;/p&gt;
 
 &lt;p&gt;Some of these exercises are simple -so far-. I like these kind of sites because it keep my old brain active.&lt;/p&gt;
@@ -73,9 +73,9 @@
     
     <item>
       <title>CellOrganizer for Singularity</title>
-      <link>http://icaoberg.github.io/post/singularity-retweet-ceo/</link>
+      <link>http://linus.cbd.cs.cmu.edu/post/singularity-retweet-ceo/</link>
       <pubDate>Sat, 21 Sep 2019 00:20:50 -0400</pubDate>
-      <guid>http://icaoberg.github.io/post/singularity-retweet-ceo/</guid>
+      <guid>http://linus.cbd.cs.cmu.edu/post/singularity-retweet-ceo/</guid>
       <description>&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;I have been using Matlab for about 18 years to do anything and everything. Currently, I am using it to develop &lt;a href=&#34;https://twitter.com/CellOrganizer?ref_src=twsrc%5Etfw&#34;&gt;@CellOrganizer&lt;/a&gt; along with CellOrganizer for &lt;a href=&#34;https://twitter.com/ProjectJupyter?ref_src=twsrc%5Etfw&#34;&gt;@ProjectJupyter&lt;/a&gt; on  &lt;a href=&#34;https://twitter.com/Docker?ref_src=twsrc%5Etfw&#34;&gt;@docker&lt;/a&gt;, CellOrganizer for &lt;a href=&#34;https://twitter.com/galaxyproject?ref_src=twsrc%5Etfw&#34;&gt;@galaxyproject&lt;/a&gt; and CellOrganizer on &lt;a href=&#34;https://twitter.com/SingularityApp?ref_src=twsrc%5Etfw&#34;&gt;@SingularityApp&lt;/a&gt;. All part of &lt;a href=&#34;https://twitter.com/MMBioS?ref_src=twsrc%5Etfw&#34;&gt;@MMBioS&lt;/a&gt; &lt;a href=&#34;https://t.co/qSUGxgmeAX&#34;&gt;pic.twitter.com/qSUGxgmeAX&lt;/a&gt;&lt;/p&gt;&amp;mdash; justahappygeek (@justahappygeek) &lt;a href=&#34;https://twitter.com/justahappygeek/status/1174705344339161089?ref_src=twsrc%5Etfw&#34;&gt;September 19, 2019&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 
@@ -86,9 +86,9 @@
     
     <item>
       <title>Docker - Matlab MCR 2019b</title>
-      <link>http://icaoberg.github.io/post/docker-matlabmcr2019b/</link>
+      <link>http://linus.cbd.cs.cmu.edu/post/docker-matlabmcr2019b/</link>
       <pubDate>Fri, 20 Sep 2019 21:17:12 -0400</pubDate>
-      <guid>http://icaoberg.github.io/post/docker-matlabmcr2019b/</guid>
+      <guid>http://linus.cbd.cs.cmu.edu/post/docker-matlabmcr2019b/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;github-card&#34; data-github=&#34;icaoberg/docker-matlabmcr2019b&#34; data-width=&#34;400&#34; data-height=&#34;153&#34; data-theme=&#34;default&#34;&gt;&lt;/div&gt;
 &lt;script src=&#34;//cdn.jsdelivr.net/github-cards/latest/widget.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
 
