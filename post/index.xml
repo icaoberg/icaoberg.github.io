@@ -5,12 +5,45 @@
     <link>http://icaoberg.github.io/post/</link>
       <atom:link href="http://icaoberg.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2006-2019 icaoberg AT github DOT io</copyright><lastBuildDate>Sat, 09 Nov 2019 01:48:55 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2006-2019 icaoberg AT github DOT io</copyright><lastBuildDate>Sat, 09 Nov 2019 18:02:53 -0500</lastBuildDate>
     <image>
       <url>http://icaoberg.github.io/img/icon-192.png</url>
       <title>Posts</title>
       <link>http://icaoberg.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Savory Tarte Tatin</title>
+      <link>http://icaoberg.github.io/post/tarte-tatin/</link>
+      <pubDate>Sat, 09 Nov 2019 18:02:53 -0500</pubDate>
+      <guid>http://icaoberg.github.io/post/tarte-tatin/</guid>
+      <description>&lt;p&gt;So I spent a few hours looking for quick lunches for work. The goals&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Eat better quality food. Having control of all ingredients that go into my food is essential for keeping my health as optimal as possible.&lt;/li&gt;
+&lt;li&gt;Save money. The excuse that fast food is cheaper is no longer the case. Every day it has become more affordable to cook at home. Even if I were to prepare fast food at home, it would still be more affordable to do so at home.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I have quiches in the past which I enjoy very much. But I want to find a recipe that uses more fresh veggies and less animal protein. Alas, tarte Tatin (or any Franken-tarte thereof).&lt;/p&gt;
+
+&lt;p&gt;On Pinterest and YouTube I found many alternatives for the dough. But to be honest, that isn&amp;rsquo;t as important to me as the preparation of the vegetables. Today, I made a savory onion tarte Tatin. It was delicious. However I learnt a lot of useful things today&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Cut onions in the opposite direction, pole to pole. If you don&amp;rsquo;t the onions will become mushy by the time these are caramilized.&lt;/li&gt;
+&lt;li&gt;Less sugar is better. I added half of the sugar recommended by most recipes and it was still sweet.&lt;/li&gt;
+&lt;li&gt;Add fresh herbs to caramelized onions once these are fully cooked.&lt;/li&gt;
+&lt;li&gt;Cooking the tarte when the veggies are cold is better.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I enjoyed it but it may have been too sweet for Barbs. I think one of the things I am trying next&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Beet+onion tarte Tatin. I love beets.&lt;/li&gt;
+&lt;li&gt;I could make the traditional caramelized onion version but I think I could add shredded carrots, zucchini and squash. I have to try.&lt;/li&gt;
+&lt;li&gt;If the mixture is too liquid, I think I could add some potato/tapioca starch to make it thicker when cold. This is a little trick I also use when making empanadas.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Matlab Onramp</title>

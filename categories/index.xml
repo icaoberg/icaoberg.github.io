@@ -5,12 +5,20 @@
     <link>http://icaoberg.github.io/categories/</link>
       <atom:link href="http://icaoberg.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2006-2019 icaoberg AT github DOT io</copyright><lastBuildDate>Sat, 09 Nov 2019 01:48:55 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2006-2019 icaoberg AT github DOT io</copyright><lastBuildDate>Sat, 09 Nov 2019 18:02:53 -0500</lastBuildDate>
     <image>
       <url>http://icaoberg.github.io/img/icon-192.png</url>
       <title>Categories</title>
       <link>http://icaoberg.github.io/categories/</link>
     </image>
+    
+    <item>
+      <title>Food and drink</title>
+      <link>http://icaoberg.github.io/categories/food-and-drink/</link>
+      <pubDate>Sat, 09 Nov 2019 18:02:53 -0500</pubDate>
+      <guid>http://icaoberg.github.io/categories/food-and-drink/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Programming</title>

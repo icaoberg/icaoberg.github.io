@@ -3,27 +3,57 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://icaoberg.github.io/tags/adventures/</loc>
+    <lastmod>2019-11-09T18:02:53-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://icaoberg.github.io/authors/</loc>
-    <lastmod>2019-11-09T01:48:55-05:00</lastmod>
+    <lastmod>2019-11-09T18:02:53-05:00</lastmod>
   </url>
   
   <url>
     <loc>http://icaoberg.github.io/categories/</loc>
-    <lastmod>2019-11-09T01:48:55-05:00</lastmod>
+    <lastmod>2019-11-09T18:02:53-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://icaoberg.github.io/tags/certification/</loc>
-    <lastmod>2019-11-09T01:48:55-05:00</lastmod>
+    <loc>http://icaoberg.github.io/tags/cooking/</loc>
+    <lastmod>2019-11-09T18:02:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://icaoberg.github.io/categories/food-and-drink/</loc>
+    <lastmod>2019-11-09T18:02:53-05:00</lastmod>
   </url>
   
   <url>
     <loc>http://icaoberg.github.io/authors/icaoberg/</loc>
-    <lastmod>2019-11-09T01:48:55-05:00</lastmod>
+    <lastmod>2019-11-09T18:02:53-05:00</lastmod>
   </url>
   
   <url>
     <loc>http://icaoberg.github.io/</loc>
+    <lastmod>2019-11-09T18:02:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://icaoberg.github.io/post/</loc>
+    <lastmod>2019-11-09T18:02:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://icaoberg.github.io/post/tarte-tatin/</loc>
+    <lastmod>2019-11-09T18:02:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://icaoberg.github.io/tags/</loc>
+    <lastmod>2019-11-09T18:02:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://icaoberg.github.io/tags/certification/</loc>
     <lastmod>2019-11-09T01:48:55-05:00</lastmod>
   </url>
   
@@ -38,17 +68,7 @@
   </url>
   
   <url>
-    <loc>http://icaoberg.github.io/post/</loc>
-    <lastmod>2019-11-09T01:48:55-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://icaoberg.github.io/categories/programming/</loc>
-    <lastmod>2019-11-09T01:48:55-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://icaoberg.github.io/tags/</loc>
     <lastmod>2019-11-09T01:48:55-05:00</lastmod>
   </url>
   
@@ -438,12 +458,12 @@
   </url>
   
   <url>
-    <loc>http://icaoberg.github.io/tags/fermentation/</loc>
+    <loc>http://icaoberg.github.io/categories/fermentation/</loc>
     <lastmod>2019-09-29T01:50:57-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://icaoberg.github.io/categories/fermentation/</loc>
+    <loc>http://icaoberg.github.io/tags/fermentation/</loc>
     <lastmod>2019-09-29T01:50:57-04:00</lastmod>
   </url>
   
