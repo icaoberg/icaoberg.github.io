@@ -5,12 +5,60 @@
     <link>http://icaoberg.github.io/tags/</link>
       <atom:link href="http://icaoberg.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2006-2019 icaoberg AT github DOT io</copyright><lastBuildDate>Sat, 09 Nov 2019 18:02:53 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2006-2019 icaoberg AT github DOT io</copyright><lastBuildDate>Wed, 20 Nov 2019 23:18:31 -0500</lastBuildDate>
     <image>
       <url>http://icaoberg.github.io/img/icon-192.png</url>
       <title>Tags</title>
       <link>http://icaoberg.github.io/tags/</link>
     </image>
+    
+    <item>
+      <title>korean</title>
+      <link>http://icaoberg.github.io/tags/korean/</link>
+      <pubDate>Wed, 20 Nov 2019 23:18:31 -0500</pubDate>
+      <guid>http://icaoberg.github.io/tags/korean/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mexican</title>
+      <link>http://icaoberg.github.io/tags/mexican/</link>
+      <pubDate>Wed, 20 Nov 2019 23:18:31 -0500</pubDate>
+      <guid>http://icaoberg.github.io/tags/mexican/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>clp</title>
+      <link>http://icaoberg.github.io/tags/clp/</link>
+      <pubDate>Wed, 20 Nov 2019 18:00:00 -0400</pubDate>
+      <guid>http://icaoberg.github.io/tags/clp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>spanish</title>
+      <link>http://icaoberg.github.io/tags/spanish/</link>
+      <pubDate>Wed, 20 Nov 2019 18:00:00 -0400</pubDate>
+      <guid>http://icaoberg.github.io/tags/spanish/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pittsburgh</title>
+      <link>http://icaoberg.github.io/tags/pittsburgh/</link>
+      <pubDate>Wed, 20 Nov 2019 10:00:00 +0000</pubDate>
+      <guid>http://icaoberg.github.io/tags/pittsburgh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>books</title>
+      <link>http://icaoberg.github.io/tags/books/</link>
+      <pubDate>Fri, 15 Nov 2019 22:00:00 -0400</pubDate>
+      <guid>http://icaoberg.github.io/tags/books/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>adventures</title>
@@ -45,42 +93,10 @@
     </item>
     
     <item>
-      <title>books</title>
-      <link>http://icaoberg.github.io/tags/books/</link>
-      <pubDate>Fri, 08 Nov 2019 22:00:00 -0400</pubDate>
-      <guid>http://icaoberg.github.io/tags/books/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>clp</title>
-      <link>http://icaoberg.github.io/tags/clp/</link>
-      <pubDate>Fri, 08 Nov 2019 22:00:00 -0400</pubDate>
-      <guid>http://icaoberg.github.io/tags/clp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>spanish</title>
-      <link>http://icaoberg.github.io/tags/spanish/</link>
-      <pubDate>Fri, 08 Nov 2019 22:00:00 -0400</pubDate>
-      <guid>http://icaoberg.github.io/tags/spanish/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>walter mercado</title>
       <link>http://icaoberg.github.io/tags/walter-mercado/</link>
       <pubDate>Fri, 08 Nov 2019 18:46:19 -0500</pubDate>
       <guid>http://icaoberg.github.io/tags/walter-mercado/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>pittsburgh</title>
-      <link>http://icaoberg.github.io/tags/pittsburgh/</link>
-      <pubDate>Wed, 06 Nov 2019 10:00:00 +0000</pubDate>
-      <guid>http://icaoberg.github.io/tags/pittsburgh/</guid>
       <description></description>
     </item>
     
