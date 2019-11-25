@@ -5,7 +5,7 @@
     <link>http://icaoberg.github.io/categories/</link>
       <atom:link href="http://icaoberg.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2006-2019 icaoberg AT github DOT io</copyright><lastBuildDate>Wed, 20 Nov 2019 23:18:31 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2006-2019 icaoberg AT github DOT io</copyright><lastBuildDate>Fri, 22 Nov 2019 22:00:00 -0400</lastBuildDate>
     <image>
       <url>http://icaoberg.github.io/img/icon-192.png</url>
       <title>Categories</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Food and Drinks</title>
-      <link>http://icaoberg.github.io/categories/food-and-drinks/</link>
-      <pubDate>Wed, 20 Nov 2019 23:18:31 -0500</pubDate>
-      <guid>http://icaoberg.github.io/categories/food-and-drinks/</guid>
+      <title>Spanish II</title>
+      <link>http://icaoberg.github.io/categories/spanish-ii/</link>
+      <pubDate>Fri, 22 Nov 2019 22:00:00 -0400</pubDate>
+      <guid>http://icaoberg.github.io/categories/spanish-ii/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Spanish II</title>
-      <link>http://icaoberg.github.io/categories/spanish-ii/</link>
-      <pubDate>Wed, 20 Nov 2019 18:00:00 -0400</pubDate>
-      <guid>http://icaoberg.github.io/categories/spanish-ii/</guid>
+      <title>Food and Drinks</title>
+      <link>http://icaoberg.github.io/categories/food-and-drinks/</link>
+      <pubDate>Wed, 20 Nov 2019 23:18:31 -0500</pubDate>
+      <guid>http://icaoberg.github.io/categories/food-and-drinks/</guid>
       <description></description>
     </item>
     

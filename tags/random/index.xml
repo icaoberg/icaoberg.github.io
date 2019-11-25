@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>random | icaoberg AT github DOT io</title>
+    <link>http://icaoberg.github.io/tags/random/</link>
+      <atom:link href="http://icaoberg.github.io/tags/random/index.xml" rel="self" type="application/rss+xml" />
+    <description>random</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2006-2019 icaoberg AT github DOT io</copyright><lastBuildDate>Mon, 25 Nov 2019 18:13:43 -0500</lastBuildDate>
+    <image>
+      <url>http://icaoberg.github.io/img/icon-192.png</url>
+      <title>random</title>
+      <link>http://icaoberg.github.io/tags/random/</link>
+    </image>
+    
+    <item>
+      <title>Potato</title>
+      <link>http://icaoberg.github.io/post/potato/</link>
+      <pubDate>Mon, 25 Nov 2019 18:13:43 -0500</pubDate>
+      <guid>http://icaoberg.github.io/post/potato/</guid>
+      <description>&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;und&#34; dir=&#34;ltr&#34;&gt;&lt;a href=&#34;https://twitter.com/hashtag/word?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#word&lt;/a&gt; &lt;a href=&#34;https://t.co/vT63vG3PsK&#34;&gt;pic.twitter.com/vT63vG3PsK&lt;/a&gt;&lt;/p&gt;&amp;mdash; justahappygeek (@justahappygeek) &lt;a href=&#34;https://twitter.com/justahappygeek/status/1199103258721214466?ref_src=twsrc%5Etfw&#34;&gt;November 25, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>
