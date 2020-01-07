@@ -5,12 +5,111 @@
     <link>http://icaoberg.github.io/authors/icaoberg/</link>
       <atom:link href="http://icaoberg.github.io/authors/icaoberg/index.xml" rel="self" type="application/rss+xml" />
     <description>icaoberg</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2006-2020 icaoberg AT github DOT io</copyright><lastBuildDate>Sat, 04 Jan 2020 10:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2006-2020 icaoberg AT github DOT io</copyright><lastBuildDate>Tue, 07 Jan 2020 08:00:00 +0000</lastBuildDate>
     <image>
       <url>http://icaoberg.github.io/img/icon-192.png</url>
       <title>icaoberg</title>
       <link>http://icaoberg.github.io/authors/icaoberg/</link>
     </image>
+    
+    <item>
+      <title>gotop</title>
+      <link>http://icaoberg.github.io/post/singularity-gotop/</link>
+      <pubDate>Tue, 07 Jan 2020 08:00:00 +0000</pubDate>
+      <guid>http://icaoberg.github.io/post/singularity-gotop/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;./logo.png&#34; alt=&#34;Logo&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/cjbassi/gotop&#34; target=&#34;_blank&#34;&gt;gotop&lt;/a&gt; is a very useful app that use all the time in our department cluster. Even though I have root privileges in our HPC cluster, I&amp;rsquo;d rather do my computing as a regular user. It keeps you in check and forces me to think like a power/regular user.&lt;/p&gt;
+
+&lt;p&gt;Hence, I use &lt;a href=&#34;https://github.com/cjbassi/gotop&#34; target=&#34;_blank&#34;&gt;gotop&lt;/a&gt; in a Singularity container.&lt;/p&gt;
+
+&lt;h2 id=&#34;source-code&#34;&gt;Source code&lt;/h2&gt;
+
+&lt;p&gt;You can find the recipe to build the container &lt;a href=&#34;https://github.com/icaoberg/singularity-gotop&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;To facilitate the building your container, you will find two &lt;strong&gt;simple&lt;/strong&gt; scripts in the repository&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;rbuild.sh&lt;/code&gt;. Builds the image remotely and then pulls it down locally. You will need access to &lt;a href=&#34;https://cloud.sylabs.io/builder&#34; target=&#34;_blank&#34;&gt;SyLabs.io Remote Builder&lt;/a&gt; to do this. Getting access to the Remote Builder is beyond the scope of this post.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;build.sh&lt;/code&gt;. Builds the image locally. You will root privileges to build the container locally.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;building-the-image-locally&#34;&gt;Building the image locally&lt;/h3&gt;
+
+&lt;p&gt;The script &lt;code&gt;build.sh&lt;/code&gt; looks like&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;#!/bin/bash
+
+IMAGE=singularity-gotop.simg
+DEFINITION=Singularity
+
+if [ -f $IMAGE ]; then
+	rm -fv $IMAGE
+fi
+
+sudo singularity build $IMAGE $DEFINITION
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;To build the image locally simply run&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;bash ./build.sh
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The output should look similar to&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://asciinema.org/a/292285&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://asciinema.org/a/292285.svg&#34; alt=&#34;asciicast&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;building-the-image-remotely&#34;&gt;Building the image remotely&lt;/h3&gt;
+
+&lt;p&gt;The script &lt;code&gt;rbuild.sh&lt;/code&gt; looks like&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;#!/bin/bash
+
+IMAGE=singularity-gotop.simg
+DEFINITION=Singularity
+
+if [ -f $IMAGE ]; then
+	rm -fv $IMAGE
+fi
+
+singularity build --remote $IMAGE $DEFINITION
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;If you notice, there isn&amp;rsquo;t much difference between this script and the previous script.&lt;/p&gt;
+
+&lt;p&gt;To build the image remotely simply run&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;bash ./rbuild.sh
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The output should look similar to&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://asciinema.org/a/cttCPrVN082jOCFdAUyOi0RsB&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://asciinema.org/a/cttCPrVN082jOCFdAUyOi0RsB.svg&#34; alt=&#34;asciicast&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;A note on building remotely. Because my script is simple and straightforward, there are no annotations associated with this build. If you were to take a look at my profile in &lt;a href=&#34;https://cloud.sylabs.io/library/icaoberg&#34; target=&#34;_blank&#34;&gt;SyLabs.io&lt;/a&gt; you will notice there is a new project associated with the script above&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./screenshot.png&#34; alt=&#34;Screenshot&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This footprint is evidence the image was built remotely. Also notice the download number is 1. This is because running the remote command builds the container and then downloads it locally.&lt;/p&gt;
+
+&lt;h2 id=&#34;running-gotop&#34;&gt;Running gotop&lt;/h2&gt;
+
+&lt;p&gt;To run the app in the container, simply run&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;singularity exec singularity-gotop.simg gotop
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The output should look similar to&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://asciinema.org/a/292294&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://asciinema.org/a/292294.svg&#34; alt=&#34;asciicast&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The image size is ~95Mb which is small in relation to the benefits of using the command on demand.&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe src=&#34;https://giphy.com/embed/ddHhhUBn25cuQ&#34; width=&#34;480&#34; height=&#34;270&#34; frameBorder=&#34;0&#34; class=&#34;giphy-embed&#34; allowFullScreen&gt;&lt;/iframe&gt;&lt;br&gt;&lt;strong&gt;Figure 2&lt;/strong&gt;. Celebrating the image was built correctly and I can run gotop.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Spanish Conversation at CLP Lawrenceville</title>
@@ -2479,6 +2578,15 @@ matlab -nodesktop -nosplash -r &amp;quot;make_dot_graph;&amp;quot;
       <pubDate>Sat, 26 Dec 2015 10:48:37 -0500</pubDate>
       <guid>http://icaoberg.github.io/post/evil-puppy/</guid>
       <description>&lt;p&gt;P.S. Spare us, evil puppy&amp;hellip;&amp;rsquo;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Obito Uchiha leaves...</title>
+      <link>http://icaoberg.github.io/post/cmu-the-giving-wall/</link>
+      <pubDate>Sat, 14 Mar 2015 10:48:37 -0500</pubDate>
+      <guid>http://icaoberg.github.io/post/cmu-the-giving-wall/</guid>
+      <description>&lt;p&gt;P.S. No&amp;hellip; you cryin&amp;rsquo;&lt;/p&gt;
 </description>
     </item>
     

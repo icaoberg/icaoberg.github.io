@@ -4,12 +4,47 @@
   
   <url>
     <loc>http://icaoberg.github.io/authors/</loc>
-    <lastmod>2020-01-04T10:00:00+00:00</lastmod>
+    <lastmod>2020-01-07T08:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://icaoberg.github.io/categories/</loc>
-    <lastmod>2020-01-04T10:00:00+00:00</lastmod>
+    <lastmod>2020-01-07T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://icaoberg.github.io/post/singularity-gotop/</loc>
+    <lastmod>2020-01-07T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://icaoberg.github.io/authors/icaoberg/</loc>
+    <lastmod>2020-01-07T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://icaoberg.github.io/</loc>
+    <lastmod>2020-01-07T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://icaoberg.github.io/post/</loc>
+    <lastmod>2020-01-07T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://icaoberg.github.io/categories/programming/</loc>
+    <lastmod>2020-01-07T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://icaoberg.github.io/tags/singularity/</loc>
+    <lastmod>2020-01-07T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://icaoberg.github.io/tags/</loc>
+    <lastmod>2020-01-07T08:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -18,22 +53,7 @@
   </url>
   
   <url>
-    <loc>http://icaoberg.github.io/authors/icaoberg/</loc>
-    <lastmod>2020-01-04T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://icaoberg.github.io/</loc>
-    <lastmod>2020-01-04T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://icaoberg.github.io/tags/pittsburgh/</loc>
-    <lastmod>2020-01-04T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://icaoberg.github.io/post/</loc>
     <lastmod>2020-01-04T10:00:00+00:00</lastmod>
   </url>
   
@@ -44,11 +64,6 @@
   
   <url>
     <loc>http://icaoberg.github.io/categories/spanish-meetup/</loc>
-    <lastmod>2020-01-04T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://icaoberg.github.io/tags/</loc>
     <lastmod>2020-01-04T10:00:00+00:00</lastmod>
   </url>
   
@@ -219,11 +234,6 @@
   
   <url>
     <loc>http://icaoberg.github.io/post/matlab-onramp/</loc>
-    <lastmod>2019-11-09T01:48:55-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://icaoberg.github.io/categories/programming/</loc>
     <lastmod>2019-11-09T01:48:55-05:00</lastmod>
   </url>
   
@@ -454,11 +464,6 @@
   
   <url>
     <loc>http://icaoberg.github.io/post/singularity-browsh/</loc>
-    <lastmod>2019-10-13T01:19:33-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://icaoberg.github.io/tags/singularity/</loc>
     <lastmod>2019-10-13T01:19:33-04:00</lastmod>
   </url>
   
@@ -899,6 +904,11 @@
   
   <url>
     <loc>http://icaoberg.github.io/tags/naruto/</loc>
+    <lastmod>2015-03-14T10:48:37-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://icaoberg.github.io/post/cmu-the-giving-wall/</loc>
     <lastmod>2015-03-14T10:48:37-05:00</lastmod>
   </url>
   
