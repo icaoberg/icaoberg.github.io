@@ -33,7 +33,7 @@
 
 &lt;ul&gt;
 &lt;li&gt;&lt;code&gt;rbuild.sh&lt;/code&gt;. Builds the image remotely and then pulls it down locally. You will need access to &lt;a href=&#34;https://cloud.sylabs.io/builder&#34; target=&#34;_blank&#34;&gt;SyLabs.io Remote Builder&lt;/a&gt; to do this. Getting access to the Remote Builder is beyond the scope of this post.&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;build.sh&lt;/code&gt;. Builds the image locally. You will root privileges to build the container locally.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;build.sh&lt;/code&gt;. Builds the image locally. &lt;strong&gt;WARNING&lt;/strong&gt;: you will need root privileges to build the container locally.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&#34;building-the-image-locally&#34;&gt;Building the image locally&lt;/h3&gt;
