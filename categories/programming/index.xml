@@ -61,6 +61,8 @@ sudo singularity build $IMAGE $DEFINITION
 
 &lt;p&gt;&lt;a href=&#34;https://asciinema.org/a/292285&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://asciinema.org/a/292285.svg&#34; alt=&#34;asciicast&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 
+&lt;p&gt;I built this image in Ubuntu 18.04 using Singularity version 3.4.0.&lt;/p&gt;
+
 &lt;h3 id=&#34;building-the-image-remotely&#34;&gt;Building the image remotely&lt;/h3&gt;
 
 &lt;p&gt;The script &lt;code&gt;rbuild.sh&lt;/code&gt; looks like&lt;/p&gt;
