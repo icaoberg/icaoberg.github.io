@@ -23,6 +23,8 @@
 
 &lt;p&gt;&lt;a href=&#34;https://github.com/cjbassi/gotop&#34; target=&#34;_blank&#34;&gt;gotop&lt;/a&gt; is a very useful app that use all the time in our department cluster. Even though I have root privileges in our HPC cluster, I&amp;rsquo;d rather do my computing as a regular user. It keeps you in check and forces me to think like a power/regular user.&lt;/p&gt;
 
+&lt;p&gt;&lt;iframe src=&#34;https://giphy.com/embed/HoffxyN8ghVuw&#34; width=&#34;480&#34; height=&#34;275&#34; frameBorder=&#34;0&#34; class=&#34;giphy-embed&#34; allowFullScreen&gt;&lt;/iframe&gt;&lt;br&gt;&lt;strong&gt;Figure 1&lt;/strong&gt;. Writing the scripts and running the commands.&lt;/p&gt;
+
 &lt;p&gt;Hence, I use &lt;a href=&#34;https://github.com/cjbassi/gotop&#34; target=&#34;_blank&#34;&gt;gotop&lt;/a&gt; in a Singularity container.&lt;/p&gt;
 
 &lt;h2 id=&#34;source-code&#34;&gt;Source code&lt;/h2&gt;
