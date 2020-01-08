@@ -5,7 +5,7 @@
     <link>http://icaoberg.github.io/tags/</link>
       <atom:link href="http://icaoberg.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2006-2020 icaoberg AT github DOT io</copyright><lastBuildDate>Tue, 07 Jan 2020 08:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2006-2020 icaoberg AT github DOT io</copyright><lastBuildDate>Tue, 07 Jan 2020 16:00:00 +0000</lastBuildDate>
     <image>
       <url>http://icaoberg.github.io/img/icon-192.png</url>
       <title>Tags</title>
@@ -15,8 +15,16 @@
     <item>
       <title>singularity</title>
       <link>http://icaoberg.github.io/tags/singularity/</link>
-      <pubDate>Tue, 07 Jan 2020 08:00:00 +0000</pubDate>
+      <pubDate>Tue, 07 Jan 2020 16:00:00 +0000</pubDate>
       <guid>http://icaoberg.github.io/tags/singularity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>travis-ci</title>
+      <link>http://icaoberg.github.io/tags/travis-ci/</link>
+      <pubDate>Tue, 07 Jan 2020 16:00:00 +0000</pubDate>
+      <guid>http://icaoberg.github.io/tags/travis-ci/</guid>
       <description></description>
     </item>
     

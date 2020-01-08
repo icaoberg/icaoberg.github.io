@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>travis-ci | icaoberg AT github DOT io</title>
+    <link>http://icaoberg.github.io/tags/travis-ci/</link>
+      <atom:link href="http://icaoberg.github.io/tags/travis-ci/index.xml" rel="self" type="application/rss+xml" />
+    <description>travis-ci</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2006-2020 icaoberg AT github DOT io</copyright><lastBuildDate>Tue, 07 Jan 2020 16:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://icaoberg.github.io/img/icon-192.png</url>
+      <title>travis-ci</title>
+      <link>http://icaoberg.github.io/tags/travis-ci/</link>
+    </image>
+    
+    <item>
+      <title>Singularity and Travis config</title>
+      <link>http://icaoberg.github.io/post/singularity-travis-config/</link>
+      <pubDate>Tue, 07 Jan 2020 16:00:00 +0000</pubDate>
+      <guid>http://icaoberg.github.io/post/singularity-travis-config/</guid>
+      <description>
+
+&lt;p&gt;If you read my previous post, I updated a repository I built a while ago with a Singularity recipe for gotop. The main reason for the post was to show how easy it is to build a simple small container both locally and remotely.&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe src=&#34;https://giphy.com/embed/XR9Dp54ZC4dji&#34; width=&#34;480&#34; height=&#34;288&#34; frameBorder=&#34;0&#34; class=&#34;giphy-embed&#34; allowFullScreen&gt;&lt;/iframe&gt;&lt;br&gt;&lt;strong&gt;Figure 1&lt;/strong&gt;. Surprised, it works pretty easily.&lt;/p&gt;
+
+&lt;p&gt;However because my original repository was built a while ago, I built my original container on Singularity v2.6.0 while the latest is Singularity v3.5.2. Hence, I needed to update my scripts. And you know, it wasn&amp;rsquo;t that difficult and it worked.&lt;/p&gt;
+
+&lt;p&gt;But then&amp;hellip;. Travis.&lt;/p&gt;
+
+&lt;h2 id=&#34;travis-my-old-enemy&#34;&gt;Travis, my old enemy&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;./logo.png&#34; alt=&#34;Logo&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;Travis CI is a hosted continuous integration service used to build and test software projects hosted at GitHub.&amp;rdquo; [&lt;a href=&#34;https://en.wikipedia.org/wiki/Travis_CI&#34; target=&#34;_blank&#34;&gt;Wikipedia&lt;/a&gt;]. It was comforting to find Singularity Hub has a template I could reuse. To see their repo click &lt;a href=&#34;https://github.com/singularityhub/travis-ci&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Hence, I needed to update my Travis config file as well. It wasn&amp;rsquo;t easy. Installing the newer version of Singularity was a little more convoluted than the older versions (though not that much). Now, the Travis config for &lt;a href=&#34;https://github.com/icaoberg/singularity-gotop&#34; target=&#34;_blank&#34;&gt;gotop&lt;/a&gt; looks like this&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;os: linux
+
+# whitelist
+branches:
+  only:
+    - master
+
+language: go
+
+go:
+    - &amp;quot;1.13&amp;quot;
+
+python:
+    - &amp;quot;3.7&amp;quot;
+
+addons:
+  apt:
+    packages:
+      - flawfinder
+      - squashfs-tools
+      - uuid-dev
+      - libuuid1
+      - libffi-dev
+      - libssl-dev
+      - libssl1.0.0
+      - libarchive-dev
+      - libgpgme11-dev
+      - libseccomp-dev
+  homebrew:
+    packages:
+      - squashfs
+    update: true
+
+sudo: required
+#dist: trusty
+
+matrix:
+  include:
+    - python: &amp;quot;2.6&amp;quot;
+    - python: &amp;quot;3.5&amp;quot;
+
+before_install:
+  - sudo chmod u+x .travis/*.sh
+  - /bin/bash .travis/setup.sh
+
+install:
+  - # override
+
+script:
+  - bash ./build.sh
+  - du -h singularity-gotop.simg
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;and the &lt;code&gt;./.travis/setup.sh&lt;/code&gt; is just as straight-forward&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;#!/bin/bash -ex
+
+sudo sed -i -e &#39;s/^Defaults\tsecure_path.*$//&#39; /etc/sudoers
+
+pip install --user sregistry[all]
+
+# Install Singularity
+SINGULARITY_BASE=&amp;quot;${GOPATH}/src/github.com/sylabs/singularity&amp;quot;
+export PATH=&amp;quot;${GOPATH}/bin:${PATH}&amp;quot;
+
+mkdir -p &amp;quot;${GOPATH}/src/github.com/sylabs&amp;quot;
+cd &amp;quot;${GOPATH}/src/github.com/sylabs&amp;quot;
+
+git clone https://github.com/sylabs/singularity
+git checkout tags/v3.5.2
+cd singularity
+./mconfig -v -p /usr/local
+make -j `nproc 2&amp;gt;/dev/null || echo 1` -C ./builddir all
+sudo make -C ./builddir install
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The script above is a cleaned up version of the script suggested by the Singularity Hub repo. &lt;a href=&#34;https://travis-ci.org/icaoberg/singularity-gotop/builds/633977539&#34; target=&#34;_blank&#34;&gt;It works!&lt;/a&gt; So I am a happy camper.&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe src=&#34;https://giphy.com/embed/pGOLBwYBTEvsI&#34; width=&#34;480&#34; height=&#34;357&#34; frameBorder=&#34;0&#34; class=&#34;giphy-embed&#34; allowFullScreen&gt;&lt;/iframe&gt;&lt;br&gt;&lt;strong&gt;Figure 2&lt;/strong&gt;. I am a happy camper.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
