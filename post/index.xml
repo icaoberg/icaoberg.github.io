@@ -134,7 +134,7 @@ sudo make -C ./builddir install
 
 &lt;p&gt;You can find the recipe to build the container &lt;a href=&#34;https://github.com/icaoberg/singularity-gotop&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;To facilitate the building your container, you will find two &lt;strong&gt;simple&lt;/strong&gt; scripts in the repository&lt;/p&gt;
+&lt;p&gt;To facilitate building the container, you will find two &lt;strong&gt;simple&lt;/strong&gt; scripts in the repository&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;code&gt;rbuild.sh&lt;/code&gt;. Builds the image remotely and then pulls it down locally. You will need access to &lt;a href=&#34;https://cloud.sylabs.io/builder&#34; target=&#34;_blank&#34;&gt;SyLabs.io Remote Builder&lt;/a&gt; to do this. Getting access to the Remote Builder is beyond the scope of this post.&lt;/li&gt;
