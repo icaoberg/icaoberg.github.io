@@ -126,7 +126,7 @@ sudo make -C ./builddir install
 
 &lt;p&gt;&lt;img src=&#34;./logo.png&#34; alt=&#34;Logo&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://github.com/cjbassi/gotop&#34; target=&#34;_blank&#34;&gt;gotop&lt;/a&gt; is a very useful app that use all the time in our department cluster. Even though I have root privileges in our HPC cluster, I&amp;rsquo;d rather do my computing as a regular user. It keeps me in check and forces me to think like a power/regular user.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/cjbassi/gotop&#34; target=&#34;_blank&#34;&gt;gotop&lt;/a&gt; is a very useful app that I use all the time in our department cluster. Even though I have root privileges in our HPC cluster, I&amp;rsquo;d rather do my computing as a regular user. It keeps me in check and forces me to think like a power/regular user.&lt;/p&gt;
 
 &lt;p&gt;Hence, I use &lt;a href=&#34;https://github.com/cjbassi/gotop&#34; target=&#34;_blank&#34;&gt;gotop&lt;/a&gt; in a Singularity container.&lt;/p&gt;
 
@@ -138,7 +138,7 @@ sudo make -C ./builddir install
 
 &lt;ul&gt;
 &lt;li&gt;&lt;code&gt;rbuild.sh&lt;/code&gt;. Builds the image remotely and then pulls it down locally. You will need access to &lt;a href=&#34;https://cloud.sylabs.io/builder&#34; target=&#34;_blank&#34;&gt;SyLabs.io Remote Builder&lt;/a&gt; to do this. Getting access to the Remote Builder is beyond the scope of this post.&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;build.sh&lt;/code&gt;. Builds the image locally. You will root privileges to build the container locally.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;build.sh&lt;/code&gt;. Builds the image locally. You will need root privileges to build the container locally.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&#34;building-the-image-locally&#34;&gt;Building the image locally&lt;/h3&gt;
@@ -197,7 +197,7 @@ singularity build --remote $IMAGE $DEFINITION
 
 &lt;p&gt;&lt;img src=&#34;./screenshot.png&#34; alt=&#34;Screenshot&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;This is a footprint, evidence the image was build remotely. Also notice the download number is 1. This is because running the remote commands builds the container then downloads it locally.&lt;/p&gt;
+&lt;p&gt;This is a footprint, evidence the image was built remotely. Also notice the download number is 1. This is because running the remote commands builds the container then downloads it locally.&lt;/p&gt;
 
 &lt;h2 id=&#34;running-gotop&#34;&gt;Running gotop&lt;/h2&gt;
 
