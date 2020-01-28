@@ -4,46 +4,96 @@
   
   <url>
     <loc>http://icaoberg.github.io/authors/</loc>
-    <lastmod>2020-01-14T08:00:00+00:00</lastmod>
+    <lastmod>2020-01-26T18:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://icaoberg.github.io/tags/bedtools/</loc>
+    <lastmod>2020-01-26T18:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://icaoberg.github.io/post/singularity-bedtools/</loc>
+    <lastmod>2020-01-26T18:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://icaoberg.github.io/categories/</loc>
-    <lastmod>2020-01-14T08:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://icaoberg.github.io/post/singularity-gifgen/</loc>
-    <lastmod>2020-01-14T08:00:00+00:00</lastmod>
+    <lastmod>2020-01-26T18:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://icaoberg.github.io/authors/icaoberg/</loc>
-    <lastmod>2020-01-14T08:00:00+00:00</lastmod>
+    <lastmod>2020-01-26T18:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://icaoberg.github.io/</loc>
-    <lastmod>2020-01-14T08:00:00+00:00</lastmod>
+    <lastmod>2020-01-26T18:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://icaoberg.github.io/post/</loc>
-    <lastmod>2020-01-14T08:00:00+00:00</lastmod>
+    <lastmod>2020-01-26T18:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://icaoberg.github.io/categories/programming/</loc>
-    <lastmod>2020-01-14T08:00:00+00:00</lastmod>
+    <lastmod>2020-01-26T18:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://icaoberg.github.io/tags/singularity/</loc>
-    <lastmod>2020-01-14T08:00:00+00:00</lastmod>
+    <lastmod>2020-01-26T18:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://icaoberg.github.io/tags/</loc>
+    <lastmod>2020-01-26T18:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://icaoberg.github.io/post/tinycards-camilo-y-pedro-capo-tutu/</loc>
+    <lastmod>2020-01-25T21:57:35-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://icaoberg.github.io/tags/spanish/</loc>
+    <lastmod>2020-01-25T21:57:35-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://icaoberg.github.io/categories/spanish-ii/</loc>
+    <lastmod>2020-01-25T21:57:35-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://icaoberg.github.io/categories/spanish-meetup/</loc>
+    <lastmod>2020-01-25T21:57:35-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://icaoberg.github.io/tags/tinycards/</loc>
+    <lastmod>2020-01-25T21:57:35-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://icaoberg.github.io/tags/clp/</loc>
+    <lastmod>2020-01-18T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://icaoberg.github.io/tags/pittsburgh/</loc>
+    <lastmod>2020-01-18T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://icaoberg.github.io/post/spanish-meetup-2020-01-18/</loc>
+    <lastmod>2020-01-18T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://icaoberg.github.io/post/singularity-gifgen/</loc>
     <lastmod>2020-01-14T08:00:00+00:00</lastmod>
   </url>
   
@@ -78,21 +128,6 @@
   </url>
   
   <url>
-    <loc>http://icaoberg.github.io/tags/spanish/</loc>
-    <lastmod>2020-01-13T08:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://icaoberg.github.io/categories/spanish-meetup/</loc>
-    <lastmod>2020-01-13T08:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://icaoberg.github.io/tags/tinycards/</loc>
-    <lastmod>2020-01-13T08:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://icaoberg.github.io/post/tinycards-sie7e-tengo-tu-love/</loc>
     <lastmod>2020-01-11T21:57:35-04:00</lastmod>
   </url>
@@ -100,11 +135,6 @@
   <url>
     <loc>http://icaoberg.github.io/post/tinycards-fuiste-tu/</loc>
     <lastmod>2019-01-10T21:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://icaoberg.github.io/categories/spanish-ii/</loc>
-    <lastmod>2020-01-03T21:57:35-04:00</lastmod>
   </url>
   
   <url>
@@ -120,16 +150,6 @@
   <url>
     <loc>http://icaoberg.github.io/post/singularity-gotop/</loc>
     <lastmod>2020-01-07T08:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://icaoberg.github.io/tags/clp/</loc>
-    <lastmod>2020-01-04T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://icaoberg.github.io/tags/pittsburgh/</loc>
-    <lastmod>2020-01-04T10:00:00+00:00</lastmod>
   </url>
   
   <url>
