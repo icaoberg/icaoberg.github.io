@@ -385,6 +385,15 @@ singularity build --remote $IMAGE $DEFINITION
     </item>
     
     <item>
+      <title>Singularity Desktop MacOSX (Beta Release)</title>
+      <link>http://icaoberg.github.io/post/singularity-macosx-journey-1/</link>
+      <pubDate>Tue, 07 Jan 2020 08:00:00 +0000</pubDate>
+      <guid>http://icaoberg.github.io/post/singularity-macosx-journey-1/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;DISCLAIMER&lt;/strong&gt;: My first journey went better than expected. However the purpose of this post is to document the issues I experienced in order to, hopefully, find a solution.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>browsh</title>
       <link>http://icaoberg.github.io/post/singularity-browsh/</link>
       <pubDate>Sun, 13 Oct 2019 01:19:33 -0400</pubDate>
