@@ -29,18 +29,90 @@
     </item>
     
     <item>
-      <title>singularity</title>
-      <link>http://icaoberg.github.io/tags/singularity/</link>
-      <pubDate>Wed, 26 Feb 2020 10:00:00 +0000</pubDate>
-      <guid>http://icaoberg.github.io/tags/singularity/</guid>
+      <title>certification</title>
+      <link>http://icaoberg.github.io/tags/certification/</link>
+      <pubDate>Tue, 17 Mar 2020 22:00:00 +0000</pubDate>
+      <guid>http://icaoberg.github.io/tags/certification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>matlab</title>
+      <link>http://icaoberg.github.io/tags/matlab/</link>
+      <pubDate>Tue, 17 Mar 2020 22:00:00 +0000</pubDate>
+      <guid>http://icaoberg.github.io/tags/matlab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>covid-19</title>
+      <link>http://icaoberg.github.io/tags/covid-19/</link>
+      <pubDate>Sun, 15 Mar 2020 10:00:00 +0000</pubDate>
+      <guid>http://icaoberg.github.io/tags/covid-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pittsburgh</title>
+      <link>http://icaoberg.github.io/tags/pittsburgh/</link>
+      <pubDate>Sun, 15 Mar 2020 10:00:00 +0000</pubDate>
+      <guid>http://icaoberg.github.io/tags/pittsburgh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>spanish</title>
+      <link>http://icaoberg.github.io/tags/spanish/</link>
+      <pubDate>Sat, 14 Mar 2020 21:57:35 -0400</pubDate>
+      <guid>http://icaoberg.github.io/tags/spanish/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tinycards</title>
+      <link>http://icaoberg.github.io/tags/tinycards/</link>
+      <pubDate>Sat, 14 Mar 2020 21:57:35 -0400</pubDate>
+      <guid>http://icaoberg.github.io/tags/tinycards/</guid>
       <description></description>
     </item>
     
     <item>
       <title>twitter</title>
       <link>http://icaoberg.github.io/tags/twitter/</link>
-      <pubDate>Wed, 26 Feb 2020 10:00:00 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2020 15:57:00 +0000</pubDate>
       <guid>http://icaoberg.github.io/tags/twitter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>doctor who</title>
+      <link>http://icaoberg.github.io/tags/doctor-who/</link>
+      <pubDate>Thu, 12 Mar 2020 10:09:00 -0400</pubDate>
+      <guid>http://icaoberg.github.io/tags/doctor-who/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>random</title>
+      <link>http://icaoberg.github.io/tags/random/</link>
+      <pubDate>Thu, 12 Mar 2020 10:00:00 +0000</pubDate>
+      <guid>http://icaoberg.github.io/tags/random/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pattern recognition</title>
+      <link>http://icaoberg.github.io/tags/pattern-recognition/</link>
+      <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>http://icaoberg.github.io/tags/pattern-recognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>singularity</title>
+      <link>http://icaoberg.github.io/tags/singularity/</link>
+      <pubDate>Wed, 26 Feb 2020 10:00:00 +0000</pubDate>
+      <guid>http://icaoberg.github.io/tags/singularity/</guid>
       <description></description>
     </item>
     
@@ -69,22 +141,6 @@
     </item>
     
     <item>
-      <title>spanish</title>
-      <link>http://icaoberg.github.io/tags/spanish/</link>
-      <pubDate>Sat, 22 Feb 2020 21:57:35 -0400</pubDate>
-      <guid>http://icaoberg.github.io/tags/spanish/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tinycards</title>
-      <link>http://icaoberg.github.io/tags/tinycards/</link>
-      <pubDate>Sat, 22 Feb 2020 21:57:35 -0400</pubDate>
-      <guid>http://icaoberg.github.io/tags/tinycards/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>clp</title>
       <link>http://icaoberg.github.io/tags/clp/</link>
       <pubDate>Sat, 22 Feb 2020 19:00:00 +0000</pubDate>
@@ -97,14 +153,6 @@
       <link>http://icaoberg.github.io/tags/meetup/</link>
       <pubDate>Sat, 22 Feb 2020 19:00:00 +0000</pubDate>
       <guid>http://icaoberg.github.io/tags/meetup/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>pittsburgh</title>
-      <link>http://icaoberg.github.io/tags/pittsburgh/</link>
-      <pubDate>Sat, 22 Feb 2020 19:00:00 +0000</pubDate>
-      <guid>http://icaoberg.github.io/tags/pittsburgh/</guid>
       <description></description>
     </item>
     
@@ -145,14 +193,6 @@
       <link>http://icaoberg.github.io/tags/training/</link>
       <pubDate>Fri, 31 Jan 2020 21:37:08 -0500</pubDate>
       <guid>http://icaoberg.github.io/tags/training/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>random</title>
-      <link>http://icaoberg.github.io/tags/random/</link>
-      <pubDate>Tue, 14 Jan 2020 00:46:00 +0000</pubDate>
-      <guid>http://icaoberg.github.io/tags/random/</guid>
       <description></description>
     </item>
     
@@ -229,34 +269,10 @@
     </item>
     
     <item>
-      <title>certification</title>
-      <link>http://icaoberg.github.io/tags/certification/</link>
-      <pubDate>Sat, 09 Nov 2019 01:48:55 -0500</pubDate>
-      <guid>http://icaoberg.github.io/tags/certification/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>matlab</title>
-      <link>http://icaoberg.github.io/tags/matlab/</link>
-      <pubDate>Sat, 09 Nov 2019 01:48:55 -0500</pubDate>
-      <guid>http://icaoberg.github.io/tags/matlab/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>walter mercado</title>
       <link>http://icaoberg.github.io/tags/walter-mercado/</link>
       <pubDate>Fri, 08 Nov 2019 18:46:19 -0500</pubDate>
       <guid>http://icaoberg.github.io/tags/walter-mercado/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>doctor who</title>
-      <link>http://icaoberg.github.io/tags/doctor-who/</link>
-      <pubDate>Sun, 27 Oct 2019 23:20:52 -0400</pubDate>
-      <guid>http://icaoberg.github.io/tags/doctor-who/</guid>
       <description></description>
     </item>
     
@@ -465,6 +481,14 @@
       <link>http://icaoberg.github.io/tags/love/</link>
       <pubDate>Thu, 14 Feb 2019 20:00:00 +0000</pubDate>
       <guid>http://icaoberg.github.io/tags/love/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>salsa</title>
+      <link>http://icaoberg.github.io/tags/salsa/</link>
+      <pubDate>Mon, 12 Nov 2018 11:00:00 +0000</pubDate>
+      <guid>http://icaoberg.github.io/tags/salsa/</guid>
       <description></description>
     </item>
     

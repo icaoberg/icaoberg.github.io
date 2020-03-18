@@ -21,10 +21,26 @@
     </item>
     
     <item>
-      <title>Posts</title>
+      <title>All Posts</title>
       <link>http://icaoberg.github.io/post/</link>
-      <pubDate>Wed, 26 Feb 2020 10:00:00 +0000</pubDate>
+      <pubDate>Tue, 17 Mar 2020 22:00:00 +0000</pubDate>
       <guid>http://icaoberg.github.io/post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://icaoberg.github.io/project/</link>
+      <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>http://icaoberg.github.io/project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>http://icaoberg.github.io/slides/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>http://icaoberg.github.io/slides/</guid>
       <description></description>
     </item>
     

@@ -5,7 +5,7 @@
     <link>http://icaoberg.github.io/categories/</link>
       <atom:link href="http://icaoberg.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2006-2020 icaoberg AT github DOT io</copyright><lastBuildDate>Wed, 26 Feb 2020 10:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2006-2020 icaoberg AT github DOT io</copyright><lastBuildDate>Tue, 17 Mar 2020 22:00:00 +0000</lastBuildDate>
     <image>
       <url>http://icaoberg.github.io/img/icon-192.png</url>
       <title>Categories</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Programming</title>
       <link>http://icaoberg.github.io/categories/programming/</link>
-      <pubDate>Wed, 26 Feb 2020 10:00:00 +0000</pubDate>
+      <pubDate>Tue, 17 Mar 2020 22:00:00 +0000</pubDate>
       <guid>http://icaoberg.github.io/categories/programming/</guid>
       <description></description>
     </item>
@@ -23,8 +23,24 @@
     <item>
       <title>Spanish Meetup</title>
       <link>http://icaoberg.github.io/categories/spanish-meetup/</link>
-      <pubDate>Tue, 25 Feb 2020 10:00:00 +0000</pubDate>
+      <pubDate>Sat, 14 Mar 2020 21:57:35 -0400</pubDate>
       <guid>http://icaoberg.github.io/categories/spanish-meetup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carnegie Mellon University</title>
+      <link>http://icaoberg.github.io/categories/carnegie-mellon-university/</link>
+      <pubDate>Fri, 13 Mar 2020 15:57:00 +0000</pubDate>
+      <guid>http://icaoberg.github.io/categories/carnegie-mellon-university/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TV Shows</title>
+      <link>http://icaoberg.github.io/categories/tv-shows/</link>
+      <pubDate>Thu, 12 Mar 2020 10:09:00 -0400</pubDate>
+      <guid>http://icaoberg.github.io/categories/tv-shows/</guid>
       <description></description>
     </item>
     
@@ -77,26 +93,10 @@
     </item>
     
     <item>
-      <title>TV Shows</title>
-      <link>http://icaoberg.github.io/categories/tv-shows/</link>
-      <pubDate>Sun, 27 Oct 2019 23:20:52 -0400</pubDate>
-      <guid>http://icaoberg.github.io/categories/tv-shows/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Instant Pot</title>
       <link>http://icaoberg.github.io/categories/instant-pot/</link>
       <pubDate>Thu, 17 Oct 2019 20:37:20 -0400</pubDate>
       <guid>http://icaoberg.github.io/categories/instant-pot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Carnegie Mellon University</title>
-      <link>http://icaoberg.github.io/categories/carnegie-mellon-university/</link>
-      <pubDate>Sat, 21 Sep 2019 11:19:17 -0400</pubDate>
-      <guid>http://icaoberg.github.io/categories/carnegie-mellon-university/</guid>
       <description></description>
     </item>
     
@@ -137,6 +137,14 @@
       <link>http://icaoberg.github.io/categories/volunteering/</link>
       <pubDate>Mon, 16 Sep 2019 23:01:17 -0400</pubDate>
       <guid>http://icaoberg.github.io/categories/volunteering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scientific computing</title>
+      <link>http://icaoberg.github.io/categories/scientific-computing/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>http://icaoberg.github.io/categories/scientific-computing/</guid>
       <description></description>
     </item>
     

@@ -43,8 +43,153 @@
   </url>
   
   <url>
+    <loc>http://icaoberg.github.io/post/</loc>
+    <lastmod>2020-03-17T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://icaoberg.github.io/categories/</loc>
-    <lastmod>2020-02-26T10:00:00+00:00</lastmod>
+    <lastmod>2020-03-17T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://icaoberg.github.io/tags/certification/</loc>
+    <lastmod>2020-03-17T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://icaoberg.github.io/post/matlab-stats/</loc>
+    <lastmod>2020-03-17T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://icaoberg.github.io/tags/matlab/</loc>
+    <lastmod>2020-03-17T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://icaoberg.github.io/categories/programming/</loc>
+    <lastmod>2020-03-17T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://icaoberg.github.io/tags/covid-19/</loc>
+    <lastmod>2020-03-15T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://icaoberg.github.io/tags/pittsburgh/</loc>
+    <lastmod>2020-03-15T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://icaoberg.github.io/post/covid-19-preparation/</loc>
+    <lastmod>2020-03-15T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://icaoberg.github.io/post/tinycards-alejandro-lerner-todo-a-pulmon/</loc>
+    <lastmod>2020-03-14T21:57:35-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://icaoberg.github.io/tags/spanish/</loc>
+    <lastmod>2020-03-14T21:57:35-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://icaoberg.github.io/categories/spanish-meetup/</loc>
+    <lastmod>2020-03-14T21:57:35-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://icaoberg.github.io/tags/tinycards/</loc>
+    <lastmod>2020-03-14T21:57:35-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://icaoberg.github.io/categories/carnegie-mellon-university/</loc>
+    <lastmod>2020-03-13T15:57:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://icaoberg.github.io/post/cmu-covid-19-20200313-update2/</loc>
+    <lastmod>2020-03-13T15:57:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://icaoberg.github.io/tags/twitter/</loc>
+    <lastmod>2020-03-13T15:57:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://icaoberg.github.io/post/cmu-covid-19-social-distance-20200313/</loc>
+    <lastmod>2020-03-13T14:47:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://icaoberg.github.io/post/cmu-covid-19-20200313-update1/</loc>
+    <lastmod>2020-03-13T09:48:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://icaoberg.github.io/tags/doctor-who/</loc>
+    <lastmod>2020-03-12T10:09:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://icaoberg.github.io/post/doctor-who-im-nothing-special/</loc>
+    <lastmod>2020-03-12T10:09:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://icaoberg.github.io/categories/tv-shows/</loc>
+    <lastmod>2020-03-12T10:09:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://icaoberg.github.io/post/cmu-covid-19-20200312-update1/</loc>
+    <lastmod>2020-03-12T13:39:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://icaoberg.github.io/tags/random/</loc>
+    <lastmod>2020-03-12T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://icaoberg.github.io/post/wash-your-hands/</loc>
+    <lastmod>2020-03-12T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://icaoberg.github.io/post/matlab-linearalgebra/</loc>
+    <lastmod>2020-03-09T17:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://icaoberg.github.io/post/matlab-ode/</loc>
+    <lastmod>2020-03-09T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://icaoberg.github.io/post/daily-report-2020-03-03/</loc>
+    <lastmod>2020-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://icaoberg.github.io/project/cellorganizer/</loc>
+    <lastmod>2020-03-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://icaoberg.github.io/tags/pattern-recognition/</loc>
+    <lastmod>2020-03-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://icaoberg.github.io/project/</loc>
+    <lastmod>2020-03-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -53,22 +198,7 @@
   </url>
   
   <url>
-    <loc>http://icaoberg.github.io/post/</loc>
-    <lastmod>2020-02-26T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://icaoberg.github.io/categories/programming/</loc>
-    <lastmod>2020-02-26T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://icaoberg.github.io/tags/singularity/</loc>
-    <lastmod>2020-02-26T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://icaoberg.github.io/tags/twitter/</loc>
     <lastmod>2020-02-26T10:00:00+00:00</lastmod>
   </url>
   
@@ -79,11 +209,6 @@
   
   <url>
     <loc>http://icaoberg.github.io/post/clas-la-heredera-del-viento/</loc>
-    <lastmod>2020-02-25T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://icaoberg.github.io/categories/spanish-meetup/</loc>
     <lastmod>2020-02-25T10:00:00+00:00</lastmod>
   </url>
   
@@ -113,17 +238,7 @@
   </url>
   
   <url>
-    <loc>http://icaoberg.github.io/tags/spanish/</loc>
-    <lastmod>2020-02-22T21:57:35-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://icaoberg.github.io/categories/spanish-ii/</loc>
-    <lastmod>2020-02-22T21:57:35-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://icaoberg.github.io/tags/tinycards/</loc>
     <lastmod>2020-02-22T21:57:35-04:00</lastmod>
   </url>
   
@@ -134,11 +249,6 @@
   
   <url>
     <loc>http://icaoberg.github.io/tags/meetup/</loc>
-    <lastmod>2020-02-22T19:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://icaoberg.github.io/tags/pittsburgh/</loc>
     <lastmod>2020-02-22T19:00:00+00:00</lastmod>
   </url>
   
@@ -249,11 +359,6 @@
   
   <url>
     <loc>http://icaoberg.github.io/post/good-music-camilo-tutu/</loc>
-    <lastmod>2020-01-14T00:46:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://icaoberg.github.io/tags/random/</loc>
     <lastmod>2020-01-14T00:46:00+00:00</lastmod>
   </url>
   
@@ -453,16 +558,6 @@
   </url>
   
   <url>
-    <loc>http://icaoberg.github.io/tags/certification/</loc>
-    <lastmod>2019-11-09T01:48:55-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://icaoberg.github.io/tags/matlab/</loc>
-    <lastmod>2019-11-09T01:48:55-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://icaoberg.github.io/post/matlab-onramp/</loc>
     <lastmod>2019-11-09T01:48:55-05:00</lastmod>
   </url>
@@ -540,16 +635,6 @@
   <url>
     <loc>http://icaoberg.github.io/post/tinycards-quedate-conmigo/</loc>
     <lastmod>2019-10-28T21:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://icaoberg.github.io/tags/doctor-who/</loc>
-    <lastmod>2019-10-27T23:20:52-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://icaoberg.github.io/categories/tv-shows/</loc>
-    <lastmod>2019-10-27T23:20:52-04:00</lastmod>
   </url>
   
   <url>
@@ -858,11 +943,6 @@
   </url>
   
   <url>
-    <loc>http://icaoberg.github.io/categories/carnegie-mellon-university/</loc>
-    <lastmod>2019-09-21T11:19:17-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://icaoberg.github.io/post/cbd10/</loc>
     <lastmod>2019-09-21T11:19:17-04:00</lastmod>
   </url>
@@ -1013,8 +1093,38 @@
   </url>
   
   <url>
+    <loc>http://icaoberg.github.io/categories/scientific-computing/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://icaoberg.github.io/slides/singularity-cowsay/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://icaoberg.github.io/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://icaoberg.github.io/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://icaoberg.github.io/post/wrct-feliz-navidad-2018/</loc>
     <lastmod>2018-12-21T20:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://icaoberg.github.io/post/cmu-2018-fall-empanada/</loc>
+    <lastmod>2018-11-12T11:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://icaoberg.github.io/tags/salsa/</loc>
+    <lastmod>2018-11-12T11:00:00+00:00</lastmod>
   </url>
   
   <url>
