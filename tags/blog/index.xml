@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog | icaoberg AT cbd cmu edu</title>
+    <link>http://linus.cbd.cs.cmu.edu/tags/blog/</link>
+      <atom:link href="http://linus.cbd.cs.cmu.edu/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <description>blog</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2006-2020 icaoberg AT cbd cmu edu</copyright><lastBuildDate>Thu, 09 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://linus.cbd.cs.cmu.edu/img/icon-192.png</url>
+      <title>blog</title>
+      <link>http://linus.cbd.cs.cmu.edu/tags/blog/</link>
+    </image>
+    
+    <item>
+      <title>Another day, another challenge</title>
+      <link>http://linus.cbd.cs.cmu.edu/post/2020-04-09/</link>
+      <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://linus.cbd.cs.cmu.edu/post/2020-04-09/</guid>
+      <description>&lt;p&gt;I have many things to do today. Even though I appreciated the silence the first few days working from home, now the silence is deafening. However, I shouldn&amp;rsquo;t complain. I am lucky to be able to work while so many cannot afford to do the same.&lt;/p&gt;
+
+&lt;p&gt;Today I will work on&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;writing docs (this task never stops, ever).&lt;/li&gt;
+&lt;li&gt;writing recipes for Singularity containers. Especifically R.&lt;/li&gt;
+&lt;li&gt;prepare a tutorial on how to build your own Singularity images from your own recipes in our cluster.&lt;/li&gt;
+&lt;li&gt;code for CellOrganizer.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;What a long day. It is, what it is.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
