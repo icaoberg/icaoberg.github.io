@@ -3,8 +3,83 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://icaoberg.github.io/post/</loc>
+    <lastmod>2020-07-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://icaoberg.github.io/authors/</loc>
-    <lastmod>2020-05-04T08:00:00+00:00</lastmod>
+    <lastmod>2020-07-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://icaoberg.github.io/tags/blogging/</loc>
+    <lastmod>2020-07-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://icaoberg.github.io/tags/community/</loc>
+    <lastmod>2020-07-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://icaoberg.github.io/post/20200705/</loc>
+    <lastmod>2020-07-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://icaoberg.github.io/authors/icaoberg/</loc>
+    <lastmod>2020-07-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://icaoberg.github.io/</loc>
+    <lastmod>2020-07-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://icaoberg.github.io/tags/</loc>
+    <lastmod>2020-07-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://icaoberg.github.io/post/20200615/</loc>
+    <lastmod>2020-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://icaoberg.github.io/post/20200529/</loc>
+    <lastmod>2020-05-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://icaoberg.github.io/categories/</loc>
+    <lastmod>2020-05-16T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://icaoberg.github.io/post/tinycards-im-no-superman/</loc>
+    <lastmod>2020-05-16T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://icaoberg.github.io/tags/spanish/</loc>
+    <lastmod>2020-05-16T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://icaoberg.github.io/categories/spanish-ii/</loc>
+    <lastmod>2020-05-16T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://icaoberg.github.io/categories/spanish-meetup/</loc>
+    <lastmod>2020-05-16T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://icaoberg.github.io/tags/tinycards/</loc>
+    <lastmod>2020-05-16T22:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -14,16 +89,6 @@
   
   <url>
     <loc>http://icaoberg.github.io/tags/cellorganizer/</loc>
-    <lastmod>2020-05-04T08:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://icaoberg.github.io/authors/icaoberg/</loc>
-    <lastmod>2020-05-04T08:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://icaoberg.github.io/</loc>
     <lastmod>2020-05-04T08:00:00+00:00</lastmod>
   </url>
   
@@ -38,42 +103,7 @@
   </url>
   
   <url>
-    <loc>http://icaoberg.github.io/tags/</loc>
-    <lastmod>2020-05-04T08:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://icaoberg.github.io/post/</loc>
-    <lastmod>2020-04-16T08:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://icaoberg.github.io/categories/</loc>
-    <lastmod>2020-04-16T08:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://icaoberg.github.io/post/tinycards-juntos-para-siempre/</loc>
-    <lastmod>2020-04-16T08:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://icaoberg.github.io/tags/spanish/</loc>
-    <lastmod>2020-04-16T08:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://icaoberg.github.io/categories/spanish-ii/</loc>
-    <lastmod>2020-04-16T08:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://icaoberg.github.io/categories/spanish-meetup/</loc>
-    <lastmod>2020-04-16T08:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://icaoberg.github.io/tags/tinycards/</loc>
     <lastmod>2020-04-16T08:00:00+00:00</lastmod>
   </url>
   
@@ -94,11 +124,6 @@
   
   <url>
     <loc>http://icaoberg.github.io/post/2020-04-09/</loc>
-    <lastmod>2020-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://icaoberg.github.io/tags/blogging/</loc>
     <lastmod>2020-04-09T00:00:00+00:00</lastmod>
   </url>
   

@@ -5,12 +5,44 @@
     <link>http://icaoberg.github.io/tags/</link>
       <atom:link href="http://icaoberg.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2006-2020 icaoberg AT github DOT io</copyright><lastBuildDate>Mon, 04 May 2020 08:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2006-2020 icaoberg AT github DOT io</copyright><lastBuildDate>Sun, 05 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://icaoberg.github.io/img/icon-192.png</url>
       <title>Tags</title>
       <link>http://icaoberg.github.io/tags/</link>
     </image>
+    
+    <item>
+      <title>blogging</title>
+      <link>http://icaoberg.github.io/tags/blogging/</link>
+      <pubDate>Sun, 05 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>http://icaoberg.github.io/tags/blogging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>community</title>
+      <link>http://icaoberg.github.io/tags/community/</link>
+      <pubDate>Sun, 05 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>http://icaoberg.github.io/tags/community/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>spanish</title>
+      <link>http://icaoberg.github.io/tags/spanish/</link>
+      <pubDate>Sat, 16 May 2020 22:00:00 +0000</pubDate>
+      <guid>http://icaoberg.github.io/tags/spanish/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tinycards</title>
+      <link>http://icaoberg.github.io/tags/tinycards/</link>
+      <pubDate>Sat, 16 May 2020 22:00:00 +0000</pubDate>
+      <guid>http://icaoberg.github.io/tags/tinycards/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>cellorganizer</title>
@@ -25,30 +57,6 @@
       <link>http://icaoberg.github.io/tags/mmbios/</link>
       <pubDate>Mon, 04 May 2020 08:00:00 +0000</pubDate>
       <guid>http://icaoberg.github.io/tags/mmbios/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>spanish</title>
-      <link>http://icaoberg.github.io/tags/spanish/</link>
-      <pubDate>Thu, 16 Apr 2020 08:00:00 +0000</pubDate>
-      <guid>http://icaoberg.github.io/tags/spanish/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tinycards</title>
-      <link>http://icaoberg.github.io/tags/tinycards/</link>
-      <pubDate>Thu, 16 Apr 2020 08:00:00 +0000</pubDate>
-      <guid>http://icaoberg.github.io/tags/tinycards/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>blogging</title>
-      <link>http://icaoberg.github.io/tags/blogging/</link>
-      <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>http://icaoberg.github.io/tags/blogging/</guid>
       <description></description>
     </item>
     
