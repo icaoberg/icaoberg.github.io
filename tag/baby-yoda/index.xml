@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>baby yoda | icaoberg AT github DOT io</title>
+    <link>http://icaoberg.github.io/tag/baby-yoda/</link>
+      <atom:link href="http://icaoberg.github.io/tag/baby-yoda/index.xml" rel="self" type="application/rss+xml" />
+    <description>baby yoda</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright © 2006-2021 icaoberg AT github DOT io</copyright><lastBuildDate>Thu, 02 Jan 2020 17:51:57 -0500</lastBuildDate>
+    <image>
+      <url>http://icaoberg.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>baby yoda</title>
+      <link>http://icaoberg.github.io/tag/baby-yoda/</link>
+    </image>
+    
+    <item>
+      <title>Ready to party I am</title>
+      <link>http://icaoberg.github.io/post/ready-to-party-i-am/</link>
+      <pubDate>Thu, 02 Jan 2020 17:51:57 -0500</pubDate>
+      <guid>http://icaoberg.github.io/post/ready-to-party-i-am/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./yoda.jpg&#34; alt=&#34;Baby Yoda&#34;&gt;&lt;/p&gt;
+&lt;p&gt;P.S. Back at &lt;a href=&#34;http://www.cmu.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Carnegie Mellon&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

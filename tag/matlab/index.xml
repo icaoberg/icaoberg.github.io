@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>matlab | icaoberg AT github DOT io</title>
+    <link>http://icaoberg.github.io/tag/matlab/</link>
+      <atom:link href="http://icaoberg.github.io/tag/matlab/index.xml" rel="self" type="application/rss+xml" />
+    <description>matlab</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright © 2006-2021 icaoberg AT github DOT io</copyright><lastBuildDate>Tue, 17 Mar 2020 22:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://icaoberg.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>matlab</title>
+      <link>http://icaoberg.github.io/tag/matlab/</link>
+    </image>
+    
+    <item>
+      <title>Introduction to Statistical Methods with MATLAB</title>
+      <link>http://icaoberg.github.io/post/matlab-stats/</link>
+      <pubDate>Tue, 17 Mar 2020 22:00:00 +0000</pubDate>
+      <guid>http://icaoberg.github.io/post/matlab-stats/</guid>
+      <description>&lt;p&gt;I have been taken advantage of the current situation to distract and educate myself. It is not easy given the current state of affairs, however, distractions are important for everybody&amp;rsquo;s sanity.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Linear Algebra with MATLAB</title>
+      <link>http://icaoberg.github.io/post/matlab-linearalgebra/</link>
+      <pubDate>Mon, 09 Mar 2020 17:00:00 +0000</pubDate>
+      <guid>http://icaoberg.github.io/post/matlab-linearalgebra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solving Ordinary Differential Equations with MATLAB</title>
+      <link>http://icaoberg.github.io/post/matlab-ode/</link>
+      <pubDate>Mon, 09 Mar 2020 10:00:00 +0000</pubDate>
+      <guid>http://icaoberg.github.io/post/matlab-ode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matlab Onramp</title>
+      <link>http://icaoberg.github.io/post/matlab-onramp/</link>
+      <pubDate>Sat, 09 Nov 2019 01:48:55 -0500</pubDate>
+      <guid>http://icaoberg.github.io/post/matlab-onramp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Find Files</title>
+      <link>http://icaoberg.github.io/post/matlab-find-files/</link>
+      <pubDate>Tue, 22 Oct 2019 16:11:26 -0400</pubDate>
+      <guid>http://icaoberg.github.io/post/matlab-find-files/</guid>
+      <description>&lt;p&gt;I have been using Matlab for so long that I need to update some of my code. Some of the features aren&amp;rsquo;t that new but are certainly more efficient. Loving this.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.mathworks.com/matlabcentral/answers/32038-can-you-use-dir-to-list-files-in-subfolders&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Useful link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cody</title>
+      <link>http://icaoberg.github.io/post/cody/</link>
+      <pubDate>Thu, 26 Sep 2019 02:10:48 -0400</pubDate>
+      <guid>http://icaoberg.github.io/post/cody/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.mathworks.com/matlabcentral/cody/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mathworks Cody&lt;/a&gt; is a platform for having fun with Matlab. I mean I am having fun. I think it is similar to LeetCode or HackerRank. Main difference is, it is meant for Matlab.&lt;/p&gt;
+&lt;p&gt;Some of these exercises are simple -so far-. I like these kind of sites because it keep my old brain active.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Docker - Matlab MCR 2019b</title>
+      <link>http://icaoberg.github.io/post/docker-matlabmcr2019b/</link>
+      <pubDate>Fri, 20 Sep 2019 21:17:12 -0400</pubDate>
+      <guid>http://icaoberg.github.io/post/docker-matlabmcr2019b/</guid>
+      <description>&lt;div class=&#34;github-card&#34; data-github=&#34;icaoberg/docker-matlabmcr2019b&#34; data-width=&#34;400&#34; data-height=&#34;153&#34; data-theme=&#34;default&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;//cdn.jsdelivr.net/github-cards/latest/widget.js&#34;&gt;&lt;/script&gt;
+&lt;p&gt;Mathworks release version 2019b a few days ago. Alas, here are the links to the Docker and Singularity images. I hope there is someone out there that find these useful.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/icaoberg/docker-matlabmcr2019b&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dockerfile on Github&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloud.docker.com/u/icaoberg/repository/docker/icaoberg/matlabmcr2019b&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Docker image on DockerHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/icaoberg/singularity-matlabmcr2019b&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Singularity recipe on GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloud.sylabs.io/library/icaoberg/default/matlabmcr2019b&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Singularity image on GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Goodies</title>
+      <link>http://icaoberg.github.io/post/matlab-goodies/</link>
+      <pubDate>Wed, 18 Sep 2019 00:15:38 -0400</pubDate>
+      <guid>http://icaoberg.github.io/post/matlab-goodies/</guid>
+      <description>&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Do you ❤️ &lt;a href=&#34;https://twitter.com/hashtag/MATLAB?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#MATLAB&lt;/a&gt;? RT to enter to win this hat and t-shirt! Winner announced 9/20 🎉 &lt;a href=&#34;https://t.co/JowzXRvLEV&#34;&gt;pic.twitter.com/JowzXRvLEV&lt;/a&gt;&lt;/p&gt;&amp;mdash; MATLAB (@MATLAB) &lt;a href=&#34;https://twitter.com/MATLAB/status/1174327244644388864?ref_src=twsrc%5Etfw&#34;&gt;September 18, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;p&gt;P.S. I have the t-shirt, I want the hat!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GraphViz-like tools for Matlab</title>
+      <link>http://icaoberg.github.io/post/graphviz-for-matlab/</link>
+      <pubDate>Tue, 16 Feb 2016 05:52:23 -0500</pubDate>
+      <guid>http://icaoberg.github.io/post/graphviz-for-matlab/</guid>
+      <description>&lt;p&gt;You can use Matlab’s profile function to get some useful information about your scripts.&lt;/p&gt;
+&lt;p&gt;For example, running the profiler around CellOrganizer’s demo2D00&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;gt;&amp;gt; profile on; 
+&amp;gt;&amp;gt; demo2D00(); 
+&amp;gt;&amp;gt; profile off; 
+&amp;gt;&amp;gt; profview
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;will produce a report similar to this one&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./profile.png&#34; alt=&#34;Profile&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Report from running a profile on demo2D00.&lt;/p&gt;
+&lt;p&gt;But sometimes you want something visual. And…. here comes &lt;a href=&#34;http://www.mathworks.com/matlabcentral/fileexchange/27608-graphviz-like-tools-for-matlab&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GraphViz-like tools for MATLAB&lt;/a&gt; to the rescue!&lt;/p&gt;
+&lt;p&gt;GraphViz-like tools for Matlab “[…] creates a GraphViz dot language representation of the dependencies of a function.”&lt;/p&gt;
+&lt;p&gt;Using this tool is very straightforward, all you need to do is download the toolkit along with its dependencies; &lt;a href=&#34;http://www.mathworks.com/matlabcentral/fileexchange/17291-fdep--a-pedestrian-function-dependencies-finder&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;fdep: a pedestrian function dependencies finder&lt;/a&gt; and &lt;a href=&#34;http://www.graphviz.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GraphViz&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;installation&#34;&gt;Installation&lt;/h2&gt;
+&lt;p&gt;Before we start you need&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.mathworks.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Matlab&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://brew.sh/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Homebrew&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I tested the toolkit in Matlab 2014b for Mac.  This shell script will download the toolkit and its two dependencies. Assuming you are using HomeBrew, it is will also install GraphViz&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;wget -nc http://www.mathworks.com/matlabcentral/mlc-downloads/downloads/submissions/27608/versions/2/download/zip/docsgen_dot_tools.zip
+unzip -o docsgen_dot_tools.zip
+rm -f docsgen_dot_tools.zip
+wget -nc http://www.mathworks.com/matlabcentral/mlc-downloads/downloads/submissions/24652/versions/4/download/zip/drawDot.zip
+unzip -o drawDot.zip
+rm -f drawDot.zip
+wget -nc http://www.mathworks.com/matlabcentral/mlc-downloads/downloads/submissions/17291/versions/8/download/zip/fdep_21jun2010.zip
+unzip -o fdep_21jun2010.zip
+rm -f fdep_21jun2010.zip
+brew install graphviz
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;If the above commands were successful, then you should see the following files as well as the dot binary.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;$ ls
+drawDot.m  hfdep    mGraphViz.m  script.sh  tfdep2.m  tfdep4.m
+fdep.m    license.txt  mkdotfile.m  tfdep1.m  tfdep3.m
+$ which dot
+/usr/local/bin/dot
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
+&lt;p&gt;This example makes the graph from a file in my desktop. Make sure the file save in the variable ifile exists before running.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;echo &amp;quot;
+ifile = &#39;~/Desktop/script.m&#39;;
+if exist( ifile )
+  ofile = &#39;graph.dot&#39;;
+  txt = mkdotfile( ifile, ofile );
+  system( [dot -Tjpg graph.dot -o graph.jpg] );
+  exit;&amp;quot; &amp;gt; make_graph.m
+end
+matlab -nodesktop -nosplash -r &amp;quot;make_dot_graph;&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;The result from running the script above is the graph below&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./featured.jpg&#34; alt=&#34;Graph&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Result from running GraphViz-like tools for MATLAB on CellOrganizer’s demo2D00.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

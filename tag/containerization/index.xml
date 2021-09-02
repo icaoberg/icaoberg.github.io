@@ -1,0 +1,642 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>containerization | icaoberg AT github DOT io</title>
+    <link>http://icaoberg.github.io/tag/containerization/</link>
+      <atom:link href="http://icaoberg.github.io/tag/containerization/index.xml" rel="self" type="application/rss+xml" />
+    <description>containerization</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright © 2006-2021 icaoberg AT github DOT io</copyright><lastBuildDate>Sat, 28 Aug 2021 23:01:23 +0000</lastBuildDate>
+    <image>
+      <url>http://icaoberg.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>containerization</title>
+      <link>http://icaoberg.github.io/tag/containerization/</link>
+    </image>
+    
+    <item>
+      <title>pretty.yml</title>
+      <link>http://icaoberg.github.io/post/20210828-pretty-yml/</link>
+      <pubDate>Sat, 28 Aug 2021 23:01:23 +0000</pubDate>
+      <guid>http://icaoberg.github.io/post/20210828-pretty-yml/</guid>
+      <description>&lt;p&gt;During the summer I worked with an intern on migrating our repos from the private GitLab instance and my personal GitHub space to the PSC organization GitHub account. The idea was to publicly share our Dockerfiles and Singularity definition files for security and for those members in the community who might find them useful.&lt;/p&gt;
+&lt;p&gt;We were successful -at least based on my expectations- at doing so. We spent a considerable amount of time finding patterns, no matter how small, that would help us save time and tentatively automate process.&lt;/p&gt;
+&lt;p&gt;Some of these patterns were dumped into &lt;code&gt;pretty.yml&lt;/code&gt;. This YAML is nothing but a workflow for &lt;a href=&#34;https://github.com/features/actions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub Actions&lt;/a&gt; that monitors the existence of very specific files in the repo. If this files are found then we would label the repo as ready for publishing.&lt;/p&gt;
+&lt;p&gt;A working example of this workflow can be found &lt;a href=&#34;https://github.com/pscedu/singularity-tiger/actions/workflows/pretty.yml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;iframe src=&#34;https://giphy.com/embed/3orieWEkUA8HIfRULS&#34; width=&#34;480&#34; height=&#34;366&#34; frameBorder=&#34;0&#34; class=&#34;giphy-embed&#34; allowFullScreen&gt;&lt;/iframe&gt;&lt;p&gt;&lt;a href=&#34;https://giphy.com/gifs/season-3-the-simpsons-3x11-3orieWEkUA8HIfRULS&#34;&gt;via GIPHY&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I honestly don&amp;rsquo;t know if this is considered a best practice in general, but it seems like so to me since we ended up saving so much time.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>List of Singularity Containers</title>
+      <link>http://icaoberg.github.io/post/20210825-singularity-containers/</link>
+      <pubDate>Wed, 25 Aug 2021 22:05:41 +0000</pubDate>
+      <guid>http://icaoberg.github.io/post/20210825-singularity-containers/</guid>
+      <description>&lt;iframe src=&#34;https://giphy.com/embed/CzbiCJTYOzHTW&#34; width=&#34;480&#34; height=&#34;270&#34; frameBorder=&#34;0&#34; class=&#34;giphy-embed&#34; allowFullScreen&gt;&lt;/iframe&gt;&lt;p&gt;&lt;a href=&#34;https://giphy.com/gifs/CzbiCJTYOzHTW&#34;&gt;via GIPHY&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This summer, I was able to secure funding through &lt;a href=&#34;https://www.xsede.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;XSEDE&lt;/a&gt; for an intern. &lt;a href=&#34;https://www.psc.edu/summer-interns-spotlight-2/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hind Albakri&lt;/a&gt; joined the Biomedical Applications Group to help me migrate, test and build Singularity containers to deploy applications to &lt;a href=&#34;https://www.psc.edu/resources/bridges-2/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bridges-2&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This happened for two reasons,&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;I personally prefer to deploy every app as a container and&lt;/li&gt;
+&lt;li&gt;I needed to design a procedure to deploy and make them public for the benefit of our users and community.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;I am very happy with the outcome, since&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;the repos have been migrated,&lt;/li&gt;
+&lt;li&gt;documentation was written for the benefit of power users and staff members at PSC, and&lt;/li&gt;
+&lt;li&gt;a procedure was designed and implemented for future deployments.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Here is a list of the repositories for the packages that have been prepared to be deployed or have been deployed to &lt;a href=&#34;https://www.psc.edu/resources/bridges-2/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bridges-2&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;stem&#34;&gt;STEM&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Name&lt;/th&gt;
+&lt;th&gt;Information&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;http://github.com/pscedu/singularity-abyss&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;abyss&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-abyss/actions/workflows/main.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-abyss/actions/workflows/pretty.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/license/pscedu/singularity-abyss&#34; alt=&#34;License&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;http://github.com/pscedu/singularity-asciigenome&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;asciigenome&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-asciigenome/actions/workflows/main.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-asciigenome/actions/workflows/pretty.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/license/pscedu/singularity-asciigenome&#34; alt=&#34;License&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;http://github.com/pscedu/singularity-aspera-connect&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;aspera-connect&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-aspera-connect/actions/workflows/main.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-aspera-connect/actions/workflows/pretty.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/license/pscedu/singularity-aspera-connect&#34; alt=&#34;License&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;http://github.com/pscedu/singularity-bamtools&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;bamtools&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-bamtools/actions/workflows/main.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-bamtools/actions/workflows/pretty.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/license/pscedu/singularity-bamtools&#34; alt=&#34;License&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;http://github.com/pscedu/singularity-bcftools&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;bcftools&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-bcftools/actions/workflows/main.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-bcftools/actions/workflows/pretty.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/license/pscedu/singularity-bcftools&#34; alt=&#34;License&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;http://github.com/pscedu/singularity-bedtools&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;bedtools&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-bedtools/actions/workflows/main.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-bedtools/actions/workflows/pretty.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/license/pscedu/singularity-bedtools&#34; alt=&#34;License&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;http://github.com/pscedu/singularity-bismark&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;bismark&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-bismark/actions/workflows/main.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-bismark/actions/workflows/pretty.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/license/pscedu/singularity-bismark&#34; alt=&#34;License&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;http://github.com/pscedu/singularity-blast&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blast&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-blast/actions/workflows/main.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-blast/actions/workflows/pretty.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/license/pscedu/singularity-blast&#34; alt=&#34;License&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;http://github.com/pscedu/singularity-bowtie2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;bowtie2&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-bowtie2/actions/workflows/main.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-bowtie2/actions/workflows/pretty.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/license/pscedu/singularity-bowtie2&#34; alt=&#34;License&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;http://github.com/pscedu/singularity-busco&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;busco&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-busco/actions/workflows/main.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-busco/actions/workflows/pretty.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/license/pscedu/singularity-busco&#34; alt=&#34;License&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;http://github.com/pscedu/singularity-bwa&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;bwa&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-bwa/actions/workflows/main.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-bwa/actions/workflows/pretty.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/license/pscedu/singularity-bwa&#34; alt=&#34;License&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;http://github.com/pscedu/singularity-cutadapt&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;cutadapt&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-cutadapt/actions/workflows/main.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-cutadapt/actions/workflows/pretty.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/license/pscedu/singularity-cutadapt&#34; alt=&#34;License&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;http://github.com/pscedu/singularity-fastani&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;fastani&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-fastani/actions/workflows/main.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-fastani/actions/workflows/pretty.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/license/pscedu/singularity-fastani&#34; alt=&#34;License&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;http://github.com/pscedu/singularity-fastqc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;fastqc&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-fastqc/actions/workflows/main.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-fastqc/actions/workflows/pretty.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/license/pscedu/singularity-fastqc&#34; alt=&#34;License&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;http://github.com/pscedu/singularity-fasttree&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;fasttree&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-fasttree/actions/workflows/main.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-fasttree/actions/workflows/pretty.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/license/pscedu/singularity-fasttree&#34; alt=&#34;License&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;http://github.com/pscedu/singularity-gatk&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;gatk&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-gatk/actions/workflows/main.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-gatk/actions/workflows/pretty.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/license/pscedu/singularity-gatk&#34; alt=&#34;License&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;http://github.com/pscedu/singularity-gent&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;gent&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-gent/actions/workflows/main.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-gent/actions/workflows/pretty.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/license/pscedu/singularity-gent&#34; alt=&#34;License&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;http://github.com/pscedu/singularity-hisat2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hisat2&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-hisat2/actions/workflows/main.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-hisat2/actions/workflows/pretty.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/license/pscedu/singularity-hisat2&#34; alt=&#34;License&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;http://github.com/pscedu/singularity-hmmer&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hmmer&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-hmmer/actions/workflows/main.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-hmmer/actions/workflows/pretty.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/license/pscedu/singularity-hmmer&#34; alt=&#34;License&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;http://github.com/pscedu/singularity-htslib&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;htslib&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-htslib/actions/workflows/main.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-htslib/actions/workflows/pretty.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/license/pscedu/singularity-htslib&#34; alt=&#34;License&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;http://github.com/pscedu/singularity-kraken2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;kraken2&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-kraken2/actions/workflows/main.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-kraken2/actions/workflows/pretty.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/license/pscedu/singularity-kraken2&#34; alt=&#34;License&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;http://github.com/pscedu/singularity-methylpy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;methylpy&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-methylpy/actions/workflows/main.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-methylpy/actions/workflows/pretty.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/license/pscedu/singularity-methylpy&#34; alt=&#34;License&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;http://github.com/pscedu/singularity-ncview&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ncview&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-ncview/actions/workflows/main.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-ncview/actions/workflows/pretty.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/license/pscedu/singularity-ncview&#34; alt=&#34;License&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;http://github.com/pscedu/singularity-octave&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;octave&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-octave/actions/workflows/main.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-octave/actions/workflows/pretty.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/license/pscedu/singularity-octave&#34; alt=&#34;License&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;http://github.com/pscedu/singularity-phylip-suite&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;phylip-suite&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-phylip-suite/actions/workflows/main.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-phylip-suite/actions/workflows/pretty.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/license/pscedu/singularity-phylip-suite&#34; alt=&#34;License&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;http://github.com/pscedu/singularity-picard&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;picard&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-picard/actions/workflows/main.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-picard/actions/workflows/pretty.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/license/pscedu/singularity-picard&#34; alt=&#34;License&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;http://github.com/pscedu/singularity-prodigal&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;prodigal&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-prodigal/actions/workflows/main.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-prodigal/actions/workflows/pretty.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/license/pscedu/singularity-prodigal&#34; alt=&#34;License&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;http://github.com/pscedu/singularity-raxml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;raxml&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-raxml/actions/workflows/main.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-raxml/actions/workflows/pretty.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/license/pscedu/singularity-raxml&#34; alt=&#34;License&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;http://github.com/pscedu/singularity-salmon&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;salmon&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-salmon/actions/workflows/main.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-salmon/actions/workflows/pretty.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/license/pscedu/singularity-salmon&#34; alt=&#34;License&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;http://github.com/pscedu/singularity-samtools&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;samtools&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-samtools/actions/workflows/main.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-samtools/actions/workflows/pretty.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/license/pscedu/singularity-samtools&#34; alt=&#34;License&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;http://github.com/pscedu/singularity-spades&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;spades&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-spades/actions/workflows/main.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-spades/actions/workflows/pretty.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/license/pscedu/singularity-spades&#34; alt=&#34;License&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;http://github.com/pscedu/singularity-spades&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;spades&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-spades/actions/workflows/main.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-spades/actions/workflows/pretty.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/license/pscedu/singularity-spades&#34; alt=&#34;License&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;http://github.com/pscedu/singularity-sra-toolkit&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;sra-toolkit&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-sra-toolkit/actions/workflows/main.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-sra-toolkit/actions/workflows/pretty.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/license/pscedu/singularity-sra-toolkit&#34; alt=&#34;License&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;http://github.com/pscedu/singularity-star&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;star&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-star/actions/workflows/main.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-star/actions/workflows/pretty.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/license/pscedu/singularity-star&#34; alt=&#34;License&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;http://github.com/pscedu/singularity-tiger&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tiger&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-tiger/actions/workflows/main.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-tiger/actions/workflows/pretty.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/license/pscedu/singularity-tiger&#34; alt=&#34;License&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;http://github.com/pscedu/singularity-trimmomatic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;trimmomatic&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-trimmomatic/actions/workflows/main.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-trimmomatic/actions/workflows/pretty.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/license/pscedu/singularity-trimmomatic&#34; alt=&#34;License&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;http://github.com/pscedu/singularity-trimmomatic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;trimmomatic&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-trimmomatic/actions/workflows/main.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-trimmomatic/actions/workflows/pretty.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/license/pscedu/singularity-trimmomatic&#34; alt=&#34;License&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;http://github.com/pscedu/singularity-vcf2maf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;vcf2maf&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-vcf2maf/actions/workflows/main.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-vcf2maf/actions/workflows/pretty.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/license/pscedu/singularity-vcf2maf&#34; alt=&#34;License&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;http://github.com/pscedu/singularity-viennarna&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;viennarna&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-viennarna/actions/workflows/main.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-viennarna/actions/workflows/pretty.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/license/pscedu/singularity-viennarna&#34; alt=&#34;License&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;utilities&#34;&gt;Utilities&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Name&lt;/th&gt;
+&lt;th&gt;Information&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;http://github.com/pscedu/singularity-asciinema&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;asciinema&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-asciinema/actions/workflows/main.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-asciinema/actions/workflows/pretty.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/license/pscedu/singularity-asciinema&#34; alt=&#34;License&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;http://github.com/pscedu/singularity-aws-cli&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;aws-cli&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-aws-cli/actions/workflows/main.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-aws-cli/actions/workflows/pretty.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/license/pscedu/singularity-aws-cli&#34; alt=&#34;License&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;http://github.com/pscedu/singularity-bat&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;bat&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-bat/actions/workflows/main.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-bat/actions/workflows/pretty.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/license/pscedu/singularity-bat&#34; alt=&#34;License&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;http://github.com/pscedu/singularity-browsh&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;browsh&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-browsh/actions/workflows/main.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-browsh/actions/workflows/pretty.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/license/pscedu/singularity-browsh&#34; alt=&#34;License&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;http://github.com/pscedu/singularity-dust&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;dust&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-dust/actions/workflows/main.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-dust/actions/workflows/pretty.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/license/pscedu/singularity-dust&#34; alt=&#34;License&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;http://github.com/pscedu/singularity-fdupes&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;fdupes&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-fdupes/actions/workflows/main.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-fdupes/actions/workflows/pretty.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/license/pscedu/singularity-fdupes&#34; alt=&#34;License&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;http://github.com/pscedu/singularity-ffmpeg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ffmpeg&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-ffmpeg/actions/workflows/main.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-ffmpeg/actions/workflows/pretty.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/license/pscedu/singularity-ffmpeg&#34; alt=&#34;License&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;http://github.com/pscedu/singularity-flac&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;flac&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-flac/actions/workflows/main.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-flac/actions/workflows/pretty.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/license/pscedu/singularity-flac&#34; alt=&#34;License&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;http://github.com/pscedu/singularity-gnuplot&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;gnuplot&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-gnuplot/actions/workflows/main.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-gnuplot/actions/workflows/pretty.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/license/pscedu/singularity-gnuplot&#34; alt=&#34;License&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;http://github.com/pscedu/singularity-graphviz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;graphviz&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-graphviz/actions/workflows/main.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-graphviz/actions/workflows/pretty.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/license/pscedu/singularity-graphviz&#34; alt=&#34;License&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;http://github.com/pscedu/singularity-hyperfine&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hyperfine&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-hyperfine/actions/workflows/main.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-hyperfine/actions/workflows/pretty.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/license/pscedu/singularity-hyperfine&#34; alt=&#34;License&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;http://github.com/pscedu/singularity-imagemagick&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;imagemagick&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-imagemagick/actions/workflows/main.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-imagemagick/actions/workflows/pretty.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/license/pscedu/singularity-imagemagick&#34; alt=&#34;License&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;http://github.com/pscedu/singularity-lazygit&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;lazygit&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-lazygit/actions/workflows/main.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-lazygit/actions/workflows/pretty.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/license/pscedu/singularity-lazygit&#34; alt=&#34;License&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;http://github.com/pscedu/singularity-mc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;mc&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-mc/actions/workflows/main.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-mc/actions/workflows/pretty.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/license/pscedu/singularity-mc&#34; alt=&#34;License&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;http://github.com/pscedu/singularity-ncdu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ncdu&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-ncdu/actions/workflows/main.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-ncdu/actions/workflows/pretty.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/license/pscedu/singularity-ncdu&#34; alt=&#34;License&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;http://github.com/pscedu/singularity-octave&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;octave&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-octave/actions/workflows/main.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-octave/actions/workflows/pretty.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/license/pscedu/singularity-octave&#34; alt=&#34;License&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;http://github.com/pscedu/singularity-pandoc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pandoc&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-pandoc/actions/workflows/main.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-pandoc/actions/workflows/pretty.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/license/pscedu/singularity-pandoc&#34; alt=&#34;License&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;http://github.com/pscedu/singularity-rclone&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rclone&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-rclone/actions/workflows/main.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-rclone/actions/workflows/pretty.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/license/pscedu/singularity-rclone&#34; alt=&#34;License&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;http://github.com/pscedu/singularity-visidata&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;visidata&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-visidata/actions/workflows/main.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://github.com/pscedu/singularity-visidata/actions/workflows/pretty.yml/badge.svg&#34; alt=&#34;Status&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/license/pscedu/singularity-visidata&#34; alt=&#34;License&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>singularity-rclone</title>
+      <link>http://icaoberg.github.io/post/20210713-singularity-rclone/</link>
+      <pubDate>Tue, 13 Jul 2021 00:17:20 +0000</pubDate>
+      <guid>http://icaoberg.github.io/post/20210713-singularity-rclone/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://rclone.org/img/logo_on_light__horizontal_color.svg&#34; alt=&#34;Logo&#34;&gt;&lt;/p&gt;
+&lt;p&gt;rclone is a command line program to manage files on cloud storage. It is a feature rich alternative to cloud vendors&#39; web storage interfaces.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Singularity definition file &lt;a href=&#34;https://github.com/pscedu/singularity-rclone&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;repository&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Source code &lt;a href=&#34;https://rclone.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;repository&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;to-install-this-container-on-bridges-2httpswwwpsceduresourcesbridges-2&#34;&gt;To install this container on &lt;a href=&#34;https://www.psc.edu/resources/bridges-2/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bridges 2&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Copy the&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;SIF&lt;/code&gt; file&lt;/li&gt;
+&lt;li&gt;and the &lt;code&gt;rclone&lt;/code&gt; script&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;to &lt;code&gt;/opt/packages/rclone/1.55.1&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Copy the file &lt;code&gt;modulefile.lua&lt;/code&gt; to &lt;code&gt;/opt/modulefiles/rclone&lt;/code&gt; as &lt;code&gt;1.55.1.lua&lt;/code&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;to-load-and-use-the-module&#34;&gt;To load and use the module&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;&amp;gt; module load rclone
+&amp;gt; rclone --help 
+
+
+Rclone syncs files to and from cloud storage providers as well as
+mounting them, listing them in lots of different ways.
+
+See the home page (https://rclone.org/) for installation, usage,
+documentation, changelog and configuration walkthroughs.
+
+Usage:
+  rclone [flags]
+  rclone [command]
+
+Available Commands:
+  about           Get quota information from the remote.
+  authorize       Remote authorization.
+  backend         Run a backend specific command.
+  cat             Concatenates any files and sends them to stdout.
+  check           Checks the files in the source and destination match.
+  cleanup         Clean up the remote if possible.
+  config          Enter an interactive configuration session.
+  copy            Copy files from source to dest, skipping already copied.
+  copyto          Copy files from source to dest, skipping already copied.
+  copyurl         Copy url content to dest.
+  cryptcheck      Cryptcheck checks the integrity of a crypted remote.
+  cryptdecode     Cryptdecode returns unencrypted file names.
+  dedupe          Interactively find duplicate filenames and delete/rename them.
+  delete          Remove the files in path.
+  deletefile      Remove a single file from remote.
+  genautocomplete Output completion script for a given shell.
+  gendocs         Output markdown docs for rclone to the directory supplied.
+  hashsum         Produces a hashsum file for all the objects in the path.
+  help            Show help for rclone commands, flags and backends.
+  link            Generate public link to file/folder.
+  listremotes     List all the remotes in the config file.
+  ls              List the objects in the path with size and path.
+  lsd             List all directories/containers/buckets in the path.
+  lsf             List directories and objects in remote:path formatted for parsing.
+  lsjson          List directories and objects in the path in JSON format.
+  lsl             List the objects in path with modification time, size and path.
+  md5sum          Produces an md5sum file for all the objects in the path.
+  mkdir           Make the path if it doesn&#39;t already exist.
+  mount           Mount the remote as file system on a mountpoint.
+  move            Move files from source to dest.
+  moveto          Move file or directory from source to dest.
+  ncdu            Explore a remote with a text based user interface.
+  obscure         Obscure password for use in the rclone config file.
+  purge           Remove the path and all of its contents.
+  rc              Run a command against a running rclone.
+  rcat            Copies standard input to file on remote.
+  rcd             Run rclone listening to remote control commands only.
+  rmdir           Remove the empty directory at path.
+  rmdirs          Remove empty directories under the path.
+  selfupdate      Update the rclone binary.
+  serve           Serve a remote over a protocol.
+  settier         Changes storage class/tier of objects in remote.
+  sha1sum         Produces an sha1sum file for all the objects in the path.
+  size            Prints the total size and number of objects in remote:path.
+  sync            Make source and dest identical, modifying destination only.
+  test            Run a test command
+  touch           Create new file or change file modification time.
+  tree            List the contents of the remote in a tree like fashion.
+  version         Show the version number.
+
+Use &amp;quot;rclone [command] --help&amp;quot; for more information about a command.
+Use &amp;quot;rclone help flags&amp;quot; for to see the global flags.
+Use &amp;quot;rclone help backends&amp;quot; for a list of supported services.
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>singularity-visidata</title>
+      <link>http://icaoberg.github.io/post/20210712-singularity-visidata/</link>
+      <pubDate>Mon, 12 Jul 2021 23:55:31 +0000</pubDate>
+      <guid>http://icaoberg.github.io/post/20210712-singularity-visidata/</guid>
+      <description>&lt;p&gt;VisiData is an interactive multitool for tabular data. It combines the clarity of a spreadsheet, the efficiency of the terminal, and the power of Python, into a lightweight utility which can handle millions of rows with ease.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Singularity definition file &lt;a href=&#34;https://github.com/pscedu/singularity-visidata&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;repository&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Source code &lt;a href=&#34;https://www.visidata.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;repository&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;to-install-this-container-on-bridges-2httpswwwpsceduresourcesbridges-2&#34;&gt;To install this container on &lt;a href=&#34;https://www.psc.edu/resources/bridges-2/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bridges 2&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Copy the&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;SIF&lt;/code&gt; file&lt;/li&gt;
+&lt;li&gt;and the &lt;code&gt;vd&lt;/code&gt; script&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;to &lt;code&gt;/opt/packages/visidata/2.4&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Copy the file &lt;code&gt;modulefile.lua&lt;/code&gt; to &lt;code&gt;/opt/modulefiles/visidata&lt;/code&gt; as &lt;code&gt;2.4.lua&lt;/code&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;to-load-and-use-the-module&#34;&gt;To load and use the module&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;&amp;gt; module load visidata
+&amp;gt; vd
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://asciinema.org/a/SPyM2xkC7nXgDA7LPCSYizqkd&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://asciinema.org/a/SPyM2xkC7nXgDA7LPCSYizqkd.svg&#34; alt=&#34;asciicast&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>singularity-dust</title>
+      <link>http://icaoberg.github.io/post/20210712-singularity-dust/</link>
+      <pubDate>Mon, 12 Jul 2021 22:31:56 +0000</pubDate>
+      <guid>http://icaoberg.github.io/post/20210712-singularity-dust/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/bootandy/dust/master/media/snap.png&#34; alt=&#34;Example&#34;&gt;&lt;/p&gt;
+&lt;p&gt;du + rust = dust. Like du but more intuitive.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Singularity definition file &lt;a href=&#34;https://github.com/pscedu/singularity-dust&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;repository&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Source code &lt;a href=&#34;https://github.com/bootandy/dust&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;repository&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;to-install-this-container-on-bridges-2httpswwwpsceduresourcesbridges-2&#34;&gt;To install this container on &lt;a href=&#34;https://www.psc.edu/resources/bridges-2/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bridges 2&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Copy the&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;SIF&lt;/code&gt; file&lt;/li&gt;
+&lt;li&gt;and the &lt;code&gt;dust&lt;/code&gt; script&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;to &lt;code&gt;/opt/packages/dust/0.5.4&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Copy the file &lt;code&gt;modulefile.lua&lt;/code&gt; to &lt;code&gt;/opt/modulefiles/dust&lt;/code&gt; as &lt;code&gt;0.5.4.lua&lt;/code&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;to-load-and-use-the-module&#34;&gt;To load and use the module&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;&amp;gt; module load dust
+&amp;gt; dust --help
+Dust 0.6.0
+Like du but more intuitive
+
+USAGE:
+    dust [FLAGS] [OPTIONS] [--] [inputs]...
+
+FLAGS:
+    -f, --filecount          Directory &#39;size&#39; is number of child files/dirs not disk size
+    -s, --apparent-size      Use file length instead of blocks
+    -p, --full-paths         Subdirectories will not have their path shortened
+    -h, --help               Prints help information
+    -i, --ignore_hidden      Obey .git_ignore rules &amp;amp; Do not display hidden files
+    -b, --no-percent-bars    No percent bars or percentages will be displayed
+    -c, --no-colors          No colors will be printed (normally largest directories are colored)
+    -r, --reverse            Print tree upside down (biggest highest)
+    -V, --version            Prints version information
+
+OPTIONS:
+    -d, --depth &amp;lt;depth&amp;gt;                             Depth to show
+    -X, --ignore-directory &amp;lt;ignore_directory&amp;gt;...    Exclude any file or directory with this name
+    -n, --number-of-lines &amp;lt;number_of_lines&amp;gt;
+            Number of lines of output to show. This is Height, (but h is help) [default: 20]
+
+    -w, --terminal_width &amp;lt;width&amp;gt;
+            Specify width of output overriding the auto detection of terminal width
+
+
+ARGS:
+    &amp;lt;inputs&amp;gt;...
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>singularity-bat</title>
+      <link>http://icaoberg.github.io/post/20210712-singularity-bat/</link>
+      <pubDate>Mon, 12 Jul 2021 22:24:09 +0000</pubDate>
+      <guid>http://icaoberg.github.io/post/20210712-singularity-bat/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://camo.githubusercontent.com/7b7c397acc5b91b4c4cf7756015185fe3c5f700f70d256a212de51294a0cf673/68747470733a2f2f696d6775722e636f6d2f724773646e44652e706e67&#34; alt=&#34;Example&#34;&gt;&lt;/p&gt;
+&lt;p&gt;A cat(1) clone with syntax highlighting and Git integration.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Singularity definition file &lt;a href=&#34;https://github.com/pscedu/singularity-bat&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;repository&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Source code &lt;a href=&#34;https://github.com/sharkdp/bat&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;repository&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;to-install-this-container-on-bridges-2httpswwwpsceduresourcesbridges-2&#34;&gt;To install this container on &lt;a href=&#34;https://www.psc.edu/resources/bridges-2/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bridges 2&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Copy the&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;SIF&lt;/code&gt; file&lt;/li&gt;
+&lt;li&gt;and the &lt;code&gt;bat&lt;/code&gt; script&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;to &lt;code&gt;/opt/packages/bat/0.17.1&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Copy the file &lt;code&gt;modulefile.lua&lt;/code&gt; to &lt;code&gt;/opt/modulefiles/bat&lt;/code&gt; as &lt;code&gt;0.17.1.lua&lt;/code&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;to-load-and-use-the-module&#34;&gt;To load and use the module&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;&amp;gt; module load bat
+&amp;gt; bat --help
+
+bat 0.18.1
+A cat(1) clone with syntax highlighting and Git integration.
+
+USAGE:
+    bat [OPTIONS] [FILE]...
+    bat &amp;lt;SUBCOMMAND&amp;gt;
+
+OPTIONS:
+    -A, --show-all
+            Show non-printable characters like space, tab or newline. This option can also be used
+            to print binary files. Use &#39;--tabs&#39; to control the width of the tab-placeholders.
+    -p, --plain
+            Only show plain style, no decorations. This is an alias for &#39;--style=plain&#39;. When &#39;-p&#39;
+            is used twice (&#39;-pp&#39;), it also disables automatic paging (alias for &#39;--style=plain
+            --pager=never&#39;).
+    -l, --language &amp;lt;language&amp;gt;
+            Explicitly set the language for syntax highlighting. The language can be specified as a
+            name (like &#39;C++&#39; or &#39;LaTeX&#39;) or possible file extension (like &#39;cpp&#39;, &#39;hpp&#39; or &#39;md&#39;). Use
+            &#39;--list-languages&#39; to show all supported language names and file extensions.
+    -H, --highlight-line &amp;lt;N:M&amp;gt;...
+            Highlight the specified line ranges with a different background color For example:
+              &#39;--highlight-line 40&#39; highlights line 40
+              &#39;--highlight-line 30:40&#39; highlights lines 30 to 40
+              &#39;--highlight-line :40&#39; highlights lines 1 to 40
+              &#39;--highlight-line 40:&#39; highlights lines 40 to the end of the file
+        --file-name &amp;lt;name&amp;gt;...
+            Specify the name to display for a file. Useful when piping data to bat from STDIN when
+            bat does not otherwise know the filename. Note that the provided file name is also used
+            for syntax detection.
+    -d, --diff
+            Only show lines that have been added/removed/modified with respect to the Git index. Use
+            --diff-context=N to control how much context you want to see.
+        --diff-context &amp;lt;N&amp;gt;
+            Include N lines of context around added/removed/modified lines when using &#39;--diff&#39;.
+
+        --tabs &amp;lt;T&amp;gt;
+            Set the tab width to T spaces. Use a width of 0 to pass tabs through directly
+
+        --wrap &amp;lt;mode&amp;gt;
+            Specify the text-wrapping mode (*auto*, never, character). The &#39;--terminal-width&#39; option
+            can be used in addition to control the output width.
+        --terminal-width &amp;lt;width&amp;gt;
+            Explicitly set the width of the terminal instead of determining it automatically. If
+            prefixed with &#39;+&#39; or &#39;-&#39;, the value will be treated as an offset to the actual terminal
+            width. See also: &#39;--wrap&#39;.
+    -n, --number
+            Only show line numbers, no other decorations. This is an alias for &#39;--style=numbers&#39;
+
+        --color &amp;lt;when&amp;gt;
+            Specify when to use colored output. The automatic mode only enables colors if an
+            interactive terminal is detected - colors are automatically disabled if the output goes
+            to a pipe.
+            Possible values: *auto*, never, always.
+        --italic-text &amp;lt;when&amp;gt;
+            Specify when to use ANSI sequences for italic text in the output. Possible values:
+            always, *never*.
+        --decorations &amp;lt;when&amp;gt;
+            Specify when to use the decorations that have been specified via &#39;--style&#39;. The
+            automatic mode only enables decorations if an interactive terminal is detected. Possible
+            values: *auto*, never, always.
+    -f, --force-colorization
+            Alias for &#39;--decorations=always --color=always&#39;. This is useful if the output of bat is
+            piped to another program, but you want to keep the colorization/decorations.
+        --paging &amp;lt;when&amp;gt;
+            Specify when to use the pager. To disable the pager, use --paging=never&#39; or its
+            alias,&#39;-P&#39;. To disable the pager permanently, set BAT_PAGER to an empty string. To
+            control which pager is used, see the &#39;--pager&#39; option. Possible values: *auto*, never,
+            always.
+        --pager &amp;lt;command&amp;gt;
+            Determine which pager is used. This option will override the PAGER and BAT_PAGER
+            environment variables. The default pager is &#39;less&#39;. To control when the pager is used,
+            see the &#39;--paging&#39; option. Example: &#39;--pager &amp;quot;less -RF&amp;quot;&#39;.
+    -m, --map-syntax &amp;lt;glob:syntax&amp;gt;...
+            Map a glob pattern to an existing syntax name. The glob pattern is matched on the full
+            path and the filename. For example, to highlight *.build files with the Python syntax,
+            use -m &#39;*.build:Python&#39;. To highlight files named &#39;.myignore&#39; with the Git Ignore
+            syntax, use -m &#39;.myignore:Git Ignore&#39;. Note that the right-hand side is the *name* of
+            the syntax, not a file extension.
+        --theme &amp;lt;theme&amp;gt;
+            Set the theme for syntax highlighting. Use &#39;--list-themes&#39; to see all available themes.
+            To set a default theme, add the &#39;--theme=&amp;quot;...&amp;quot;&#39; option to the configuration file or
+            export the BAT_THEME environment variable (e.g.: export BAT_THEME=&amp;quot;...&amp;quot;).
+        --list-themes
+            Display a list of supported themes for syntax highlighting.
+
+        --style &amp;lt;components&amp;gt;
+            Configure which elements (line numbers, file headers, grid borders, Git modifications,
+            ..) to display in addition to the file contents. The argument is a comma-separated list
+            of components to display (e.g. &#39;numbers,changes,grid&#39;) or a pre-defined style (&#39;full&#39;).
+            To set a default style, add the &#39;--style=&amp;quot;..&amp;quot;&#39; option to the configuration file or
+            export the BAT_STYLE environment variable (e.g.: export BAT_STYLE=&amp;quot;..&amp;quot;).
+
+            Possible values:
+
+              * full: enables all available components.
+              * auto: same as &#39;full&#39;, unless the output is piped (default).
+              * plain: disables all available components.
+              * changes: show Git modification markers.
+              * header: show filenames before the content.
+              * grid: vertical/horizontal lines to separate side bar
+                      and the header from the content.
+              * rule: horizontal lines to delimit files.
+              * numbers: show line numbers in the side bar.
+              * snip: draw separation lines between distinct line ranges.
+    -r, --line-range &amp;lt;N:M&amp;gt;...
+            Only print the specified range of lines for each file. For example:
+              &#39;--line-range 30:40&#39; prints lines 30 to 40
+              &#39;--line-range :40&#39; prints lines 1 to 40
+              &#39;--line-range 40:&#39; prints lines 40 to the end of the file
+              &#39;--line-range 40&#39; only prints line 40
+    -L, --list-languages
+            Display a list of supported languages for syntax highlighting.
+
+    -u, --unbuffered
+            This option exists for POSIX-compliance reasons (&#39;u&#39; is for &#39;unbuffered&#39;). The output is
+            always unbuffered - this option is simply ignored.
+        --diagnostic
+            Show diagnostic information for bug reports.
+
+    -h, --help
+            Print this help message.
+
+    -V, --version
+            Show version information.
+
+
+ARGS:
+    &amp;lt;FILE&amp;gt;...
+            File(s) to print / concatenate. Use a dash (&#39;-&#39;) or no argument at all to read from
+            standard input.
+
+SUBCOMMANDS:
+    cache    Modify the syntax-definition and theme cache
+
+Note: `bat -h` prints a short and concise overview while `bat --help` gives all details.
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

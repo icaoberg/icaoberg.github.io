@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>training | icaoberg AT github DOT io</title>
+    <link>http://icaoberg.github.io/tag/training/</link>
+      <atom:link href="http://icaoberg.github.io/tag/training/index.xml" rel="self" type="application/rss+xml" />
+    <description>training</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright © 2006-2021 icaoberg AT github DOT io</copyright><lastBuildDate>Fri, 31 Jan 2020 21:37:08 -0500</lastBuildDate>
+    <image>
+      <url>http://icaoberg.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>training</title>
+      <link>http://icaoberg.github.io/tag/training/</link>
+    </image>
+    
+    <item>
+      <title>BiasBusters</title>
+      <link>http://icaoberg.github.io/post/biasbusters/</link>
+      <pubDate>Fri, 31 Jan 2020 21:37:08 -0500</pubDate>
+      <guid>http://icaoberg.github.io/post/biasbusters/</guid>
+      <description>&lt;p&gt;Today I attended &lt;a href=&#34;https://scs4all.cs.cmu.edu/biasbusters/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BiasBusters&lt;/a&gt;. &amp;ldquo;BiasBusters@CMU is modeled on Google’s Bias Busting@ Work program, and developed in concert with Google. The program was piloted in the School of Computer Science (BiasBusters@SCS,CMU) to engage over issues of bias, diversity, and inclusion. BiasBusters sessions are led by members of the CMU community who have volunteered to be trained as program facilitators. BiasBusters@CMU now reaches communities across the Carnegie Mellon campus.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Even though I am an underrepresented minority in STEM, that does not imply that I am aware of every situation every member of this group has experienced. It was enlightening to listen to the experience(s) of other members of this group and how this/these impacted them.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
