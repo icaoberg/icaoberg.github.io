@@ -3,42 +3,84 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://icaoberg.github.io/post/</loc>
-    <lastmod>2021-08-28T23:01:23+00:00</lastmod>
+    <lastmod>2021-11-29T01:55:24+00:00</lastmod>
   </url><url>
     <loc>http://icaoberg.github.io/authors/</loc>
-    <lastmod>2021-08-28T23:01:23+00:00</lastmod>
-  </url><url>
-    <loc>http://icaoberg.github.io/tag/best-practices/</loc>
-    <lastmod>2021-08-28T23:01:23+00:00</lastmod>
+    <lastmod>2021-11-29T01:55:24+00:00</lastmod>
   </url><url>
     <loc>http://icaoberg.github.io/tag/blogging/</loc>
-    <lastmod>2021-08-28T23:01:23+00:00</lastmod>
+    <lastmod>2021-11-29T01:55:24+00:00</lastmod>
   </url><url>
     <loc>http://icaoberg.github.io/categories/</loc>
-    <lastmod>2021-08-28T23:01:23+00:00</lastmod>
+    <lastmod>2021-11-29T01:55:24+00:00</lastmod>
+  </url><url>
+    <loc>http://icaoberg.github.io/author/icaoberg/</loc>
+    <lastmod>2021-11-29T01:55:24+00:00</lastmod>
+  </url><url>
+    <loc>http://icaoberg.github.io/</loc>
+    <lastmod>2021-11-29T01:55:24+00:00</lastmod>
+  </url><url>
+    <loc>http://icaoberg.github.io/category/programming/</loc>
+    <lastmod>2021-11-29T01:55:24+00:00</lastmod>
+  </url><url>
+    <loc>http://icaoberg.github.io/tag/scripting/</loc>
+    <lastmod>2021-11-29T01:55:24+00:00</lastmod>
+  </url><url>
+    <loc>http://icaoberg.github.io/tags/</loc>
+    <lastmod>2021-11-29T01:55:24+00:00</lastmod>
+  </url><url>
+    <loc>http://icaoberg.github.io/tag/taskwarrior/</loc>
+    <lastmod>2021-11-29T01:55:24+00:00</lastmod>
+  </url><url>
+    <loc>http://icaoberg.github.io/post/20211129-taskwarrior/</loc>
+    <lastmod>2021-11-29T01:55:24+00:00</lastmod>
+  </url><url>
+    <loc>http://icaoberg.github.io/post/20211122/</loc>
+    <lastmod>2021-11-22T00:14:23+00:00</lastmod>
+  </url><url>
+    <loc>http://icaoberg.github.io/tag/instagram/</loc>
+    <lastmod>2021-11-22T00:14:23+00:00</lastmod>
+  </url><url>
+    <loc>http://icaoberg.github.io/post/20211120/</loc>
+    <lastmod>2021-11-20T00:49:33+00:00</lastmod>
+  </url><url>
+    <loc>http://icaoberg.github.io/tag/music/</loc>
+    <lastmod>2021-10-29T22:06:30+00:00</lastmod>
+  </url><url>
+    <loc>http://icaoberg.github.io/post/20211029-calamaro-paloma/</loc>
+    <lastmod>2021-10-29T22:06:30+00:00</lastmod>
   </url><url>
     <loc>http://icaoberg.github.io/tag/containerization/</loc>
+    <lastmod>2021-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://icaoberg.github.io/author/ivan-cao-berg/</loc>
+    <lastmod>2021-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://icaoberg.github.io/slides/</loc>
+    <lastmod>2021-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://icaoberg.github.io/slides/containerization/</loc>
+    <lastmod>2021-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://icaoberg.github.io/tag/virtualization/</loc>
+    <lastmod>2021-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://icaoberg.github.io/post/20210902-building-singularity-containers/</loc>
+    <lastmod>2021-09-02T13:09:56+00:00</lastmod>
+  </url><url>
+    <loc>http://icaoberg.github.io/tag/docker/</loc>
+    <lastmod>2021-09-02T13:09:56+00:00</lastmod>
+  </url><url>
+    <loc>http://icaoberg.github.io/tag/singularity/</loc>
+    <lastmod>2021-09-02T13:09:56+00:00</lastmod>
+  </url><url>
+    <loc>http://icaoberg.github.io/tag/best-practices/</loc>
     <lastmod>2021-08-28T23:01:23+00:00</lastmod>
   </url><url>
     <loc>http://icaoberg.github.io/tag/github-actions/</loc>
     <lastmod>2021-08-28T23:01:23+00:00</lastmod>
   </url><url>
-    <loc>http://icaoberg.github.io/author/icaoberg/</loc>
-    <lastmod>2021-08-28T23:01:23+00:00</lastmod>
-  </url><url>
-    <loc>http://icaoberg.github.io/</loc>
-    <lastmod>2021-08-28T23:01:23+00:00</lastmod>
-  </url><url>
     <loc>http://icaoberg.github.io/post/20210828-pretty-yml/</loc>
-    <lastmod>2021-08-28T23:01:23+00:00</lastmod>
-  </url><url>
-    <loc>http://icaoberg.github.io/category/programming/</loc>
-    <lastmod>2021-08-28T23:01:23+00:00</lastmod>
-  </url><url>
-    <loc>http://icaoberg.github.io/tag/singularity/</loc>
-    <lastmod>2021-08-28T23:01:23+00:00</lastmod>
-  </url><url>
-    <loc>http://icaoberg.github.io/tags/</loc>
     <lastmod>2021-08-28T23:01:23+00:00</lastmod>
   </url><url>
     <loc>http://icaoberg.github.io/post/20210825-singularity-containers/</loc>
@@ -86,9 +128,6 @@
     <loc>http://icaoberg.github.io/post/20210710-maracanazo/</loc>
     <lastmod>2021-07-10T23:28:35+00:00</lastmod>
   </url><url>
-    <loc>http://icaoberg.github.io/tag/music/</loc>
-    <lastmod>2021-04-15T00:36:51+00:00</lastmod>
-  </url><url>
     <loc>http://icaoberg.github.io/category/random/</loc>
     <lastmod>2021-04-15T00:36:51+00:00</lastmod>
   </url><url>
@@ -103,9 +142,6 @@
   </url><url>
     <loc>http://icaoberg.github.io/post/20210411-witness-me/</loc>
     <lastmod>2021-04-11T23:08:12+00:00</lastmod>
-  </url><url>
-    <loc>http://icaoberg.github.io/post/20210411/</loc>
-    <lastmod>2021-04-11T23:07:55+00:00</lastmod>
   </url><url>
     <loc>http://icaoberg.github.io/post/20210408-kind/</loc>
     <lastmod>2021-04-08T22:26:10+00:00</lastmod>
@@ -794,9 +830,6 @@
     <loc>http://icaoberg.github.io/post/tinycards-acuerdate-de-mi/</loc>
     <lastmod>2019-09-20T21:57:35-04:00</lastmod>
   </url><url>
-    <loc>http://icaoberg.github.io/tag/docker/</loc>
-    <lastmod>2019-09-20T21:17:12-04:00</lastmod>
-  </url><url>
     <loc>http://icaoberg.github.io/post/docker-matlabmcr2019b/</loc>
     <lastmod>2019-09-20T21:17:12-04:00</lastmod>
   </url><url>
@@ -864,9 +897,6 @@
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://icaoberg.github.io/slides/singularity-cowsay/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://icaoberg.github.io/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://icaoberg.github.io/slides/example/</loc>
@@ -945,9 +975,6 @@
     <lastmod>2016-04-12T05:34:42-05:00</lastmod>
   </url><url>
     <loc>http://icaoberg.github.io/category/barrio-latino/</loc>
-    <lastmod>2016-03-11T10:48:37-05:00</lastmod>
-  </url><url>
-    <loc>http://icaoberg.github.io/tag/instagram/</loc>
     <lastmod>2016-03-11T10:48:37-05:00</lastmod>
   </url><url>
     <loc>http://icaoberg.github.io/post/barrio-latino-ninos-ninas-bilingues-y-biculturales/</loc>

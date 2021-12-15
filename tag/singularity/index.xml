@@ -5,12 +5,20 @@
     <link>http://icaoberg.github.io/tag/singularity/</link>
       <atom:link href="http://icaoberg.github.io/tag/singularity/index.xml" rel="self" type="application/rss+xml" />
     <description>singularity</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright © 2006-2021 icaoberg AT github DOT io</copyright><lastBuildDate>Sat, 28 Aug 2021 23:01:23 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright © 2006-2021 icaoberg AT github DOT io</copyright><lastBuildDate>Thu, 02 Sep 2021 13:09:56 +0000</lastBuildDate>
     <image>
       <url>http://icaoberg.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>singularity</title>
       <link>http://icaoberg.github.io/tag/singularity/</link>
     </image>
+    
+    <item>
+      <title>Building Singularity containers with Docker</title>
+      <link>http://icaoberg.github.io/post/20210902-building-singularity-containers/</link>
+      <pubDate>Thu, 02 Sep 2021 13:09:56 +0000</pubDate>
+      <guid>http://icaoberg.github.io/post/20210902-building-singularity-containers/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>pretty.yml</title>
