@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Music | icaoberg AT github DOT io</title>
+    <link>http://icaoberg.github.io/category/music/</link>
+      <atom:link href="http://icaoberg.github.io/category/music/index.xml" rel="self" type="application/rss+xml" />
+    <description>Music</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright © 2006-2022 icaoberg AT github DOT io</copyright><lastBuildDate>Mon, 30 May 2022 04:42:13 +0000</lastBuildDate>
+    <image>
+      <url>http://icaoberg.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Music</title>
+      <link>http://icaoberg.github.io/category/music/</link>
+    </image>
+    
+    <item>
+      <title>Can you feel the love tonight?</title>
+      <link>http://icaoberg.github.io/post/20220530-can-you-feel-the-love-tonight/</link>
+      <pubDate>Mon, 30 May 2022 04:42:13 +0000</pubDate>
+      <guid>http://icaoberg.github.io/post/20220530-can-you-feel-the-love-tonight/</guid>
+      <description>&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/Xglq1DvJkDQ&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;P.S. &amp;ldquo;How it&amp;rsquo;s laid to rest?&amp;rdquo;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
