@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>barrio latino on icaoberg</title>
+    <link>https://icaoberg.github.io/tags/barrio-latino/</link>
+    <description>Recent content in barrio latino on icaoberg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Feb 2020 02:00:00 +0000</lastBuildDate><atom:link href="https://icaoberg.github.io/tags/barrio-latino/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Barrio Latino is turning 25th this year!</title>
+      <link>https://icaoberg.github.io/post/wrct-barrio-latino-25th-anniversary/</link>
+      <pubDate>Sun, 23 Feb 2020 02:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/wrct-barrio-latino-25th-anniversary/</guid>
+      <description>WRCT Presents: Barrio Latino</description>
+    </item>
+    
+    <item>
+      <title>Barrio Latino is turning 25th this year!</title>
+      <link>https://icaoberg.github.io/posts/wrct-barrio-latino-25th-anniversary/</link>
+      <pubDate>Sun, 23 Feb 2020 02:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/wrct-barrio-latino-25th-anniversary/</guid>
+      <description>WRCT Presents: Barrio Latino</description>
+    </item>
+    
+  </channel>
+</rss>

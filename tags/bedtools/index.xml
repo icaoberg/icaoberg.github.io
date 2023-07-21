@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bedtools on icaoberg</title>
+    <link>https://icaoberg.github.io/tags/bedtools/</link>
+    <description>Recent content in bedtools on icaoberg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Feb 2020 18:00:00 +0000</lastBuildDate><atom:link href="https://icaoberg.github.io/tags/bedtools/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>bedtools</title>
+      <link>https://icaoberg.github.io/post/singularity-bedtools-update/</link>
+      <pubDate>Mon, 03 Feb 2020 18:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/singularity-bedtools-update/</guid>
+      <description>Singularity recipe and image for bedtools</description>
+    </item>
+    
+    <item>
+      <title>bedtools</title>
+      <link>https://icaoberg.github.io/posts/singularity-bedtools-update/</link>
+      <pubDate>Mon, 03 Feb 2020 18:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/singularity-bedtools-update/</guid>
+      <description>Singularity recipe and image for bedtools</description>
+    </item>
+    
+    <item>
+      <title>bedtools</title>
+      <link>https://icaoberg.github.io/post/singularity-bedtools/</link>
+      <pubDate>Sun, 26 Jan 2020 18:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/singularity-bedtools/</guid>
+      <description>Singularity recipe and image for bedtools</description>
+    </item>
+    
+    <item>
+      <title>bedtools</title>
+      <link>https://icaoberg.github.io/posts/singularity-bedtools/</link>
+      <pubDate>Sun, 26 Jan 2020 18:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/singularity-bedtools/</guid>
+      <description>Singularity recipe and image for bedtools</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,2155 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+	<meta name="generator" content="Hugo 0.92.2" />
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <script type="application/javascript" src='https://icaoberg.github.io/js/theme-mode.js'></script>
+    <link rel="stylesheet" href='https://icaoberg.github.io/css/frameworks.min.css' />
+    <link rel="stylesheet" href='https://icaoberg.github.io/css/github.min.css' />
+    <link rel="stylesheet" href='https://icaoberg.github.io/css/github-style.css' />
+    <link rel="stylesheet" href='https://icaoberg.github.io/css/light.css' />
+    <link rel="stylesheet" href='https://icaoberg.github.io/css/dark.css' />
+    <link rel="stylesheet" href='https://icaoberg.github.io/css/syntax.css' />
+    <title>icaoberg</title>
+    
+    <link rel="icon" type="image/x-icon" href='/images/github.png'>
+    
+    <meta name="theme-color" content="#1e2327">
+
+    
+    <meta name="description"
+  content="" />
+<meta name="keywords"
+  content='blog, google analytics' />
+<meta name="robots" content="noodp" />
+<link rel="canonical" href="https://icaoberg.github.io/" />
+
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="icaoberg" />
+<meta name="twitter:description"
+  content="sudo git commit -m &#39;Hello, World!&#39;" />
+<meta name="twitter:site" content="https://icaoberg.github.io" />
+<meta name="twitter:creator" content="" />
+<meta name="twitter:image"
+  content="https://icaoberg.github.io">
+
+
+<meta property="og:type" content="website" />
+<meta property="og:title" content="icaoberg">
+<meta property="og:description"
+  content="sudo git commit -m &#39;Hello, World!&#39;" />
+<meta property="og:url" content="https://icaoberg.github.io/" />
+<meta property="og:site_name" content="icaoberg" />
+<meta property="og:image"
+  content="https://icaoberg.github.io">
+<meta property="og:image:width" content="2048">
+<meta property="og:image:height" content="1024">
+
+
+
+
+<link href="/index.xml" rel="alternate" type="application/rss+xml" title="icaoberg" />
+
+
+
+
+
+
+
+</head>
+
+<body>
+  <div style="position: relative">
+  <header class="Header js-details-container Details px-3 px-md-4 px-lg-5 flex-wrap flex-md-nowrap open Details--on">
+    <div class="Header-item mobile-none" style="margin-top: -4px; margin-bottom: -4px;">
+      <a class="Header-link" href="https://icaoberg.github.io">
+        <svg class="octicon" height="32" viewBox="0 0 16 16" version="1.1" width="32">
+          <path fill-rule="evenodd"
+            d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z">
+          </path>
+        </svg>
+      </a>
+    </div>
+    <div class="Header-item d-md-none">
+      <button class="Header-link btn-link js-details-target" type="button"
+        onclick="document.querySelector('#header-search').style.display = document.querySelector('#header-search').style.display == 'none'? 'block': 'none'">
+        <svg height="24" class="octicon octicon-three-bars" viewBox="0 0 16 16" version="1.1" width="24">
+          <path fill-rule="evenodd"
+            d="M1 2.75A.75.75 0 011.75 2h12.5a.75.75 0 110 1.5H1.75A.75.75 0 011 2.75zm0 5A.75.75 0 011.75 7h12.5a.75.75 0 110 1.5H1.75A.75.75 0 011 7.75zM1.75 12a.75.75 0 100 1.5h12.5a.75.75 0 100-1.5H1.75z">
+          </path>
+        </svg>
+      </button>
+    </div>
+    <div style="display: none;" id="header-search"
+      class="Header-item Header-item--full flex-column flex-md-row width-full flex-order-2 flex-md-order-none mr-0 mr-md-3 mt-3 mt-md-0 Details-content--hidden-not-important d-md-flex">
+      <div
+        class="Header-search header-search flex-auto js-site-search position-relative flex-self-stretch flex-md-self-auto mb-3 mb-md-0 mr-0 mr-md-3 scoped-search site-scoped-search js-jump-to">
+        <div class="position-relative">
+          <form target="_blank" action="https://www.google.com/search" accept-charset="UTF-8" method="get"
+            autocomplete="off">
+            <label
+              class="Header-search-label form-control input-sm header-search-wrapper p-0 js-chromeless-input-container header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center">
+              <input type="text"
+                class="Header-search-input form-control input-sm header-search-input jump-to-field js-jump-to-field js-site-search-focus js-site-search-field is-clearable"
+                name="q" value="" placeholder="Search" autocomplete="off">
+              <input type="hidden" name="q" value="site:https://icaoberg.github.io">
+            </label>
+          </form>
+        </div>
+      </div>
+    </div>
+
+    <div class="Header-item Header-item--full flex-justify-center d-md-none position-relative">
+      <a class="Header-link " href="https://icaoberg.github.io">
+        <svg class="octicon octicon-mark-github v-align-middle" height="32" viewBox="0 0 16 16" version="1.1"
+          width="32">
+          <path fill-rule="evenodd"
+            d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z">
+          </path>
+        </svg>
+      </a>
+    </div>
+    <div class="Header-item" style="margin-right: 0;">
+      <a href="javascript:void(0)" class="Header-link no-select" onclick="switchTheme()">
+        <svg style="fill: var(--color-profile-color-modes-toggle-moon);" class="no-select" viewBox="0 0 16 16"
+          version="1.1" width="16" height="16">
+          <path fill-rule="evenodd" clip-rule="evenodd"
+            d="M4.52208 7.71754C7.5782 7.71754 10.0557 5.24006 10.0557 2.18394C10.0557 1.93498 10.0392 1.68986 10.0074 1.44961C9.95801 1.07727 10.3495 0.771159 10.6474 0.99992C12.1153 2.12716 13.0615 3.89999 13.0615 5.89383C13.0615 9.29958 10.3006 12.0605 6.89485 12.0605C3.95334 12.0605 1.49286 10.001 0.876728 7.24527C0.794841 6.87902 1.23668 6.65289 1.55321 6.85451C2.41106 7.40095 3.4296 7.71754 4.52208 7.71754Z">
+          </path>
+        </svg>
+      </a>
+    </div>
+  </header>
+</div>
+  
+<div class="application-main">
+  <main>
+    
+
+
+<div class="mt-4 position-sticky top-0 d-none d-md-block bg-white width-full border-bottom color-border-secondary"
+  style="z-index:3;">
+  <div class="container-xl px-3 px-md-4 px-lg-5">
+    <div class="gutter-condensed gutter-lg flex-column flex-md-row d-flex">
+      <div class="flex-shrink-0 col-12 col-md-3 mb-4 mb-md-0">
+      </div>
+      <div class="flex-shrink-0 col-12 col-md-9 mb-4 mb-md-0">
+        <div class="UnderlineNav width-full box-shadow-none hx_UnderlineNav-with-profile-color-modes-banner">
+          <nav class="UnderlineNav-body">
+            <a class="UnderlineNav-item  selected " href="https://icaoberg.github.io">
+              <svg class="octicon octicon-book UnderlineNav-octicon hide-sm" height="16" viewBox="0 0 16 16"
+                version="1.1" width="16">
+                <path fill-rule="evenodd"
+                  d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z">
+                </path>
+              </svg>
+              Overview
+            </a>
+            <a class="UnderlineNav-item " href="https://icaoberg.github.io/post/">
+              <svg class="octicon octicon-repo UnderlineNav-octicon hide-sm" height="16" viewBox="0 0 16 16"
+                version="1.1" width="16">
+                <path fill-rule="evenodd"
+                  d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z">
+                </path>
+              </svg>
+              Posts
+              <span class="Counter">205</span>
+            </a>
+          </nav>
+          <div class="profile-color-modes js-promo-color-modes-banner-profile isInitialToggle">
+            <svg width="106" height="60" viewBox="0 0 106 60" fill="none" stroke-width="3" stroke-linecap="round"
+              stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg">
+              <g class="profile-color-modes-illu-group profile-color-modes-illu-red">
+                <path d="M37.5 58.5V57.5C37.5 49.768 43.768 43.5 51.5 43.5V43.5C59.232 43.5 65.5 49.768 65.5 57.5V58.5">
+                </path>
+              </g>
+              <g class="profile-color-modes-illu-group profile-color-modes-illu-orange">
+                <path
+                  d="M104.07 58.5C103.401 55.092 97.7635 54.3869 95.5375 57.489C97.4039 54.6411 99.7685 48.8845 94.6889 46.6592C89.4817 44.378 86.1428 50.1604 85.3786 54.1158C85.9519 50.4768 83.7226 43.294 78.219 44.6737C72.7154 46.0534 72.7793 51.3754 74.4992 55.489C74.169 54.7601 72.4917 53.3567 70.5 52.8196">
+                </path>
+              </g>
+              <g class="profile-color-modes-illu-group profile-color-modes-illu-purple">
+                <path
+                  d="M5.51109 58.5V52.5C5.51109 41.4543 14.4654 32.5 25.5111 32.5C31.4845 32.5 36.8464 35.1188 40.5111 39.2709C40.7212 39.5089 40.9258 39.7521 41.1245 40">
+                </path>
+                <path d="M27.511 49.5C29.6777 49.5 28.911 49.5 32.511 49.5"></path>
+                <path d="M27.511 56.5C29.6776 56.5 26.911 56.5 30.511 56.5"></path>
+              </g>
+              <g class="profile-color-modes-illu-group profile-color-modes-illu-green">
+                <circle cx="5.5" cy="12.5" r="4"></circle>
+                <circle cx="18.5" cy="5.5" r="4"></circle>
+                <path d="M18.5 9.5L18.5 27.5"></path>
+                <path d="M18.5 23.5C6 23.5 5.5 23.6064 5.5 16.5"></path>
+              </g>
+              <g class="profile-color-modes-illu-group profile-color-modes-illu-blue">
+                <g class="profile-color-modes-illu-frame">
+                  <path
+                    d="M40.6983 31.5C40.5387 29.6246 40.6456 28.0199 41.1762 27.2317C42.9939 24.5312 49.7417 26.6027 52.5428 30.2409C54.2551 29.8552 56.0796 29.6619 57.9731 29.6619C59.8169 29.6619 61.5953 29.8452 63.2682 30.211C66.0833 26.5913 72.799 24.5386 74.6117 27.2317C75.6839 28.8246 75.0259 33.7525 73.9345 37.5094C74.2013 37.9848 74.4422 38.4817 74.6555 39">
+                  </path>
+                </g>
+                <g class="profile-color-modes-illu-frame">
+                  <path
+                    d="M41.508 31.5C41.6336 31.2259 41.7672 30.9582 41.9085 30.6968C40.7845 26.9182 40.086 21.8512 41.1762 20.2317C42.9939 17.5312 49.7417 19.6027 52.5428 23.2409C54.2551 22.8552 56.0796 22.6619 57.9731 22.6619C59.8169 22.6619 61.5953 22.8452 63.2682 23.211C66.0833 19.5913 72.799 17.5386 74.6117 20.2317C75.6839 21.8246 75.0259 26.7525 73.9345 30.5094C75.1352 32.6488 75.811 35.2229 75.811 38.2283C75.811 38.49 75.8058 38.7472 75.7957 39">
+                  </path>
+                  <path d="M49.4996 33V35.6757"></path>
+                  <path d="M67.3375 33V35.6757"></path>
+                </g>
+                <g class="profile-color-modes-illu-frame">
+                  <path
+                    d="M41.508 31.5C41.6336 31.2259 41.7672 30.9582 41.9085 30.6968C40.7845 26.9182 40.086 21.8512 41.1762 20.2317C42.9939 17.5312 49.7417 19.6027 52.5428 23.2409C54.2551 22.8552 56.0796 22.6619 57.9731 22.6619C59.8169 22.6619 61.5953 22.8452 63.2682 23.211C66.0833 19.5913 72.799 17.5386 74.6117 20.2317C75.6839 21.8246 75.0259 26.7525 73.9345 30.5094C75.1352 32.6488 75.811 35.2229 75.811 38.2283C75.811 38.49 75.8058 38.7472 75.7957 39">
+                  </path>
+                </g>
+                <g class="profile-color-modes-illu-frame">
+                  <path
+                    d="M41.508 31.5C41.6336 31.2259 41.7672 30.9582 41.9085 30.6968C40.7845 26.9182 40.086 21.8512 41.1762 20.2317C42.9939 17.5312 49.7417 19.6027 52.5428 23.2409C54.2551 22.8552 56.0796 22.6619 57.9731 22.6619C59.8169 22.6619 61.5953 22.8452 63.2682 23.211C66.0833 19.5913 72.799 17.5386 74.6117 20.2317C75.6839 21.8246 75.0259 26.7525 73.9345 30.5094C75.1352 32.6488 75.811 35.2229 75.811 38.2283C75.811 38.49 75.8058 38.7472 75.7957 39">
+                  </path>
+                  <path d="M49.4996 33V35.6757"></path>
+                  <path d="M67.3375 33V35.6757"></path>
+                </g>
+                <g class="profile-color-modes-illu-frame">
+                  <path
+                    d="M41.508 31.5C41.6336 31.2259 41.7672 30.9582 41.9085 30.6968C40.7845 26.9182 40.086 21.8512 41.1762 20.2317C42.9939 17.5312 49.7417 19.6027 52.5428 23.2409C54.2551 22.8552 56.0796 22.6619 57.9731 22.6619C59.8169 22.6619 61.5953 22.8452 63.2682 23.211C66.0833 19.5913 72.799 17.5386 74.6117 20.2317C75.6839 21.8246 75.0259 26.7525 73.9345 30.5094C75.1352 32.6488 75.811 35.2229 75.811 38.2283C75.811 38.49 75.8058 38.7472 75.7957 39">
+                  </path>
+                </g>
+                <g class="profile-color-modes-illu-frame">
+                  <path
+                    d="M41.508 31.5C41.6336 31.2259 41.7672 30.9582 41.9085 30.6968C40.7845 26.9182 40.086 21.8512 41.1762 20.2317C42.9939 17.5312 49.7417 19.6027 52.5428 23.2409C54.2551 22.8552 56.0796 22.6619 57.9731 22.6619C59.8169 22.6619 61.5953 22.8452 63.2682 23.211C66.0833 19.5913 72.799 17.5386 74.6117 20.2317C75.6839 21.8246 75.0259 26.7525 73.9345 30.5094C75.1352 32.6488 75.811 35.2229 75.811 38.2283C75.811 38.49 75.8058 38.7472 75.7957 39">
+                  </path>
+                  <path d="M49.4996 33V35.6757"></path>
+                  <path d="M67.3375 33V35.6757"></path>
+                </g>
+                <g class="profile-color-modes-illu-frame">
+                  <path
+                    d="M73.4999 40.2236C74.9709 38.2049 75.8108 35.5791 75.8108 32.2283C75.8108 29.2229 75.1351 26.6488 73.9344 24.5094C75.0258 20.7525 75.6838 15.8246 74.6116 14.2317C72.7989 11.5386 66.0832 13.5913 63.2681 17.211C61.5952 16.8452 59.8167 16.6619 57.973 16.6619C56.0795 16.6619 54.2549 16.8552 52.5427 17.2409C49.7416 13.6027 42.9938 11.5312 41.176 14.2317C40.0859 15.8512 40.7843 20.9182 41.9084 24.6968C41.003 26.3716 40.4146 28.3065 40.2129 30.5">
+                  </path>
+                  <path d="M82.9458 30.5471L76.8413 31.657"></path>
+                  <path d="M76.2867 34.4319L81.8362 37.7616"></path>
+                  <path d="M49.4995 27.8242V30.4999"></path>
+                  <path d="M67.3374 27.8242V30.4998"></path>
+                </g>
+                <g class="profile-color-modes-illu-frame">
+                  <path
+                    d="M45.3697 34.2658C41.8877 32.1376 39.7113 28.6222 39.7113 23.2283C39.7113 20.3101 40.3483 17.7986 41.4845 15.6968C40.3605 11.9182 39.662 6.85125 40.7522 5.23168C42.5699 2.53117 49.3177 4.6027 52.1188 8.24095C53.831 7.85521 55.6556 7.66186 57.5491 7.66186C59.3929 7.66186 61.1713 7.84519 62.8442 8.21095C65.6593 4.59134 72.375 2.5386 74.1877 5.23168C75.2599 6.82461 74.6019 11.7525 73.5105 15.5094C74.7112 17.6488 75.3869 20.2229 75.3869 23.2283C75.3869 28.6222 73.2105 32.1376 69.7285 34.2658C70.8603 35.5363 72.6057 38.3556 73.3076 40">
+                  </path>
+                  <path d="M49.0747 19.8242V22.4999"></path>
+                  <path
+                    d="M54.0991 28C54.6651 29.0893 55.7863 30.0812 57.9929 30.0812C59.0642 30.0812 59.8797 29.8461 60.5 29.4788">
+                  </path>
+                  <path d="M66.9126 19.8242V22.4999"></path>
+                  <path d="M33.2533 20.0237L39.0723 22.1767"></path>
+                  <path d="M39.1369 25.0058L33.0935 27.3212"></path>
+                  <path d="M81.8442 19.022L76.0252 21.1751"></path>
+                  <path d="M75.961 24.0041L82.0045 26.3196"></path>
+                </g>
+                <g class="profile-color-modes-illu-frame">
+                  <path
+                    d="M73.4999 40.2236C74.9709 38.2049 75.8108 35.5791 75.8108 32.2283C75.8108 29.2229 75.1351 26.6488 73.9344 24.5094C75.0258 20.7525 75.6838 15.8246 74.6116 14.2317C72.7989 11.5386 66.0832 13.5913 63.2681 17.211C61.5952 16.8452 59.8167 16.6619 57.973 16.6619C56.0795 16.6619 54.2549 16.8552 52.5427 17.2409C49.7416 13.6027 42.9938 11.5312 41.176 14.2317C40.0859 15.8512 40.7843 20.9182 41.9084 24.6968C41.003 26.3716 40.4146 28.3065 40.2129 30.5">
+                  </path>
+                  <path d="M82.9458 30.5471L76.8413 31.657"></path>
+                  <path d="M76.2867 34.4319L81.8362 37.7616"></path>
+                  <path d="M49.4995 27.8242V30.4999"></path>
+                  <path d="M67.3374 27.8242V30.4998"></path>
+                </g>
+                <g class="profile-color-modes-illu-frame">
+                  <path
+                    d="M40.6983 31.5C40.5387 29.6246 40.6456 28.0199 41.1762 27.2317C42.9939 24.5312 49.7417 26.6027 52.5428 30.2409C54.2551 29.8552 56.0796 29.6619 57.9731 29.6619C59.8169 29.6619 61.5953 29.8452 63.2682 30.211C66.0833 26.5913 72.799 24.5386 74.6117 27.2317C75.6839 28.8246 75.0259 33.7525 73.9345 37.5094C74.2013 37.9848 74.4422 38.4817 74.6555 39">
+                  </path>
+                </g>
+              </g>
+            </svg>
+            <span class="profile-color-modes-toggle js-promo-color-modes-toggle no-select" tabindex="0"
+              onclick="switchTheme()">
+              <div class="profile-color-modes-toggle-track no-select"></div>
+              <div class="profile-color-modes-toggle-thumb js-promo-color-modes-thumb">
+                <svg style="fill: var(--color-profile-color-modes-toggle-moon); margin: 7px 0 0 7px;" width="14"
+                  height="13" viewBox="0 0 14 13" xmlns="http://www.w3.org/2000/svg">
+                  <path fill-rule="evenodd" clip-rule="evenodd"
+                    d="M4.52208 7.71754C7.5782 7.71754 10.0557 5.24006 10.0557 2.18394C10.0557 1.93498 10.0392 1.68986 10.0074 1.44961C9.95801 1.07727 10.3495 0.771159 10.6474 0.99992C12.1153 2.12716 13.0615 3.89999 13.0615 5.89383C13.0615 9.29958 10.3006 12.0605 6.89485 12.0605C3.95334 12.0605 1.49286 10.001 0.876728 7.24527C0.794841 6.87902 1.23668 6.65289 1.55321 6.85451C2.41106 7.40095 3.4296 7.71754 4.52208 7.71754Z">
+                  </path>
+                </svg>
+              </div>
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="container-xl px-3 px-md-4 px-lg-5">
+  <div class="gutter-condensed gutter-lg flex-column flex-md-row d-flex">
+    <div class="flex-shrink-0 col-12 col-md-3 mb-4 mb-md-0">
+      <div class="h-card mt-md-n5" style="margin-top:24px">
+        <div class="user-profile-sticky-bar js-user-profile-sticky-bar d-none d-md-block" id="headerStuck">
+          <div class="user-profile-mini-vcard d-table">
+            <span class="user-profile-mini-avatar d-table-cell v-align-middle lh-condensed-ultra pr-2">
+              
+              <img class="rounded-1 avatar-user" height="32" width="32" src="https://icaoberg.github.io/images/avatar.png">
+              
+            </span>
+            <span class="d-table-cell v-align-middle lh-condensed">
+              <strong>icaoberg</strong>
+            </span>
+          </div>
+        </div>
+        <div class="clearfix d-flex d-md-block flex-items-center mb-4 mb-md-0">
+          <div class="position-relative d-inline-block col-2 col-md-12 mr-3 mr-md-0 flex-shrink-0" style="z-index:4;">
+            
+            <a href="https://icaoberg.github.io/images/avatar.png">
+              <img style="height:auto;" alt="Avatar" width="260" height="260" id="headerImg"
+                class="avatar avatar-user width-full border bg-white" src="https://icaoberg.github.io/images/avatar.png">
+            </a>
+            
+            
+            <div class="user-status-container position-relative hide-sm hide-md">
+              <div class="f5 user-status-circle-badge-container">
+                <div class="user-status-circle-badge d-inline-block lh-condensed-ultra p-2">
+                  <div class="d-flex flex-items-center flex-items-stretch">
+                    <div class="f6 lh-condensed user-status-header d-inline-flex user-status-emoji-only-header circle">
+                      <div class="user-status-emoji-container flex-shrink-0 mr-2 d-flex flex-items-center flex-justify-center ">
+                        <div><g-emoji class="g-emoji">😀</g-emoji></div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            
+          </div>
+
+          <div
+            class="vcard-names-container float-left col-10 col-md-12 pt-1 pt-md-3 pb-1 pb-md-3 js-sticky js-user-profile-sticky-fields"
+            data-original-top="0px" style="position: sticky;">
+            <h1 class="vcard-names pl-2 pl-md-0">
+              <span class="p-name vcard-fullname d-block overflow-hidden">icaoberg</span>
+              
+              <span class="p-nickname vcard-username d-block">icaoberg</span>
+              
+            </h1>
+          </div>
+        </div>
+
+        <div class="p-note user-profile-bio mb-3 js-user-profile-bio f4">
+          <div>sudo git commit -m &#39;Hello, World!&#39;</div>
+        </div>
+
+        <div class="d-flex flex-column">
+          <div class="js-profile-editable-area d-flex flex-column d-md-block">
+            <ul class="vcard-details">
+              
+              <li class="vcard-detail pt-1 css-truncate css-truncate-target hide-sm hide-md">
+                <svg class="octicon octicon-location" viewBox="0 0 16 16" version="1.1" width="16" height="16">
+                  <path fill-rule="evenodd"
+                    d="M11.536 3.464a5 5 0 010 7.072L8 14.07l-3.536-3.535a5 5 0 117.072-7.072v.001zm1.06 8.132a6.5 6.5 0 10-9.192 0l3.535 3.536a1.5 1.5 0 002.122 0l3.535-3.536zM8 9a2 2 0 100-4 2 2 0 000 4z">
+                  </path>
+                </svg>
+                <span class="p-label">United States</span>
+              </li>
+              
+
+              
+              <li class="vcard-detail pt-1 css-truncate css-truncate-target ">
+                <svg class="octicon octicon-mail" viewBox="0 0 16 16" version="1.1" width="16" height="16">
+                  <path fill-rule="evenodd"
+                    d="M1.75 2A1.75 1.75 0 000 3.75v.736a.75.75 0 000 .027v7.737C0 13.216.784 14 1.75 14h12.5A1.75 1.75 0 0016 12.25v-8.5A1.75 1.75 0 0014.25 2H1.75zM14.5 4.07v-.32a.25.25 0 00-.25-.25H1.75a.25.25 0 00-.25.25v.32L8 7.88l6.5-3.81zm-13 1.74v6.441c0 .138.112.25.25.25h12.5a.25.25 0 00.25-.25V5.809L8.38 9.397a.75.75 0 01-.76 0L1.5 5.809z">
+                  </path>
+                </svg>
+                <a class="u-email link-gray-dark " href="mailto:icaoberg@cmu.edu">icaoberg@cmu.edu</a>
+              </li>
+              
+
+              <li class="vcard-detail pt-1 css-truncate css-truncate-target ">
+                <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16">
+                  <path fill-rule="evenodd"
+                    d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z">
+                  </path>
+                </svg>
+                
+                <a rel="nofollow me" class="link-gray-dark" href="https://icaoberg.github.io">https://icaoberg.github.io</a>
+                
+              </li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="border-top color-border-secondary pt-3 mt-3 clearfix hide-sm hide-md">
+          <h2 class="mb-2 h4">Organizations</h2>
+          <div style="display:flex;justify-content:flex-start;flex-wrap:wrap;margin-bottom:3px;">
+          
+          <a style="margin: 0 10px 10px 0;" href="https://github.com/icaoberg">
+            <svg id="github-icon" viewBox="0 0 16 16" version="1.1" width="32" height="32" fill="#24292e">
+              <path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z">
+              </path>
+            </svg>
+          </a>
+          
+
+          
+          <a style="margin: 0 10px 10px 0;" href="https://twitter.com/icaoberg">
+            <img alt="@twitter" width="32" height="32" src="https://icaoberg.github.io/images/twitter.png" class="avatar">
+          </a>
+          
+
+          
+
+          
+          <a style="margin: 0 10px 10px 0;" href="https://linkedin.com/in/icaoberg">
+            <img alt="@linkedin" width="32" height="32" src="https://icaoberg.github.io/images/linkedin.png" class="avatar">
+          </a>
+          
+
+          
+
+          
+          <a style="margin: 0 10px 10px 0;" href="https://icaoberg.tumblr.com/">
+            <img alt="@tumblr" width="32" height="32" src="https://icaoberg.github.io/images/tumblr.png" class="avatar">
+          </a>
+          
+
+          
+
+          
+          
+          
+          <a style="margin: 0 10px 10px 0;" href="https://github.com/icaoberg">
+            <img alt="@GitHub" width="32" height="32" src='https://icaoberg.github.io/images/link.png' class="avatar">
+          </a>
+          
+          
+          
+
+          
+          <a style="margin: 0 10px 10px 0;" href="https://icaoberg.github.io/index.xml">
+            <img alt="@rss" width="32" height="32" src="https://icaoberg.github.io/images/rss.png" class="avatar">
+          </a>
+          
+         </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="flex-shrink-0 col-12 col-md-9 mb-4 mb-md-0">
+      
+
+<div class="UnderlineNav user-profile-nav d-block d-md-none position-sticky top-0 pl-3 ml-n3 mr-n3 pr-3 bg-white"
+  style="z-index:3;">
+  <nav class="UnderlineNav-body">
+    <a class="UnderlineNav-item  selected " href="https://icaoberg.github.io">
+      <svg class="octicon octicon-book UnderlineNav-octicon hide-sm" height="16" viewBox="0 0 16 16" version="1.1"
+        width="16">
+        <path fill-rule="evenodd"
+          d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z">
+        </path>
+      </svg>
+      Overview
+    </a>
+    <a class='UnderlineNav-item  '
+      href="https://icaoberg.github.io/post/">
+      <svg class="octicon octicon-repo UnderlineNav-octicon hide-sm" height="16" viewBox="0 0 16 16" version="1.1"
+        width="16">
+        <path fill-rule="evenodd"
+          d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z">
+        </path>
+      </svg>
+      Posts
+      <span class="Counter ">205</span>
+    </a>
+  </nav>
+</div>
+
+      
+      
+
+
+
+
+
+
+
+
+<div>
+  <div class="position-relative">
+    
+    <div class="Box mt-4">
+      <div class="Box-body p-4">
+        <div class="d-flex flex-justify-between">
+          <div class="text-mono text-small mb-3">
+            <svg class="octicon octicon-octoface" viewBox="0 0 16 16" version="1.1" width="16" height="16">
+              <path fill-rule="evenodd"
+                d="M1.326 1.973a1.2 1.2 0 011.49-.832c.387.112.977.307 1.575.602.586.291 1.243.71 1.7 1.296.022.027.042.056.061.084A13.22 13.22 0 018 3c.67 0 1.289.037 1.861.108l.051-.07c.457-.586 1.114-1.004 1.7-1.295a9.654 9.654 0 011.576-.602 1.2 1.2 0 011.49.832c.14.493.356 1.347.479 2.29.079.604.123 1.28.07 1.936.541.977.773 2.11.773 3.301C16 13 14.5 15 8 15s-8-2-8-5.5c0-1.034.238-2.128.795-3.117-.08-.712-.034-1.46.052-2.12.122-.943.34-1.797.479-2.29zM8 13.065c6 0 6.5-2 6-4.27C13.363 5.905 11.25 5 8 5s-5.363.904-6 3.796c-.5 2.27 0 4.27 6 4.27z">
+              </path>
+              <path
+                d="M4 8a1 1 0 012 0v1a1 1 0 01-2 0V8zm2.078 2.492c-.083-.264.146-.492.422-.492h3c.276 0 .505.228.422.492C9.67 11.304 8.834 12 8 12c-.834 0-1.669-.696-1.922-1.508zM10 8a1 1 0 112 0v1a1 1 0 11-2 0V8z">
+              </path>
+            </svg>
+            README<span class="text-gray-light">.md</span>
+          </div>
+        </div>
+        <article class="markdown-body entry-content container-lg f5"><p>I am a Research Software Specialist (or Code Curator Extraordinaire, at least according to ChatGPT) in the Biomedical Apps Team at the <a href="http://www.psc.edu">Pittsburgh Supercomputing Center</a> (PSC) tinkering with technology in scientific related projects.</p>
+<p>At the moment I am involved in HuBMAP, The Brain Image Library and on occasion, with SenNet. I enjoy teaching, training future developers and data scientists, writing and contributing to open source projects, reusing old tech, playing with new tech, cooking and listening to good music.</p>
+</article>
+      </div>
+    </div>
+    
+    <div class="mt-4">
+      <div class="js-pinned-items-reorder-container">
+        <h2 class="f4 mb-2 text-normal">
+          Popular posts
+        </h2>
+        <ol class="d-flex flex-wrap list-style-none gutter-condensed mb-4 js-pinned-items-reorder-list">
+          
+          <li class="col-12 col-md-6 col-lg-6 mb-3 d-flex flex-content-stretch">
+            <div
+              class="Box pinned-item-list-item d-flex p-3 width-full js-pinned-item-list-item public source reorderable sortable-button-item">
+              <div class="pinned-item-list-item-content">
+                <div class="d-flex width-full flex-items-center position-relative">
+                  <svg class="octicon octicon-repo mr-2 text-gray flex-shrink-0" viewBox="0 0 16 16" version="1.1"
+                    width="16" height="16">
+                    <path fill-rule="evenodd"
+                      d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z">
+                    </path>
+                  </svg>
+                  <a class="text-bold flex-auto min-width-0" href="https://icaoberg.github.io/post/20211220-i-want-to-eat-your-pancreas/">
+                    <span class="repo" title="I want to eat your Pancreas">I want to eat your Pancreas</span>
+                  </a>
+                </div>
+
+
+                <div name="summary" class="pinned-item-desc text-gray text-small d-block mt-2 mb-3">
+                  Took a long lunch and watched a movie
+                </div>
+
+                <p class="mb-0 f6 text-gray">
+                  
+                  
+                  <a href="/tags/blogging" class="pinned-item-meta muted-link ">
+                    <svg class="octicon octicon-tag" viewBox="0 0 16 16" version="1.1" width="16" height="16">
+                      <path fill-rule="evenodd"
+                        d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z">
+                      </path>
+                    </svg>
+                    blogging
+                  </a>
+                  
+                  <a href="/tags/animation" class="pinned-item-meta muted-link ">
+                    <svg class="octicon octicon-tag" viewBox="0 0 16 16" version="1.1" width="16" height="16">
+                      <path fill-rule="evenodd"
+                        d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z">
+                      </path>
+                    </svg>
+                    animation
+                  </a>
+                  
+                  
+                </p>
+              </div>
+            </div>
+          </li>
+          
+          <li class="col-12 col-md-6 col-lg-6 mb-3 d-flex flex-content-stretch">
+            <div
+              class="Box pinned-item-list-item d-flex p-3 width-full js-pinned-item-list-item public source reorderable sortable-button-item">
+              <div class="pinned-item-list-item-content">
+                <div class="d-flex width-full flex-items-center position-relative">
+                  <svg class="octicon octicon-repo mr-2 text-gray flex-shrink-0" viewBox="0 0 16 16" version="1.1"
+                    width="16" height="16">
+                    <path fill-rule="evenodd"
+                      d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z">
+                    </path>
+                  </svg>
+                  <a class="text-bold flex-auto min-width-0" href="https://icaoberg.github.io/post/20211214-donut/">
+                    <span class="repo" title="Donut">Donut</span>
+                  </a>
+                </div>
+
+
+                <div name="summary" class="pinned-item-desc text-gray text-small d-block mt-2 mb-3">
+                  I made a donut
+                </div>
+
+                <p class="mb-0 f6 text-gray">
+                  
+                  
+                  <a href="/tags/blogging" class="pinned-item-meta muted-link ">
+                    <svg class="octicon octicon-tag" viewBox="0 0 16 16" version="1.1" width="16" height="16">
+                      <path fill-rule="evenodd"
+                        d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z">
+                      </path>
+                    </svg>
+                    blogging
+                  </a>
+                  
+                  <a href="/tags/twitter" class="pinned-item-meta muted-link ">
+                    <svg class="octicon octicon-tag" viewBox="0 0 16 16" version="1.1" width="16" height="16">
+                      <path fill-rule="evenodd"
+                        d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z">
+                      </path>
+                    </svg>
+                    twitter
+                  </a>
+                  
+                  <a href="/tags/acnh" class="pinned-item-meta muted-link ">
+                    <svg class="octicon octicon-tag" viewBox="0 0 16 16" version="1.1" width="16" height="16">
+                      <path fill-rule="evenodd"
+                        d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z">
+                      </path>
+                    </svg>
+                    acnh
+                  </a>
+                  
+                  
+                </p>
+              </div>
+            </div>
+          </li>
+          
+          <li class="col-12 col-md-6 col-lg-6 mb-3 d-flex flex-content-stretch">
+            <div
+              class="Box pinned-item-list-item d-flex p-3 width-full js-pinned-item-list-item public source reorderable sortable-button-item">
+              <div class="pinned-item-list-item-content">
+                <div class="d-flex width-full flex-items-center position-relative">
+                  <svg class="octicon octicon-repo mr-2 text-gray flex-shrink-0" viewBox="0 0 16 16" version="1.1"
+                    width="16" height="16">
+                    <path fill-rule="evenodd"
+                      d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z">
+                    </path>
+                  </svg>
+                  <a class="text-bold flex-auto min-width-0" href="https://icaoberg.github.io/post/20211129-taskwarrior/">
+                    <span class="repo" title="taskwarrior">taskwarrior</span>
+                  </a>
+                </div>
+
+
+                <div name="summary" class="pinned-item-desc text-gray text-small d-block mt-2 mb-3">
+                  Made a bash script to help me out daily
+                </div>
+
+                <p class="mb-0 f6 text-gray">
+                  
+                  
+                  <a href="/tags/blogging" class="pinned-item-meta muted-link ">
+                    <svg class="octicon octicon-tag" viewBox="0 0 16 16" version="1.1" width="16" height="16">
+                      <path fill-rule="evenodd"
+                        d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z">
+                      </path>
+                    </svg>
+                    blogging
+                  </a>
+                  
+                  <a href="/tags/taskwarrior" class="pinned-item-meta muted-link ">
+                    <svg class="octicon octicon-tag" viewBox="0 0 16 16" version="1.1" width="16" height="16">
+                      <path fill-rule="evenodd"
+                        d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z">
+                      </path>
+                    </svg>
+                    taskwarrior
+                  </a>
+                  
+                  <a href="/tags/scripting" class="pinned-item-meta muted-link ">
+                    <svg class="octicon octicon-tag" viewBox="0 0 16 16" version="1.1" width="16" height="16">
+                      <path fill-rule="evenodd"
+                        d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z">
+                      </path>
+                    </svg>
+                    scripting
+                  </a>
+                  
+                  
+                </p>
+              </div>
+            </div>
+          </li>
+          
+          <li class="col-12 col-md-6 col-lg-6 mb-3 d-flex flex-content-stretch">
+            <div
+              class="Box pinned-item-list-item d-flex p-3 width-full js-pinned-item-list-item public source reorderable sortable-button-item">
+              <div class="pinned-item-list-item-content">
+                <div class="d-flex width-full flex-items-center position-relative">
+                  <svg class="octicon octicon-repo mr-2 text-gray flex-shrink-0" viewBox="0 0 16 16" version="1.1"
+                    width="16" height="16">
+                    <path fill-rule="evenodd"
+                      d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z">
+                    </path>
+                  </svg>
+                  <a class="text-bold flex-auto min-width-0" href="https://icaoberg.github.io/post/20211122/">
+                    <span class="repo" title="Cashew Tofu Lettuce Wraps">Cashew Tofu Lettuce Wraps</span>
+                  </a>
+                </div>
+
+
+                <div name="summary" class="pinned-item-desc text-gray text-small d-block mt-2 mb-3">
+                  VeganBowls recipe
+                </div>
+
+                <p class="mb-0 f6 text-gray">
+                  
+                  
+                  <a href="/tags/blogging" class="pinned-item-meta muted-link ">
+                    <svg class="octicon octicon-tag" viewBox="0 0 16 16" version="1.1" width="16" height="16">
+                      <path fill-rule="evenodd"
+                        d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z">
+                      </path>
+                    </svg>
+                    blogging
+                  </a>
+                  
+                  <a href="/tags/instagram" class="pinned-item-meta muted-link ">
+                    <svg class="octicon octicon-tag" viewBox="0 0 16 16" version="1.1" width="16" height="16">
+                      <path fill-rule="evenodd"
+                        d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z">
+                      </path>
+                    </svg>
+                    instagram
+                  </a>
+                  
+                  
+                </p>
+              </div>
+            </div>
+          </li>
+          
+          <li class="col-12 col-md-6 col-lg-6 mb-3 d-flex flex-content-stretch">
+            <div
+              class="Box pinned-item-list-item d-flex p-3 width-full js-pinned-item-list-item public source reorderable sortable-button-item">
+              <div class="pinned-item-list-item-content">
+                <div class="d-flex width-full flex-items-center position-relative">
+                  <svg class="octicon octicon-repo mr-2 text-gray flex-shrink-0" viewBox="0 0 16 16" version="1.1"
+                    width="16" height="16">
+                    <path fill-rule="evenodd"
+                      d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z">
+                    </path>
+                  </svg>
+                  <a class="text-bold flex-auto min-width-0" href="https://icaoberg.github.io/post/20211120/">
+                    <span class="repo" title="Vegan bolognese">Vegan bolognese</span>
+                  </a>
+                </div>
+
+
+                <div name="summary" class="pinned-item-desc text-gray text-small d-block mt-2 mb-3">
+                  Vegetarian/vegan recipe
+                </div>
+
+                <p class="mb-0 f6 text-gray">
+                  
+                  
+                  <a href="/tags/blogging" class="pinned-item-meta muted-link ">
+                    <svg class="octicon octicon-tag" viewBox="0 0 16 16" version="1.1" width="16" height="16">
+                      <path fill-rule="evenodd"
+                        d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z">
+                      </path>
+                    </svg>
+                    blogging
+                  </a>
+                  
+                  
+                </p>
+              </div>
+            </div>
+          </li>
+          
+          <li class="col-12 col-md-6 col-lg-6 mb-3 d-flex flex-content-stretch">
+            <div
+              class="Box pinned-item-list-item d-flex p-3 width-full js-pinned-item-list-item public source reorderable sortable-button-item">
+              <div class="pinned-item-list-item-content">
+                <div class="d-flex width-full flex-items-center position-relative">
+                  <svg class="octicon octicon-repo mr-2 text-gray flex-shrink-0" viewBox="0 0 16 16" version="1.1"
+                    width="16" height="16">
+                    <path fill-rule="evenodd"
+                      d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z">
+                    </path>
+                  </svg>
+                  <a class="text-bold flex-auto min-width-0" href="https://icaoberg.github.io/post/20211029-calamaro-paloma/">
+                    <span class="repo" title="Paloma">Paloma</span>
+                  </a>
+                </div>
+
+
+                <div name="summary" class="pinned-item-desc text-gray text-small d-block mt-2 mb-3">
+                  Andrés Calamaro singing Paloma
+                </div>
+
+                <p class="mb-0 f6 text-gray">
+                  
+                  
+                  <a href="/tags/blogging" class="pinned-item-meta muted-link ">
+                    <svg class="octicon octicon-tag" viewBox="0 0 16 16" version="1.1" width="16" height="16">
+                      <path fill-rule="evenodd"
+                        d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z">
+                      </path>
+                    </svg>
+                    blogging
+                  </a>
+                  
+                  <a href="/tags/music" class="pinned-item-meta muted-link ">
+                    <svg class="octicon octicon-tag" viewBox="0 0 16 16" version="1.1" width="16" height="16">
+                      <path fill-rule="evenodd"
+                        d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z">
+                      </path>
+                    </svg>
+                    music
+                  </a>
+                  
+                  
+                </p>
+              </div>
+            </div>
+          </li>
+          
+        </ol>
+      </div>
+    </div>
+
+    
+    <div class="mt-4 position-relative" id="contributions" data='[
+{
+  "title": "I%20want%20to%20eat%20your%20Pancreas",
+  "link": "https://icaoberg.github.io/post/20211220-i-want-to-eat-your-pancreas/",
+  "publishDate": "2021-12-20%2014:57:03"
+},
+
+{
+  "title": "Donut",
+  "link": "https://icaoberg.github.io/post/20211214-donut/",
+  "publishDate": "2021-12-14%2022:20:15"
+},
+
+{
+  "title": "taskwarrior",
+  "link": "https://icaoberg.github.io/post/20211129-taskwarrior/",
+  "publishDate": "2021-11-29%2001:55:24"
+},
+
+{
+  "title": "Cashew%20Tofu%20Lettuce%20Wraps",
+  "link": "https://icaoberg.github.io/post/20211122/",
+  "publishDate": "2021-11-22%2000:14:23"
+},
+
+{
+  "title": "Vegan%20bolognese",
+  "link": "https://icaoberg.github.io/post/20211120/",
+  "publishDate": "2021-11-20%2000:49:33"
+},
+
+{
+  "title": "Paloma",
+  "link": "https://icaoberg.github.io/post/20211029-calamaro-paloma/",
+  "publishDate": "2021-10-29%2022:06:30"
+},
+
+{
+  "title": "Building%20Singularity%20containers%20with%20Docker",
+  "link": "https://icaoberg.github.io/post/20210902-building-singularity-containers/",
+  "publishDate": "2021-09-02%2013:09:56"
+},
+
+{
+  "title": "pretty.yml",
+  "link": "https://icaoberg.github.io/post/20210828-pretty-yml/",
+  "publishDate": "2021-08-28%2023:01:23"
+},
+
+{
+  "title": "List%20of%20Singularity%20Containers",
+  "link": "https://icaoberg.github.io/post/20210825-singularity-containers/",
+  "publishDate": "2021-08-25%2022:05:41"
+},
+
+{
+  "title": "More%20random%20ellipsoids",
+  "link": "https://icaoberg.github.io/post/20210807-random-ellipsoids-2/",
+  "publishDate": "2021-08-07%2020:45:14"
+},
+
+{
+  "title": "Random%20ellipsoids",
+  "link": "https://icaoberg.github.io/post/20210807-random-ellipsoids/",
+  "publishDate": "2021-08-07%2015:07:28"
+},
+
+{
+  "title": "Random%20circles",
+  "link": "https://icaoberg.github.io/post/20210806-random-circles/",
+  "publishDate": "2021-08-06%2021:34:41"
+},
+
+{
+  "title": "singularity-rclone",
+  "link": "https://icaoberg.github.io/post/20210713-singularity-rclone/",
+  "publishDate": "2021-07-13%2000:17:20"
+},
+
+{
+  "title": "singularity-visidata",
+  "link": "https://icaoberg.github.io/post/20210712-singularity-visidata/",
+  "publishDate": "2021-07-12%2023:55:31"
+},
+
+{
+  "title": "singularity-dust",
+  "link": "https://icaoberg.github.io/post/20210712-singularity-dust/",
+  "publishDate": "2021-07-12%2022:31:56"
+},
+
+{
+  "title": "singularity-bat",
+  "link": "https://icaoberg.github.io/post/20210712-singularity-bat/",
+  "publishDate": "2021-07-12%2022:24:09"
+},
+
+{
+  "title": "Argentina%20Campe%c3%b3n",
+  "link": "https://icaoberg.github.io/post/20210710-alegria/",
+  "publishDate": "2021-07-10%2023:49:51"
+},
+
+{
+  "title": "Argentina%20vs%20Brazil",
+  "link": "https://icaoberg.github.io/post/20210710-maracanazo/",
+  "publishDate": "2021-07-10%2023:28:35"
+},
+
+{
+  "title": "Solo%20se%20Trata%20de%20Vivir",
+  "link": "https://icaoberg.github.io/post/20210415-solo_se_trata_de_vivir/",
+  "publishDate": "2021-04-15%2000:36:51"
+},
+
+{
+  "title": "Witness%20me!",
+  "link": "https://icaoberg.github.io/post/20210411-witness-me/",
+  "publishDate": "2021-04-11%2023:08:12"
+},
+
+{
+  "title": "Be%20kind...",
+  "link": "https://icaoberg.github.io/post/20210408-kind/",
+  "publishDate": "2021-04-08%2022:26:10"
+},
+
+{
+  "title": "SACNAS%20Community%20College%20Day",
+  "link": "https://icaoberg.github.io/post/20210403-sacnas/",
+  "publishDate": "2021-04-03%2010:00:00"
+},
+
+{
+  "title": "GeNT",
+  "link": "https://icaoberg.github.io/post/20210327-fortran/",
+  "publishDate": "2021-03-27%2022:39:22"
+},
+
+{
+  "title": "Coffee,%20tea%20and%20cocoa",
+  "link": "https://icaoberg.github.io/post/20210324-tea/",
+  "publishDate": "2021-03-24%2016:48:59"
+},
+
+{
+  "title": "Mushroom%20seasoning",
+  "link": "https://icaoberg.github.io/post/20210307-mushroom-seasoning/",
+  "publishDate": "2021-03-07%2023:27:42"
+},
+
+{
+  "title": "Making%20fake%20bacon",
+  "link": "https://icaoberg.github.io/post/20210307-fake-bacon/",
+  "publishDate": "2021-03-07%2023:09:10"
+},
+
+{
+  "title": "Adventures%20in%20knitting",
+  "link": "https://icaoberg.github.io/post/20210301-shawl/",
+  "publishDate": "2021-03-01%2023:23:28"
+},
+
+{
+  "title": "Adventures%20in%20knitting",
+  "link": "https://icaoberg.github.io/post/20210301/",
+  "publishDate": "2021-03-01%2021:23:01"
+},
+
+{
+  "title": "Vegan%20manicotti%20recipe",
+  "link": "https://icaoberg.github.io/post/20210104-little-victories/",
+  "publishDate": "2021-01-04%2000:44:50"
+},
+
+{
+  "title": "Vegan-friendly%20dough%20for%20Pascualina",
+  "link": "https://icaoberg.github.io/post/20210102-vegan-dough/",
+  "publishDate": "2021-01-02%2022:02:56"
+},
+
+{
+  "title": "Veganizing%20pascualina",
+  "link": "https://icaoberg.github.io/post/20210102-ricotta/",
+  "publishDate": "2021-01-02%2011:59:10"
+},
+
+{
+  "title": "Life%20changing%20command",
+  "link": "https://icaoberg.github.io/post/20210102-terminal/",
+  "publishDate": "2021-01-02%2011:22:18"
+},
+
+{
+  "title": "Vegan%20cheese",
+  "link": "https://icaoberg.github.io/post/20210102-vegan-cheese/",
+  "publishDate": "2021-01-02%2006:31:54"
+},
+
+{
+  "title": "%c2%a1Feliz%20A%c3%b1o%20Nuevo!%20Happy%20New%20Year!",
+  "link": "https://icaoberg.github.io/post/20210101/",
+  "publishDate": "2021-01-01%2000:00:01"
+},
+
+{
+  "title": "Setting%20a%20Plex%20media%20server%20at%20home",
+  "link": "https://icaoberg.github.io/post/20201231-plex-media-server/",
+  "publishDate": "2020-12-31%2015:22:38"
+},
+
+{
+  "title": "Updating%20Singularity%20recipes",
+  "link": "https://icaoberg.github.io/post/20201228/",
+  "publishDate": "2020-12-28%2023:14:13"
+},
+
+{
+  "title": "Foobar",
+  "link": "https://icaoberg.github.io/post/20201222/",
+  "publishDate": "2020-12-22%2001:01:45"
+},
+
+{
+  "title": "HuBMAP%20Updates",
+  "link": "https://icaoberg.github.io/post/20200725/",
+  "publishDate": "2020-07-25%2000:00:00"
+},
+
+{
+  "title": "El%20tiempo%20para%20construir%20puentes",
+  "link": "https://icaoberg.github.io/post/20200705/",
+  "publishDate": "2020-07-05%2000:00:00"
+},
+
+{
+  "title": "Hello,%20Pittsburgh%20Supercomputing%20Center!",
+  "link": "https://icaoberg.github.io/post/20200615/",
+  "publishDate": "2020-06-15%2000:00:00"
+},
+
+{
+  "title": "Good%20bye,%20Computational%20Biology!",
+  "link": "https://icaoberg.github.io/post/20200529/",
+  "publishDate": "2020-05-30%2000:00:00"
+},
+
+{
+  "title": "Lazlo%20Bane%20-%20I%27m%20no%20Superman",
+  "link": "https://icaoberg.github.io/post/tinycards-im-no-superman/",
+  "publishDate": "2020-05-16%2022:00:00"
+},
+
+{
+  "title": "Los%20Aut%c3%a9nticos%20Decandentes%20y%20Amigos%20-%20Juntos%20para%20Siempre",
+  "link": "https://icaoberg.github.io/post/tinycards-juntos-para-siempre/",
+  "publishDate": "2020-04-16%2008:00:00"
+},
+
+{
+  "title": "Morat%20-%20Acu%c3%a9rdate%20de%20M%c3%ad",
+  "link": "https://icaoberg.github.io/post/spanish-meetup-spring2020-acuerdate-de-mi/",
+  "publishDate": "2020-04-12%2018:00:00"
+},
+
+{
+  "title": "Another%20day,%20another%20challenge",
+  "link": "https://icaoberg.github.io/post/20200409/",
+  "publishDate": "2020-04-09%2000:00:00"
+},
+
+{
+  "title": "El%20Silencio%20del%20Viento",
+  "link": "https://icaoberg.github.io/post/clas-el-silencio-del-viento/",
+  "publishDate": "2020-04-07%2010:00:00"
+},
+
+{
+  "title": "GNU%20GCC",
+  "link": "https://icaoberg.github.io/post/singularity-gcc/",
+  "publishDate": "2020-04-03%2022:00:00"
+},
+
+{
+  "title": "Luciano%20Pereyra%20-%20Qu%c3%a9date%20Conmigo",
+  "link": "https://icaoberg.github.io/post/tinycards-luciano-pereyra-quedate-conmigo/",
+  "publishDate": "2020-03-28%2021:57:35"
+},
+
+{
+  "title": "Como%20la%20Cigarra",
+  "link": "https://icaoberg.github.io/post/como-la-cigarra/",
+  "publishDate": "2020-03-26%2014:22:00"
+},
+
+{
+  "title": "La%20Negrada",
+  "link": "https://icaoberg.github.io/post/clas-la-negrada-rescheduled/",
+  "publishDate": "2020-03-19%2010:00:00"
+},
+
+{
+  "title": "Introduction%20to%20Statistical%20Methods%20with%20MATLAB",
+  "link": "https://icaoberg.github.io/post/matlab-stats/",
+  "publishDate": "2020-03-17%2022:00:00"
+},
+
+{
+  "title": "Preparing%20for%20the%20Spread%20of%20COVID-19",
+  "link": "https://icaoberg.github.io/post/covid-19-preparation/",
+  "publishDate": "2020-03-15%2010:00:00"
+},
+
+{
+  "title": "Alejandro%20Lerner%20-%20Todo%20a%20Pulm%c3%b3n",
+  "link": "https://icaoberg.github.io/post/tinycards-alejandro-lerner-todo-a-pulmon/",
+  "publishDate": "2020-03-14%2021:57:35"
+},
+
+{
+  "title": "Carnegie%20Mellon%20University",
+  "link": "https://icaoberg.github.io/post/cmu-covid-19-20200313-update2/",
+  "publishDate": "2020-03-13%2015:57:00"
+},
+
+{
+  "title": "Carnegie%20Mellon%20University",
+  "link": "https://icaoberg.github.io/post/cmu-covid-19-social-distance-20200313/",
+  "publishDate": "2020-03-13%2014:47:00"
+},
+
+{
+  "title": "Carnegie%20Mellon%20University",
+  "link": "https://icaoberg.github.io/post/cmu-covid-19-20200313-update1/",
+  "publishDate": "2020-03-13%2009:48:00"
+},
+
+{
+  "title": "The%20Lonely%20God",
+  "link": "https://icaoberg.github.io/post/doctor-who-im-nothing-special/",
+  "publishDate": "2020-03-12%2010:09:00"
+},
+
+{
+  "title": "Carnegie%20Mellon%20University",
+  "link": "https://icaoberg.github.io/post/cmu-covid-19-20200312-update1/",
+  "publishDate": "2020-03-12%2013:39:00"
+},
+
+{
+  "title": "Wash%20your%20hands...",
+  "link": "https://icaoberg.github.io/post/wash-your-hands/",
+  "publishDate": "2020-03-12%2010:00:00"
+},
+
+{
+  "title": "Introduction%20to%20Linear%20Algebra%20with%20MATLAB",
+  "link": "https://icaoberg.github.io/post/matlab-linearalgebra/",
+  "publishDate": "2020-03-09%2017:00:00"
+},
+
+{
+  "title": "Solving%20Ordinary%20Differential%20Equations%20with%20MATLAB",
+  "link": "https://icaoberg.github.io/post/matlab-ode/",
+  "publishDate": "2020-03-09%2010:00:00"
+},
+
+{
+  "title": "Daily%20Report",
+  "link": "https://icaoberg.github.io/post/daily-report-2020-03-03/",
+  "publishDate": "2020-03-03%2000:00:00"
+},
+
+{
+  "title": "cowsay",
+  "link": "https://icaoberg.github.io/post/singularity-cowsay/",
+  "publishDate": "2020-02-26%2010:00:00"
+},
+
+{
+  "title": "La%20Heredera%20del%20Viento",
+  "link": "https://icaoberg.github.io/post/clas-la-heredera-del-viento/",
+  "publishDate": "2020-02-25%2010:00:00"
+},
+
+{
+  "title": "Barrio%20Latino%20is%20turning%2025th%20this%20year!",
+  "link": "https://icaoberg.github.io/post/wrct-barrio-latino-25th-anniversary/",
+  "publishDate": "2020-02-23%2002:00:00"
+},
+
+{
+  "title": "Morat%20-%20Mil%20Tormentas",
+  "link": "https://icaoberg.github.io/post/tinycards-morat-mil-tormentas/",
+  "publishDate": "2020-02-22%2021:57:35"
+},
+
+{
+  "title": "Spanish%20Conversation%20at%20CLP%20Lawrenceville",
+  "link": "https://icaoberg.github.io/post/spanish-meetup-2020-02-22/",
+  "publishDate": "2020-02-22%2019:00:00"
+},
+
+{
+  "title": "Massive%20Music%20Weekend%202020",
+  "link": "https://icaoberg.github.io/post/wrct-mmw-2020/",
+  "publishDate": "2020-02-22%2010:00:00"
+},
+
+{
+  "title": "La%20Negrada",
+  "link": "https://icaoberg.github.io/post/clas-la-negrada/",
+  "publishDate": "2020-02-19%2010:00:00"
+},
+
+{
+  "title": "Weekly%20Report",
+  "link": "https://icaoberg.github.io/post/weekly-report-2020-02-14/",
+  "publishDate": "2020-02-14%2000:00:00"
+},
+
+{
+  "title": "Belinda%20-%20Amor%20a%20Primera%20Vista",
+  "link": "https://icaoberg.github.io/post/tinycards-belinda-amor-a-primera-vista/",
+  "publishDate": "2020-02-08%2021:57:35"
+},
+
+{
+  "title": "bedtools",
+  "link": "https://icaoberg.github.io/post/singularity-bedtools-update/",
+  "publishDate": "2020-02-03%2018:00:00"
+},
+
+{
+  "title": "It%20Was%20So%20Important%20for%20My%20White%20Middle-Class%20Kids%20to%20See%20the%202020%20Super%20Bowl%20Halftime%20Show",
+  "link": "https://icaoberg.github.io/post/sheknows-it-was-so-important/",
+  "publishDate": "2020-02-03%2015:30:00"
+},
+
+{
+  "title": "Jennifer%20Lopez%20and%20Shakira%e2%80%99s%20music%20sales%20spike%20after%20their%20viral%20Super%20Bowl%20halftime%20show",
+  "link": "https://icaoberg.github.io/post/marketwatch-jlo-and-shakira/",
+  "publishDate": "2020-02-03%2015:30:00"
+},
+
+{
+  "title": "Let%e2%80%99s%20Get%20Loud:%20Jennifer%20Lopez,%20Shakira%20Power%20Through%20Cultural%20Minefield%20During%20Super%20Bowl%20Halftime%20Show",
+  "link": "https://icaoberg.github.io/post/rolling-stone-lets-get-loud/",
+  "publishDate": "2020-02-03%2015:30:00"
+},
+
+{
+  "title": "Shakira%e2%80%99s%2019-Year-Old%20%e2%80%9cWhenever,%20Wherever%e2%80%9d%20Is%20#1%20on%20the%20Charts%20Again,%20Where%20It%20Belongs",
+  "link": "https://icaoberg.github.io/post/remezcla-shakira-whenever-wherever/",
+  "publishDate": "2020-02-03%2012:00:00"
+},
+
+{
+  "title": "BiasBusters",
+  "link": "https://icaoberg.github.io/post/biasbusters/",
+  "publishDate": "2020-01-31%2021:37:08"
+},
+
+{
+  "title": "bedtools",
+  "link": "https://icaoberg.github.io/post/singularity-bedtools/",
+  "publishDate": "2020-01-26%2018:00:00"
+},
+
+{
+  "title": "Camilo%20y%20Pedro%20Cap%c3%b3%20-%20Tut%c3%ba",
+  "link": "https://icaoberg.github.io/post/tinycards-camilo-y-pedro-capo-tutu/",
+  "publishDate": "2020-01-25%2021:57:35"
+},
+
+{
+  "title": "Spanish%20Conversation%20at%20CLP%20Lawrenceville",
+  "link": "https://icaoberg.github.io/post/spanish-meetup-2020-01-18/",
+  "publishDate": "2020-01-18%2010:00:00"
+},
+
+{
+  "title": "gifgen",
+  "link": "https://icaoberg.github.io/post/singularity-gifgen/",
+  "publishDate": "2020-01-14%2008:00:00"
+},
+
+{
+  "title": "Camilo%20y%20Pedro%20Cap%c3%b3%20-%20Tut%c3%ba",
+  "link": "https://icaoberg.github.io/post/good-music-camilo-tutu/",
+  "publishDate": "2020-01-14%2000:46:00"
+},
+
+{
+  "title": "Lalo%20Ebratt,%20Sebasti%c3%a1n%20Yatra%20ft.%20Tropical%20Minds%20-%20D%c3%a9jate%20Querer",
+  "link": "https://icaoberg.github.io/post/good-music-sebastian-yatra-dejate-querer/",
+  "publishDate": "2020-01-14%2000:29:00"
+},
+
+{
+  "title": "Los%20Angeles%20Azules,%20Belinda%20y%20Lalo%20Ebratt%20-%20Amor%20a%20Primera%20Vista",
+  "link": "https://icaoberg.github.io/post/good-music-los-angeles-azules-belinda-amor-a-primera-vista/",
+  "publishDate": "2020-01-14%2000:20:00"
+},
+
+{
+  "title": "Lalo%20Ebratt,%20Sebasti%c3%a1n%20Yatra,%20Yera%20-%20D%c3%a9jate%20Querer",
+  "link": "https://icaoberg.github.io/post/tinycards-lalo-ebratt-dejate-querer/",
+  "publishDate": "2020-01-13%2008:00:00"
+},
+
+{
+  "title": "Sie7e%20-%20Tengo%20tu%20Love",
+  "link": "https://icaoberg.github.io/post/tinycards-sie7e-tengo-tu-love/",
+  "publishDate": "2020-01-11%2021:57:35"
+},
+
+{
+  "title": "Ricardo%20Arjona%20y%20Gaby%20Moreno%20-%20Fuiste%20T%c3%ba",
+  "link": "https://icaoberg.github.io/post/tinycards-fuiste-tu/",
+  "publishDate": "2020-01-10%2021:00:00"
+},
+
+{
+  "title": "Singularity%20and%20Travis%20config",
+  "link": "https://icaoberg.github.io/post/singularity-travis-config/",
+  "publishDate": "2020-01-07%2016:00:00"
+},
+
+{
+  "title": "gotop",
+  "link": "https://icaoberg.github.io/post/singularity-gotop/",
+  "publishDate": "2020-01-07%2008:00:00"
+},
+
+{
+  "title": "Singularity%20Desktop%20MacOSX%20%28Beta%20Release%29",
+  "link": "https://icaoberg.github.io/post/singularity-macosx-journey-1/",
+  "publishDate": "2020-01-07%2008:00:00"
+},
+
+{
+  "title": "Spanish%20Conversation%20at%20CLP%20Lawrenceville",
+  "link": "https://icaoberg.github.io/post/spanish-meetup-2020-01-04/",
+  "publishDate": "2020-01-04%2010:00:00"
+},
+
+{
+  "title": "Los%20Aut%c3%a9nticos%20Decadentes%20-%20Pendeviejo",
+  "link": "https://icaoberg.github.io/post/good-music-autenticos-decadentes-pendeviejo/",
+  "publishDate": "2020-01-03%2022:09:29"
+},
+
+{
+  "title": "Fito%20P%c3%a1ez%20-%20Un%20Vestido%20y%20un%20Amor",
+  "link": "https://icaoberg.github.io/post/tinycards-un-vestido-y-un-amor/",
+  "publishDate": "2020-01-03%2021:57:35"
+},
+
+{
+  "title": "Ready%20to%20party%20I%20am",
+  "link": "https://icaoberg.github.io/post/ready-to-party-i-am/",
+  "publishDate": "2020-01-02%2017:51:57"
+},
+
+{
+  "title": "Carlos%20Baute%20y%20Marta%20S%c3%a1nchez%20-%20Colgado%20en%20tus%20Manos",
+  "link": "https://icaoberg.github.io/post/tinycards-colgado-en-tus-manos/",
+  "publishDate": "2019-12-27%2021:57:35"
+},
+
+{
+  "title": "%c2%a1Felices%20Fiestas!",
+  "link": "https://icaoberg.github.io/post/spanish-meetup-2019-12-25/",
+  "publishDate": "2019-12-25%2010:00:00"
+},
+
+{
+  "title": "OLIO",
+  "link": "https://icaoberg.github.io/post/olio/",
+  "publishDate": "2019-12-24%2021:28:14"
+},
+
+{
+  "title": "%c2%a1Felices%20Fiestas!%20Especial%20de%20m%c3%basica%20de%20Navidad",
+  "link": "https://icaoberg.github.io/post/wrct-feliz-navidad-2019/",
+  "publishDate": "2019-12-20%2020:00:00"
+},
+
+{
+  "title": "Spanish%20II",
+  "link": "https://icaoberg.github.io/post/spanish2-2019-12-18/",
+  "publishDate": "2019-12-18%2010:00:00"
+},
+
+{
+  "title": "Let%27s%20practice%20some%20Spanish%20at%20Cilantro%20y%20Ajo!",
+  "link": "https://icaoberg.github.io/post/spanish-meetup-2019-12-17/",
+  "publishDate": "2019-12-17%2010:00:00"
+},
+
+{
+  "title": "Weekly%20Report",
+  "link": "https://icaoberg.github.io/post/weekly-report-2019-12-14/",
+  "publishDate": "2019-12-14%2000:00:00"
+},
+
+{
+  "title": "Franco%20de%20Vita%20-%20Si%20la%20Ves",
+  "link": "https://icaoberg.github.io/post/spanish2-fall2019-si-la-ves/",
+  "publishDate": "2019-12-04%2010:10:00"
+},
+
+{
+  "title": "Spanish%20II",
+  "link": "https://icaoberg.github.io/post/spanish2-2019-12-04/",
+  "publishDate": "2019-12-04%2010:00:00"
+},
+
+{
+  "title": "Potato",
+  "link": "https://icaoberg.github.io/post/potato/",
+  "publishDate": "2019-11-25%2018:13:43"
+},
+
+{
+  "title": "Yaqui%20Delgado%20quiere%20darte%20una%20paliza",
+  "link": "https://icaoberg.github.io/post/spanish2-book-2019-11-22/",
+  "publishDate": "2019-11-22%2022:00:00"
+},
+
+{
+  "title": "Korean%20and%20Mexican%20people%20swap%20snacks",
+  "link": "https://icaoberg.github.io/post/buzzfeed-korean-mexican/",
+  "publishDate": "2019-11-20%2023:18:31"
+},
+
+{
+  "title": "Morat%20-%20Acu%c3%a9rdate%20de%20M%c3%ad",
+  "link": "https://icaoberg.github.io/post/spanish2-fall2019-acuerdate-de-mi/",
+  "publishDate": "2019-11-20%2018:00:00"
+},
+
+{
+  "title": "Spanish%20II",
+  "link": "https://icaoberg.github.io/post/spanish2-2019-11-20/",
+  "publishDate": "2019-11-20%2010:00:00"
+},
+
+{
+  "title": "Luna%20Fortuna",
+  "link": "https://icaoberg.github.io/post/spanish2-book-2019-11-15/",
+  "publishDate": "2019-11-15%2022:00:00"
+},
+
+{
+  "title": "Savory%20Tarte%20Tatin",
+  "link": "https://icaoberg.github.io/post/tarte-tatin/",
+  "publishDate": "2019-11-09%2018:02:53"
+},
+
+{
+  "title": "Matlab%20Onramp",
+  "link": "https://icaoberg.github.io/post/matlab-onramp/",
+  "publishDate": "2019-11-09%2001:48:55"
+},
+
+{
+  "title": "Drama",
+  "link": "https://icaoberg.github.io/post/spanish2-book-2019-11-08/",
+  "publishDate": "2019-11-08%2022:00:00"
+},
+
+{
+  "title": "Walter%20Mercado%20Remembered",
+  "link": "https://icaoberg.github.io/post/walter-mercado-remembered/",
+  "publishDate": "2019-11-08%2018:46:19"
+},
+
+{
+  "title": "Luciano%20Pereyra%20-%20Que%20Suerte%20tiene%20El",
+  "link": "https://icaoberg.github.io/post/spanish2-fall2019-que-suerte-tiene-el/",
+  "publishDate": "2019-11-06%2021:00:00"
+},
+
+{
+  "title": "Daily%20Report",
+  "link": "https://icaoberg.github.io/post/daily-report-2019-11-07/",
+  "publishDate": "2019-11-07%2000:00:00"
+},
+
+{
+  "title": "Spanish%20II",
+  "link": "https://icaoberg.github.io/post/spanish2-2019-11-06/",
+  "publishDate": "2019-11-06%2010:00:00"
+},
+
+{
+  "title": "Once%20upon%20a%20time:%20traditional%20Latin%20American%20tales",
+  "link": "https://icaoberg.github.io/post/spanish2-book-2019-11-01/",
+  "publishDate": "2019-11-01%2022:00:00"
+},
+
+{
+  "title": "Alejandro%20Sanz%20-%20Amiga%20M%c3%ada",
+  "link": "https://icaoberg.github.io/post/tinycards-amiga-mia/",
+  "publishDate": "2019-11-01%2021:00:00"
+},
+
+{
+  "title": "Weekly%20Report",
+  "link": "https://icaoberg.github.io/post/weekly-report-2019-11-01/",
+  "publishDate": "2019-11-01%2000:00:00"
+},
+
+{
+  "title": "TINI%20y%20Sebasti%c3%a1n%20Yatra%20-%20Oye",
+  "link": "https://icaoberg.github.io/post/tinycards-oye/",
+  "publishDate": "2019-10-31%2021:00:00"
+},
+
+{
+  "title": "Juan%20Luis%20Guerra%20-%20Kitipun",
+  "link": "https://icaoberg.github.io/post/tinycards-kitipun/",
+  "publishDate": "2019-10-30%2021:00:00"
+},
+
+{
+  "title": "Daily%20Report",
+  "link": "https://icaoberg.github.io/post/daily-report-2019-10-30/",
+  "publishDate": "2019-10-30%2000:00:00"
+},
+
+{
+  "title": "La%20Oreja%20de%20Van%20Gogh%20-%20Jueves",
+  "link": "https://icaoberg.github.io/post/tinycards-jueves/",
+  "publishDate": "2019-10-29%2014:57:35"
+},
+
+{
+  "title": "Luciano%20Pereyra%20-%20Qu%c3%a9date%20conmigo",
+  "link": "https://icaoberg.github.io/post/tinycards-quedate-conmigo/",
+  "publishDate": "2019-10-28%2021:00:00"
+},
+
+{
+  "title": "Without%20Reward",
+  "link": "https://icaoberg.github.io/post/doctor-who-without-reward/",
+  "publishDate": "2019-10-27%2023:20:52"
+},
+
+{
+  "title": "L.%20Pereyra%20y%20Greeicy%20-%20Te%20est%c3%a1s%20enamorando%20de%20mi",
+  "link": "https://icaoberg.github.io/post/tinycards-te-estas-enamorando-de-mi/",
+  "publishDate": "2019-10-27%2021:00:00"
+},
+
+{
+  "title": "Weekly%20Report",
+  "link": "https://icaoberg.github.io/post/weekly-report-2019-10-27/",
+  "publishDate": "2019-10-27%2000:00:00"
+},
+
+{
+  "title": "Cuentos%20de%20Perrault",
+  "link": "https://icaoberg.github.io/post/spanish2-book-2019-10-25/",
+  "publishDate": "2019-10-25%2022:00:00"
+},
+
+{
+  "title": "Blank%20Space",
+  "link": "https://icaoberg.github.io/post/doctor-who-blank-space/",
+  "publishDate": "2019-10-25%2014:09:00"
+},
+
+{
+  "title": "Regeneration",
+  "link": "https://icaoberg.github.io/post/doctor-who-regeneration/",
+  "publishDate": "2019-10-24%2023:14:15"
+},
+
+{
+  "title": "Tommy%20Torres%20-%20Querido%20Tommy",
+  "link": "https://icaoberg.github.io/post/tinycards-querido-tommy/",
+  "publishDate": "2019-10-24%2021:00:00"
+},
+
+{
+  "title": "Lab%20Meeting",
+  "link": "https://icaoberg.github.io/post/lab-meeting/",
+  "publishDate": "2019-10-24%2009:31:29"
+},
+
+{
+  "title": "Yera%20ft.%20Morat%20-%20Mejores%20Amigos",
+  "link": "https://icaoberg.github.io/post/tinycards-mejores-amigos/",
+  "publishDate": "2019-10-22%2021:00:00"
+},
+
+{
+  "title": "Find%20Files",
+  "link": "https://icaoberg.github.io/post/matlab-find-files/",
+  "publishDate": "2019-10-22%2016:11:26"
+},
+
+{
+  "title": "Daily%20Report",
+  "link": "https://icaoberg.github.io/post/daily-report-2019-10-22/",
+  "publishDate": "2019-10-22%2000:00:00"
+},
+
+{
+  "title": "Sword",
+  "link": "https://icaoberg.github.io/post/doctorate-finland/",
+  "publishDate": "2019-10-21%2001:47:39"
+},
+
+{
+  "title": "Weekly%20Report",
+  "link": "https://icaoberg.github.io/post/weekly-report-2019-10-21/",
+  "publishDate": "2019-10-21%2000:00:00"
+},
+
+{
+  "title": "Cuentos%20y%20Leyendas%20Hispanoamericanos",
+  "link": "https://icaoberg.github.io/post/spanish2-book-2019-10-18/",
+  "publishDate": "2019-10-18%2022:00:00"
+},
+
+{
+  "title": "Apple%20Cider",
+  "link": "https://icaoberg.github.io/post/instant-pot-apple-cider/",
+  "publishDate": "2019-10-17%2020:37:20"
+},
+
+{
+  "title": "Juanes%20y%20Sebastian%20Yatra%20-%20Bonita",
+  "link": "https://icaoberg.github.io/post/spanish2-fall2019-bonita/",
+  "publishDate": "2019-10-16%2010:10:00"
+},
+
+{
+  "title": "Spanish%20II",
+  "link": "https://icaoberg.github.io/post/spanish2-2019-10-16/",
+  "publishDate": "2019-10-16%2010:00:00"
+},
+
+{
+  "title": "Savory%20Oatmeal",
+  "link": "https://icaoberg.github.io/post/savory-oatmeal/",
+  "publishDate": "2019-10-15%2020:44:39"
+},
+
+{
+  "title": "The%20Lonely%20God",
+  "link": "https://icaoberg.github.io/post/doctor-who-the-lonely-god/",
+  "publishDate": "2019-10-15%2014:09:00"
+},
+
+{
+  "title": "Programming%20for%20Lovers",
+  "link": "https://icaoberg.github.io/post/programming-for-lovers/",
+  "publishDate": "2019-10-14%2015:57:35"
+},
+
+{
+  "title": "browsh",
+  "link": "https://icaoberg.github.io/post/singularity-browsh/",
+  "publishDate": "2019-10-13%2001:19:33"
+},
+
+{
+  "title": "About%20using%20the%20word%20pregnant",
+  "link": "https://icaoberg.github.io/post/spanish-meetup-pregnant/",
+  "publishDate": "2019-10-12%2018:00:00"
+},
+
+{
+  "title": "%c2%a1Que%20viva%20Clemente!",
+  "link": "https://icaoberg.github.io/post/que-viva-clemente/",
+  "publishDate": "2019-10-12%2010:00:00"
+},
+
+{
+  "title": "Cuentos%20populares%20mexicanos",
+  "link": "https://icaoberg.github.io/post/spanish2-book-2019-10-11/",
+  "publishDate": "2019-10-11%2022:00:00"
+},
+
+{
+  "title": "Las%20Madres%20de%20Berks",
+  "link": "https://icaoberg.github.io/post/las-madres-de-berks/",
+  "publishDate": "2019-10-10%2010:00:00"
+},
+
+{
+  "title": "Spanish%20Conversation%20at%20CLP%20Lawrenceville",
+  "link": "https://icaoberg.github.io/post/spanish-meetup-2019-10-12/",
+  "publishDate": "2019-10-10%2010:00:00"
+},
+
+{
+  "title": "Leo%20Dan%20y%20Banda%20El%20Lim%c3%b3n%20-%20P%c3%addeme%20la%20Luna",
+  "link": "https://icaoberg.github.io/post/tinycards-pideme-la-luna/",
+  "publishDate": "2019-10-09%2014:57:35"
+},
+
+{
+  "title": "Morat%20-%20Cuando%20Nadie%20Ve",
+  "link": "https://icaoberg.github.io/post/tinycards-cuando-nadie-ve/",
+  "publishDate": "2019-10-05%2000:00:00"
+},
+
+{
+  "title": "Ricardo%20Arjona%20-%20Fuiste%20Tu",
+  "link": "https://icaoberg.github.io/post/spanish2-fall2019-fuiste-tu/",
+  "publishDate": "2019-10-03%2014:11:35"
+},
+
+{
+  "title": "Alejandro%20Sanz%20y%20Camila%20Cabello%20-%20Mi%20Persona%20Favorita",
+  "link": "https://icaoberg.github.io/post/tinycards-mi-persona-favorita/",
+  "publishDate": "2019-10-03%2000:00:00"
+},
+
+{
+  "title": "Spanish%20II",
+  "link": "https://icaoberg.github.io/post/spanish2-2019-10-02/",
+  "publishDate": "2019-10-02%2010:00:00"
+},
+
+{
+  "title": "Big%20Data%20Workshop",
+  "link": "https://icaoberg.github.io/post/big-data/",
+  "publishDate": "2019-10-01%2010:56:00"
+},
+
+{
+  "title": "Carlos%20Vives%20y%20Wisin%20-%20Si%20me%20das%20tu%20Amor",
+  "link": "https://icaoberg.github.io/post/tinycards-si-me-das-tu-amor/",
+  "publishDate": "2019-09-30%2021:57:35"
+},
+
+{
+  "title": "Beatriz%20Luengo%20-%20Como%20tu%20no%20hay%202",
+  "link": "https://icaoberg.github.io/post/tinycards-como-tu-no-hay-dos/",
+  "publishDate": "2019-10-01%2000:00:00"
+},
+
+{
+  "title": "TacoMania%202019",
+  "link": "https://icaoberg.github.io/post/tacomania2019/",
+  "publishDate": "2019-09-29%2002:28:59"
+},
+
+{
+  "title": "Adventures%20in%20Failure",
+  "link": "https://icaoberg.github.io/post/carrot-failure/",
+  "publishDate": "2019-09-29%2001:50:57"
+},
+
+{
+  "title": "Doctor%20Mario",
+  "link": "https://icaoberg.github.io/post/doctor-mario/",
+  "publishDate": "2019-09-28%2018:36:03"
+},
+
+{
+  "title": "Maintenance%20mode",
+  "link": "https://icaoberg.github.io/post/apache2/",
+  "publishDate": "2019-09-27%2013:48:54"
+},
+
+{
+  "title": "Cody",
+  "link": "https://icaoberg.github.io/post/cody/",
+  "publishDate": "2019-09-26%2002:10:48"
+},
+
+{
+  "title": "Juanes%20y%20Sebasti%c3%a1n%20Yatra%20-%20Bonita",
+  "link": "https://icaoberg.github.io/post/tinycards-bonita/",
+  "publishDate": "2019-09-23%2021:57:35"
+},
+
+{
+  "title": "Los%20Rodriguez%20-%20Milonga%20del%20Marinero%20y%20el%20Capitan",
+  "link": "https://icaoberg.github.io/post/tinycards-milonga-del-marinero/",
+  "publishDate": "2019-09-22%2021:57:35"
+},
+
+{
+  "title": "Wyclef%20Jean%20-%20Gone%20%27till%20November",
+  "link": "https://icaoberg.github.io/post/tinycards-gone-til-november/",
+  "publishDate": "2019-09-22%2021:57:35"
+},
+
+{
+  "title": "CBD10",
+  "link": "https://icaoberg.github.io/post/cbd10/",
+  "publishDate": "2019-09-21%2011:19:17"
+},
+
+{
+  "title": "CellOrganizer%20for%20Singularity",
+  "link": "https://icaoberg.github.io/post/singularity-retweet-ceo/",
+  "publishDate": "2019-09-21%2000:20:50"
+},
+
+{
+  "title": "Latinx%20Picnic%202019",
+  "link": "https://icaoberg.github.io/post/lacu-picnic2019/",
+  "publishDate": "2019-09-21%2000:12:06"
+},
+
+{
+  "title": "Morat%20-%20Acu%c3%a9rdate%20de%20mi",
+  "link": "https://icaoberg.github.io/post/tinycards-acuerdate-de-mi/",
+  "publishDate": "2019-09-20%2021:57:35"
+},
+
+{
+  "title": "Docker%20-%20Matlab%20MCR%202019b",
+  "link": "https://icaoberg.github.io/post/docker-matlabmcr2019b/",
+  "publishDate": "2019-09-20%2021:17:12"
+},
+
+{
+  "title": "Puerto%20Rico%20at%20a%20Crossroad",
+  "link": "https://icaoberg.github.io/post/pr-at-a-crossroad/",
+  "publishDate": "2019-09-19%2012:49:15"
+},
+
+{
+  "title": "Latinx%20Leaders%20Gathering",
+  "link": "https://icaoberg.github.io/post/latinx-leaders-gathering/",
+  "publishDate": "2019-09-18%2023:43:09"
+},
+
+{
+  "title": "Goodies",
+  "link": "https://icaoberg.github.io/post/matlab-goodies/",
+  "publishDate": "2019-09-18%2000:15:38"
+},
+
+{
+  "title": "Woman%20it%20Woman",
+  "link": "https://icaoberg.github.io/post/woman-it-woman/",
+  "publishDate": "2019-09-17%2018:00:00"
+},
+
+{
+  "title": "Volunteer%20at%20SOY%20Pittsburgh%20After%20School!",
+  "link": "https://icaoberg.github.io/post/volunteer-at-soy-pittsburgh/",
+  "publishDate": "2019-09-16%2023:01:17"
+},
+
+{
+  "title": "Sebasti%c3%a1n%20Yatra%20-%20Cristina",
+  "link": "https://icaoberg.github.io/post/tinycards-cristina/",
+  "publishDate": "2019-09-12%2021:57:35"
+},
+
+{
+  "title": "DJ%20the%20Cut",
+  "link": "https://icaoberg.github.io/post/wrct-dj-the-cut-fall-2019-part1/",
+  "publishDate": "2019-08-30%2020:00:00"
+},
+
+{
+  "title": "DJ%20the%20Cut",
+  "link": "https://icaoberg.github.io/post/wrct-dj-the-cut-fall-2019-part2/",
+  "publishDate": "2019-08-30%2020:00:00"
+},
+
+{
+  "title": "TINI%20y%20Morat%20-%20Consejo%20de%20Amor",
+  "link": "https://icaoberg.github.io/post/spanish2-fall2019-consejo-de-amor/",
+  "publishDate": "2019-08-07%2018:00:00"
+},
+
+{
+  "title": "Carnegie%20Mellon%20University%20CSD%20BBQ!",
+  "link": "https://icaoberg.github.io/post/wrct-cmu-csd-bbq-2019/",
+  "publishDate": "2019-05-03%2020:00:00"
+},
+
+{
+  "title": "DJ%20the%20Cut",
+  "link": "https://icaoberg.github.io/post/wrct-dj-the-cut-spring-2019/",
+  "publishDate": "2019-03-01%2020:00:00"
+},
+
+{
+  "title": "Happy%20Valentine%27s%20Day",
+  "link": "https://icaoberg.github.io/post/wrct-san-valentin-2019/",
+  "publishDate": "2019-02-14%2020:00:00"
+},
+
+{
+  "title": "%c2%a1Felices%20Fiestas!%20Especial%20de%20m%c3%basica%20de%20Navidad",
+  "link": "https://icaoberg.github.io/post/wrct-feliz-navidad-2018/",
+  "publishDate": "2018-12-21%2020:00:00"
+},
+
+{
+  "title": "Empanada%20Sale",
+  "link": "https://icaoberg.github.io/post/cmu-2018-fall-empanada/",
+  "publishDate": "2018-11-12%2011:00:00"
+},
+
+{
+  "title": "Anatomy%20of%20the%20Ear",
+  "link": "https://icaoberg.github.io/post/wrct-anatomy-of-the-ear-2018/",
+  "publishDate": "2018-11-08%2020:00:00"
+},
+
+{
+  "title": "DJ%20the%20Cut",
+  "link": "https://icaoberg.github.io/post/wrct-dj-the-cut-fall-2018/",
+  "publishDate": "2018-09-14%2020:00:00"
+},
+
+{
+  "title": "DJ%20the%20Cut",
+  "link": "https://icaoberg.github.io/post/wrct-dj-the-cut-spring-2018/",
+  "publishDate": "2018-04-13%2020:00:00"
+},
+
+{
+  "title": "DJ%20the%20Cut",
+  "link": "https://icaoberg.github.io/post/wrct-dj-the-cut-fall-2017/",
+  "publishDate": "2017-10-20%2020:00:00"
+},
+
+{
+  "title": "Vegfest%202017",
+  "link": "https://icaoberg.github.io/post/vegfest2017/",
+  "publishDate": "2017-07-05%2002:13:18"
+},
+
+{
+  "title": "Happy%20Valentine%27s%20Day",
+  "link": "https://icaoberg.github.io/post/wrct-san-valentin-2017/",
+  "publishDate": "2017-02-14%2020:00:00"
+},
+
+{
+  "title": "Doritos%20and%20Walter%20Mercado",
+  "link": "https://icaoberg.github.io/post/walter-mercado/",
+  "publishDate": "2016-12-14%2002:09:00"
+},
+
+{
+  "title": "Spanish%20II",
+  "link": "https://icaoberg.github.io/post/spanish2-2016-12-12/",
+  "publishDate": "2016-12-12%2010:00:00"
+},
+
+{
+  "title": "Using%20Bio-Formats%20command%20line%20tools%20to%20validate%20OME-TIFF%20images",
+  "link": "https://icaoberg.github.io/post/bioformats-cli-ome-tiff-images/",
+  "publishDate": "2016-12-10%2013:46:38"
+},
+
+{
+  "title": "Take%20her%20to%20the%20moon%20for%20me,%20okay?",
+  "link": "https://icaoberg.github.io/post/inside-out-take-her-to-the-moon/",
+  "publishDate": "2016-08-19%2002:13:18"
+},
+
+{
+  "title": "Installing%20R%20v3.2.3",
+  "link": "https://icaoberg.github.io/post/installing-r-3.2.3/",
+  "publishDate": "2016-04-12%2005:34:42"
+},
+
+{
+  "title": "Ni%c3%b1os%20y%20Ni%c3%b1as%20Biling%c3%bces%20y%20Biculturales",
+  "link": "https://icaoberg.github.io/post/barrio-latino-ninos-ninas-bilingues-y-biculturales/",
+  "publishDate": "2016-03-11%2010:48:37"
+},
+
+{
+  "title": "Making%20an%20OME.TIFF%20using%20Bioformats",
+  "link": "https://icaoberg.github.io/post/making-ometiff-using-demo3d01/",
+  "publishDate": "2016-03-09%2013:46:38"
+},
+
+{
+  "title": "Making%20an%20OME.TIFF%20using%20Bioformats",
+  "link": "https://icaoberg.github.io/post/making-ometiff-using-demo2d00/",
+  "publishDate": "2016-03-08%2013:46:38"
+},
+
+{
+  "title": "GraphViz-like%20tools%20for%20Matlab",
+  "link": "https://icaoberg.github.io/post/graphviz-for-matlab/",
+  "publishDate": "2016-02-16%2005:52:23"
+},
+
+{
+  "title": "Happy%20Valentine%27s%20Day",
+  "link": "https://icaoberg.github.io/post/wrct-san-valentin-2016/",
+  "publishDate": "2016-02-14%2020:00:00"
+},
+
+{
+  "title": "San%20Valent%c3%adn%202016",
+  "link": "https://icaoberg.github.io/post/san-valentin-2016/",
+  "publishDate": "2016-02-11%2005:29:39"
+},
+
+{
+  "title": "Obito%20Uchiha%20leaves...",
+  "link": "https://icaoberg.github.io/post/cmu-the-giving-wall/",
+  "publishDate": "2015-03-14%2010:48:37"
+},
+
+{
+  "title": "Obito%20Uchiha%20leaves...",
+  "link": "https://icaoberg.github.io/post/obito-uchiha-leaves/",
+  "publishDate": "2015-03-14%2010:48:37"
+},
+
+{
+  "title": "",
+  "link": "https://icaoberg.github.io/post/daily-report-2020-02-04/",
+  "publishDate": "0001-01-01%2000:00:00"
+}
+]'>
+      <div class="js-yearly-contributions">
+        <div class="position-relative">
+          <h2 class="f4 text-normal mb-2" id="posts-count"></h2>
+          <div class="border py-2 graph-before-activity-overview">
+            <div
+              class="js-calendar-graph mx-md-2 mx-3 d-flex flex-column flex-items-end flex-xl-items-center overflow-hidden pt-1 is-graph-loading graph-canvas calendar-graph height-full text-center">
+              <svg width="828" height="128" class="js-calendar-graph-svg">
+                <g transform="translate(10, 20)" id="graph-svg">
+                </g>
+              </svg>
+            </div>
+            <div class="contrib-footer clearfix mt-1 mx-3 px-3 pb-1">
+              <div class="float-left text-gray">
+              </div>
+              <div class="contrib-legend text-gray">
+                Less
+                <ul class="legend">
+                  <li style="background-color: var(--color-calendar-graph-day-bg)"></li>
+                  <li style="background-color: var(--color-calendar-graph-day-L1-bg)"></li>
+                  <li style="background-color: var(--color-calendar-graph-day-L2-bg)"></li>
+                  <li style="background-color: var(--color-calendar-graph-day-L3-bg)"></li>
+                  <li style="background-color: var(--color-calendar-graph-day-L4-bg)"></li>
+                </ul>
+                More
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="activity-listing contribution-activity">
+        <div class="d-none d-lg-block">
+          <div class="js-profile-timeline-year-list bg-white float-right col-2 pl-5 is-placeholder"
+            style="visibility: hidden; display: none; height: 210px;"></div>
+          <div style="top: 74px; position: static;"
+            class="js-profile-timeline-year-list bg-white js-sticky float-right col-2 pl-5">
+            <ul class="filter-list small" id="year-list">
+            </ul>
+          </div>
+        </div>
+
+        <h2 class="f4 text-normal mt-4 mb-3">
+          Post activity
+        </h2>
+
+        <div id="posts-activity">
+        </div>
+      </div>
+
+    </div>
+
+    <div id="pinned-items-modal-wrapper"></div>
+
+  </div>
+</div>
+
+
+<div id="svg-tip" class="svg-tip svg-tip-one-line" style="pointer-events: none; display: none;">
+</div>
+
+      
+    </div>
+  </div>
+</div>
+<script>
+window.onscroll = function (e) {
+  const headerImg = document.querySelector('#headerImg');
+  if (headerImg.getBoundingClientRect().bottom <= 0) {
+    document.querySelector('#headerStuck').classList.add('is-stuck');
+  } else {
+    document.querySelector('#headerStuck').classList.remove('is-stuck');
+  }
+};
+var style = localStorage.getItem('data-color-mode');
+iconElement = document.getElementById('github-icon');
+if (style == 'light') {
+  iconElement.setAttribute('fill', '#24292e');
+}
+else {
+  iconElement.removeAttribute('fill');
+  iconElement.setAttribute('class', 'octicon');
+  iconElement.setAttribute('color', '#f0f6fc');
+}
+</script>
+
+
+    
+  </main>
+</div>
+
+  <div class="footer container-xl width-full p-responsive">
+  <div
+    class="position-relative d-flex flex-row-reverse flex-lg-row flex-wrap flex-lg-nowrap flex-justify-center flex-lg-justify-between flex-sm-items-center pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
+    <a aria-label="Homepage" title="GitHub" class="footer-octicon d-none d-lg-block mr-lg-4" href="https://icaoberg.github.io">
+      <svg height="24" class="octicon octicon-mark-github" viewBox="0 0 16 16" version="1.1" width="24">
+        <path fill-rule="evenodd"
+          d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z">
+        </path>
+      </svg>
+    </a>
+    <ul class="list-style-none d-flex flex-wrap col-12 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
+      
+      <li class="mr-3 mr-lg-0">This amazing theme was built and designed by <a href='https://meik2333.com/'>MeiK2333</a> and a number of contributors. Theme can be found <a href='https://github.com/MeiK2333/github-style'>here. Please remember to support your open-source coders.</a></li>
+      
+    </ul>
+  </div>
+  <div class="d-flex flex-justify-center pb-6">
+    <span class="f6 text-gray-light"></span>
+  </div>
+
+
+</div>
+</body>
+
+<script type="application/javascript" src="https://icaoberg.github.io/js/github-style.js"></script>
+
+
+
+
+</html>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>gear on icaoberg</title>
+    <link>https://icaoberg.github.io/tags/gear/</link>
+    <description>Recent content in gear on icaoberg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 18 Sep 2019 00:15:38 -0400</lastBuildDate><atom:link href="https://icaoberg.github.io/tags/gear/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Goodies</title>
+      <link>https://icaoberg.github.io/post/matlab-goodies/</link>
+      <pubDate>Wed, 18 Sep 2019 00:15:38 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/matlab-goodies/</guid>
+      <description>I want that hat!</description>
+    </item>
+    
+    <item>
+      <title>Goodies</title>
+      <link>https://icaoberg.github.io/posts/matlab-goodies/</link>
+      <pubDate>Wed, 18 Sep 2019 00:15:38 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/matlab-goodies/</guid>
+      <description>I want that hat!</description>
+    </item>
+    
+  </channel>
+</rss>

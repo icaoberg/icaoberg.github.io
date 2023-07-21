@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>argentina on icaoberg</title>
+    <link>https://icaoberg.github.io/tags/argentina/</link>
+    <description>Recent content in argentina on icaoberg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 26 Mar 2020 14:22:00 +0000</lastBuildDate><atom:link href="https://icaoberg.github.io/tags/argentina/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Como la Cigarra</title>
+      <link>https://icaoberg.github.io/post/como-la-cigarra/</link>
+      <pubDate>Thu, 26 Mar 2020 14:22:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/como-la-cigarra/</guid>
+      <description>Argentina Canta en Cuarantena</description>
+    </item>
+    
+    <item>
+      <title>Como la Cigarra</title>
+      <link>https://icaoberg.github.io/posts/como-la-cigarra/</link>
+      <pubDate>Thu, 26 Mar 2020 14:22:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/como-la-cigarra/</guid>
+      <description>Argentina Canta en Cuarantena</description>
+    </item>
+    
+  </channel>
+</rss>

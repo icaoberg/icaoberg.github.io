@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>knitting on icaoberg</title>
+    <link>https://icaoberg.github.io/categories/knitting/</link>
+    <description>Recent content in knitting on icaoberg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Mar 2021 23:23:28 +0000</lastBuildDate><atom:link href="https://icaoberg.github.io/categories/knitting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Adventures in knitting</title>
+      <link>https://icaoberg.github.io/post/20210301-shawl/</link>
+      <pubDate>Mon, 01 Mar 2021 23:23:28 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/20210301-shawl/</guid>
+      <description>&amp;hellip;and I hope she likes it</description>
+    </item>
+    
+    <item>
+      <title>Adventures in knitting</title>
+      <link>https://icaoberg.github.io/posts/20210301-shawl/</link>
+      <pubDate>Mon, 01 Mar 2021 23:23:28 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20210301-shawl/</guid>
+      <description>&amp;hellip;and I hope she likes it</description>
+    </item>
+    
+    <item>
+      <title>Adventures in knitting</title>
+      <link>https://icaoberg.github.io/post/20210301/</link>
+      <pubDate>Mon, 01 Mar 2021 21:23:01 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/20210301/</guid>
+      <description>Had a failure (or did I?) and a success</description>
+    </item>
+    
+    <item>
+      <title>Adventures in knitting</title>
+      <link>https://icaoberg.github.io/posts/20210301/</link>
+      <pubDate>Mon, 01 Mar 2021 21:23:01 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20210301/</guid>
+      <description>Had a failure (or did I?) and a success</description>
+    </item>
+    
+  </channel>
+</rss>

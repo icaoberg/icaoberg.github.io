@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>salsa on icaoberg</title>
+    <link>https://icaoberg.github.io/tags/salsa/</link>
+    <description>Recent content in salsa on icaoberg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Nov 2018 11:00:00 +0000</lastBuildDate><atom:link href="https://icaoberg.github.io/tags/salsa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Empanada Sale</title>
+      <link>https://icaoberg.github.io/post/cmu-2018-fall-empanada/</link>
+      <pubDate>Mon, 12 Nov 2018 11:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/cmu-2018-fall-empanada/</guid>
+      <description>Empanada Sale by SALSA</description>
+    </item>
+    
+    <item>
+      <title>Empanada Sale</title>
+      <link>https://icaoberg.github.io/posts/cmu-2018-fall-empanada/</link>
+      <pubDate>Mon, 12 Nov 2018 11:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/cmu-2018-fall-empanada/</guid>
+      <description>Empanada Sale by SALSA</description>
+    </item>
+    
+  </channel>
+</rss>

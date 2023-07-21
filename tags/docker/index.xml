@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>docker on icaoberg</title>
+    <link>https://icaoberg.github.io/tags/docker/</link>
+    <description>Recent content in docker on icaoberg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Sep 2021 13:09:56 +0000</lastBuildDate><atom:link href="https://icaoberg.github.io/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building Singularity containers with Docker</title>
+      <link>https://icaoberg.github.io/post/20210902-building-singularity-containers/</link>
+      <pubDate>Thu, 02 Sep 2021 13:09:56 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/20210902-building-singularity-containers/</guid>
+      <description>Using Docker and Singularity</description>
+    </item>
+    
+    <item>
+      <title>Building Singularity containers with Docker</title>
+      <link>https://icaoberg.github.io/posts/20210902-building-singularity-containers/</link>
+      <pubDate>Thu, 02 Sep 2021 13:09:56 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20210902-building-singularity-containers/</guid>
+      <description>Using Docker and Singularity</description>
+    </item>
+    
+    <item>
+      <title>Docker - Matlab MCR 2019b</title>
+      <link>https://icaoberg.github.io/post/docker-matlabmcr2019b/</link>
+      <pubDate>Fri, 20 Sep 2019 21:17:12 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/docker-matlabmcr2019b/</guid>
+      <description>Docker image for Matlab MCR 2019b</description>
+    </item>
+    
+    <item>
+      <title>Docker - Matlab MCR 2019b</title>
+      <link>https://icaoberg.github.io/posts/docker-matlabmcr2019b/</link>
+      <pubDate>Fri, 20 Sep 2019 21:17:12 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/docker-matlabmcr2019b/</guid>
+      <description>Docker image for Matlab MCR 2019b</description>
+    </item>
+    
+  </channel>
+</rss>

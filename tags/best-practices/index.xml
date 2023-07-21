@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>best practices on icaoberg</title>
+    <link>https://icaoberg.github.io/tags/best-practices/</link>
+    <description>Recent content in best practices on icaoberg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 28 Aug 2021 23:01:23 +0000</lastBuildDate><atom:link href="https://icaoberg.github.io/tags/best-practices/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>pretty.yml</title>
+      <link>https://icaoberg.github.io/post/20210828-pretty-yml/</link>
+      <pubDate>Sat, 28 Aug 2021 23:01:23 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/20210828-pretty-yml/</guid>
+      <description>Prettyfy workflow for most of my repos</description>
+    </item>
+    
+    <item>
+      <title>pretty.yml</title>
+      <link>https://icaoberg.github.io/posts/20210828-pretty-yml/</link>
+      <pubDate>Sat, 28 Aug 2021 23:01:23 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20210828-pretty-yml/</guid>
+      <description>Prettyfy workflow for most of my repos</description>
+    </item>
+    
+  </channel>
+</rss>

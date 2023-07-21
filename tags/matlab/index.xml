@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>matlab on icaoberg</title>
+    <link>https://icaoberg.github.io/tags/matlab/</link>
+    <description>Recent content in matlab on icaoberg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Mar 2020 22:00:00 +0000</lastBuildDate><atom:link href="https://icaoberg.github.io/tags/matlab/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction to Statistical Methods with MATLAB</title>
+      <link>https://icaoberg.github.io/post/matlab-stats/</link>
+      <pubDate>Tue, 17 Mar 2020 22:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/matlab-stats/</guid>
+      <description>Mathworks Matlab Certification</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Statistical Methods with MATLAB</title>
+      <link>https://icaoberg.github.io/posts/matlab-stats/</link>
+      <pubDate>Tue, 17 Mar 2020 22:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/matlab-stats/</guid>
+      <description>Mathworks Matlab Certification</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Linear Algebra with MATLAB</title>
+      <link>https://icaoberg.github.io/post/matlab-linearalgebra/</link>
+      <pubDate>Mon, 09 Mar 2020 17:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/matlab-linearalgebra/</guid>
+      <description>Mathworks Matlab Certification</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Linear Algebra with MATLAB</title>
+      <link>https://icaoberg.github.io/posts/matlab-linearalgebra/</link>
+      <pubDate>Mon, 09 Mar 2020 17:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/matlab-linearalgebra/</guid>
+      <description>Mathworks Matlab Certification</description>
+    </item>
+    
+    <item>
+      <title>Solving Ordinary Differential Equations with MATLAB</title>
+      <link>https://icaoberg.github.io/post/matlab-ode/</link>
+      <pubDate>Mon, 09 Mar 2020 10:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/matlab-ode/</guid>
+      <description>Mathworks Matlab Certification</description>
+    </item>
+    
+    <item>
+      <title>Solving Ordinary Differential Equations with MATLAB</title>
+      <link>https://icaoberg.github.io/posts/matlab-ode/</link>
+      <pubDate>Mon, 09 Mar 2020 10:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/matlab-ode/</guid>
+      <description>Mathworks Matlab Certification</description>
+    </item>
+    
+    <item>
+      <title>Matlab Onramp</title>
+      <link>https://icaoberg.github.io/post/matlab-onramp/</link>
+      <pubDate>Sat, 09 Nov 2019 01:48:55 -0500</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/matlab-onramp/</guid>
+      <description>Mathworks Matlab Certification</description>
+    </item>
+    
+    <item>
+      <title>Matlab Onramp</title>
+      <link>https://icaoberg.github.io/posts/matlab-onramp/</link>
+      <pubDate>Sat, 09 Nov 2019 01:48:55 -0500</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/matlab-onramp/</guid>
+      <description>Mathworks Matlab Certification</description>
+    </item>
+    
+    <item>
+      <title>Find Files</title>
+      <link>https://icaoberg.github.io/post/matlab-find-files/</link>
+      <pubDate>Tue, 22 Oct 2019 16:11:26 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/matlab-find-files/</guid>
+      <description>Am I this old?</description>
+    </item>
+    
+    <item>
+      <title>Find Files</title>
+      <link>https://icaoberg.github.io/posts/matlab-find-files/</link>
+      <pubDate>Tue, 22 Oct 2019 16:11:26 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/matlab-find-files/</guid>
+      <description>Am I this old?</description>
+    </item>
+    
+    <item>
+      <title>Cody</title>
+      <link>https://icaoberg.github.io/post/cody/</link>
+      <pubDate>Thu, 26 Sep 2019 02:10:48 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/cody/</guid>
+      <description>A gaming platform for Matlab</description>
+    </item>
+    
+    <item>
+      <title>Cody</title>
+      <link>https://icaoberg.github.io/posts/cody/</link>
+      <pubDate>Thu, 26 Sep 2019 02:10:48 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/cody/</guid>
+      <description>A gaming platform for Matlab</description>
+    </item>
+    
+    <item>
+      <title>Docker - Matlab MCR 2019b</title>
+      <link>https://icaoberg.github.io/post/docker-matlabmcr2019b/</link>
+      <pubDate>Fri, 20 Sep 2019 21:17:12 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/docker-matlabmcr2019b/</guid>
+      <description>Docker image for Matlab MCR 2019b</description>
+    </item>
+    
+    <item>
+      <title>Docker - Matlab MCR 2019b</title>
+      <link>https://icaoberg.github.io/posts/docker-matlabmcr2019b/</link>
+      <pubDate>Fri, 20 Sep 2019 21:17:12 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/docker-matlabmcr2019b/</guid>
+      <description>Docker image for Matlab MCR 2019b</description>
+    </item>
+    
+    <item>
+      <title>Goodies</title>
+      <link>https://icaoberg.github.io/post/matlab-goodies/</link>
+      <pubDate>Wed, 18 Sep 2019 00:15:38 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/matlab-goodies/</guid>
+      <description>I want that hat!</description>
+    </item>
+    
+    <item>
+      <title>Goodies</title>
+      <link>https://icaoberg.github.io/posts/matlab-goodies/</link>
+      <pubDate>Wed, 18 Sep 2019 00:15:38 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/matlab-goodies/</guid>
+      <description>I want that hat!</description>
+    </item>
+    
+    <item>
+      <title>GraphViz-like tools for Matlab</title>
+      <link>https://icaoberg.github.io/post/graphviz-for-matlab/</link>
+      <pubDate>Tue, 16 Feb 2016 05:52:23 -0500</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/graphviz-for-matlab/</guid>
+      <description>Pretty nice tools for viz</description>
+    </item>
+    
+    <item>
+      <title>GraphViz-like tools for Matlab</title>
+      <link>https://icaoberg.github.io/posts/graphviz-for-matlab/</link>
+      <pubDate>Tue, 16 Feb 2016 05:52:23 -0500</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/graphviz-for-matlab/</guid>
+      <description>Pretty nice tools for viz</description>
+    </item>
+    
+  </channel>
+</rss>

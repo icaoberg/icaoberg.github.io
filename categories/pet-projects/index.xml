@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pet projects on icaoberg</title>
+    <link>https://icaoberg.github.io/categories/pet-projects/</link>
+    <description>Recent content in pet projects on icaoberg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 Jan 2021 11:22:18 +0000</lastBuildDate><atom:link href="https://icaoberg.github.io/categories/pet-projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Life changing command</title>
+      <link>https://icaoberg.github.io/post/20210102-terminal/</link>
+      <pubDate>Sat, 02 Jan 2021 11:22:18 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/20210102-terminal/</guid>
+      <description>Asked myself a dumb question and found an answer</description>
+    </item>
+    
+    <item>
+      <title>Life changing command</title>
+      <link>https://icaoberg.github.io/posts/20210102-terminal/</link>
+      <pubDate>Sat, 02 Jan 2021 11:22:18 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20210102-terminal/</guid>
+      <description>Asked myself a dumb question and found an answer</description>
+    </item>
+    
+    <item>
+      <title>Setting a Plex media server at home</title>
+      <link>https://icaoberg.github.io/post/20201231-plex-media-server/</link>
+      <pubDate>Thu, 31 Dec 2020 15:22:38 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/20201231-plex-media-server/</guid>
+      <description>Setting a Plex media server at home</description>
+    </item>
+    
+    <item>
+      <title>Setting a Plex media server at home</title>
+      <link>https://icaoberg.github.io/posts/20201231-plex-media-server/</link>
+      <pubDate>Thu, 31 Dec 2020 15:22:38 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20201231-plex-media-server/</guid>
+      <description>Setting a Plex media server at home</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pets on icaoberg</title>
+    <link>https://icaoberg.github.io/tags/pets/</link>
+    <description>Recent content in pets on icaoberg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Apr 2021 23:08:12 +0000</lastBuildDate><atom:link href="https://icaoberg.github.io/tags/pets/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Witness me!</title>
+      <link>https://icaoberg.github.io/post/20210411-witness-me/</link>
+      <pubDate>Sun, 11 Apr 2021 23:08:12 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/20210411-witness-me/</guid>
+      <description>Rocky attacks the feather every day</description>
+    </item>
+    
+    <item>
+      <title>Witness me!</title>
+      <link>https://icaoberg.github.io/posts/20210411-witness-me/</link>
+      <pubDate>Sun, 11 Apr 2021 23:08:12 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20210411-witness-me/</guid>
+      <description>Rocky attacks the feather every day</description>
+    </item>
+    
+  </channel>
+</rss>

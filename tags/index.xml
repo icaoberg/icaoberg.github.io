@@ -1,0 +1,812 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on icaoberg</title>
+    <link>https://icaoberg.github.io/tags/</link>
+    <description>Recent content in Tags on icaoberg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Dec 2021 14:57:03 +0000</lastBuildDate><atom:link href="https://icaoberg.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>animation</title>
+      <link>https://icaoberg.github.io/tags/animation/</link>
+      <pubDate>Mon, 20 Dec 2021 14:57:03 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/animation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blogging</title>
+      <link>https://icaoberg.github.io/tags/blogging/</link>
+      <pubDate>Mon, 20 Dec 2021 14:57:03 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/blogging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>acnh</title>
+      <link>https://icaoberg.github.io/tags/acnh/</link>
+      <pubDate>Tue, 14 Dec 2021 22:20:15 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/acnh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>twitter</title>
+      <link>https://icaoberg.github.io/tags/twitter/</link>
+      <pubDate>Tue, 14 Dec 2021 22:20:15 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/twitter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>scripting</title>
+      <link>https://icaoberg.github.io/tags/scripting/</link>
+      <pubDate>Mon, 29 Nov 2021 01:55:24 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/scripting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>taskwarrior</title>
+      <link>https://icaoberg.github.io/tags/taskwarrior/</link>
+      <pubDate>Mon, 29 Nov 2021 01:55:24 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/taskwarrior/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>instagram</title>
+      <link>https://icaoberg.github.io/tags/instagram/</link>
+      <pubDate>Mon, 22 Nov 2021 00:14:23 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/instagram/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>music</title>
+      <link>https://icaoberg.github.io/tags/music/</link>
+      <pubDate>Fri, 29 Oct 2021 22:06:30 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>containerization</title>
+      <link>https://icaoberg.github.io/tags/containerization/</link>
+      <pubDate>Thu, 02 Sep 2021 13:09:56 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/containerization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>docker</title>
+      <link>https://icaoberg.github.io/tags/docker/</link>
+      <pubDate>Thu, 02 Sep 2021 13:09:56 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>singularity</title>
+      <link>https://icaoberg.github.io/tags/singularity/</link>
+      <pubDate>Thu, 02 Sep 2021 13:09:56 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/singularity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>best practices</title>
+      <link>https://icaoberg.github.io/tags/best-practices/</link>
+      <pubDate>Sat, 28 Aug 2021 23:01:23 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/best-practices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>github actions</title>
+      <link>https://icaoberg.github.io/tags/github-actions/</link>
+      <pubDate>Sat, 28 Aug 2021 23:01:23 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/github-actions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>imagemagick</title>
+      <link>https://icaoberg.github.io/tags/imagemagick/</link>
+      <pubDate>Sat, 07 Aug 2021 20:45:14 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/imagemagick/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>github</title>
+      <link>https://icaoberg.github.io/tags/github/</link>
+      <pubDate>Tue, 13 Jul 2021 00:17:20 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>utilities</title>
+      <link>https://icaoberg.github.io/tags/utilities/</link>
+      <pubDate>Tue, 13 Jul 2021 00:17:20 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/utilities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>copa america</title>
+      <link>https://icaoberg.github.io/tags/copa-america/</link>
+      <pubDate>Sat, 10 Jul 2021 23:49:51 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/copa-america/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pets</title>
+      <link>https://icaoberg.github.io/tags/pets/</link>
+      <pubDate>Sun, 11 Apr 2021 23:08:12 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/pets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>random</title>
+      <link>https://icaoberg.github.io/tags/random/</link>
+      <pubDate>Thu, 08 Apr 2021 22:26:10 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/random/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sacnas</title>
+      <link>https://icaoberg.github.io/tags/sacnas/</link>
+      <pubDate>Sat, 03 Apr 2021 10:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/sacnas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fortran</title>
+      <link>https://icaoberg.github.io/tags/fortran/</link>
+      <pubDate>Sat, 27 Mar 2021 22:39:22 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/fortran/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>comic</title>
+      <link>https://icaoberg.github.io/tags/comic/</link>
+      <pubDate>Wed, 24 Mar 2021 16:48:59 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/comic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>community</title>
+      <link>https://icaoberg.github.io/tags/community/</link>
+      <pubDate>Sun, 05 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/community/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>spanish</title>
+      <link>https://icaoberg.github.io/tags/spanish/</link>
+      <pubDate>Sat, 16 May 2020 22:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/spanish/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tinycards</title>
+      <link>https://icaoberg.github.io/tags/tinycards/</link>
+      <pubDate>Sat, 16 May 2020 22:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/tinycards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>clas</title>
+      <link>https://icaoberg.github.io/tags/clas/</link>
+      <pubDate>Tue, 07 Apr 2020 10:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/clas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>university of pittsburgh</title>
+      <link>https://icaoberg.github.io/tags/university-of-pittsburgh/</link>
+      <pubDate>Tue, 07 Apr 2020 10:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/university-of-pittsburgh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>argentina</title>
+      <link>https://icaoberg.github.io/tags/argentina/</link>
+      <pubDate>Thu, 26 Mar 2020 14:22:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/argentina/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>covid-19</title>
+      <link>https://icaoberg.github.io/tags/covid-19/</link>
+      <pubDate>Thu, 26 Mar 2020 14:22:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/covid-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>certification</title>
+      <link>https://icaoberg.github.io/tags/certification/</link>
+      <pubDate>Tue, 17 Mar 2020 22:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/certification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>matlab</title>
+      <link>https://icaoberg.github.io/tags/matlab/</link>
+      <pubDate>Tue, 17 Mar 2020 22:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/matlab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pittsburgh</title>
+      <link>https://icaoberg.github.io/tags/pittsburgh/</link>
+      <pubDate>Sun, 15 Mar 2020 10:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/pittsburgh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>doctor who</title>
+      <link>https://icaoberg.github.io/tags/doctor-who/</link>
+      <pubDate>Thu, 12 Mar 2020 10:09:00 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/doctor-who/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>barrio latino</title>
+      <link>https://icaoberg.github.io/tags/barrio-latino/</link>
+      <pubDate>Sun, 23 Feb 2020 02:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/barrio-latino/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>clp</title>
+      <link>https://icaoberg.github.io/tags/clp/</link>
+      <pubDate>Sat, 22 Feb 2020 19:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/clp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>meetup</title>
+      <link>https://icaoberg.github.io/tags/meetup/</link>
+      <pubDate>Sat, 22 Feb 2020 19:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/meetup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mmw</title>
+      <link>https://icaoberg.github.io/tags/mmw/</link>
+      <pubDate>Sat, 22 Feb 2020 10:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/mmw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bedtools</title>
+      <link>https://icaoberg.github.io/tags/bedtools/</link>
+      <pubDate>Mon, 03 Feb 2020 18:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/bedtools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>latinx</title>
+      <link>https://icaoberg.github.io/tags/latinx/</link>
+      <pubDate>Mon, 03 Feb 2020 15:30:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/latinx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>super bowl 2020</title>
+      <link>https://icaoberg.github.io/tags/super-bowl-2020/</link>
+      <pubDate>Mon, 03 Feb 2020 15:30:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/super-bowl-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>training</title>
+      <link>https://icaoberg.github.io/tags/training/</link>
+      <pubDate>Fri, 31 Jan 2020 21:37:08 -0500</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/training/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>travis-ci</title>
+      <link>https://icaoberg.github.io/tags/travis-ci/</link>
+      <pubDate>Tue, 07 Jan 2020 16:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/travis-ci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>macosx</title>
+      <link>https://icaoberg.github.io/tags/macosx/</link>
+      <pubDate>Tue, 07 Jan 2020 08:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/macosx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>baby yoda</title>
+      <link>https://icaoberg.github.io/tags/baby-yoda/</link>
+      <pubDate>Thu, 02 Jan 2020 17:51:57 -0500</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/baby-yoda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>navidad</title>
+      <link>https://icaoberg.github.io/tags/navidad/</link>
+      <pubDate>Fri, 20 Dec 2019 20:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/navidad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>books</title>
+      <link>https://icaoberg.github.io/tags/books/</link>
+      <pubDate>Fri, 22 Nov 2019 22:00:00 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/books/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>korean</title>
+      <link>https://icaoberg.github.io/tags/korean/</link>
+      <pubDate>Wed, 20 Nov 2019 23:18:31 -0500</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/korean/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mexican</title>
+      <link>https://icaoberg.github.io/tags/mexican/</link>
+      <pubDate>Wed, 20 Nov 2019 23:18:31 -0500</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/mexican/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>adventures</title>
+      <link>https://icaoberg.github.io/tags/adventures/</link>
+      <pubDate>Sat, 09 Nov 2019 18:02:53 -0500</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/adventures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cooking</title>
+      <link>https://icaoberg.github.io/tags/cooking/</link>
+      <pubDate>Sat, 09 Nov 2019 18:02:53 -0500</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/cooking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>walter mercado</title>
+      <link>https://icaoberg.github.io/tags/walter-mercado/</link>
+      <pubDate>Fri, 08 Nov 2019 18:46:19 -0500</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/walter-mercado/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lab meeting</title>
+      <link>https://icaoberg.github.io/tags/lab-meeting/</link>
+      <pubDate>Thu, 24 Oct 2019 09:31:29 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/lab-meeting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>finland</title>
+      <link>https://icaoberg.github.io/tags/finland/</link>
+      <pubDate>Mon, 21 Oct 2019 01:47:39 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/finland/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>breakfast</title>
+      <link>https://icaoberg.github.io/tags/breakfast/</link>
+      <pubDate>Tue, 15 Oct 2019 20:44:39 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/breakfast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>education</title>
+      <link>https://icaoberg.github.io/tags/education/</link>
+      <pubDate>Mon, 14 Oct 2019 15:57:35 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>golang</title>
+      <link>https://icaoberg.github.io/tags/golang/</link>
+      <pubDate>Mon, 14 Oct 2019 15:57:35 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vocabulary</title>
+      <link>https://icaoberg.github.io/tags/vocabulary/</link>
+      <pubDate>Sat, 12 Oct 2019 18:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/vocabulary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>brookline teen outreach center</title>
+      <link>https://icaoberg.github.io/tags/brookline-teen-outreach-center/</link>
+      <pubDate>Sat, 12 Oct 2019 10:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/brookline-teen-outreach-center/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lclaa</title>
+      <link>https://icaoberg.github.io/tags/lclaa/</link>
+      <pubDate>Sat, 12 Oct 2019 10:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/lclaa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>documentary</title>
+      <link>https://icaoberg.github.io/tags/documentary/</link>
+      <pubDate>Thu, 10 Oct 2019 10:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/documentary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>computing</title>
+      <link>https://icaoberg.github.io/tags/computing/</link>
+      <pubDate>Tue, 01 Oct 2019 10:56:00 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/computing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tacos</title>
+      <link>https://icaoberg.github.io/tags/tacos/</link>
+      <pubDate>Sun, 29 Sep 2019 02:28:59 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/tacos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fermentation</title>
+      <link>https://icaoberg.github.io/tags/fermentation/</link>
+      <pubDate>Sun, 29 Sep 2019 01:50:57 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/fermentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vegan</title>
+      <link>https://icaoberg.github.io/tags/vegan/</link>
+      <pubDate>Sun, 29 Sep 2019 01:50:57 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/vegan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>android</title>
+      <link>https://icaoberg.github.io/tags/android/</link>
+      <pubDate>Sat, 28 Sep 2019 18:36:03 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/android/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nintendo</title>
+      <link>https://icaoberg.github.io/tags/nintendo/</link>
+      <pubDate>Sat, 28 Sep 2019 18:36:03 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/nintendo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LAMP</title>
+      <link>https://icaoberg.github.io/tags/lamp/</link>
+      <pubDate>Fri, 27 Sep 2019 13:48:54 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/lamp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>webservers</title>
+      <link>https://icaoberg.github.io/tags/webservers/</link>
+      <pubDate>Fri, 27 Sep 2019 13:48:54 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/webservers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cody</title>
+      <link>https://icaoberg.github.io/tags/cody/</link>
+      <pubDate>Thu, 26 Sep 2019 02:10:48 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/cody/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cbd10</title>
+      <link>https://icaoberg.github.io/tags/cbd10/</link>
+      <pubDate>Sat, 21 Sep 2019 11:19:17 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/cbd10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lacu</title>
+      <link>https://icaoberg.github.io/tags/lacu/</link>
+      <pubDate>Sat, 21 Sep 2019 00:12:06 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/lacu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hurricane maria</title>
+      <link>https://icaoberg.github.io/tags/hurricane-maria/</link>
+      <pubDate>Thu, 19 Sep 2019 12:49:15 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/hurricane-maria/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gear</title>
+      <link>https://icaoberg.github.io/tags/gear/</link>
+      <pubDate>Wed, 18 Sep 2019 00:15:38 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/gear/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dj the cut</title>
+      <link>https://icaoberg.github.io/tags/dj-the-cut/</link>
+      <pubDate>Fri, 30 Aug 2019 20:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/dj-the-cut/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bbq</title>
+      <link>https://icaoberg.github.io/tags/bbq/</link>
+      <pubDate>Fri, 03 May 2019 20:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/bbq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>love</title>
+      <link>https://icaoberg.github.io/tags/love/</link>
+      <pubDate>Thu, 14 Feb 2019 20:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/love/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>salsa</title>
+      <link>https://icaoberg.github.io/tags/salsa/</link>
+      <pubDate>Mon, 12 Nov 2018 11:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/salsa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>anatomy of the ear</title>
+      <link>https://icaoberg.github.io/tags/anatomy-of-the-ear/</link>
+      <pubDate>Thu, 08 Nov 2018 20:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/anatomy-of-the-ear/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vegetarian</title>
+      <link>https://icaoberg.github.io/tags/vegetarian/</link>
+      <pubDate>Wed, 05 Jul 2017 02:13:18 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/vegetarian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bioformats</title>
+      <link>https://icaoberg.github.io/tags/bioformats/</link>
+      <pubDate>Sat, 10 Dec 2016 13:46:38 -0500</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/bioformats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cellorganizer</title>
+      <link>https://icaoberg.github.io/tags/cellorganizer/</link>
+      <pubDate>Sat, 10 Dec 2016 13:46:38 -0500</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/cellorganizer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>omero.importer</title>
+      <link>https://icaoberg.github.io/tags/omero.importer/</link>
+      <pubDate>Sat, 10 Dec 2016 13:46:38 -0500</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/omero.importer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>omero.insight</title>
+      <link>https://icaoberg.github.io/tags/omero.insight/</link>
+      <pubDate>Sat, 10 Dec 2016 13:46:38 -0500</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/omero.insight/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pixar</title>
+      <link>https://icaoberg.github.io/tags/pixar/</link>
+      <pubDate>Fri, 19 Aug 2016 02:13:18 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/pixar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>r-project</title>
+      <link>https://icaoberg.github.io/tags/r-project/</link>
+      <pubDate>Tue, 12 Apr 2016 05:34:42 -0500</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/r-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>science</title>
+      <link>https://icaoberg.github.io/tags/science/</link>
+      <pubDate>Tue, 12 Apr 2016 05:34:42 -0500</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>statistics</title>
+      <link>https://icaoberg.github.io/tags/statistics/</link>
+      <pubDate>Tue, 12 Apr 2016 05:34:42 -0500</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/statistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>podcast</title>
+      <link>https://icaoberg.github.io/tags/podcast/</link>
+      <pubDate>Fri, 11 Mar 2016 10:48:37 -0500</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/podcast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>naruto</title>
+      <link>https://icaoberg.github.io/tags/naruto/</link>
+      <pubDate>Sat, 14 Mar 2015 10:48:37 -0500</pubDate>
+      
+      <guid>https://icaoberg.github.io/tags/naruto/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

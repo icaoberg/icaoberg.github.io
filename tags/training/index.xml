@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>training on icaoberg</title>
+    <link>https://icaoberg.github.io/tags/training/</link>
+    <description>Recent content in training on icaoberg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 31 Jan 2020 21:37:08 -0500</lastBuildDate><atom:link href="https://icaoberg.github.io/tags/training/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BiasBusters</title>
+      <link>https://icaoberg.github.io/post/biasbusters/</link>
+      <pubDate>Fri, 31 Jan 2020 21:37:08 -0500</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/biasbusters/</guid>
+      <description>BiasBusters at School of Computer Science in Carnegie Mellon University</description>
+    </item>
+    
+    <item>
+      <title>BiasBusters</title>
+      <link>https://icaoberg.github.io/posts/biasbusters/</link>
+      <pubDate>Fri, 31 Jan 2020 21:37:08 -0500</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/biasbusters/</guid>
+      <description>BiasBusters at School of Computer Science in Carnegie Mellon University</description>
+    </item>
+    
+  </channel>
+</rss>

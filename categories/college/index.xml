@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>college on icaoberg</title>
+    <link>https://icaoberg.github.io/categories/college/</link>
+    <description>Recent content in college on icaoberg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Apr 2021 10:00:00 +0000</lastBuildDate><atom:link href="https://icaoberg.github.io/categories/college/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SACNAS Community College Day</title>
+      <link>https://icaoberg.github.io/post/20210403-sacnas/</link>
+      <pubDate>Sat, 03 Apr 2021 10:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/20210403-sacnas/</guid>
+      <description>SACNAS Community College Day</description>
+    </item>
+    
+    <item>
+      <title>SACNAS Community College Day</title>
+      <link>https://icaoberg.github.io/posts/20210403-sacnas/</link>
+      <pubDate>Sat, 03 Apr 2021 10:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20210403-sacnas/</guid>
+      <description>SACNAS Community College Day</description>
+    </item>
+    
+  </channel>
+</rss>

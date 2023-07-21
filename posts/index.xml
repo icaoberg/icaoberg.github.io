@@ -1,0 +1,1857 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on icaoberg</title>
+    <link>https://icaoberg.github.io/posts/</link>
+    <description>Recent content in Posts on icaoberg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Dec 2021 14:57:03 +0000</lastBuildDate><atom:link href="https://icaoberg.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I want to eat your Pancreas</title>
+      <link>https://icaoberg.github.io/posts/20211220-i-want-to-eat-your-pancreas/</link>
+      <pubDate>Mon, 20 Dec 2021 14:57:03 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20211220-i-want-to-eat-your-pancreas/</guid>
+      <description>Took a long lunch and watched a movie</description>
+    </item>
+    
+    <item>
+      <title>Donut</title>
+      <link>https://icaoberg.github.io/posts/20211214-donut/</link>
+      <pubDate>Tue, 14 Dec 2021 22:20:15 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20211214-donut/</guid>
+      <description>I made a donut</description>
+    </item>
+    
+    <item>
+      <title>taskwarrior</title>
+      <link>https://icaoberg.github.io/posts/20211129-taskwarrior/</link>
+      <pubDate>Mon, 29 Nov 2021 01:55:24 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20211129-taskwarrior/</guid>
+      <description>Made a bash script to help me out daily</description>
+    </item>
+    
+    <item>
+      <title>Cashew Tofu Lettuce Wraps</title>
+      <link>https://icaoberg.github.io/posts/20211122/</link>
+      <pubDate>Mon, 22 Nov 2021 00:14:23 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20211122/</guid>
+      <description>VeganBowls recipe</description>
+    </item>
+    
+    <item>
+      <title>Vegan bolognese</title>
+      <link>https://icaoberg.github.io/posts/20211120/</link>
+      <pubDate>Sat, 20 Nov 2021 00:49:33 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20211120/</guid>
+      <description>Vegetarian/vegan recipe</description>
+    </item>
+    
+    <item>
+      <title>Paloma</title>
+      <link>https://icaoberg.github.io/posts/20211029-calamaro-paloma/</link>
+      <pubDate>Fri, 29 Oct 2021 22:06:30 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20211029-calamaro-paloma/</guid>
+      <description>Andrés Calamaro singing Paloma</description>
+    </item>
+    
+    <item>
+      <title>Building Singularity containers with Docker</title>
+      <link>https://icaoberg.github.io/posts/20210902-building-singularity-containers/</link>
+      <pubDate>Thu, 02 Sep 2021 13:09:56 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20210902-building-singularity-containers/</guid>
+      <description>Using Docker and Singularity</description>
+    </item>
+    
+    <item>
+      <title>pretty.yml</title>
+      <link>https://icaoberg.github.io/posts/20210828-pretty-yml/</link>
+      <pubDate>Sat, 28 Aug 2021 23:01:23 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20210828-pretty-yml/</guid>
+      <description>Prettyfy workflow for most of my repos</description>
+    </item>
+    
+    <item>
+      <title>List of Singularity Containers</title>
+      <link>https://icaoberg.github.io/posts/20210825-singularity-containers/</link>
+      <pubDate>Wed, 25 Aug 2021 22:05:41 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20210825-singularity-containers/</guid>
+      <description>The end of the summer internship</description>
+    </item>
+    
+    <item>
+      <title>More random ellipsoids</title>
+      <link>https://icaoberg.github.io/posts/20210807-random-ellipsoids-2/</link>
+      <pubDate>Sat, 07 Aug 2021 20:45:14 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20210807-random-ellipsoids-2/</guid>
+      <description>Generating random ellipsoids with ImageMagick</description>
+    </item>
+    
+    <item>
+      <title>Random ellipsoids</title>
+      <link>https://icaoberg.github.io/posts/20210807-random-ellipsoids/</link>
+      <pubDate>Sat, 07 Aug 2021 15:07:28 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20210807-random-ellipsoids/</guid>
+      <description>Generating random ellipsoids with ImageMagick</description>
+    </item>
+    
+    <item>
+      <title>Random circles</title>
+      <link>https://icaoberg.github.io/posts/20210806-random-circles/</link>
+      <pubDate>Fri, 06 Aug 2021 21:34:41 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20210806-random-circles/</guid>
+      <description>Generating random circles with ImageMagick</description>
+    </item>
+    
+    <item>
+      <title>singularity-rclone</title>
+      <link>https://icaoberg.github.io/posts/20210713-singularity-rclone/</link>
+      <pubDate>Tue, 13 Jul 2021 00:17:20 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20210713-singularity-rclone/</guid>
+      <description>rclone is a command line program to manage files on cloud storage. It is a feature rich alternative to cloud vendors&#39; web storage interfaces.</description>
+    </item>
+    
+    <item>
+      <title>singularity-visidata</title>
+      <link>https://icaoberg.github.io/posts/20210712-singularity-visidata/</link>
+      <pubDate>Mon, 12 Jul 2021 23:55:31 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20210712-singularity-visidata/</guid>
+      <description>GitHub repository for the Singularity definition file</description>
+    </item>
+    
+    <item>
+      <title>singularity-dust</title>
+      <link>https://icaoberg.github.io/posts/20210712-singularity-dust/</link>
+      <pubDate>Mon, 12 Jul 2021 22:31:56 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20210712-singularity-dust/</guid>
+      <description>du + rust = dust. Like du but more intuitive.</description>
+    </item>
+    
+    <item>
+      <title>singularity-bat</title>
+      <link>https://icaoberg.github.io/posts/20210712-singularity-bat/</link>
+      <pubDate>Mon, 12 Jul 2021 22:24:09 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20210712-singularity-bat/</guid>
+      <description>A cat(1) clone with syntax highlighting and Git integration.</description>
+    </item>
+    
+    <item>
+      <title>Argentina Campeón</title>
+      <link>https://icaoberg.github.io/posts/20210710-alegria/</link>
+      <pubDate>Sat, 10 Jul 2021 23:49:51 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20210710-alegria/</guid>
+      <description>La alegría no es solo brasilera (no, mi amor)…</description>
+    </item>
+    
+    <item>
+      <title>Argentina vs Brazil</title>
+      <link>https://icaoberg.github.io/posts/20210710-maracanazo/</link>
+      <pubDate>Sat, 10 Jul 2021 23:28:35 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20210710-maracanazo/</guid>
+      <description>La alegría no es solo brasilera (no, mi amor)…</description>
+    </item>
+    
+    <item>
+      <title>Solo se Trata de Vivir</title>
+      <link>https://icaoberg.github.io/posts/20210415-solo_se_trata_de_vivir/</link>
+      <pubDate>Thu, 15 Apr 2021 00:36:51 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20210415-solo_se_trata_de_vivir/</guid>
+      <description>Solo se Trata de Vivir interpreted by Mercedes Sosa</description>
+    </item>
+    
+    <item>
+      <title>Witness me!</title>
+      <link>https://icaoberg.github.io/posts/20210411-witness-me/</link>
+      <pubDate>Sun, 11 Apr 2021 23:08:12 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20210411-witness-me/</guid>
+      <description>Rocky attacks the feather every day</description>
+    </item>
+    
+    <item>
+      <title>Be kind...</title>
+      <link>https://icaoberg.github.io/posts/20210408-kind/</link>
+      <pubDate>Thu, 08 Apr 2021 22:26:10 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20210408-kind/</guid>
+      <description>Be kind&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>SACNAS Community College Day</title>
+      <link>https://icaoberg.github.io/posts/20210403-sacnas/</link>
+      <pubDate>Sat, 03 Apr 2021 10:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20210403-sacnas/</guid>
+      <description>SACNAS Community College Day</description>
+    </item>
+    
+    <item>
+      <title>GeNT</title>
+      <link>https://icaoberg.github.io/posts/20210327-fortran/</link>
+      <pubDate>Sat, 27 Mar 2021 22:39:22 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20210327-fortran/</guid>
+      <description>Singularity container for GeNT</description>
+    </item>
+    
+    <item>
+      <title>Coffee, tea and cocoa</title>
+      <link>https://icaoberg.github.io/posts/20210324-tea/</link>
+      <pubDate>Wed, 24 Mar 2021 16:48:59 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20210324-tea/</guid>
+      <description>I am a cocoa person</description>
+    </item>
+    
+    <item>
+      <title>Mushroom seasoning</title>
+      <link>https://icaoberg.github.io/posts/20210307-mushroom-seasoning/</link>
+      <pubDate>Sun, 07 Mar 2021 23:27:42 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20210307-mushroom-seasoning/</guid>
+      <description>I am trying to figure out which brand to buy</description>
+    </item>
+    
+    <item>
+      <title>Making fake bacon</title>
+      <link>https://icaoberg.github.io/posts/20210307-fake-bacon/</link>
+      <pubDate>Sun, 07 Mar 2021 23:09:10 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20210307-fake-bacon/</guid>
+      <description>Want to try this recipe</description>
+    </item>
+    
+    <item>
+      <title>Adventures in knitting</title>
+      <link>https://icaoberg.github.io/posts/20210301-shawl/</link>
+      <pubDate>Mon, 01 Mar 2021 23:23:28 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20210301-shawl/</guid>
+      <description>&amp;hellip;and I hope she likes it</description>
+    </item>
+    
+    <item>
+      <title>Adventures in knitting</title>
+      <link>https://icaoberg.github.io/posts/20210301/</link>
+      <pubDate>Mon, 01 Mar 2021 21:23:01 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20210301/</guid>
+      <description>Had a failure (or did I?) and a success</description>
+    </item>
+    
+    <item>
+      <title>Vegan manicotti recipe</title>
+      <link>https://icaoberg.github.io/posts/20210104-little-victories/</link>
+      <pubDate>Mon, 04 Jan 2021 00:44:50 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20210104-little-victories/</guid>
+      <description>It is all about the little victories</description>
+    </item>
+    
+    <item>
+      <title>Vegan-friendly dough for Pascualina</title>
+      <link>https://icaoberg.github.io/posts/20210102-vegan-dough/</link>
+      <pubDate>Sat, 02 Jan 2021 22:02:56 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20210102-vegan-dough/</guid>
+      <description>The vegan-friendly dough was a total failure</description>
+    </item>
+    
+    <item>
+      <title>Veganizing pascualina</title>
+      <link>https://icaoberg.github.io/posts/20210102-ricotta/</link>
+      <pubDate>Sat, 02 Jan 2021 11:59:10 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20210102-ricotta/</guid>
+      <description>Just part of my journey to veganize pascualina</description>
+    </item>
+    
+    <item>
+      <title>Life changing command</title>
+      <link>https://icaoberg.github.io/posts/20210102-terminal/</link>
+      <pubDate>Sat, 02 Jan 2021 11:22:18 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20210102-terminal/</guid>
+      <description>Asked myself a dumb question and found an answer</description>
+    </item>
+    
+    <item>
+      <title>Vegan cheese</title>
+      <link>https://icaoberg.github.io/posts/20210102-vegan-cheese/</link>
+      <pubDate>Sat, 02 Jan 2021 06:31:54 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20210102-vegan-cheese/</guid>
+      <description>I will be making vegan cheese at home</description>
+    </item>
+    
+    <item>
+      <title>¡Feliz Año Nuevo! Happy New Year!</title>
+      <link>https://icaoberg.github.io/posts/20210101/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:01 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20210101/</guid>
+      <description>¡Feliz Año Nuevo! Happy New Year!</description>
+    </item>
+    
+    <item>
+      <title>Setting a Plex media server at home</title>
+      <link>https://icaoberg.github.io/posts/20201231-plex-media-server/</link>
+      <pubDate>Thu, 31 Dec 2020 15:22:38 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20201231-plex-media-server/</guid>
+      <description>Setting a Plex media server at home</description>
+    </item>
+    
+    <item>
+      <title>Updating Singularity recipes</title>
+      <link>https://icaoberg.github.io/posts/20201228/</link>
+      <pubDate>Mon, 28 Dec 2020 23:14:13 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20201228/</guid>
+      <description>I am uploading my recipes, scripts and images to GitHub</description>
+    </item>
+    
+    <item>
+      <title>Foobar</title>
+      <link>https://icaoberg.github.io/posts/20201222/</link>
+      <pubDate>Tue, 22 Dec 2020 01:01:45 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20201222/</guid>
+      <description>New year, new projects</description>
+    </item>
+    
+    <item>
+      <title>HuBMAP Updates</title>
+      <link>https://icaoberg.github.io/posts/20200725/</link>
+      <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20200725/</guid>
+      <description>Working hard</description>
+    </item>
+    
+    <item>
+      <title>El tiempo para construir puentes</title>
+      <link>https://icaoberg.github.io/posts/20200705/</link>
+      <pubDate>Sun, 05 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20200705/</guid>
+      <description>El tiempo para construir puentes</description>
+    </item>
+    
+    <item>
+      <title>Hello, Pittsburgh Supercomputing Center!</title>
+      <link>https://icaoberg.github.io/posts/20200615/</link>
+      <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20200615/</guid>
+      <description>Hello, Pittsburgh Supercomputing Center!</description>
+    </item>
+    
+    <item>
+      <title>Good bye, Computational Biology!</title>
+      <link>https://icaoberg.github.io/posts/20200529/</link>
+      <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20200529/</guid>
+      <description>My last day at the Computational Biology Department</description>
+    </item>
+    
+    <item>
+      <title>Lazlo Bane - I&#39;m no Superman</title>
+      <link>https://icaoberg.github.io/posts/tinycards-im-no-superman/</link>
+      <pubDate>Sat, 16 May 2020 22:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/tinycards-im-no-superman/</guid>
+      <description>But I can&amp;rsquo;t do this all on my own&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Los Auténticos Decandentes y Amigos - Juntos para Siempre</title>
+      <link>https://icaoberg.github.io/posts/tinycards-juntos-para-siempre/</link>
+      <pubDate>Thu, 16 Apr 2020 08:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/tinycards-juntos-para-siempre/</guid>
+      <description>Cuando será el día en que nos volvamos a abrazar&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Morat - Acuérdate de Mí</title>
+      <link>https://icaoberg.github.io/posts/spanish-meetup-spring2020-acuerdate-de-mi/</link>
+      <pubDate>Sun, 12 Apr 2020 18:00:00 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/spanish-meetup-spring2020-acuerdate-de-mi/</guid>
+      <description>&lt;em&gt;Acuérate de Mí&lt;/em&gt; is the song we are going to be listening next Wednesday</description>
+    </item>
+    
+    <item>
+      <title>Another day, another challenge</title>
+      <link>https://icaoberg.github.io/posts/20200409/</link>
+      <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20200409/</guid>
+      <description>Another day, another challenge</description>
+    </item>
+    
+    <item>
+      <title>El Silencio del Viento</title>
+      <link>https://icaoberg.github.io/posts/clas-el-silencio-del-viento/</link>
+      <pubDate>Tue, 07 Apr 2020 10:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/clas-el-silencio-del-viento/</guid>
+      <description>Center for Latin American Studies Film Festival</description>
+    </item>
+    
+    <item>
+      <title>GNU GCC</title>
+      <link>https://icaoberg.github.io/posts/singularity-gcc/</link>
+      <pubDate>Fri, 03 Apr 2020 22:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/singularity-gcc/</guid>
+      <description>Singularity recipe and image for GNU GCC</description>
+    </item>
+    
+    <item>
+      <title>Luciano Pereyra - Quédate Conmigo</title>
+      <link>https://icaoberg.github.io/posts/tinycards-luciano-pereyra-quedate-conmigo/</link>
+      <pubDate>Sat, 28 Mar 2020 21:57:35 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/tinycards-luciano-pereyra-quedate-conmigo/</guid>
+      <description>The TinyCards set for this wonderful song</description>
+    </item>
+    
+    <item>
+      <title>Como la Cigarra</title>
+      <link>https://icaoberg.github.io/posts/como-la-cigarra/</link>
+      <pubDate>Thu, 26 Mar 2020 14:22:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/como-la-cigarra/</guid>
+      <description>Argentina Canta en Cuarantena</description>
+    </item>
+    
+    <item>
+      <title>La Negrada</title>
+      <link>https://icaoberg.github.io/posts/clas-la-negrada-rescheduled/</link>
+      <pubDate>Thu, 19 Mar 2020 10:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/clas-la-negrada-rescheduled/</guid>
+      <description>Center for Latin American Studies Film Festival</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Statistical Methods with MATLAB</title>
+      <link>https://icaoberg.github.io/posts/matlab-stats/</link>
+      <pubDate>Tue, 17 Mar 2020 22:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/matlab-stats/</guid>
+      <description>Mathworks Matlab Certification</description>
+    </item>
+    
+    <item>
+      <title>Preparing for the Spread of COVID-19</title>
+      <link>https://icaoberg.github.io/posts/covid-19-preparation/</link>
+      <pubDate>Sun, 15 Mar 2020 10:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/covid-19-preparation/</guid>
+      <description>Preparing for the Spread of COVID-19</description>
+    </item>
+    
+    <item>
+      <title>Alejandro Lerner - Todo a Pulmón</title>
+      <link>https://icaoberg.github.io/posts/tinycards-alejandro-lerner-todo-a-pulmon/</link>
+      <pubDate>Sat, 14 Mar 2020 21:57:35 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/tinycards-alejandro-lerner-todo-a-pulmon/</guid>
+      <description>The TinyCards set for this wonderful song</description>
+    </item>
+    
+    <item>
+      <title>Carnegie Mellon University</title>
+      <link>https://icaoberg.github.io/posts/cmu-covid-19-20200313-update2/</link>
+      <pubDate>Fri, 13 Mar 2020 15:57:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/cmu-covid-19-20200313-update2/</guid>
+      <description>COVID-19 FAQs for university housing</description>
+    </item>
+    
+    <item>
+      <title>Carnegie Mellon University</title>
+      <link>https://icaoberg.github.io/posts/cmu-covid-19-social-distance-20200313/</link>
+      <pubDate>Fri, 13 Mar 2020 14:47:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/cmu-covid-19-social-distance-20200313/</guid>
+      <description>Social distancing</description>
+    </item>
+    
+    <item>
+      <title>Carnegie Mellon University</title>
+      <link>https://icaoberg.github.io/posts/cmu-covid-19-20200313-update1/</link>
+      <pubDate>Fri, 13 Mar 2020 09:48:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/cmu-covid-19-20200313-update1/</guid>
+      <description>COVID-19 Update</description>
+    </item>
+    
+    <item>
+      <title>The Lonely God</title>
+      <link>https://icaoberg.github.io/posts/doctor-who-im-nothing-special/</link>
+      <pubDate>Thu, 12 Mar 2020 10:09:00 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/doctor-who-im-nothing-special/</guid>
+      <description>The Garo Studios video</description>
+    </item>
+    
+    <item>
+      <title>Carnegie Mellon University</title>
+      <link>https://icaoberg.github.io/posts/cmu-covid-19-20200312-update1/</link>
+      <pubDate>Thu, 12 Mar 2020 13:39:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/cmu-covid-19-20200312-update1/</guid>
+      <description>COVID-19 Update</description>
+    </item>
+    
+    <item>
+      <title>Wash your hands...</title>
+      <link>https://icaoberg.github.io/posts/wash-your-hands/</link>
+      <pubDate>Thu, 12 Mar 2020 10:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/wash-your-hands/</guid>
+      <description>Gloria Gaynor washing her hands</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Linear Algebra with MATLAB</title>
+      <link>https://icaoberg.github.io/posts/matlab-linearalgebra/</link>
+      <pubDate>Mon, 09 Mar 2020 17:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/matlab-linearalgebra/</guid>
+      <description>Mathworks Matlab Certification</description>
+    </item>
+    
+    <item>
+      <title>Solving Ordinary Differential Equations with MATLAB</title>
+      <link>https://icaoberg.github.io/posts/matlab-ode/</link>
+      <pubDate>Mon, 09 Mar 2020 10:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/matlab-ode/</guid>
+      <description>Mathworks Matlab Certification</description>
+    </item>
+    
+    <item>
+      <title>Daily Report</title>
+      <link>https://icaoberg.github.io/posts/daily-report-2020-03-03/</link>
+      <pubDate>Tue, 03 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/daily-report-2020-03-03/</guid>
+      <description>TaskWarrior daily progress</description>
+    </item>
+    
+    <item>
+      <title>cowsay</title>
+      <link>https://icaoberg.github.io/posts/singularity-cowsay/</link>
+      <pubDate>Wed, 26 Feb 2020 10:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/singularity-cowsay/</guid>
+      <description>Singularity recipe and image for browsh</description>
+    </item>
+    
+    <item>
+      <title>La Heredera del Viento</title>
+      <link>https://icaoberg.github.io/posts/clas-la-heredera-del-viento/</link>
+      <pubDate>Tue, 25 Feb 2020 10:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/clas-la-heredera-del-viento/</guid>
+      <description>Center for Latin American Studies Film Festival</description>
+    </item>
+    
+    <item>
+      <title>Barrio Latino is turning 25th this year!</title>
+      <link>https://icaoberg.github.io/posts/wrct-barrio-latino-25th-anniversary/</link>
+      <pubDate>Sun, 23 Feb 2020 02:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/wrct-barrio-latino-25th-anniversary/</guid>
+      <description>WRCT Presents: Barrio Latino</description>
+    </item>
+    
+    <item>
+      <title>Morat - Mil Tormentas</title>
+      <link>https://icaoberg.github.io/posts/tinycards-morat-mil-tormentas/</link>
+      <pubDate>Sat, 22 Feb 2020 21:57:35 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/tinycards-morat-mil-tormentas/</guid>
+      <description>The TinyCards set for this wonderful song</description>
+    </item>
+    
+    <item>
+      <title>Spanish Conversation at CLP Lawrenceville</title>
+      <link>https://icaoberg.github.io/posts/spanish-meetup-2020-02-22/</link>
+      <pubDate>Sat, 22 Feb 2020 19:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/spanish-meetup-2020-02-22/</guid>
+      <description>Conversation group for intermediate and advanced speakers</description>
+    </item>
+    
+    <item>
+      <title>Massive Music Weekend 2020</title>
+      <link>https://icaoberg.github.io/posts/wrct-mmw-2020/</link>
+      <pubDate>Sat, 22 Feb 2020 10:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/wrct-mmw-2020/</guid>
+      <description>WRCT Presents: Massive Music Weekend 2020</description>
+    </item>
+    
+    <item>
+      <title>La Negrada</title>
+      <link>https://icaoberg.github.io/posts/clas-la-negrada/</link>
+      <pubDate>Wed, 19 Feb 2020 10:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/clas-la-negrada/</guid>
+      <description>Center for Latin American Studies Film Festival</description>
+    </item>
+    
+    <item>
+      <title>Weekly Report</title>
+      <link>https://icaoberg.github.io/posts/weekly-report-2020-02-14/</link>
+      <pubDate>Fri, 14 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/weekly-report-2020-02-14/</guid>
+      <description>TaskWarrior daily burndown chart</description>
+    </item>
+    
+    <item>
+      <title>Belinda - Amor a Primera Vista</title>
+      <link>https://icaoberg.github.io/posts/tinycards-belinda-amor-a-primera-vista/</link>
+      <pubDate>Sat, 08 Feb 2020 21:57:35 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/tinycards-belinda-amor-a-primera-vista/</guid>
+      <description>The TinyCards set for this wonderful song</description>
+    </item>
+    
+    <item>
+      <title>bedtools</title>
+      <link>https://icaoberg.github.io/posts/singularity-bedtools-update/</link>
+      <pubDate>Mon, 03 Feb 2020 18:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/singularity-bedtools-update/</guid>
+      <description>Singularity recipe and image for bedtools</description>
+    </item>
+    
+    <item>
+      <title>It Was So Important for My White Middle-Class Kids to See the 2020 Super Bowl Halftime Show</title>
+      <link>https://icaoberg.github.io/posts/sheknows-it-was-so-important/</link>
+      <pubDate>Mon, 03 Feb 2020 15:30:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/sheknows-it-was-so-important/</guid>
+      <description>It Was So Important for My White Middle-Class Kids to See the 2020 Super Bowl Halftime Show</description>
+    </item>
+    
+    <item>
+      <title>Jennifer Lopez and Shakira’s music sales spike after their viral Super Bowl halftime show</title>
+      <link>https://icaoberg.github.io/posts/marketwatch-jlo-and-shakira/</link>
+      <pubDate>Mon, 03 Feb 2020 15:30:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/marketwatch-jlo-and-shakira/</guid>
+      <description>Jennifer Lopez and Shakira’s music sales spike after their viral Super Bowl halftime show</description>
+    </item>
+    
+    <item>
+      <title>Let’s Get Loud: Jennifer Lopez, Shakira Power Through Cultural Minefield During Super Bowl Halftime Show</title>
+      <link>https://icaoberg.github.io/posts/rolling-stone-lets-get-loud/</link>
+      <pubDate>Mon, 03 Feb 2020 15:30:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/rolling-stone-lets-get-loud/</guid>
+      <description>Let’s Get Loud: Jennifer Lopez, Shakira Power Through Cultural Minefield During Super Bowl Halftime Show</description>
+    </item>
+    
+    <item>
+      <title>Shakira’s 19-Year-Old “Whenever, Wherever” Is #1 on the Charts Again, Where It Belongs</title>
+      <link>https://icaoberg.github.io/posts/remezcla-shakira-whenever-wherever/</link>
+      <pubDate>Mon, 03 Feb 2020 12:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/remezcla-shakira-whenever-wherever/</guid>
+      <description>Shakira’s 19-Year-Old “Whenever, Wherever” Is #1 on the Charts Again, Where It Belongs</description>
+    </item>
+    
+    <item>
+      <title>BiasBusters</title>
+      <link>https://icaoberg.github.io/posts/biasbusters/</link>
+      <pubDate>Fri, 31 Jan 2020 21:37:08 -0500</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/biasbusters/</guid>
+      <description>BiasBusters at School of Computer Science in Carnegie Mellon University</description>
+    </item>
+    
+    <item>
+      <title>bedtools</title>
+      <link>https://icaoberg.github.io/posts/singularity-bedtools/</link>
+      <pubDate>Sun, 26 Jan 2020 18:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/singularity-bedtools/</guid>
+      <description>Singularity recipe and image for bedtools</description>
+    </item>
+    
+    <item>
+      <title>Camilo y Pedro Capó - Tutú</title>
+      <link>https://icaoberg.github.io/posts/tinycards-camilo-y-pedro-capo-tutu/</link>
+      <pubDate>Sat, 25 Jan 2020 21:57:35 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/tinycards-camilo-y-pedro-capo-tutu/</guid>
+      <description>The TinyCards set for this wonderful song</description>
+    </item>
+    
+    <item>
+      <title>Spanish Conversation at CLP Lawrenceville</title>
+      <link>https://icaoberg.github.io/posts/spanish-meetup-2020-01-18/</link>
+      <pubDate>Sat, 18 Jan 2020 10:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/spanish-meetup-2020-01-18/</guid>
+      <description>Conversation group for intermediate and advanced speakers</description>
+    </item>
+    
+    <item>
+      <title>gifgen</title>
+      <link>https://icaoberg.github.io/posts/singularity-gifgen/</link>
+      <pubDate>Tue, 14 Jan 2020 08:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/singularity-gifgen/</guid>
+      <description>Singularity recipe and image for gifgen</description>
+    </item>
+    
+    <item>
+      <title>Camilo y Pedro Capó - Tutú</title>
+      <link>https://icaoberg.github.io/posts/good-music-camilo-tutu/</link>
+      <pubDate>Tue, 14 Jan 2020 00:46:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/good-music-camilo-tutu/</guid>
+      <description>Night of coding and amazing music</description>
+    </item>
+    
+    <item>
+      <title>Lalo Ebratt, Sebastián Yatra ft. Tropical Minds - Déjate Querer</title>
+      <link>https://icaoberg.github.io/posts/good-music-sebastian-yatra-dejate-querer/</link>
+      <pubDate>Tue, 14 Jan 2020 00:29:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/good-music-sebastian-yatra-dejate-querer/</guid>
+      <description>Night of coding and amazing music</description>
+    </item>
+    
+    <item>
+      <title>Los Angeles Azules, Belinda y Lalo Ebratt - Amor a Primera Vista</title>
+      <link>https://icaoberg.github.io/posts/good-music-los-angeles-azules-belinda-amor-a-primera-vista/</link>
+      <pubDate>Tue, 14 Jan 2020 00:20:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/good-music-los-angeles-azules-belinda-amor-a-primera-vista/</guid>
+      <description>Night of coding and amazing music</description>
+    </item>
+    
+    <item>
+      <title>Lalo Ebratt, Sebastián Yatra, Yera - Déjate Querer</title>
+      <link>https://icaoberg.github.io/posts/tinycards-lalo-ebratt-dejate-querer/</link>
+      <pubDate>Mon, 13 Jan 2020 08:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/tinycards-lalo-ebratt-dejate-querer/</guid>
+      <description>The TinyCards set for this wonderful song</description>
+    </item>
+    
+    <item>
+      <title>Sie7e - Tengo tu Love</title>
+      <link>https://icaoberg.github.io/posts/tinycards-sie7e-tengo-tu-love/</link>
+      <pubDate>Sat, 11 Jan 2020 21:57:35 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/tinycards-sie7e-tengo-tu-love/</guid>
+      <description>The TinyCards set for this wonderful song</description>
+    </item>
+    
+    <item>
+      <title>Ricardo Arjona y Gaby Moreno - Fuiste Tú</title>
+      <link>https://icaoberg.github.io/posts/tinycards-fuiste-tu/</link>
+      <pubDate>Fri, 10 Jan 2020 21:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/tinycards-fuiste-tu/</guid>
+      <description>The TinyCards set for this wonderful song</description>
+    </item>
+    
+    <item>
+      <title>Singularity and Travis config</title>
+      <link>https://icaoberg.github.io/posts/singularity-travis-config/</link>
+      <pubDate>Tue, 07 Jan 2020 16:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/singularity-travis-config/</guid>
+      <description>Updating my Travis config files</description>
+    </item>
+    
+    <item>
+      <title>gotop</title>
+      <link>https://icaoberg.github.io/posts/singularity-gotop/</link>
+      <pubDate>Tue, 07 Jan 2020 08:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/singularity-gotop/</guid>
+      <description>Singularity recipe and image for gotop</description>
+    </item>
+    
+    <item>
+      <title>Singularity Desktop MacOSX (Beta Release)</title>
+      <link>https://icaoberg.github.io/posts/singularity-macosx-journey-1/</link>
+      <pubDate>Tue, 07 Jan 2020 08:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/singularity-macosx-journey-1/</guid>
+      <description>My first journey with the Singularity Desktop for MacOSX</description>
+    </item>
+    
+    <item>
+      <title>Spanish Conversation at CLP Lawrenceville</title>
+      <link>https://icaoberg.github.io/posts/spanish-meetup-2020-01-04/</link>
+      <pubDate>Sat, 04 Jan 2020 10:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/spanish-meetup-2020-01-04/</guid>
+      <description>Conversation group for intermediate and advanced speakers</description>
+    </item>
+    
+    <item>
+      <title>Los Auténticos Decadentes - Pendeviejo</title>
+      <link>https://icaoberg.github.io/posts/good-music-autenticos-decadentes-pendeviejo/</link>
+      <pubDate>Fri, 03 Jan 2020 22:09:29 -0500</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/good-music-autenticos-decadentes-pendeviejo/</guid>
+      <description>Quiero ser un pendejo aunque me vuelva viejo&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Fito Páez - Un Vestido y un Amor</title>
+      <link>https://icaoberg.github.io/posts/tinycards-un-vestido-y-un-amor/</link>
+      <pubDate>Fri, 03 Jan 2020 21:57:35 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/tinycards-un-vestido-y-un-amor/</guid>
+      <description>The TinyCards set for this wonderful song</description>
+    </item>
+    
+    <item>
+      <title>Ready to party I am</title>
+      <link>https://icaoberg.github.io/posts/ready-to-party-i-am/</link>
+      <pubDate>Thu, 02 Jan 2020 17:51:57 -0500</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/ready-to-party-i-am/</guid>
+      <description>Welcome back to CMU</description>
+    </item>
+    
+    <item>
+      <title>Carlos Baute y Marta Sánchez - Colgado en tus Manos</title>
+      <link>https://icaoberg.github.io/posts/tinycards-colgado-en-tus-manos/</link>
+      <pubDate>Fri, 27 Dec 2019 21:57:35 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/tinycards-colgado-en-tus-manos/</guid>
+      <description>The TinyCards set for this wonderful song</description>
+    </item>
+    
+    <item>
+      <title>¡Felices Fiestas!</title>
+      <link>https://icaoberg.github.io/posts/spanish-meetup-2019-12-25/</link>
+      <pubDate>Wed, 25 Dec 2019 10:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/spanish-meetup-2019-12-25/</guid>
+      <description>Pittsburgh Spanish Meetup Group</description>
+    </item>
+    
+    <item>
+      <title>OLIO</title>
+      <link>https://icaoberg.github.io/posts/olio/</link>
+      <pubDate>Tue, 24 Dec 2019 21:28:14 -0500</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/olio/</guid>
+      <description>OLIO connects neighbours with each other and with local businesses so surplus food can be shared, not thrown away</description>
+    </item>
+    
+    <item>
+      <title>¡Felices Fiestas! Especial de música de Navidad</title>
+      <link>https://icaoberg.github.io/posts/wrct-feliz-navidad-2019/</link>
+      <pubDate>Fri, 20 Dec 2019 20:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/wrct-feliz-navidad-2019/</guid>
+      <description>WRCT Presents: ¡Felices Fiestas! Especial de música de Navidad</description>
+    </item>
+    
+    <item>
+      <title>Spanish II</title>
+      <link>https://icaoberg.github.io/posts/spanish2-2019-12-18/</link>
+      <pubDate>Wed, 18 Dec 2019 10:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/spanish2-2019-12-18/</guid>
+      <description>See you tonight at CLP Oakland for an adventure in Spanish</description>
+    </item>
+    
+    <item>
+      <title>Let&#39;s practice some Spanish at Cilantro y Ajo!</title>
+      <link>https://icaoberg.github.io/posts/spanish-meetup-2019-12-17/</link>
+      <pubDate>Tue, 17 Dec 2019 10:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/spanish-meetup-2019-12-17/</guid>
+      <description>Conversation group for beginners and intermedia speakers</description>
+    </item>
+    
+    <item>
+      <title>Weekly Report</title>
+      <link>https://icaoberg.github.io/posts/weekly-report-2019-12-14/</link>
+      <pubDate>Sat, 14 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/weekly-report-2019-12-14/</guid>
+      <description>TaskWarrior daily burndown chart</description>
+    </item>
+    
+    <item>
+      <title>Franco de Vita - Si la Ves</title>
+      <link>https://icaoberg.github.io/posts/spanish2-fall2019-si-la-ves/</link>
+      <pubDate>Wed, 04 Dec 2019 10:10:00 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/spanish2-fall2019-si-la-ves/</guid>
+      <description>&lt;em&gt;Si la Ves&lt;/em&gt; is the song we are going to be using for the exercise today</description>
+    </item>
+    
+    <item>
+      <title>Spanish II</title>
+      <link>https://icaoberg.github.io/posts/spanish2-2019-12-04/</link>
+      <pubDate>Wed, 04 Dec 2019 10:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/spanish2-2019-12-04/</guid>
+      <description>See you tonight at CLP Oakland for an adventure in Spanish</description>
+    </item>
+    
+    <item>
+      <title>Potato</title>
+      <link>https://icaoberg.github.io/posts/potato/</link>
+      <pubDate>Mon, 25 Nov 2019 18:13:43 -0500</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/potato/</guid>
+      <description>I feel like the potato in this picture</description>
+    </item>
+    
+    <item>
+      <title>Yaqui Delgado quiere darte una paliza</title>
+      <link>https://icaoberg.github.io/posts/spanish2-book-2019-11-22/</link>
+      <pubDate>Fri, 22 Nov 2019 22:00:00 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/spanish2-book-2019-11-22/</guid>
+      <description>The Spanish book of the week from Carnegie Library of Pittsburgh</description>
+    </item>
+    
+    <item>
+      <title>Korean and Mexican people swap snacks</title>
+      <link>https://icaoberg.github.io/posts/buzzfeed-korean-mexican/</link>
+      <pubDate>Wed, 20 Nov 2019 23:18:31 -0500</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/buzzfeed-korean-mexican/</guid>
+      <description>Korean and Mexican people swap snacks</description>
+    </item>
+    
+    <item>
+      <title>Morat - Acuérdate de Mí</title>
+      <link>https://icaoberg.github.io/posts/spanish2-fall2019-acuerdate-de-mi/</link>
+      <pubDate>Wed, 20 Nov 2019 18:00:00 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/spanish2-fall2019-acuerdate-de-mi/</guid>
+      <description>&lt;em&gt;Acuérate de Mí&lt;/em&gt; is the song we are going to be using for the exercise today</description>
+    </item>
+    
+    <item>
+      <title>Spanish II</title>
+      <link>https://icaoberg.github.io/posts/spanish2-2019-11-20/</link>
+      <pubDate>Wed, 20 Nov 2019 10:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/spanish2-2019-11-20/</guid>
+      <description>See you tonight at CLP Oakland for an adventure in Spanish</description>
+    </item>
+    
+    <item>
+      <title>Luna Fortuna</title>
+      <link>https://icaoberg.github.io/posts/spanish2-book-2019-11-15/</link>
+      <pubDate>Fri, 15 Nov 2019 22:00:00 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/spanish2-book-2019-11-15/</guid>
+      <description>The Spanish book of the week from Carnegie Library of Pittsburgh</description>
+    </item>
+    
+    <item>
+      <title>Savory Tarte Tatin</title>
+      <link>https://icaoberg.github.io/posts/tarte-tatin/</link>
+      <pubDate>Sat, 09 Nov 2019 18:02:53 -0500</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/tarte-tatin/</guid>
+      <description>Adventures making savory fillings</description>
+    </item>
+    
+    <item>
+      <title>Matlab Onramp</title>
+      <link>https://icaoberg.github.io/posts/matlab-onramp/</link>
+      <pubDate>Sat, 09 Nov 2019 01:48:55 -0500</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/matlab-onramp/</guid>
+      <description>Mathworks Matlab Certification</description>
+    </item>
+    
+    <item>
+      <title>Drama</title>
+      <link>https://icaoberg.github.io/posts/spanish2-book-2019-11-08/</link>
+      <pubDate>Fri, 08 Nov 2019 22:00:00 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/spanish2-book-2019-11-08/</guid>
+      <description>The Spanish book of the week from Carnegie Library of Pittsburgh</description>
+    </item>
+    
+    <item>
+      <title>Walter Mercado Remembered</title>
+      <link>https://icaoberg.github.io/posts/walter-mercado-remembered/</link>
+      <pubDate>Fri, 08 Nov 2019 18:46:19 -0500</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/walter-mercado-remembered/</guid>
+      <description>People remember the amazing Walter Mercado</description>
+    </item>
+    
+    <item>
+      <title>Luciano Pereyra - Que Suerte tiene El</title>
+      <link>https://icaoberg.github.io/posts/spanish2-fall2019-que-suerte-tiene-el/</link>
+      <pubDate>Wed, 06 Nov 2019 21:00:00 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/spanish2-fall2019-que-suerte-tiene-el/</guid>
+      <description>&lt;em&gt;Que Suerte tiene El&lt;/em&gt; is the song we are going to be using for the exercise today</description>
+    </item>
+    
+    <item>
+      <title>Daily Report</title>
+      <link>https://icaoberg.github.io/posts/daily-report-2019-11-07/</link>
+      <pubDate>Thu, 07 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/daily-report-2019-11-07/</guid>
+      <description>TaskWarrior daily progress</description>
+    </item>
+    
+    <item>
+      <title>Spanish II</title>
+      <link>https://icaoberg.github.io/posts/spanish2-2019-11-06/</link>
+      <pubDate>Wed, 06 Nov 2019 10:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/spanish2-2019-11-06/</guid>
+      <description>See you tonight at CLP Oakland for an adventure in Spanish</description>
+    </item>
+    
+    <item>
+      <title>Once upon a time: traditional Latin American tales</title>
+      <link>https://icaoberg.github.io/posts/spanish2-book-2019-11-01/</link>
+      <pubDate>Fri, 01 Nov 2019 22:00:00 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/spanish2-book-2019-11-01/</guid>
+      <description>The Spanish book of the week from Carnegie Library of Pittsburgh</description>
+    </item>
+    
+    <item>
+      <title>Alejandro Sanz - Amiga Mía</title>
+      <link>https://icaoberg.github.io/posts/tinycards-amiga-mia/</link>
+      <pubDate>Fri, 01 Nov 2019 21:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/tinycards-amiga-mia/</guid>
+      <description>The TinyCards set for this wonderful song</description>
+    </item>
+    
+    <item>
+      <title>Weekly Report</title>
+      <link>https://icaoberg.github.io/posts/weekly-report-2019-11-01/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/weekly-report-2019-11-01/</guid>
+      <description>TaskWarrior daily burndown chart</description>
+    </item>
+    
+    <item>
+      <title>TINI y Sebastián Yatra - Oye</title>
+      <link>https://icaoberg.github.io/posts/tinycards-oye/</link>
+      <pubDate>Thu, 31 Oct 2019 21:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/tinycards-oye/</guid>
+      <description>The TinyCards set for this wonderful song</description>
+    </item>
+    
+    <item>
+      <title>Juan Luis Guerra - Kitipun</title>
+      <link>https://icaoberg.github.io/posts/tinycards-kitipun/</link>
+      <pubDate>Wed, 30 Oct 2019 21:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/tinycards-kitipun/</guid>
+      <description>The TinyCards set for this wonderful song</description>
+    </item>
+    
+    <item>
+      <title>Daily Report</title>
+      <link>https://icaoberg.github.io/posts/daily-report-2019-10-30/</link>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/daily-report-2019-10-30/</guid>
+      <description>TaskWarrior daily progress</description>
+    </item>
+    
+    <item>
+      <title>La Oreja de Van Gogh - Jueves</title>
+      <link>https://icaoberg.github.io/posts/tinycards-jueves/</link>
+      <pubDate>Tue, 29 Oct 2019 14:57:35 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/tinycards-jueves/</guid>
+      <description>The TinyCards set for this wonderful song</description>
+    </item>
+    
+    <item>
+      <title>Luciano Pereyra - Quédate conmigo</title>
+      <link>https://icaoberg.github.io/posts/tinycards-quedate-conmigo/</link>
+      <pubDate>Mon, 28 Oct 2019 21:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/tinycards-quedate-conmigo/</guid>
+      <description>The TinyCards set for this wonderful song</description>
+    </item>
+    
+    <item>
+      <title>Without Reward</title>
+      <link>https://icaoberg.github.io/posts/doctor-who-without-reward/</link>
+      <pubDate>Sun, 27 Oct 2019 23:20:52 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/doctor-who-without-reward/</guid>
+      <description>Doctor Who - Without Reward</description>
+    </item>
+    
+    <item>
+      <title>L. Pereyra y Greeicy - Te estás enamorando de mi</title>
+      <link>https://icaoberg.github.io/posts/tinycards-te-estas-enamorando-de-mi/</link>
+      <pubDate>Sun, 27 Oct 2019 21:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/tinycards-te-estas-enamorando-de-mi/</guid>
+      <description>The TinyCards set for this wonderful song</description>
+    </item>
+    
+    <item>
+      <title>Weekly Report</title>
+      <link>https://icaoberg.github.io/posts/weekly-report-2019-10-27/</link>
+      <pubDate>Sun, 27 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/weekly-report-2019-10-27/</guid>
+      <description>TaskWarrior daily burndown chart</description>
+    </item>
+    
+    <item>
+      <title>Cuentos de Perrault</title>
+      <link>https://icaoberg.github.io/posts/spanish2-book-2019-10-25/</link>
+      <pubDate>Fri, 25 Oct 2019 22:00:00 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/spanish2-book-2019-10-25/</guid>
+      <description>The Spanish book of the week from Carnegie Library of Pittsburgh</description>
+    </item>
+    
+    <item>
+      <title>Blank Space</title>
+      <link>https://icaoberg.github.io/posts/doctor-who-blank-space/</link>
+      <pubDate>Fri, 25 Oct 2019 14:09:00 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/doctor-who-blank-space/</guid>
+      <description>The Garo Studios video</description>
+    </item>
+    
+    <item>
+      <title>Regeneration</title>
+      <link>https://icaoberg.github.io/posts/doctor-who-regeneration/</link>
+      <pubDate>Thu, 24 Oct 2019 23:14:15 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/doctor-who-regeneration/</guid>
+      <description>The Doctor regenerates</description>
+    </item>
+    
+    <item>
+      <title>Tommy Torres - Querido Tommy</title>
+      <link>https://icaoberg.github.io/posts/tinycards-querido-tommy/</link>
+      <pubDate>Thu, 24 Oct 2019 21:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/tinycards-querido-tommy/</guid>
+      <description>The TinyCards set for this wonderful song</description>
+    </item>
+    
+    <item>
+      <title>Lab Meeting</title>
+      <link>https://icaoberg.github.io/posts/lab-meeting/</link>
+      <pubDate>Thu, 24 Oct 2019 09:31:29 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/lab-meeting/</guid>
+      <description>Presenting research progress at lab meeting - expectation vs. reality</description>
+    </item>
+    
+    <item>
+      <title>Yera ft. Morat - Mejores Amigos</title>
+      <link>https://icaoberg.github.io/posts/tinycards-mejores-amigos/</link>
+      <pubDate>Tue, 22 Oct 2019 21:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/tinycards-mejores-amigos/</guid>
+      <description>The TinyCards set for this wonderful song</description>
+    </item>
+    
+    <item>
+      <title>Find Files</title>
+      <link>https://icaoberg.github.io/posts/matlab-find-files/</link>
+      <pubDate>Tue, 22 Oct 2019 16:11:26 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/matlab-find-files/</guid>
+      <description>Am I this old?</description>
+    </item>
+    
+    <item>
+      <title>Daily Report</title>
+      <link>https://icaoberg.github.io/posts/daily-report-2019-10-22/</link>
+      <pubDate>Tue, 22 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/daily-report-2019-10-22/</guid>
+      <description>TaskWarrior daily progress</description>
+    </item>
+    
+    <item>
+      <title>Sword</title>
+      <link>https://icaoberg.github.io/posts/doctorate-finland/</link>
+      <pubDate>Mon, 21 Oct 2019 01:47:39 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/doctorate-finland/</guid>
+      <description>Thinking about going to Finland to do a doctorate</description>
+    </item>
+    
+    <item>
+      <title>Weekly Report</title>
+      <link>https://icaoberg.github.io/posts/weekly-report-2019-10-21/</link>
+      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/weekly-report-2019-10-21/</guid>
+      <description>TaskWarrior weekly burndown chart</description>
+    </item>
+    
+    <item>
+      <title>Cuentos y Leyendas Hispanoamericanos</title>
+      <link>https://icaoberg.github.io/posts/spanish2-book-2019-10-18/</link>
+      <pubDate>Fri, 18 Oct 2019 22:00:00 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/spanish2-book-2019-10-18/</guid>
+      <description>The Spanish book of the week from Carnegie Library of Pittsburgh</description>
+    </item>
+    
+    <item>
+      <title>Apple Cider</title>
+      <link>https://icaoberg.github.io/posts/instant-pot-apple-cider/</link>
+      <pubDate>Thu, 17 Oct 2019 20:37:20 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/instant-pot-apple-cider/</guid>
+      <description>Attempting to make apple cider in the Instant Pot</description>
+    </item>
+    
+    <item>
+      <title>Juanes y Sebastian Yatra - Bonita</title>
+      <link>https://icaoberg.github.io/posts/spanish2-fall2019-bonita/</link>
+      <pubDate>Wed, 16 Oct 2019 10:10:00 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/spanish2-fall2019-bonita/</guid>
+      <description>&lt;em&gt;Bonita&lt;/em&gt; is the song we are going to be using for the exercise today</description>
+    </item>
+    
+    <item>
+      <title>Spanish II</title>
+      <link>https://icaoberg.github.io/posts/spanish2-2019-10-16/</link>
+      <pubDate>Wed, 16 Oct 2019 10:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/spanish2-2019-10-16/</guid>
+      <description>See you tonight at CLP Oakland for an adventure in Spanish</description>
+    </item>
+    
+    <item>
+      <title>Savory Oatmeal</title>
+      <link>https://icaoberg.github.io/posts/savory-oatmeal/</link>
+      <pubDate>Tue, 15 Oct 2019 20:44:39 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/savory-oatmeal/</guid>
+      <description>Healthy savory oatmeal for breakfast</description>
+    </item>
+    
+    <item>
+      <title>The Lonely God</title>
+      <link>https://icaoberg.github.io/posts/doctor-who-the-lonely-god/</link>
+      <pubDate>Tue, 15 Oct 2019 14:09:00 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/doctor-who-the-lonely-god/</guid>
+      <description>The Garo Studios video</description>
+    </item>
+    
+    <item>
+      <title>Programming for Lovers</title>
+      <link>https://icaoberg.github.io/posts/programming-for-lovers/</link>
+      <pubDate>Mon, 14 Oct 2019 15:57:35 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/programming-for-lovers/</guid>
+      <description>Tonight at 8:00p.m. is the first lecture of Programming for Lovers.</description>
+    </item>
+    
+    <item>
+      <title>browsh</title>
+      <link>https://icaoberg.github.io/posts/singularity-browsh/</link>
+      <pubDate>Sun, 13 Oct 2019 01:19:33 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/singularity-browsh/</guid>
+      <description>Singularity recipe and image for browsh</description>
+    </item>
+    
+    <item>
+      <title>About using the word pregnant</title>
+      <link>https://icaoberg.github.io/posts/spanish-meetup-pregnant/</link>
+      <pubDate>Sat, 12 Oct 2019 18:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/spanish-meetup-pregnant/</guid>
+      <description>Conversation group for intermediate and advanced speakers</description>
+    </item>
+    
+    <item>
+      <title>¡Que viva Clemente!</title>
+      <link>https://icaoberg.github.io/posts/que-viva-clemente/</link>
+      <pubDate>Sat, 12 Oct 2019 10:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/que-viva-clemente/</guid>
+      <description>Come celebrate the life of Clemente and the Hispanic Heritage Month</description>
+    </item>
+    
+    <item>
+      <title>Cuentos populares mexicanos</title>
+      <link>https://icaoberg.github.io/posts/spanish2-book-2019-10-11/</link>
+      <pubDate>Fri, 11 Oct 2019 22:00:00 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/spanish2-book-2019-10-11/</guid>
+      <description>The Spanish book of the week from Carnegie Library of Pittsburgh</description>
+    </item>
+    
+    <item>
+      <title>Las Madres de Berks</title>
+      <link>https://icaoberg.github.io/posts/las-madres-de-berks/</link>
+      <pubDate>Thu, 10 Oct 2019 10:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/las-madres-de-berks/</guid>
+      <description>Familias Separadas presents &amp;lsquo;Las Madres de Berks&amp;rsquo;</description>
+    </item>
+    
+    <item>
+      <title>Spanish Conversation at CLP Lawrenceville</title>
+      <link>https://icaoberg.github.io/posts/spanish-meetup-2019-10-12/</link>
+      <pubDate>Thu, 10 Oct 2019 10:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/spanish-meetup-2019-10-12/</guid>
+      <description>Conversation group for intermediate and advanced speakers</description>
+    </item>
+    
+    <item>
+      <title>Leo Dan y Banda El Limón - Pídeme la Luna</title>
+      <link>https://icaoberg.github.io/posts/tinycards-pideme-la-luna/</link>
+      <pubDate>Wed, 09 Oct 2019 14:57:35 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/tinycards-pideme-la-luna/</guid>
+      <description>The TinyCards set for this wonderful song</description>
+    </item>
+    
+    <item>
+      <title>Morat - Cuando Nadie Ve</title>
+      <link>https://icaoberg.github.io/posts/tinycards-cuando-nadie-ve/</link>
+      <pubDate>Sat, 05 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/tinycards-cuando-nadie-ve/</guid>
+      <description>The TinyCards set for this wonderful song</description>
+    </item>
+    
+    <item>
+      <title>Ricardo Arjona - Fuiste Tu</title>
+      <link>https://icaoberg.github.io/posts/spanish2-fall2019-fuiste-tu/</link>
+      <pubDate>Thu, 03 Oct 2019 14:11:35 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/spanish2-fall2019-fuiste-tu/</guid>
+      <description>Today we listened to &lt;em&gt;Fuiste Tu&lt;/em&gt;, a wonderful song from Ricardo Arjona and Gaby Moreno.</description>
+    </item>
+    
+    <item>
+      <title>Alejandro Sanz y Camila Cabello - Mi Persona Favorita</title>
+      <link>https://icaoberg.github.io/posts/tinycards-mi-persona-favorita/</link>
+      <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/tinycards-mi-persona-favorita/</guid>
+      <description>The TinyCards set for this wonderful song</description>
+    </item>
+    
+    <item>
+      <title>Spanish II</title>
+      <link>https://icaoberg.github.io/posts/spanish2-2019-10-02/</link>
+      <pubDate>Wed, 02 Oct 2019 10:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/spanish2-2019-10-02/</guid>
+      <description>See you tonight at CLP Oakland for an adventure in Spanish</description>
+    </item>
+    
+    <item>
+      <title>Big Data Workshop</title>
+      <link>https://icaoberg.github.io/posts/big-data/</link>
+      <pubDate>Tue, 01 Oct 2019 10:56:00 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/big-data/</guid>
+      <description>I am attending a workshop in Pittsburgh</description>
+    </item>
+    
+    <item>
+      <title>Carlos Vives y Wisin - Si me das tu Amor</title>
+      <link>https://icaoberg.github.io/posts/tinycards-si-me-das-tu-amor/</link>
+      <pubDate>Mon, 30 Sep 2019 21:57:35 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/tinycards-si-me-das-tu-amor/</guid>
+      <description>The TinyCards set for this wonderful song</description>
+    </item>
+    
+    <item>
+      <title>Beatriz Luengo - Como tu no hay 2</title>
+      <link>https://icaoberg.github.io/posts/tinycards-como-tu-no-hay-dos/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/tinycards-como-tu-no-hay-dos/</guid>
+      <description>The TinyCards set for this wonderful song</description>
+    </item>
+    
+    <item>
+      <title>TacoMania 2019</title>
+      <link>https://icaoberg.github.io/posts/tacomania2019/</link>
+      <pubDate>Sun, 29 Sep 2019 02:28:59 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/tacomania2019/</guid>
+      <description>There is yet another awesome taco festival in the &amp;lsquo;burgh</description>
+    </item>
+    
+    <item>
+      <title>Adventures in Failure</title>
+      <link>https://icaoberg.github.io/posts/carrot-failure/</link>
+      <pubDate>Sun, 29 Sep 2019 01:50:57 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/carrot-failure/</guid>
+      <description>Failed miserably at fermenting carrots</description>
+    </item>
+    
+    <item>
+      <title>Doctor Mario</title>
+      <link>https://icaoberg.github.io/posts/doctor-mario/</link>
+      <pubDate>Sat, 28 Sep 2019 18:36:03 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/doctor-mario/</guid>
+      <description>Dr. Mario brings back many childhood memories</description>
+    </item>
+    
+    <item>
+      <title>Maintenance mode</title>
+      <link>https://icaoberg.github.io/posts/apache2/</link>
+      <pubDate>Fri, 27 Sep 2019 13:48:54 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/apache2/</guid>
+      <description>I upgraded the web servers so you know what it means, migration time</description>
+    </item>
+    
+    <item>
+      <title>Cody</title>
+      <link>https://icaoberg.github.io/posts/cody/</link>
+      <pubDate>Thu, 26 Sep 2019 02:10:48 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/cody/</guid>
+      <description>A gaming platform for Matlab</description>
+    </item>
+    
+    <item>
+      <title>Juanes y Sebastián Yatra - Bonita</title>
+      <link>https://icaoberg.github.io/posts/tinycards-bonita/</link>
+      <pubDate>Mon, 23 Sep 2019 21:57:35 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/tinycards-bonita/</guid>
+      <description>The TinyCards set for this wonderful song</description>
+    </item>
+    
+    <item>
+      <title>Los Rodriguez - Milonga del Marinero y el Capitan</title>
+      <link>https://icaoberg.github.io/posts/tinycards-milonga-del-marinero/</link>
+      <pubDate>Sun, 22 Sep 2019 21:57:35 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/tinycards-milonga-del-marinero/</guid>
+      <description>The TinyCards set for this wonderful song</description>
+    </item>
+    
+    <item>
+      <title>Wyclef Jean - Gone &#39;till November</title>
+      <link>https://icaoberg.github.io/posts/tinycards-gone-til-november/</link>
+      <pubDate>Sun, 22 Sep 2019 21:57:35 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/tinycards-gone-til-november/</guid>
+      <description>The TinyCards set for this wonderful song</description>
+    </item>
+    
+    <item>
+      <title>CBD10</title>
+      <link>https://icaoberg.github.io/posts/cbd10/</link>
+      <pubDate>Sat, 21 Sep 2019 11:19:17 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/cbd10/</guid>
+      <description>We are celebrating our 10 year anniversary!</description>
+    </item>
+    
+    <item>
+      <title>CellOrganizer for Singularity</title>
+      <link>https://icaoberg.github.io/posts/singularity-retweet-ceo/</link>
+      <pubDate>Sat, 21 Sep 2019 00:20:50 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/singularity-retweet-ceo/</guid>
+      <description>I got retweeted by Singularity on Twitter</description>
+    </item>
+    
+    <item>
+      <title>Latinx Picnic 2019</title>
+      <link>https://icaoberg.github.io/posts/lacu-picnic2019/</link>
+      <pubDate>Sat, 21 Sep 2019 00:12:06 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/lacu-picnic2019/</guid>
+      <description>Today at 1:00p.m. the yearly picnic at Schenley park</description>
+    </item>
+    
+    <item>
+      <title>Morat - Acuérdate de mi</title>
+      <link>https://icaoberg.github.io/posts/tinycards-acuerdate-de-mi/</link>
+      <pubDate>Fri, 20 Sep 2019 21:57:35 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/tinycards-acuerdate-de-mi/</guid>
+      <description>The TinyCards set for this wonderful song</description>
+    </item>
+    
+    <item>
+      <title>Docker - Matlab MCR 2019b</title>
+      <link>https://icaoberg.github.io/posts/docker-matlabmcr2019b/</link>
+      <pubDate>Fri, 20 Sep 2019 21:17:12 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/docker-matlabmcr2019b/</guid>
+      <description>Docker image for Matlab MCR 2019b</description>
+    </item>
+    
+    <item>
+      <title>Puerto Rico at a Crossroad</title>
+      <link>https://icaoberg.github.io/posts/pr-at-a-crossroad/</link>
+      <pubDate>Thu, 19 Sep 2019 12:49:15 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/pr-at-a-crossroad/</guid>
+      <description>Symposium about Puerto Rico after Hurricane Maria</description>
+    </item>
+    
+    <item>
+      <title>Latinx Leaders Gathering</title>
+      <link>https://icaoberg.github.io/posts/latinx-leaders-gathering/</link>
+      <pubDate>Wed, 18 Sep 2019 23:43:09 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/latinx-leaders-gathering/</guid>
+      <description>Leaders gathering at the Center for Latin American Studies</description>
+    </item>
+    
+    <item>
+      <title>Goodies</title>
+      <link>https://icaoberg.github.io/posts/matlab-goodies/</link>
+      <pubDate>Wed, 18 Sep 2019 00:15:38 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/matlab-goodies/</guid>
+      <description>I want that hat!</description>
+    </item>
+    
+    <item>
+      <title>Woman it Woman</title>
+      <link>https://icaoberg.github.io/posts/woman-it-woman/</link>
+      <pubDate>Tue, 17 Sep 2019 18:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/woman-it-woman/</guid>
+      <description>Art exhibition at Carlow University</description>
+    </item>
+    
+    <item>
+      <title>Volunteer at SOY Pittsburgh After School!</title>
+      <link>https://icaoberg.github.io/posts/volunteer-at-soy-pittsburgh/</link>
+      <pubDate>Mon, 16 Sep 2019 23:01:17 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/volunteer-at-soy-pittsburgh/</guid>
+      <description>Volunter at SOY Pittsburgh</description>
+    </item>
+    
+    <item>
+      <title>Sebastián Yatra - Cristina</title>
+      <link>https://icaoberg.github.io/posts/tinycards-cristina/</link>
+      <pubDate>Thu, 12 Sep 2019 21:57:35 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/tinycards-cristina/</guid>
+      <description>The TinyCards set for this wonderful song</description>
+    </item>
+    
+    <item>
+      <title>DJ the Cut</title>
+      <link>https://icaoberg.github.io/posts/wrct-dj-the-cut-fall-2019-part1/</link>
+      <pubDate>Fri, 30 Aug 2019 20:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/wrct-dj-the-cut-fall-2019-part1/</guid>
+      <description>WRCT Presents: DJ the Cut</description>
+    </item>
+    
+    <item>
+      <title>DJ the Cut</title>
+      <link>https://icaoberg.github.io/posts/wrct-dj-the-cut-fall-2019-part2/</link>
+      <pubDate>Fri, 30 Aug 2019 20:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/wrct-dj-the-cut-fall-2019-part2/</guid>
+      <description>WRCT Presents: DJ the Cut</description>
+    </item>
+    
+    <item>
+      <title>TINI y Morat - Consejo de Amor</title>
+      <link>https://icaoberg.github.io/posts/spanish2-fall2019-consejo-de-amor/</link>
+      <pubDate>Wed, 07 Aug 2019 18:00:00 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/spanish2-fall2019-consejo-de-amor/</guid>
+      <description>&lt;em&gt;Consejo de Amor&lt;/em&gt; is the song we are going to be using for the exercise today</description>
+    </item>
+    
+    <item>
+      <title>Carnegie Mellon University CSD BBQ!</title>
+      <link>https://icaoberg.github.io/posts/wrct-cmu-csd-bbq-2019/</link>
+      <pubDate>Fri, 03 May 2019 20:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/wrct-cmu-csd-bbq-2019/</guid>
+      <description>WRCT Presents: CMU CSD BBQ!</description>
+    </item>
+    
+    <item>
+      <title>DJ the Cut</title>
+      <link>https://icaoberg.github.io/posts/wrct-dj-the-cut-spring-2019/</link>
+      <pubDate>Fri, 01 Mar 2019 20:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/wrct-dj-the-cut-spring-2019/</guid>
+      <description>WRCT Presents: DJ the Cut</description>
+    </item>
+    
+    <item>
+      <title>Happy Valentine&#39;s Day</title>
+      <link>https://icaoberg.github.io/posts/wrct-san-valentin-2019/</link>
+      <pubDate>Thu, 14 Feb 2019 20:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/wrct-san-valentin-2019/</guid>
+      <description>WRCT Presents: Happy Valentine&amp;rsquo;s Day</description>
+    </item>
+    
+    <item>
+      <title>¡Felices Fiestas! Especial de música de Navidad</title>
+      <link>https://icaoberg.github.io/posts/wrct-feliz-navidad-2018/</link>
+      <pubDate>Fri, 21 Dec 2018 20:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/wrct-feliz-navidad-2018/</guid>
+      <description>WRCT Presents: ¡Felices Fiestas! Especial de música de Navidad</description>
+    </item>
+    
+    <item>
+      <title>Empanada Sale</title>
+      <link>https://icaoberg.github.io/posts/cmu-2018-fall-empanada/</link>
+      <pubDate>Mon, 12 Nov 2018 11:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/cmu-2018-fall-empanada/</guid>
+      <description>Empanada Sale by SALSA</description>
+    </item>
+    
+    <item>
+      <title>Anatomy of the Ear</title>
+      <link>https://icaoberg.github.io/posts/wrct-anatomy-of-the-ear-2018/</link>
+      <pubDate>Thu, 08 Nov 2018 20:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/wrct-anatomy-of-the-ear-2018/</guid>
+      <description>WRCT Presents: Anatomy of the Ear</description>
+    </item>
+    
+    <item>
+      <title>DJ the Cut</title>
+      <link>https://icaoberg.github.io/posts/wrct-dj-the-cut-fall-2018/</link>
+      <pubDate>Fri, 14 Sep 2018 20:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/wrct-dj-the-cut-fall-2018/</guid>
+      <description>WRCT Presents: DJ the Cut</description>
+    </item>
+    
+    <item>
+      <title>DJ the Cut</title>
+      <link>https://icaoberg.github.io/posts/wrct-dj-the-cut-spring-2018/</link>
+      <pubDate>Fri, 13 Apr 2018 20:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/wrct-dj-the-cut-spring-2018/</guid>
+      <description>WRCT Presents: DJ the Cut</description>
+    </item>
+    
+    <item>
+      <title>DJ the Cut</title>
+      <link>https://icaoberg.github.io/posts/wrct-dj-the-cut-fall-2017/</link>
+      <pubDate>Fri, 20 Oct 2017 20:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/wrct-dj-the-cut-fall-2017/</guid>
+      <description>WRCT Presents: DJ the Cut</description>
+    </item>
+    
+    <item>
+      <title>Vegfest 2017</title>
+      <link>https://icaoberg.github.io/posts/vegfest2017/</link>
+      <pubDate>Wed, 05 Jul 2017 02:13:18 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/vegfest2017/</guid>
+      <description>Vegetarian festival in Pittsburgh</description>
+    </item>
+    
+    <item>
+      <title>Happy Valentine&#39;s Day</title>
+      <link>https://icaoberg.github.io/posts/wrct-san-valentin-2017/</link>
+      <pubDate>Tue, 14 Feb 2017 20:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/wrct-san-valentin-2017/</guid>
+      <description>WRCT Presents: Happy Valentine&amp;rsquo;s Day</description>
+    </item>
+    
+    <item>
+      <title>Doritos and Walter Mercado</title>
+      <link>https://icaoberg.github.io/posts/walter-mercado/</link>
+      <pubDate>Wed, 14 Dec 2016 02:09:00 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/walter-mercado/</guid>
+      <description>Best commercial ever</description>
+    </item>
+    
+    <item>
+      <title>Spanish II</title>
+      <link>https://icaoberg.github.io/posts/spanish2-2016-12-12/</link>
+      <pubDate>Mon, 12 Dec 2016 10:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/spanish2-2016-12-12/</guid>
+      <description>The class is done for the semester</description>
+    </item>
+    
+    <item>
+      <title>Using Bio-Formats command line tools to validate OME-TIFF images</title>
+      <link>https://icaoberg.github.io/posts/bioformats-cli-ome-tiff-images/</link>
+      <pubDate>Sat, 10 Dec 2016 13:46:38 -0500</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/bioformats-cli-ome-tiff-images/</guid>
+      <description>Using Bio-Formats</description>
+    </item>
+    
+    <item>
+      <title>Take her to the moon for me, okay?</title>
+      <link>https://icaoberg.github.io/posts/inside-out-take-her-to-the-moon/</link>
+      <pubDate>Fri, 19 Aug 2016 02:13:18 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/inside-out-take-her-to-the-moon/</guid>
+      <description>Inside Out</description>
+    </item>
+    
+    <item>
+      <title>Installing R v3.2.3</title>
+      <link>https://icaoberg.github.io/posts/installing-r-3.2.3/</link>
+      <pubDate>Tue, 12 Apr 2016 05:34:42 -0500</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/installing-r-3.2.3/</guid>
+      <description>Installing R v3.2.3</description>
+    </item>
+    
+    <item>
+      <title>Niños y Niñas Bilingües y Biculturales</title>
+      <link>https://icaoberg.github.io/posts/barrio-latino-ninos-ninas-bilingues-y-biculturales/</link>
+      <pubDate>Fri, 11 Mar 2016 10:48:37 -0500</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/barrio-latino-ninos-ninas-bilingues-y-biculturales/</guid>
+      <description>Lucía, Heidi, Lex, Eli y Vicente visitan Barrio Latino</description>
+    </item>
+    
+    <item>
+      <title>Making an OME.TIFF using Bioformats</title>
+      <link>https://icaoberg.github.io/posts/making-ometiff-using-demo3d01/</link>
+      <pubDate>Wed, 09 Mar 2016 13:46:38 -0500</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/making-ometiff-using-demo3d01/</guid>
+      <description>Using the synthetic image from demo3D01 to make an OME.TIFF</description>
+    </item>
+    
+    <item>
+      <title>Making an OME.TIFF using Bioformats</title>
+      <link>https://icaoberg.github.io/posts/making-ometiff-using-demo2d00/</link>
+      <pubDate>Tue, 08 Mar 2016 13:46:38 -0500</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/making-ometiff-using-demo2d00/</guid>
+      <description>Using the synthetic image from demo2D00 to make an OME.TIFF</description>
+    </item>
+    
+    <item>
+      <title>GraphViz-like tools for Matlab</title>
+      <link>https://icaoberg.github.io/posts/graphviz-for-matlab/</link>
+      <pubDate>Tue, 16 Feb 2016 05:52:23 -0500</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/graphviz-for-matlab/</guid>
+      <description>Pretty nice tools for viz</description>
+    </item>
+    
+    <item>
+      <title>Happy Valentine&#39;s Day</title>
+      <link>https://icaoberg.github.io/posts/wrct-san-valentin-2016/</link>
+      <pubDate>Sun, 14 Feb 2016 20:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/wrct-san-valentin-2016/</guid>
+      <description>WRCT Presents: Happy Valentine&amp;rsquo;s Day</description>
+    </item>
+    
+    <item>
+      <title>San Valentín 2016</title>
+      <link>https://icaoberg.github.io/posts/san-valentin-2016/</link>
+      <pubDate>Thu, 11 Feb 2016 05:29:39 -0500</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/san-valentin-2016/</guid>
+      <description>Valentine&amp;rsquo;s Day at Barrio Latino</description>
+    </item>
+    
+    <item>
+      <title>Obito Uchiha leaves...</title>
+      <link>https://icaoberg.github.io/posts/cmu-the-giving-wall/</link>
+      <pubDate>Sat, 14 Mar 2015 10:48:37 -0500</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/cmu-the-giving-wall/</guid>
+      <description>Naruto Shippuden</description>
+    </item>
+    
+    <item>
+      <title>Obito Uchiha leaves...</title>
+      <link>https://icaoberg.github.io/posts/obito-uchiha-leaves/</link>
+      <pubDate>Sat, 14 Mar 2015 10:48:37 -0500</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/obito-uchiha-leaves/</guid>
+      <description>Naruto Shippuden</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icaoberg.github.io/posts/daily-report-2020-02-04/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/daily-report-2020-02-04/</guid>
+      <description>v&amp;mdash;
+Documentation: https://sourcethemes.com/academic/docs/managing-content/ title: &amp;ldquo;Daily Report&amp;rdquo; subtitle: &amp;ldquo;TaskWarrior daily progress&amp;rdquo; summary: &amp;ldquo;TaskWarrior daily progress&amp;rdquo; authors: [&amp;ldquo;icaoberg&amp;rdquo;] tags: [] categories: [] date: 2020-02-04 lastmod: 2020-02-04 featured: true draft: false projects: [&amp;ldquo;programming&amp;rdquo;] image: caption: &amp;ldquo;Burndown chart&amp;rdquo; focal_point: &amp;ldquo;Smart&amp;rdquo; preview_only: true THIS IS AUTOMATED REPORT  Daily Burndown () 2000 | | | . . . . . . . . . . . . . . . . . . . . | .</description>
+    </item>
+    
+  </channel>
+</rss>

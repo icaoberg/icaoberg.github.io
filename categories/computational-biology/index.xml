@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computational Biology on icaoberg</title>
+    <link>https://icaoberg.github.io/categories/computational-biology/</link>
+    <description>Recent content in Computational Biology on icaoberg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 21 Sep 2019 11:19:17 -0400</lastBuildDate><atom:link href="https://icaoberg.github.io/categories/computational-biology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CBD10</title>
+      <link>https://icaoberg.github.io/post/cbd10/</link>
+      <pubDate>Sat, 21 Sep 2019 11:19:17 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/cbd10/</guid>
+      <description>We are celebrating our 10 year anniversary!</description>
+    </item>
+    
+    <item>
+      <title>CBD10</title>
+      <link>https://icaoberg.github.io/posts/cbd10/</link>
+      <pubDate>Sat, 21 Sep 2019 11:19:17 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/cbd10/</guid>
+      <description>We are celebrating our 10 year anniversary!</description>
+    </item>
+    
+  </channel>
+</rss>

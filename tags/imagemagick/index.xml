@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>imagemagick on icaoberg</title>
+    <link>https://icaoberg.github.io/tags/imagemagick/</link>
+    <description>Recent content in imagemagick on icaoberg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 07 Aug 2021 20:45:14 +0000</lastBuildDate><atom:link href="https://icaoberg.github.io/tags/imagemagick/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>More random ellipsoids</title>
+      <link>https://icaoberg.github.io/post/20210807-random-ellipsoids-2/</link>
+      <pubDate>Sat, 07 Aug 2021 20:45:14 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/20210807-random-ellipsoids-2/</guid>
+      <description>Generating random ellipsoids with ImageMagick</description>
+    </item>
+    
+    <item>
+      <title>More random ellipsoids</title>
+      <link>https://icaoberg.github.io/posts/20210807-random-ellipsoids-2/</link>
+      <pubDate>Sat, 07 Aug 2021 20:45:14 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20210807-random-ellipsoids-2/</guid>
+      <description>Generating random ellipsoids with ImageMagick</description>
+    </item>
+    
+    <item>
+      <title>Random ellipsoids</title>
+      <link>https://icaoberg.github.io/post/20210807-random-ellipsoids/</link>
+      <pubDate>Sat, 07 Aug 2021 15:07:28 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/20210807-random-ellipsoids/</guid>
+      <description>Generating random ellipsoids with ImageMagick</description>
+    </item>
+    
+    <item>
+      <title>Random ellipsoids</title>
+      <link>https://icaoberg.github.io/posts/20210807-random-ellipsoids/</link>
+      <pubDate>Sat, 07 Aug 2021 15:07:28 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20210807-random-ellipsoids/</guid>
+      <description>Generating random ellipsoids with ImageMagick</description>
+    </item>
+    
+    <item>
+      <title>Random circles</title>
+      <link>https://icaoberg.github.io/post/20210806-random-circles/</link>
+      <pubDate>Fri, 06 Aug 2021 21:34:41 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/20210806-random-circles/</guid>
+      <description>Generating random circles with ImageMagick</description>
+    </item>
+    
+    <item>
+      <title>Random circles</title>
+      <link>https://icaoberg.github.io/posts/20210806-random-circles/</link>
+      <pubDate>Fri, 06 Aug 2021 21:34:41 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20210806-random-circles/</guid>
+      <description>Generating random circles with ImageMagick</description>
+    </item>
+    
+  </channel>
+</rss>

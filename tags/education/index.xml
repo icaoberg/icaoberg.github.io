@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>education on icaoberg</title>
+    <link>https://icaoberg.github.io/tags/education/</link>
+    <description>Recent content in education on icaoberg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Oct 2019 15:57:35 -0400</lastBuildDate><atom:link href="https://icaoberg.github.io/tags/education/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Programming for Lovers</title>
+      <link>https://icaoberg.github.io/post/programming-for-lovers/</link>
+      <pubDate>Mon, 14 Oct 2019 15:57:35 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/programming-for-lovers/</guid>
+      <description>Tonight at 8:00p.m. is the first lecture of Programming for Lovers.</description>
+    </item>
+    
+    <item>
+      <title>Programming for Lovers</title>
+      <link>https://icaoberg.github.io/posts/programming-for-lovers/</link>
+      <pubDate>Mon, 14 Oct 2019 15:57:35 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/programming-for-lovers/</guid>
+      <description>Tonight at 8:00p.m. is the first lecture of Programming for Lovers.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tacos on icaoberg</title>
+    <link>https://icaoberg.github.io/tags/tacos/</link>
+    <description>Recent content in tacos on icaoberg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 29 Sep 2019 02:28:59 -0400</lastBuildDate><atom:link href="https://icaoberg.github.io/tags/tacos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TacoMania 2019</title>
+      <link>https://icaoberg.github.io/post/tacomania2019/</link>
+      <pubDate>Sun, 29 Sep 2019 02:28:59 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/tacomania2019/</guid>
+      <description>There is yet another awesome taco festival in the &amp;lsquo;burgh</description>
+    </item>
+    
+    <item>
+      <title>TacoMania 2019</title>
+      <link>https://icaoberg.github.io/posts/tacomania2019/</link>
+      <pubDate>Sun, 29 Sep 2019 02:28:59 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/tacomania2019/</guid>
+      <description>There is yet another awesome taco festival in the &amp;lsquo;burgh</description>
+    </item>
+    
+  </channel>
+</rss>

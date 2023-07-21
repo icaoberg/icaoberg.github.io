@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fortran on icaoberg</title>
+    <link>https://icaoberg.github.io/tags/fortran/</link>
+    <description>Recent content in fortran on icaoberg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 Mar 2021 22:39:22 +0000</lastBuildDate><atom:link href="https://icaoberg.github.io/tags/fortran/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GeNT</title>
+      <link>https://icaoberg.github.io/post/20210327-fortran/</link>
+      <pubDate>Sat, 27 Mar 2021 22:39:22 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/20210327-fortran/</guid>
+      <description>Singularity container for GeNT</description>
+    </item>
+    
+    <item>
+      <title>GeNT</title>
+      <link>https://icaoberg.github.io/posts/20210327-fortran/</link>
+      <pubDate>Sat, 27 Mar 2021 22:39:22 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20210327-fortran/</guid>
+      <description>Singularity container for GeNT</description>
+    </item>
+    
+  </channel>
+</rss>

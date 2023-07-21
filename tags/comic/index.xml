@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>comic on icaoberg</title>
+    <link>https://icaoberg.github.io/tags/comic/</link>
+    <description>Recent content in comic on icaoberg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 Mar 2021 16:48:59 +0000</lastBuildDate><atom:link href="https://icaoberg.github.io/tags/comic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coffee, tea and cocoa</title>
+      <link>https://icaoberg.github.io/post/20210324-tea/</link>
+      <pubDate>Wed, 24 Mar 2021 16:48:59 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/20210324-tea/</guid>
+      <description>I am a cocoa person</description>
+    </item>
+    
+    <item>
+      <title>Coffee, tea and cocoa</title>
+      <link>https://icaoberg.github.io/posts/20210324-tea/</link>
+      <pubDate>Wed, 24 Mar 2021 16:48:59 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20210324-tea/</guid>
+      <description>I am a cocoa person</description>
+    </item>
+    
+  </channel>
+</rss>

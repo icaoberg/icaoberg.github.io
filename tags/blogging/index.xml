@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blogging on icaoberg</title>
+    <link>https://icaoberg.github.io/tags/blogging/</link>
+    <description>Recent content in blogging on icaoberg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Dec 2021 14:57:03 +0000</lastBuildDate><atom:link href="https://icaoberg.github.io/tags/blogging/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I want to eat your Pancreas</title>
+      <link>https://icaoberg.github.io/post/20211220-i-want-to-eat-your-pancreas/</link>
+      <pubDate>Mon, 20 Dec 2021 14:57:03 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/20211220-i-want-to-eat-your-pancreas/</guid>
+      <description>Took a long lunch and watched a movie</description>
+    </item>
+    
+    <item>
+      <title>I want to eat your Pancreas</title>
+      <link>https://icaoberg.github.io/posts/20211220-i-want-to-eat-your-pancreas/</link>
+      <pubDate>Mon, 20 Dec 2021 14:57:03 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20211220-i-want-to-eat-your-pancreas/</guid>
+      <description>Took a long lunch and watched a movie</description>
+    </item>
+    
+    <item>
+      <title>Donut</title>
+      <link>https://icaoberg.github.io/post/20211214-donut/</link>
+      <pubDate>Tue, 14 Dec 2021 22:20:15 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/20211214-donut/</guid>
+      <description>I made a donut</description>
+    </item>
+    
+    <item>
+      <title>Donut</title>
+      <link>https://icaoberg.github.io/posts/20211214-donut/</link>
+      <pubDate>Tue, 14 Dec 2021 22:20:15 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20211214-donut/</guid>
+      <description>I made a donut</description>
+    </item>
+    
+    <item>
+      <title>taskwarrior</title>
+      <link>https://icaoberg.github.io/post/20211129-taskwarrior/</link>
+      <pubDate>Mon, 29 Nov 2021 01:55:24 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/20211129-taskwarrior/</guid>
+      <description>Made a bash script to help me out daily</description>
+    </item>
+    
+    <item>
+      <title>taskwarrior</title>
+      <link>https://icaoberg.github.io/posts/20211129-taskwarrior/</link>
+      <pubDate>Mon, 29 Nov 2021 01:55:24 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20211129-taskwarrior/</guid>
+      <description>Made a bash script to help me out daily</description>
+    </item>
+    
+    <item>
+      <title>Cashew Tofu Lettuce Wraps</title>
+      <link>https://icaoberg.github.io/post/20211122/</link>
+      <pubDate>Mon, 22 Nov 2021 00:14:23 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/20211122/</guid>
+      <description>VeganBowls recipe</description>
+    </item>
+    
+    <item>
+      <title>Cashew Tofu Lettuce Wraps</title>
+      <link>https://icaoberg.github.io/posts/20211122/</link>
+      <pubDate>Mon, 22 Nov 2021 00:14:23 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20211122/</guid>
+      <description>VeganBowls recipe</description>
+    </item>
+    
+    <item>
+      <title>Vegan bolognese</title>
+      <link>https://icaoberg.github.io/post/20211120/</link>
+      <pubDate>Sat, 20 Nov 2021 00:49:33 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/20211120/</guid>
+      <description>Vegetarian/vegan recipe</description>
+    </item>
+    
+    <item>
+      <title>Vegan bolognese</title>
+      <link>https://icaoberg.github.io/posts/20211120/</link>
+      <pubDate>Sat, 20 Nov 2021 00:49:33 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20211120/</guid>
+      <description>Vegetarian/vegan recipe</description>
+    </item>
+    
+    <item>
+      <title>Paloma</title>
+      <link>https://icaoberg.github.io/post/20211029-calamaro-paloma/</link>
+      <pubDate>Fri, 29 Oct 2021 22:06:30 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/20211029-calamaro-paloma/</guid>
+      <description>Andrés Calamaro singing Paloma</description>
+    </item>
+    
+    <item>
+      <title>Paloma</title>
+      <link>https://icaoberg.github.io/posts/20211029-calamaro-paloma/</link>
+      <pubDate>Fri, 29 Oct 2021 22:06:30 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20211029-calamaro-paloma/</guid>
+      <description>Andrés Calamaro singing Paloma</description>
+    </item>
+    
+    <item>
+      <title>Building Singularity containers with Docker</title>
+      <link>https://icaoberg.github.io/post/20210902-building-singularity-containers/</link>
+      <pubDate>Thu, 02 Sep 2021 13:09:56 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/20210902-building-singularity-containers/</guid>
+      <description>Using Docker and Singularity</description>
+    </item>
+    
+    <item>
+      <title>Building Singularity containers with Docker</title>
+      <link>https://icaoberg.github.io/posts/20210902-building-singularity-containers/</link>
+      <pubDate>Thu, 02 Sep 2021 13:09:56 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20210902-building-singularity-containers/</guid>
+      <description>Using Docker and Singularity</description>
+    </item>
+    
+    <item>
+      <title>pretty.yml</title>
+      <link>https://icaoberg.github.io/post/20210828-pretty-yml/</link>
+      <pubDate>Sat, 28 Aug 2021 23:01:23 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/20210828-pretty-yml/</guid>
+      <description>Prettyfy workflow for most of my repos</description>
+    </item>
+    
+    <item>
+      <title>pretty.yml</title>
+      <link>https://icaoberg.github.io/posts/20210828-pretty-yml/</link>
+      <pubDate>Sat, 28 Aug 2021 23:01:23 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20210828-pretty-yml/</guid>
+      <description>Prettyfy workflow for most of my repos</description>
+    </item>
+    
+    <item>
+      <title>List of Singularity Containers</title>
+      <link>https://icaoberg.github.io/post/20210825-singularity-containers/</link>
+      <pubDate>Wed, 25 Aug 2021 22:05:41 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/20210825-singularity-containers/</guid>
+      <description>The end of the summer internship</description>
+    </item>
+    
+    <item>
+      <title>List of Singularity Containers</title>
+      <link>https://icaoberg.github.io/posts/20210825-singularity-containers/</link>
+      <pubDate>Wed, 25 Aug 2021 22:05:41 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20210825-singularity-containers/</guid>
+      <description>The end of the summer internship</description>
+    </item>
+    
+    <item>
+      <title>More random ellipsoids</title>
+      <link>https://icaoberg.github.io/post/20210807-random-ellipsoids-2/</link>
+      <pubDate>Sat, 07 Aug 2021 20:45:14 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/20210807-random-ellipsoids-2/</guid>
+      <description>Generating random ellipsoids with ImageMagick</description>
+    </item>
+    
+    <item>
+      <title>More random ellipsoids</title>
+      <link>https://icaoberg.github.io/posts/20210807-random-ellipsoids-2/</link>
+      <pubDate>Sat, 07 Aug 2021 20:45:14 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20210807-random-ellipsoids-2/</guid>
+      <description>Generating random ellipsoids with ImageMagick</description>
+    </item>
+    
+    <item>
+      <title>Random ellipsoids</title>
+      <link>https://icaoberg.github.io/post/20210807-random-ellipsoids/</link>
+      <pubDate>Sat, 07 Aug 2021 15:07:28 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/20210807-random-ellipsoids/</guid>
+      <description>Generating random ellipsoids with ImageMagick</description>
+    </item>
+    
+    <item>
+      <title>Random ellipsoids</title>
+      <link>https://icaoberg.github.io/posts/20210807-random-ellipsoids/</link>
+      <pubDate>Sat, 07 Aug 2021 15:07:28 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20210807-random-ellipsoids/</guid>
+      <description>Generating random ellipsoids with ImageMagick</description>
+    </item>
+    
+    <item>
+      <title>Random circles</title>
+      <link>https://icaoberg.github.io/post/20210806-random-circles/</link>
+      <pubDate>Fri, 06 Aug 2021 21:34:41 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/20210806-random-circles/</guid>
+      <description>Generating random circles with ImageMagick</description>
+    </item>
+    
+    <item>
+      <title>Random circles</title>
+      <link>https://icaoberg.github.io/posts/20210806-random-circles/</link>
+      <pubDate>Fri, 06 Aug 2021 21:34:41 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20210806-random-circles/</guid>
+      <description>Generating random circles with ImageMagick</description>
+    </item>
+    
+    <item>
+      <title>Argentina Campeón</title>
+      <link>https://icaoberg.github.io/post/20210710-alegria/</link>
+      <pubDate>Sat, 10 Jul 2021 23:49:51 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/20210710-alegria/</guid>
+      <description>La alegría no es solo brasilera (no, mi amor)…</description>
+    </item>
+    
+    <item>
+      <title>Argentina Campeón</title>
+      <link>https://icaoberg.github.io/posts/20210710-alegria/</link>
+      <pubDate>Sat, 10 Jul 2021 23:49:51 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20210710-alegria/</guid>
+      <description>La alegría no es solo brasilera (no, mi amor)…</description>
+    </item>
+    
+    <item>
+      <title>Argentina vs Brazil</title>
+      <link>https://icaoberg.github.io/post/20210710-maracanazo/</link>
+      <pubDate>Sat, 10 Jul 2021 23:28:35 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/20210710-maracanazo/</guid>
+      <description>La alegría no es solo brasilera (no, mi amor)…</description>
+    </item>
+    
+    <item>
+      <title>Argentina vs Brazil</title>
+      <link>https://icaoberg.github.io/posts/20210710-maracanazo/</link>
+      <pubDate>Sat, 10 Jul 2021 23:28:35 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20210710-maracanazo/</guid>
+      <description>La alegría no es solo brasilera (no, mi amor)…</description>
+    </item>
+    
+    <item>
+      <title>Solo se Trata de Vivir</title>
+      <link>https://icaoberg.github.io/post/20210415-solo_se_trata_de_vivir/</link>
+      <pubDate>Thu, 15 Apr 2021 00:36:51 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/20210415-solo_se_trata_de_vivir/</guid>
+      <description>Solo se Trata de Vivir interpreted by Mercedes Sosa</description>
+    </item>
+    
+    <item>
+      <title>Solo se Trata de Vivir</title>
+      <link>https://icaoberg.github.io/posts/20210415-solo_se_trata_de_vivir/</link>
+      <pubDate>Thu, 15 Apr 2021 00:36:51 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20210415-solo_se_trata_de_vivir/</guid>
+      <description>Solo se Trata de Vivir interpreted by Mercedes Sosa</description>
+    </item>
+    
+    <item>
+      <title>Mushroom seasoning</title>
+      <link>https://icaoberg.github.io/post/20210307-mushroom-seasoning/</link>
+      <pubDate>Sun, 07 Mar 2021 23:27:42 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/20210307-mushroom-seasoning/</guid>
+      <description>I am trying to figure out which brand to buy</description>
+    </item>
+    
+    <item>
+      <title>Mushroom seasoning</title>
+      <link>https://icaoberg.github.io/posts/20210307-mushroom-seasoning/</link>
+      <pubDate>Sun, 07 Mar 2021 23:27:42 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20210307-mushroom-seasoning/</guid>
+      <description>I am trying to figure out which brand to buy</description>
+    </item>
+    
+    <item>
+      <title>Making fake bacon</title>
+      <link>https://icaoberg.github.io/post/20210307-fake-bacon/</link>
+      <pubDate>Sun, 07 Mar 2021 23:09:10 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/20210307-fake-bacon/</guid>
+      <description>Want to try this recipe</description>
+    </item>
+    
+    <item>
+      <title>Making fake bacon</title>
+      <link>https://icaoberg.github.io/posts/20210307-fake-bacon/</link>
+      <pubDate>Sun, 07 Mar 2021 23:09:10 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20210307-fake-bacon/</guid>
+      <description>Want to try this recipe</description>
+    </item>
+    
+    <item>
+      <title>Adventures in knitting</title>
+      <link>https://icaoberg.github.io/post/20210301-shawl/</link>
+      <pubDate>Mon, 01 Mar 2021 23:23:28 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/20210301-shawl/</guid>
+      <description>&amp;hellip;and I hope she likes it</description>
+    </item>
+    
+    <item>
+      <title>Adventures in knitting</title>
+      <link>https://icaoberg.github.io/posts/20210301-shawl/</link>
+      <pubDate>Mon, 01 Mar 2021 23:23:28 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20210301-shawl/</guid>
+      <description>&amp;hellip;and I hope she likes it</description>
+    </item>
+    
+    <item>
+      <title>Adventures in knitting</title>
+      <link>https://icaoberg.github.io/post/20210301/</link>
+      <pubDate>Mon, 01 Mar 2021 21:23:01 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/20210301/</guid>
+      <description>Had a failure (or did I?) and a success</description>
+    </item>
+    
+    <item>
+      <title>Adventures in knitting</title>
+      <link>https://icaoberg.github.io/posts/20210301/</link>
+      <pubDate>Mon, 01 Mar 2021 21:23:01 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20210301/</guid>
+      <description>Had a failure (or did I?) and a success</description>
+    </item>
+    
+    <item>
+      <title>Vegan manicotti recipe</title>
+      <link>https://icaoberg.github.io/post/20210104-little-victories/</link>
+      <pubDate>Mon, 04 Jan 2021 00:44:50 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/20210104-little-victories/</guid>
+      <description>It is all about the little victories</description>
+    </item>
+    
+    <item>
+      <title>Vegan manicotti recipe</title>
+      <link>https://icaoberg.github.io/posts/20210104-little-victories/</link>
+      <pubDate>Mon, 04 Jan 2021 00:44:50 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20210104-little-victories/</guid>
+      <description>It is all about the little victories</description>
+    </item>
+    
+    <item>
+      <title>Vegan-friendly dough for Pascualina</title>
+      <link>https://icaoberg.github.io/post/20210102-vegan-dough/</link>
+      <pubDate>Sat, 02 Jan 2021 22:02:56 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/20210102-vegan-dough/</guid>
+      <description>The vegan-friendly dough was a total failure</description>
+    </item>
+    
+    <item>
+      <title>Vegan-friendly dough for Pascualina</title>
+      <link>https://icaoberg.github.io/posts/20210102-vegan-dough/</link>
+      <pubDate>Sat, 02 Jan 2021 22:02:56 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20210102-vegan-dough/</guid>
+      <description>The vegan-friendly dough was a total failure</description>
+    </item>
+    
+    <item>
+      <title>Veganizing pascualina</title>
+      <link>https://icaoberg.github.io/post/20210102-ricotta/</link>
+      <pubDate>Sat, 02 Jan 2021 11:59:10 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/20210102-ricotta/</guid>
+      <description>Just part of my journey to veganize pascualina</description>
+    </item>
+    
+    <item>
+      <title>Veganizing pascualina</title>
+      <link>https://icaoberg.github.io/posts/20210102-ricotta/</link>
+      <pubDate>Sat, 02 Jan 2021 11:59:10 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20210102-ricotta/</guid>
+      <description>Just part of my journey to veganize pascualina</description>
+    </item>
+    
+    <item>
+      <title>Life changing command</title>
+      <link>https://icaoberg.github.io/post/20210102-terminal/</link>
+      <pubDate>Sat, 02 Jan 2021 11:22:18 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/20210102-terminal/</guid>
+      <description>Asked myself a dumb question and found an answer</description>
+    </item>
+    
+    <item>
+      <title>Life changing command</title>
+      <link>https://icaoberg.github.io/posts/20210102-terminal/</link>
+      <pubDate>Sat, 02 Jan 2021 11:22:18 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20210102-terminal/</guid>
+      <description>Asked myself a dumb question and found an answer</description>
+    </item>
+    
+    <item>
+      <title>Vegan cheese</title>
+      <link>https://icaoberg.github.io/post/20210102-vegan-cheese/</link>
+      <pubDate>Sat, 02 Jan 2021 06:31:54 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/20210102-vegan-cheese/</guid>
+      <description>I will be making vegan cheese at home</description>
+    </item>
+    
+    <item>
+      <title>Vegan cheese</title>
+      <link>https://icaoberg.github.io/posts/20210102-vegan-cheese/</link>
+      <pubDate>Sat, 02 Jan 2021 06:31:54 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20210102-vegan-cheese/</guid>
+      <description>I will be making vegan cheese at home</description>
+    </item>
+    
+    <item>
+      <title>¡Feliz Año Nuevo! Happy New Year!</title>
+      <link>https://icaoberg.github.io/post/20210101/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:01 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/20210101/</guid>
+      <description>¡Feliz Año Nuevo! Happy New Year!</description>
+    </item>
+    
+    <item>
+      <title>¡Feliz Año Nuevo! Happy New Year!</title>
+      <link>https://icaoberg.github.io/posts/20210101/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:01 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20210101/</guid>
+      <description>¡Feliz Año Nuevo! Happy New Year!</description>
+    </item>
+    
+    <item>
+      <title>Setting a Plex media server at home</title>
+      <link>https://icaoberg.github.io/post/20201231-plex-media-server/</link>
+      <pubDate>Thu, 31 Dec 2020 15:22:38 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/20201231-plex-media-server/</guid>
+      <description>Setting a Plex media server at home</description>
+    </item>
+    
+    <item>
+      <title>Setting a Plex media server at home</title>
+      <link>https://icaoberg.github.io/posts/20201231-plex-media-server/</link>
+      <pubDate>Thu, 31 Dec 2020 15:22:38 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20201231-plex-media-server/</guid>
+      <description>Setting a Plex media server at home</description>
+    </item>
+    
+    <item>
+      <title>Updating Singularity recipes</title>
+      <link>https://icaoberg.github.io/post/20201228/</link>
+      <pubDate>Mon, 28 Dec 2020 23:14:13 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/20201228/</guid>
+      <description>I am uploading my recipes, scripts and images to GitHub</description>
+    </item>
+    
+    <item>
+      <title>Updating Singularity recipes</title>
+      <link>https://icaoberg.github.io/posts/20201228/</link>
+      <pubDate>Mon, 28 Dec 2020 23:14:13 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20201228/</guid>
+      <description>I am uploading my recipes, scripts and images to GitHub</description>
+    </item>
+    
+    <item>
+      <title>Foobar</title>
+      <link>https://icaoberg.github.io/post/20201222/</link>
+      <pubDate>Tue, 22 Dec 2020 01:01:45 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/20201222/</guid>
+      <description>New year, new projects</description>
+    </item>
+    
+    <item>
+      <title>Foobar</title>
+      <link>https://icaoberg.github.io/posts/20201222/</link>
+      <pubDate>Tue, 22 Dec 2020 01:01:45 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20201222/</guid>
+      <description>New year, new projects</description>
+    </item>
+    
+    <item>
+      <title>HuBMAP Updates</title>
+      <link>https://icaoberg.github.io/post/20200725/</link>
+      <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/20200725/</guid>
+      <description>Working hard</description>
+    </item>
+    
+    <item>
+      <title>HuBMAP Updates</title>
+      <link>https://icaoberg.github.io/posts/20200725/</link>
+      <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20200725/</guid>
+      <description>Working hard</description>
+    </item>
+    
+    <item>
+      <title>El tiempo para construir puentes</title>
+      <link>https://icaoberg.github.io/post/20200705/</link>
+      <pubDate>Sun, 05 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/20200705/</guid>
+      <description>El tiempo para construir puentes</description>
+    </item>
+    
+    <item>
+      <title>El tiempo para construir puentes</title>
+      <link>https://icaoberg.github.io/posts/20200705/</link>
+      <pubDate>Sun, 05 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20200705/</guid>
+      <description>El tiempo para construir puentes</description>
+    </item>
+    
+    <item>
+      <title>Hello, Pittsburgh Supercomputing Center!</title>
+      <link>https://icaoberg.github.io/post/20200615/</link>
+      <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/20200615/</guid>
+      <description>Hello, Pittsburgh Supercomputing Center!</description>
+    </item>
+    
+    <item>
+      <title>Hello, Pittsburgh Supercomputing Center!</title>
+      <link>https://icaoberg.github.io/posts/20200615/</link>
+      <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20200615/</guid>
+      <description>Hello, Pittsburgh Supercomputing Center!</description>
+    </item>
+    
+    <item>
+      <title>Good bye, Computational Biology!</title>
+      <link>https://icaoberg.github.io/post/20200529/</link>
+      <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/20200529/</guid>
+      <description>My last day at the Computational Biology Department</description>
+    </item>
+    
+    <item>
+      <title>Good bye, Computational Biology!</title>
+      <link>https://icaoberg.github.io/posts/20200529/</link>
+      <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20200529/</guid>
+      <description>My last day at the Computational Biology Department</description>
+    </item>
+    
+    <item>
+      <title>Another day, another challenge</title>
+      <link>https://icaoberg.github.io/post/20200409/</link>
+      <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/20200409/</guid>
+      <description>Another day, another challenge</description>
+    </item>
+    
+    <item>
+      <title>Another day, another challenge</title>
+      <link>https://icaoberg.github.io/posts/20200409/</link>
+      <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20200409/</guid>
+      <description>Another day, another challenge</description>
+    </item>
+    
+  </channel>
+</rss>

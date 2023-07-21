@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>programming on icaoberg</title>
+    <link>https://icaoberg.github.io/categories/programming/</link>
+    <description>Recent content in programming on icaoberg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Nov 2021 01:55:24 +0000</lastBuildDate><atom:link href="https://icaoberg.github.io/categories/programming/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>taskwarrior</title>
+      <link>https://icaoberg.github.io/post/20211129-taskwarrior/</link>
+      <pubDate>Mon, 29 Nov 2021 01:55:24 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/20211129-taskwarrior/</guid>
+      <description>Made a bash script to help me out daily</description>
+    </item>
+    
+    <item>
+      <title>taskwarrior</title>
+      <link>https://icaoberg.github.io/posts/20211129-taskwarrior/</link>
+      <pubDate>Mon, 29 Nov 2021 01:55:24 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20211129-taskwarrior/</guid>
+      <description>Made a bash script to help me out daily</description>
+    </item>
+    
+    <item>
+      <title>Building Singularity containers with Docker</title>
+      <link>https://icaoberg.github.io/post/20210902-building-singularity-containers/</link>
+      <pubDate>Thu, 02 Sep 2021 13:09:56 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/20210902-building-singularity-containers/</guid>
+      <description>Using Docker and Singularity</description>
+    </item>
+    
+    <item>
+      <title>Building Singularity containers with Docker</title>
+      <link>https://icaoberg.github.io/posts/20210902-building-singularity-containers/</link>
+      <pubDate>Thu, 02 Sep 2021 13:09:56 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20210902-building-singularity-containers/</guid>
+      <description>Using Docker and Singularity</description>
+    </item>
+    
+    <item>
+      <title>pretty.yml</title>
+      <link>https://icaoberg.github.io/post/20210828-pretty-yml/</link>
+      <pubDate>Sat, 28 Aug 2021 23:01:23 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/20210828-pretty-yml/</guid>
+      <description>Prettyfy workflow for most of my repos</description>
+    </item>
+    
+    <item>
+      <title>pretty.yml</title>
+      <link>https://icaoberg.github.io/posts/20210828-pretty-yml/</link>
+      <pubDate>Sat, 28 Aug 2021 23:01:23 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20210828-pretty-yml/</guid>
+      <description>Prettyfy workflow for most of my repos</description>
+    </item>
+    
+    <item>
+      <title>More random ellipsoids</title>
+      <link>https://icaoberg.github.io/post/20210807-random-ellipsoids-2/</link>
+      <pubDate>Sat, 07 Aug 2021 20:45:14 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/20210807-random-ellipsoids-2/</guid>
+      <description>Generating random ellipsoids with ImageMagick</description>
+    </item>
+    
+    <item>
+      <title>More random ellipsoids</title>
+      <link>https://icaoberg.github.io/posts/20210807-random-ellipsoids-2/</link>
+      <pubDate>Sat, 07 Aug 2021 20:45:14 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20210807-random-ellipsoids-2/</guid>
+      <description>Generating random ellipsoids with ImageMagick</description>
+    </item>
+    
+    <item>
+      <title>Random ellipsoids</title>
+      <link>https://icaoberg.github.io/post/20210807-random-ellipsoids/</link>
+      <pubDate>Sat, 07 Aug 2021 15:07:28 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/20210807-random-ellipsoids/</guid>
+      <description>Generating random ellipsoids with ImageMagick</description>
+    </item>
+    
+    <item>
+      <title>Random ellipsoids</title>
+      <link>https://icaoberg.github.io/posts/20210807-random-ellipsoids/</link>
+      <pubDate>Sat, 07 Aug 2021 15:07:28 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20210807-random-ellipsoids/</guid>
+      <description>Generating random ellipsoids with ImageMagick</description>
+    </item>
+    
+    <item>
+      <title>Random circles</title>
+      <link>https://icaoberg.github.io/post/20210806-random-circles/</link>
+      <pubDate>Fri, 06 Aug 2021 21:34:41 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/20210806-random-circles/</guid>
+      <description>Generating random circles with ImageMagick</description>
+    </item>
+    
+    <item>
+      <title>Random circles</title>
+      <link>https://icaoberg.github.io/posts/20210806-random-circles/</link>
+      <pubDate>Fri, 06 Aug 2021 21:34:41 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20210806-random-circles/</guid>
+      <description>Generating random circles with ImageMagick</description>
+    </item>
+    
+    <item>
+      <title>GeNT</title>
+      <link>https://icaoberg.github.io/post/20210327-fortran/</link>
+      <pubDate>Sat, 27 Mar 2021 22:39:22 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/20210327-fortran/</guid>
+      <description>Singularity container for GeNT</description>
+    </item>
+    
+    <item>
+      <title>GeNT</title>
+      <link>https://icaoberg.github.io/posts/20210327-fortran/</link>
+      <pubDate>Sat, 27 Mar 2021 22:39:22 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20210327-fortran/</guid>
+      <description>Singularity container for GeNT</description>
+    </item>
+    
+    <item>
+      <title>Updating Singularity recipes</title>
+      <link>https://icaoberg.github.io/post/20201228/</link>
+      <pubDate>Mon, 28 Dec 2020 23:14:13 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/20201228/</guid>
+      <description>I am uploading my recipes, scripts and images to GitHub</description>
+    </item>
+    
+    <item>
+      <title>Updating Singularity recipes</title>
+      <link>https://icaoberg.github.io/posts/20201228/</link>
+      <pubDate>Mon, 28 Dec 2020 23:14:13 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20201228/</guid>
+      <description>I am uploading my recipes, scripts and images to GitHub</description>
+    </item>
+    
+    <item>
+      <title>GNU GCC</title>
+      <link>https://icaoberg.github.io/post/singularity-gcc/</link>
+      <pubDate>Fri, 03 Apr 2020 22:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/singularity-gcc/</guid>
+      <description>Singularity recipe and image for GNU GCC</description>
+    </item>
+    
+    <item>
+      <title>GNU GCC</title>
+      <link>https://icaoberg.github.io/posts/singularity-gcc/</link>
+      <pubDate>Fri, 03 Apr 2020 22:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/singularity-gcc/</guid>
+      <description>Singularity recipe and image for GNU GCC</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Statistical Methods with MATLAB</title>
+      <link>https://icaoberg.github.io/post/matlab-stats/</link>
+      <pubDate>Tue, 17 Mar 2020 22:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/matlab-stats/</guid>
+      <description>Mathworks Matlab Certification</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Statistical Methods with MATLAB</title>
+      <link>https://icaoberg.github.io/posts/matlab-stats/</link>
+      <pubDate>Tue, 17 Mar 2020 22:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/matlab-stats/</guid>
+      <description>Mathworks Matlab Certification</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Linear Algebra with MATLAB</title>
+      <link>https://icaoberg.github.io/post/matlab-linearalgebra/</link>
+      <pubDate>Mon, 09 Mar 2020 17:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/matlab-linearalgebra/</guid>
+      <description>Mathworks Matlab Certification</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Linear Algebra with MATLAB</title>
+      <link>https://icaoberg.github.io/posts/matlab-linearalgebra/</link>
+      <pubDate>Mon, 09 Mar 2020 17:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/matlab-linearalgebra/</guid>
+      <description>Mathworks Matlab Certification</description>
+    </item>
+    
+    <item>
+      <title>Solving Ordinary Differential Equations with MATLAB</title>
+      <link>https://icaoberg.github.io/post/matlab-ode/</link>
+      <pubDate>Mon, 09 Mar 2020 10:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/matlab-ode/</guid>
+      <description>Mathworks Matlab Certification</description>
+    </item>
+    
+    <item>
+      <title>Solving Ordinary Differential Equations with MATLAB</title>
+      <link>https://icaoberg.github.io/posts/matlab-ode/</link>
+      <pubDate>Mon, 09 Mar 2020 10:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/matlab-ode/</guid>
+      <description>Mathworks Matlab Certification</description>
+    </item>
+    
+    <item>
+      <title>cowsay</title>
+      <link>https://icaoberg.github.io/post/singularity-cowsay/</link>
+      <pubDate>Wed, 26 Feb 2020 10:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/singularity-cowsay/</guid>
+      <description>Singularity recipe and image for browsh</description>
+    </item>
+    
+    <item>
+      <title>cowsay</title>
+      <link>https://icaoberg.github.io/posts/singularity-cowsay/</link>
+      <pubDate>Wed, 26 Feb 2020 10:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/singularity-cowsay/</guid>
+      <description>Singularity recipe and image for browsh</description>
+    </item>
+    
+    <item>
+      <title>bedtools</title>
+      <link>https://icaoberg.github.io/post/singularity-bedtools-update/</link>
+      <pubDate>Mon, 03 Feb 2020 18:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/singularity-bedtools-update/</guid>
+      <description>Singularity recipe and image for bedtools</description>
+    </item>
+    
+    <item>
+      <title>bedtools</title>
+      <link>https://icaoberg.github.io/posts/singularity-bedtools-update/</link>
+      <pubDate>Mon, 03 Feb 2020 18:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/singularity-bedtools-update/</guid>
+      <description>Singularity recipe and image for bedtools</description>
+    </item>
+    
+    <item>
+      <title>bedtools</title>
+      <link>https://icaoberg.github.io/post/singularity-bedtools/</link>
+      <pubDate>Sun, 26 Jan 2020 18:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/singularity-bedtools/</guid>
+      <description>Singularity recipe and image for bedtools</description>
+    </item>
+    
+    <item>
+      <title>bedtools</title>
+      <link>https://icaoberg.github.io/posts/singularity-bedtools/</link>
+      <pubDate>Sun, 26 Jan 2020 18:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/singularity-bedtools/</guid>
+      <description>Singularity recipe and image for bedtools</description>
+    </item>
+    
+    <item>
+      <title>gifgen</title>
+      <link>https://icaoberg.github.io/post/singularity-gifgen/</link>
+      <pubDate>Tue, 14 Jan 2020 08:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/singularity-gifgen/</guid>
+      <description>Singularity recipe and image for gifgen</description>
+    </item>
+    
+    <item>
+      <title>gifgen</title>
+      <link>https://icaoberg.github.io/posts/singularity-gifgen/</link>
+      <pubDate>Tue, 14 Jan 2020 08:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/singularity-gifgen/</guid>
+      <description>Singularity recipe and image for gifgen</description>
+    </item>
+    
+    <item>
+      <title>Singularity and Travis config</title>
+      <link>https://icaoberg.github.io/post/singularity-travis-config/</link>
+      <pubDate>Tue, 07 Jan 2020 16:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/singularity-travis-config/</guid>
+      <description>Updating my Travis config files</description>
+    </item>
+    
+    <item>
+      <title>Singularity and Travis config</title>
+      <link>https://icaoberg.github.io/posts/singularity-travis-config/</link>
+      <pubDate>Tue, 07 Jan 2020 16:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/singularity-travis-config/</guid>
+      <description>Updating my Travis config files</description>
+    </item>
+    
+    <item>
+      <title>gotop</title>
+      <link>https://icaoberg.github.io/post/singularity-gotop/</link>
+      <pubDate>Tue, 07 Jan 2020 08:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/singularity-gotop/</guid>
+      <description>Singularity recipe and image for gotop</description>
+    </item>
+    
+    <item>
+      <title>gotop</title>
+      <link>https://icaoberg.github.io/posts/singularity-gotop/</link>
+      <pubDate>Tue, 07 Jan 2020 08:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/singularity-gotop/</guid>
+      <description>Singularity recipe and image for gotop</description>
+    </item>
+    
+    <item>
+      <title>Singularity Desktop MacOSX (Beta Release)</title>
+      <link>https://icaoberg.github.io/post/singularity-macosx-journey-1/</link>
+      <pubDate>Tue, 07 Jan 2020 08:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/singularity-macosx-journey-1/</guid>
+      <description>My first journey with the Singularity Desktop for MacOSX</description>
+    </item>
+    
+    <item>
+      <title>Singularity Desktop MacOSX (Beta Release)</title>
+      <link>https://icaoberg.github.io/posts/singularity-macosx-journey-1/</link>
+      <pubDate>Tue, 07 Jan 2020 08:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/singularity-macosx-journey-1/</guid>
+      <description>My first journey with the Singularity Desktop for MacOSX</description>
+    </item>
+    
+    <item>
+      <title>Matlab Onramp</title>
+      <link>https://icaoberg.github.io/post/matlab-onramp/</link>
+      <pubDate>Sat, 09 Nov 2019 01:48:55 -0500</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/matlab-onramp/</guid>
+      <description>Mathworks Matlab Certification</description>
+    </item>
+    
+    <item>
+      <title>Matlab Onramp</title>
+      <link>https://icaoberg.github.io/posts/matlab-onramp/</link>
+      <pubDate>Sat, 09 Nov 2019 01:48:55 -0500</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/matlab-onramp/</guid>
+      <description>Mathworks Matlab Certification</description>
+    </item>
+    
+    <item>
+      <title>Find Files</title>
+      <link>https://icaoberg.github.io/post/matlab-find-files/</link>
+      <pubDate>Tue, 22 Oct 2019 16:11:26 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/matlab-find-files/</guid>
+      <description>Am I this old?</description>
+    </item>
+    
+    <item>
+      <title>Find Files</title>
+      <link>https://icaoberg.github.io/posts/matlab-find-files/</link>
+      <pubDate>Tue, 22 Oct 2019 16:11:26 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/matlab-find-files/</guid>
+      <description>Am I this old?</description>
+    </item>
+    
+    <item>
+      <title>Programming for Lovers</title>
+      <link>https://icaoberg.github.io/post/programming-for-lovers/</link>
+      <pubDate>Mon, 14 Oct 2019 15:57:35 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/programming-for-lovers/</guid>
+      <description>Tonight at 8:00p.m. is the first lecture of Programming for Lovers.</description>
+    </item>
+    
+    <item>
+      <title>Programming for Lovers</title>
+      <link>https://icaoberg.github.io/posts/programming-for-lovers/</link>
+      <pubDate>Mon, 14 Oct 2019 15:57:35 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/programming-for-lovers/</guid>
+      <description>Tonight at 8:00p.m. is the first lecture of Programming for Lovers.</description>
+    </item>
+    
+    <item>
+      <title>browsh</title>
+      <link>https://icaoberg.github.io/post/singularity-browsh/</link>
+      <pubDate>Sun, 13 Oct 2019 01:19:33 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/singularity-browsh/</guid>
+      <description>Singularity recipe and image for browsh</description>
+    </item>
+    
+    <item>
+      <title>browsh</title>
+      <link>https://icaoberg.github.io/posts/singularity-browsh/</link>
+      <pubDate>Sun, 13 Oct 2019 01:19:33 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/singularity-browsh/</guid>
+      <description>Singularity recipe and image for browsh</description>
+    </item>
+    
+    <item>
+      <title>Cody</title>
+      <link>https://icaoberg.github.io/post/cody/</link>
+      <pubDate>Thu, 26 Sep 2019 02:10:48 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/cody/</guid>
+      <description>A gaming platform for Matlab</description>
+    </item>
+    
+    <item>
+      <title>Cody</title>
+      <link>https://icaoberg.github.io/posts/cody/</link>
+      <pubDate>Thu, 26 Sep 2019 02:10:48 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/cody/</guid>
+      <description>A gaming platform for Matlab</description>
+    </item>
+    
+    <item>
+      <title>CellOrganizer for Singularity</title>
+      <link>https://icaoberg.github.io/post/singularity-retweet-ceo/</link>
+      <pubDate>Sat, 21 Sep 2019 00:20:50 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/singularity-retweet-ceo/</guid>
+      <description>I got retweeted by Singularity on Twitter</description>
+    </item>
+    
+    <item>
+      <title>CellOrganizer for Singularity</title>
+      <link>https://icaoberg.github.io/posts/singularity-retweet-ceo/</link>
+      <pubDate>Sat, 21 Sep 2019 00:20:50 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/singularity-retweet-ceo/</guid>
+      <description>I got retweeted by Singularity on Twitter</description>
+    </item>
+    
+    <item>
+      <title>Docker - Matlab MCR 2019b</title>
+      <link>https://icaoberg.github.io/post/docker-matlabmcr2019b/</link>
+      <pubDate>Fri, 20 Sep 2019 21:17:12 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/docker-matlabmcr2019b/</guid>
+      <description>Docker image for Matlab MCR 2019b</description>
+    </item>
+    
+    <item>
+      <title>Docker - Matlab MCR 2019b</title>
+      <link>https://icaoberg.github.io/posts/docker-matlabmcr2019b/</link>
+      <pubDate>Fri, 20 Sep 2019 21:17:12 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/docker-matlabmcr2019b/</guid>
+      <description>Docker image for Matlab MCR 2019b</description>
+    </item>
+    
+    <item>
+      <title>Using Bio-Formats command line tools to validate OME-TIFF images</title>
+      <link>https://icaoberg.github.io/post/bioformats-cli-ome-tiff-images/</link>
+      <pubDate>Sat, 10 Dec 2016 13:46:38 -0500</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/bioformats-cli-ome-tiff-images/</guid>
+      <description>Using Bio-Formats</description>
+    </item>
+    
+    <item>
+      <title>Using Bio-Formats command line tools to validate OME-TIFF images</title>
+      <link>https://icaoberg.github.io/posts/bioformats-cli-ome-tiff-images/</link>
+      <pubDate>Sat, 10 Dec 2016 13:46:38 -0500</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/bioformats-cli-ome-tiff-images/</guid>
+      <description>Using Bio-Formats</description>
+    </item>
+    
+    <item>
+      <title>Installing R v3.2.3</title>
+      <link>https://icaoberg.github.io/post/installing-r-3.2.3/</link>
+      <pubDate>Tue, 12 Apr 2016 05:34:42 -0500</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/installing-r-3.2.3/</guid>
+      <description>Installing R v3.2.3</description>
+    </item>
+    
+    <item>
+      <title>Installing R v3.2.3</title>
+      <link>https://icaoberg.github.io/posts/installing-r-3.2.3/</link>
+      <pubDate>Tue, 12 Apr 2016 05:34:42 -0500</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/installing-r-3.2.3/</guid>
+      <description>Installing R v3.2.3</description>
+    </item>
+    
+    <item>
+      <title>Making an OME.TIFF using Bioformats</title>
+      <link>https://icaoberg.github.io/post/making-ometiff-using-demo3d01/</link>
+      <pubDate>Wed, 09 Mar 2016 13:46:38 -0500</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/making-ometiff-using-demo3d01/</guid>
+      <description>Using the synthetic image from demo3D01 to make an OME.TIFF</description>
+    </item>
+    
+    <item>
+      <title>Making an OME.TIFF using Bioformats</title>
+      <link>https://icaoberg.github.io/posts/making-ometiff-using-demo3d01/</link>
+      <pubDate>Wed, 09 Mar 2016 13:46:38 -0500</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/making-ometiff-using-demo3d01/</guid>
+      <description>Using the synthetic image from demo3D01 to make an OME.TIFF</description>
+    </item>
+    
+    <item>
+      <title>Making an OME.TIFF using Bioformats</title>
+      <link>https://icaoberg.github.io/post/making-ometiff-using-demo2d00/</link>
+      <pubDate>Tue, 08 Mar 2016 13:46:38 -0500</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/making-ometiff-using-demo2d00/</guid>
+      <description>Using the synthetic image from demo2D00 to make an OME.TIFF</description>
+    </item>
+    
+    <item>
+      <title>Making an OME.TIFF using Bioformats</title>
+      <link>https://icaoberg.github.io/posts/making-ometiff-using-demo2d00/</link>
+      <pubDate>Tue, 08 Mar 2016 13:46:38 -0500</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/making-ometiff-using-demo2d00/</guid>
+      <description>Using the synthetic image from demo2D00 to make an OME.TIFF</description>
+    </item>
+    
+    <item>
+      <title>GraphViz-like tools for Matlab</title>
+      <link>https://icaoberg.github.io/post/graphviz-for-matlab/</link>
+      <pubDate>Tue, 16 Feb 2016 05:52:23 -0500</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/graphviz-for-matlab/</guid>
+      <description>Pretty nice tools for viz</description>
+    </item>
+    
+    <item>
+      <title>GraphViz-like tools for Matlab</title>
+      <link>https://icaoberg.github.io/posts/graphviz-for-matlab/</link>
+      <pubDate>Tue, 16 Feb 2016 05:52:23 -0500</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/graphviz-for-matlab/</guid>
+      <description>Pretty nice tools for viz</description>
+    </item>
+    
+  </channel>
+</rss>

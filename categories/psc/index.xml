@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PSC on icaoberg</title>
+    <link>https://icaoberg.github.io/categories/psc/</link>
+    <description>Recent content in PSC on icaoberg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Jul 2021 00:17:20 +0000</lastBuildDate><atom:link href="https://icaoberg.github.io/categories/psc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>singularity-rclone</title>
+      <link>https://icaoberg.github.io/post/20210713-singularity-rclone/</link>
+      <pubDate>Tue, 13 Jul 2021 00:17:20 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/20210713-singularity-rclone/</guid>
+      <description>rclone is a command line program to manage files on cloud storage. It is a feature rich alternative to cloud vendors&#39; web storage interfaces.</description>
+    </item>
+    
+    <item>
+      <title>singularity-rclone</title>
+      <link>https://icaoberg.github.io/posts/20210713-singularity-rclone/</link>
+      <pubDate>Tue, 13 Jul 2021 00:17:20 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20210713-singularity-rclone/</guid>
+      <description>rclone is a command line program to manage files on cloud storage. It is a feature rich alternative to cloud vendors&#39; web storage interfaces.</description>
+    </item>
+    
+    <item>
+      <title>singularity-visidata</title>
+      <link>https://icaoberg.github.io/post/20210712-singularity-visidata/</link>
+      <pubDate>Mon, 12 Jul 2021 23:55:31 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/20210712-singularity-visidata/</guid>
+      <description>GitHub repository for the Singularity definition file</description>
+    </item>
+    
+    <item>
+      <title>singularity-visidata</title>
+      <link>https://icaoberg.github.io/posts/20210712-singularity-visidata/</link>
+      <pubDate>Mon, 12 Jul 2021 23:55:31 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20210712-singularity-visidata/</guid>
+      <description>GitHub repository for the Singularity definition file</description>
+    </item>
+    
+    <item>
+      <title>singularity-dust</title>
+      <link>https://icaoberg.github.io/post/20210712-singularity-dust/</link>
+      <pubDate>Mon, 12 Jul 2021 22:31:56 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/20210712-singularity-dust/</guid>
+      <description>du + rust = dust. Like du but more intuitive.</description>
+    </item>
+    
+    <item>
+      <title>singularity-dust</title>
+      <link>https://icaoberg.github.io/posts/20210712-singularity-dust/</link>
+      <pubDate>Mon, 12 Jul 2021 22:31:56 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20210712-singularity-dust/</guid>
+      <description>du + rust = dust. Like du but more intuitive.</description>
+    </item>
+    
+    <item>
+      <title>singularity-bat</title>
+      <link>https://icaoberg.github.io/post/20210712-singularity-bat/</link>
+      <pubDate>Mon, 12 Jul 2021 22:24:09 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/20210712-singularity-bat/</guid>
+      <description>A cat(1) clone with syntax highlighting and Git integration.</description>
+    </item>
+    
+    <item>
+      <title>singularity-bat</title>
+      <link>https://icaoberg.github.io/posts/20210712-singularity-bat/</link>
+      <pubDate>Mon, 12 Jul 2021 22:24:09 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20210712-singularity-bat/</guid>
+      <description>A cat(1) clone with syntax highlighting and Git integration.</description>
+    </item>
+    
+  </channel>
+</rss>

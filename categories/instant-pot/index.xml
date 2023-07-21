@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Instant Pot on icaoberg</title>
+    <link>https://icaoberg.github.io/categories/instant-pot/</link>
+    <description>Recent content in Instant Pot on icaoberg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Oct 2019 20:37:20 -0400</lastBuildDate><atom:link href="https://icaoberg.github.io/categories/instant-pot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apple Cider</title>
+      <link>https://icaoberg.github.io/post/instant-pot-apple-cider/</link>
+      <pubDate>Thu, 17 Oct 2019 20:37:20 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/instant-pot-apple-cider/</guid>
+      <description>Attempting to make apple cider in the Instant Pot</description>
+    </item>
+    
+    <item>
+      <title>Apple Cider</title>
+      <link>https://icaoberg.github.io/posts/instant-pot-apple-cider/</link>
+      <pubDate>Thu, 17 Oct 2019 20:37:20 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/instant-pot-apple-cider/</guid>
+      <description>Attempting to make apple cider in the Instant Pot</description>
+    </item>
+    
+  </channel>
+</rss>

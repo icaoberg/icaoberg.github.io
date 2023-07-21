@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>taskwarrior on icaoberg</title>
+    <link>https://icaoberg.github.io/tags/taskwarrior/</link>
+    <description>Recent content in taskwarrior on icaoberg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Nov 2021 01:55:24 +0000</lastBuildDate><atom:link href="https://icaoberg.github.io/tags/taskwarrior/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>taskwarrior</title>
+      <link>https://icaoberg.github.io/post/20211129-taskwarrior/</link>
+      <pubDate>Mon, 29 Nov 2021 01:55:24 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/20211129-taskwarrior/</guid>
+      <description>Made a bash script to help me out daily</description>
+    </item>
+    
+    <item>
+      <title>taskwarrior</title>
+      <link>https://icaoberg.github.io/posts/20211129-taskwarrior/</link>
+      <pubDate>Mon, 29 Nov 2021 01:55:24 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20211129-taskwarrior/</guid>
+      <description>Made a bash script to help me out daily</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>podcast on icaoberg</title>
+    <link>https://icaoberg.github.io/tags/podcast/</link>
+    <description>Recent content in podcast on icaoberg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Mar 2016 10:48:37 -0500</lastBuildDate><atom:link href="https://icaoberg.github.io/tags/podcast/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Niños y Niñas Bilingües y Biculturales</title>
+      <link>https://icaoberg.github.io/post/barrio-latino-ninos-ninas-bilingues-y-biculturales/</link>
+      <pubDate>Fri, 11 Mar 2016 10:48:37 -0500</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/barrio-latino-ninos-ninas-bilingues-y-biculturales/</guid>
+      <description>Lucía, Heidi, Lex, Eli y Vicente visitan Barrio Latino</description>
+    </item>
+    
+    <item>
+      <title>Niños y Niñas Bilingües y Biculturales</title>
+      <link>https://icaoberg.github.io/posts/barrio-latino-ninos-ninas-bilingues-y-biculturales/</link>
+      <pubDate>Fri, 11 Mar 2016 10:48:37 -0500</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/barrio-latino-ninos-ninas-bilingues-y-biculturales/</guid>
+      <description>Lucía, Heidi, Lex, Eli y Vicente visitan Barrio Latino</description>
+    </item>
+    
+  </channel>
+</rss>

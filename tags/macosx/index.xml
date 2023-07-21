@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>macosx on icaoberg</title>
+    <link>https://icaoberg.github.io/tags/macosx/</link>
+    <description>Recent content in macosx on icaoberg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Jan 2020 08:00:00 +0000</lastBuildDate><atom:link href="https://icaoberg.github.io/tags/macosx/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Singularity Desktop MacOSX (Beta Release)</title>
+      <link>https://icaoberg.github.io/post/singularity-macosx-journey-1/</link>
+      <pubDate>Tue, 07 Jan 2020 08:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/singularity-macosx-journey-1/</guid>
+      <description>My first journey with the Singularity Desktop for MacOSX</description>
+    </item>
+    
+    <item>
+      <title>Singularity Desktop MacOSX (Beta Release)</title>
+      <link>https://icaoberg.github.io/posts/singularity-macosx-journey-1/</link>
+      <pubDate>Tue, 07 Jan 2020 08:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/singularity-macosx-journey-1/</guid>
+      <description>My first journey with the Singularity Desktop for MacOSX</description>
+    </item>
+    
+  </channel>
+</rss>

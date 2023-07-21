@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vegetarian on icaoberg</title>
+    <link>https://icaoberg.github.io/tags/vegetarian/</link>
+    <description>Recent content in vegetarian on icaoberg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 Jul 2017 02:13:18 -0400</lastBuildDate><atom:link href="https://icaoberg.github.io/tags/vegetarian/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vegfest 2017</title>
+      <link>https://icaoberg.github.io/post/vegfest2017/</link>
+      <pubDate>Wed, 05 Jul 2017 02:13:18 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/vegfest2017/</guid>
+      <description>Vegetarian festival in Pittsburgh</description>
+    </item>
+    
+    <item>
+      <title>Vegfest 2017</title>
+      <link>https://icaoberg.github.io/posts/vegfest2017/</link>
+      <pubDate>Wed, 05 Jul 2017 02:13:18 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/vegfest2017/</guid>
+      <description>Vegetarian festival in Pittsburgh</description>
+    </item>
+    
+  </channel>
+</rss>

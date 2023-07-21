@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cody on icaoberg</title>
+    <link>https://icaoberg.github.io/tags/cody/</link>
+    <description>Recent content in cody on icaoberg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 26 Sep 2019 02:10:48 -0400</lastBuildDate><atom:link href="https://icaoberg.github.io/tags/cody/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cody</title>
+      <link>https://icaoberg.github.io/post/cody/</link>
+      <pubDate>Thu, 26 Sep 2019 02:10:48 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/cody/</guid>
+      <description>A gaming platform for Matlab</description>
+    </item>
+    
+    <item>
+      <title>Cody</title>
+      <link>https://icaoberg.github.io/posts/cody/</link>
+      <pubDate>Thu, 26 Sep 2019 02:10:48 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/cody/</guid>
+      <description>A gaming platform for Matlab</description>
+    </item>
+    
+  </channel>
+</rss>

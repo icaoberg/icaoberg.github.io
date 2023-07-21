@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>singularity on icaoberg</title>
+    <link>https://icaoberg.github.io/tags/singularity/</link>
+    <description>Recent content in singularity on icaoberg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Sep 2021 13:09:56 +0000</lastBuildDate><atom:link href="https://icaoberg.github.io/tags/singularity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building Singularity containers with Docker</title>
+      <link>https://icaoberg.github.io/post/20210902-building-singularity-containers/</link>
+      <pubDate>Thu, 02 Sep 2021 13:09:56 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/20210902-building-singularity-containers/</guid>
+      <description>Using Docker and Singularity</description>
+    </item>
+    
+    <item>
+      <title>Building Singularity containers with Docker</title>
+      <link>https://icaoberg.github.io/posts/20210902-building-singularity-containers/</link>
+      <pubDate>Thu, 02 Sep 2021 13:09:56 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20210902-building-singularity-containers/</guid>
+      <description>Using Docker and Singularity</description>
+    </item>
+    
+    <item>
+      <title>pretty.yml</title>
+      <link>https://icaoberg.github.io/post/20210828-pretty-yml/</link>
+      <pubDate>Sat, 28 Aug 2021 23:01:23 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/20210828-pretty-yml/</guid>
+      <description>Prettyfy workflow for most of my repos</description>
+    </item>
+    
+    <item>
+      <title>pretty.yml</title>
+      <link>https://icaoberg.github.io/posts/20210828-pretty-yml/</link>
+      <pubDate>Sat, 28 Aug 2021 23:01:23 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20210828-pretty-yml/</guid>
+      <description>Prettyfy workflow for most of my repos</description>
+    </item>
+    
+    <item>
+      <title>List of Singularity Containers</title>
+      <link>https://icaoberg.github.io/post/20210825-singularity-containers/</link>
+      <pubDate>Wed, 25 Aug 2021 22:05:41 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/20210825-singularity-containers/</guid>
+      <description>The end of the summer internship</description>
+    </item>
+    
+    <item>
+      <title>List of Singularity Containers</title>
+      <link>https://icaoberg.github.io/posts/20210825-singularity-containers/</link>
+      <pubDate>Wed, 25 Aug 2021 22:05:41 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20210825-singularity-containers/</guid>
+      <description>The end of the summer internship</description>
+    </item>
+    
+    <item>
+      <title>singularity-rclone</title>
+      <link>https://icaoberg.github.io/post/20210713-singularity-rclone/</link>
+      <pubDate>Tue, 13 Jul 2021 00:17:20 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/20210713-singularity-rclone/</guid>
+      <description>rclone is a command line program to manage files on cloud storage. It is a feature rich alternative to cloud vendors&#39; web storage interfaces.</description>
+    </item>
+    
+    <item>
+      <title>singularity-rclone</title>
+      <link>https://icaoberg.github.io/posts/20210713-singularity-rclone/</link>
+      <pubDate>Tue, 13 Jul 2021 00:17:20 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20210713-singularity-rclone/</guid>
+      <description>rclone is a command line program to manage files on cloud storage. It is a feature rich alternative to cloud vendors&#39; web storage interfaces.</description>
+    </item>
+    
+    <item>
+      <title>singularity-visidata</title>
+      <link>https://icaoberg.github.io/post/20210712-singularity-visidata/</link>
+      <pubDate>Mon, 12 Jul 2021 23:55:31 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/20210712-singularity-visidata/</guid>
+      <description>GitHub repository for the Singularity definition file</description>
+    </item>
+    
+    <item>
+      <title>singularity-visidata</title>
+      <link>https://icaoberg.github.io/posts/20210712-singularity-visidata/</link>
+      <pubDate>Mon, 12 Jul 2021 23:55:31 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20210712-singularity-visidata/</guid>
+      <description>GitHub repository for the Singularity definition file</description>
+    </item>
+    
+    <item>
+      <title>singularity-dust</title>
+      <link>https://icaoberg.github.io/post/20210712-singularity-dust/</link>
+      <pubDate>Mon, 12 Jul 2021 22:31:56 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/20210712-singularity-dust/</guid>
+      <description>du + rust = dust. Like du but more intuitive.</description>
+    </item>
+    
+    <item>
+      <title>singularity-dust</title>
+      <link>https://icaoberg.github.io/posts/20210712-singularity-dust/</link>
+      <pubDate>Mon, 12 Jul 2021 22:31:56 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20210712-singularity-dust/</guid>
+      <description>du + rust = dust. Like du but more intuitive.</description>
+    </item>
+    
+    <item>
+      <title>singularity-bat</title>
+      <link>https://icaoberg.github.io/post/20210712-singularity-bat/</link>
+      <pubDate>Mon, 12 Jul 2021 22:24:09 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/20210712-singularity-bat/</guid>
+      <description>A cat(1) clone with syntax highlighting and Git integration.</description>
+    </item>
+    
+    <item>
+      <title>singularity-bat</title>
+      <link>https://icaoberg.github.io/posts/20210712-singularity-bat/</link>
+      <pubDate>Mon, 12 Jul 2021 22:24:09 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20210712-singularity-bat/</guid>
+      <description>A cat(1) clone with syntax highlighting and Git integration.</description>
+    </item>
+    
+    <item>
+      <title>GeNT</title>
+      <link>https://icaoberg.github.io/post/20210327-fortran/</link>
+      <pubDate>Sat, 27 Mar 2021 22:39:22 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/20210327-fortran/</guid>
+      <description>Singularity container for GeNT</description>
+    </item>
+    
+    <item>
+      <title>GeNT</title>
+      <link>https://icaoberg.github.io/posts/20210327-fortran/</link>
+      <pubDate>Sat, 27 Mar 2021 22:39:22 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20210327-fortran/</guid>
+      <description>Singularity container for GeNT</description>
+    </item>
+    
+    <item>
+      <title>GNU GCC</title>
+      <link>https://icaoberg.github.io/post/singularity-gcc/</link>
+      <pubDate>Fri, 03 Apr 2020 22:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/singularity-gcc/</guid>
+      <description>Singularity recipe and image for GNU GCC</description>
+    </item>
+    
+    <item>
+      <title>GNU GCC</title>
+      <link>https://icaoberg.github.io/posts/singularity-gcc/</link>
+      <pubDate>Fri, 03 Apr 2020 22:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/singularity-gcc/</guid>
+      <description>Singularity recipe and image for GNU GCC</description>
+    </item>
+    
+    <item>
+      <title>cowsay</title>
+      <link>https://icaoberg.github.io/post/singularity-cowsay/</link>
+      <pubDate>Wed, 26 Feb 2020 10:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/singularity-cowsay/</guid>
+      <description>Singularity recipe and image for browsh</description>
+    </item>
+    
+    <item>
+      <title>cowsay</title>
+      <link>https://icaoberg.github.io/posts/singularity-cowsay/</link>
+      <pubDate>Wed, 26 Feb 2020 10:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/singularity-cowsay/</guid>
+      <description>Singularity recipe and image for browsh</description>
+    </item>
+    
+    <item>
+      <title>bedtools</title>
+      <link>https://icaoberg.github.io/post/singularity-bedtools-update/</link>
+      <pubDate>Mon, 03 Feb 2020 18:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/singularity-bedtools-update/</guid>
+      <description>Singularity recipe and image for bedtools</description>
+    </item>
+    
+    <item>
+      <title>bedtools</title>
+      <link>https://icaoberg.github.io/posts/singularity-bedtools-update/</link>
+      <pubDate>Mon, 03 Feb 2020 18:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/singularity-bedtools-update/</guid>
+      <description>Singularity recipe and image for bedtools</description>
+    </item>
+    
+    <item>
+      <title>bedtools</title>
+      <link>https://icaoberg.github.io/post/singularity-bedtools/</link>
+      <pubDate>Sun, 26 Jan 2020 18:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/singularity-bedtools/</guid>
+      <description>Singularity recipe and image for bedtools</description>
+    </item>
+    
+    <item>
+      <title>bedtools</title>
+      <link>https://icaoberg.github.io/posts/singularity-bedtools/</link>
+      <pubDate>Sun, 26 Jan 2020 18:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/singularity-bedtools/</guid>
+      <description>Singularity recipe and image for bedtools</description>
+    </item>
+    
+    <item>
+      <title>gifgen</title>
+      <link>https://icaoberg.github.io/post/singularity-gifgen/</link>
+      <pubDate>Tue, 14 Jan 2020 08:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/singularity-gifgen/</guid>
+      <description>Singularity recipe and image for gifgen</description>
+    </item>
+    
+    <item>
+      <title>gifgen</title>
+      <link>https://icaoberg.github.io/posts/singularity-gifgen/</link>
+      <pubDate>Tue, 14 Jan 2020 08:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/singularity-gifgen/</guid>
+      <description>Singularity recipe and image for gifgen</description>
+    </item>
+    
+    <item>
+      <title>Singularity and Travis config</title>
+      <link>https://icaoberg.github.io/post/singularity-travis-config/</link>
+      <pubDate>Tue, 07 Jan 2020 16:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/singularity-travis-config/</guid>
+      <description>Updating my Travis config files</description>
+    </item>
+    
+    <item>
+      <title>Singularity and Travis config</title>
+      <link>https://icaoberg.github.io/posts/singularity-travis-config/</link>
+      <pubDate>Tue, 07 Jan 2020 16:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/singularity-travis-config/</guid>
+      <description>Updating my Travis config files</description>
+    </item>
+    
+    <item>
+      <title>gotop</title>
+      <link>https://icaoberg.github.io/post/singularity-gotop/</link>
+      <pubDate>Tue, 07 Jan 2020 08:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/singularity-gotop/</guid>
+      <description>Singularity recipe and image for gotop</description>
+    </item>
+    
+    <item>
+      <title>gotop</title>
+      <link>https://icaoberg.github.io/posts/singularity-gotop/</link>
+      <pubDate>Tue, 07 Jan 2020 08:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/singularity-gotop/</guid>
+      <description>Singularity recipe and image for gotop</description>
+    </item>
+    
+    <item>
+      <title>Singularity Desktop MacOSX (Beta Release)</title>
+      <link>https://icaoberg.github.io/post/singularity-macosx-journey-1/</link>
+      <pubDate>Tue, 07 Jan 2020 08:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/singularity-macosx-journey-1/</guid>
+      <description>My first journey with the Singularity Desktop for MacOSX</description>
+    </item>
+    
+    <item>
+      <title>Singularity Desktop MacOSX (Beta Release)</title>
+      <link>https://icaoberg.github.io/posts/singularity-macosx-journey-1/</link>
+      <pubDate>Tue, 07 Jan 2020 08:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/singularity-macosx-journey-1/</guid>
+      <description>My first journey with the Singularity Desktop for MacOSX</description>
+    </item>
+    
+    <item>
+      <title>browsh</title>
+      <link>https://icaoberg.github.io/post/singularity-browsh/</link>
+      <pubDate>Sun, 13 Oct 2019 01:19:33 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/singularity-browsh/</guid>
+      <description>Singularity recipe and image for browsh</description>
+    </item>
+    
+    <item>
+      <title>browsh</title>
+      <link>https://icaoberg.github.io/posts/singularity-browsh/</link>
+      <pubDate>Sun, 13 Oct 2019 01:19:33 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/singularity-browsh/</guid>
+      <description>Singularity recipe and image for browsh</description>
+    </item>
+    
+    <item>
+      <title>CellOrganizer for Singularity</title>
+      <link>https://icaoberg.github.io/post/singularity-retweet-ceo/</link>
+      <pubDate>Sat, 21 Sep 2019 00:20:50 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/singularity-retweet-ceo/</guid>
+      <description>I got retweeted by Singularity on Twitter</description>
+    </item>
+    
+    <item>
+      <title>CellOrganizer for Singularity</title>
+      <link>https://icaoberg.github.io/posts/singularity-retweet-ceo/</link>
+      <pubDate>Sat, 21 Sep 2019 00:20:50 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/singularity-retweet-ceo/</guid>
+      <description>I got retweeted by Singularity on Twitter</description>
+    </item>
+    
+  </channel>
+</rss>

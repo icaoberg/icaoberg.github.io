@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lacu on icaoberg</title>
+    <link>https://icaoberg.github.io/tags/lacu/</link>
+    <description>Recent content in lacu on icaoberg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 21 Sep 2019 00:12:06 -0400</lastBuildDate><atom:link href="https://icaoberg.github.io/tags/lacu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Latinx Picnic 2019</title>
+      <link>https://icaoberg.github.io/post/lacu-picnic2019/</link>
+      <pubDate>Sat, 21 Sep 2019 00:12:06 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/lacu-picnic2019/</guid>
+      <description>Today at 1:00p.m. the yearly picnic at Schenley park</description>
+    </item>
+    
+    <item>
+      <title>Latinx Picnic 2019</title>
+      <link>https://icaoberg.github.io/posts/lacu-picnic2019/</link>
+      <pubDate>Sat, 21 Sep 2019 00:12:06 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/lacu-picnic2019/</guid>
+      <description>Today at 1:00p.m. the yearly picnic at Schenley park</description>
+    </item>
+    
+  </channel>
+</rss>

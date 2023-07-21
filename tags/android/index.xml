@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>android on icaoberg</title>
+    <link>https://icaoberg.github.io/tags/android/</link>
+    <description>Recent content in android on icaoberg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 28 Sep 2019 18:36:03 -0400</lastBuildDate><atom:link href="https://icaoberg.github.io/tags/android/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Doctor Mario</title>
+      <link>https://icaoberg.github.io/post/doctor-mario/</link>
+      <pubDate>Sat, 28 Sep 2019 18:36:03 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/doctor-mario/</guid>
+      <description>Dr. Mario brings back many childhood memories</description>
+    </item>
+    
+    <item>
+      <title>Doctor Mario</title>
+      <link>https://icaoberg.github.io/posts/doctor-mario/</link>
+      <pubDate>Sat, 28 Sep 2019 18:36:03 -0400</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/doctor-mario/</guid>
+      <description>Dr. Mario brings back many childhood memories</description>
+    </item>
+    
+  </channel>
+</rss>

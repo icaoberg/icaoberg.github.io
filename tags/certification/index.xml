@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>certification on icaoberg</title>
+    <link>https://icaoberg.github.io/tags/certification/</link>
+    <description>Recent content in certification on icaoberg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Mar 2020 22:00:00 +0000</lastBuildDate><atom:link href="https://icaoberg.github.io/tags/certification/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction to Statistical Methods with MATLAB</title>
+      <link>https://icaoberg.github.io/post/matlab-stats/</link>
+      <pubDate>Tue, 17 Mar 2020 22:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/matlab-stats/</guid>
+      <description>Mathworks Matlab Certification</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Statistical Methods with MATLAB</title>
+      <link>https://icaoberg.github.io/posts/matlab-stats/</link>
+      <pubDate>Tue, 17 Mar 2020 22:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/matlab-stats/</guid>
+      <description>Mathworks Matlab Certification</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Linear Algebra with MATLAB</title>
+      <link>https://icaoberg.github.io/post/matlab-linearalgebra/</link>
+      <pubDate>Mon, 09 Mar 2020 17:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/matlab-linearalgebra/</guid>
+      <description>Mathworks Matlab Certification</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Linear Algebra with MATLAB</title>
+      <link>https://icaoberg.github.io/posts/matlab-linearalgebra/</link>
+      <pubDate>Mon, 09 Mar 2020 17:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/matlab-linearalgebra/</guid>
+      <description>Mathworks Matlab Certification</description>
+    </item>
+    
+    <item>
+      <title>Solving Ordinary Differential Equations with MATLAB</title>
+      <link>https://icaoberg.github.io/post/matlab-ode/</link>
+      <pubDate>Mon, 09 Mar 2020 10:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/matlab-ode/</guid>
+      <description>Mathworks Matlab Certification</description>
+    </item>
+    
+    <item>
+      <title>Solving Ordinary Differential Equations with MATLAB</title>
+      <link>https://icaoberg.github.io/posts/matlab-ode/</link>
+      <pubDate>Mon, 09 Mar 2020 10:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/matlab-ode/</guid>
+      <description>Mathworks Matlab Certification</description>
+    </item>
+    
+    <item>
+      <title>Matlab Onramp</title>
+      <link>https://icaoberg.github.io/post/matlab-onramp/</link>
+      <pubDate>Sat, 09 Nov 2019 01:48:55 -0500</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/matlab-onramp/</guid>
+      <description>Mathworks Matlab Certification</description>
+    </item>
+    
+    <item>
+      <title>Matlab Onramp</title>
+      <link>https://icaoberg.github.io/posts/matlab-onramp/</link>
+      <pubDate>Sat, 09 Nov 2019 01:48:55 -0500</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/matlab-onramp/</guid>
+      <description>Mathworks Matlab Certification</description>
+    </item>
+    
+  </channel>
+</rss>

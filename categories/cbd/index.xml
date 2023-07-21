@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CBD on icaoberg</title>
+    <link>https://icaoberg.github.io/categories/cbd/</link>
+    <description>Recent content in CBD on icaoberg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://icaoberg.github.io/categories/cbd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Another day, another challenge</title>
+      <link>https://icaoberg.github.io/post/20200409/</link>
+      <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/post/20200409/</guid>
+      <description>Another day, another challenge</description>
+    </item>
+    
+    <item>
+      <title>Another day, another challenge</title>
+      <link>https://icaoberg.github.io/posts/20200409/</link>
+      <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://icaoberg.github.io/posts/20200409/</guid>
+      <description>Another day, another challenge</description>
+    </item>
+    
+  </channel>
+</rss>
