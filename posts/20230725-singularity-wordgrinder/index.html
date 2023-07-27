@@ -1,0 +1,414 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <script type="application/javascript" src='https://icaoberg.github.io/js/theme-mode.js'></script>
+    <link rel="stylesheet" href='https://icaoberg.github.io/css/frameworks.min.css' />
+    <link rel="stylesheet" href='https://icaoberg.github.io/css/github.min.css' />
+    <link rel="stylesheet" href='https://icaoberg.github.io/css/github-style.css' />
+    <link rel="stylesheet" href='https://icaoberg.github.io/css/light.css' />
+    <link rel="stylesheet" href='https://icaoberg.github.io/css/dark.css' />
+    <link rel="stylesheet" href='https://icaoberg.github.io/css/syntax.css' />
+    <title>wordgrinder - icaoberg</title>
+    
+    <link rel="icon" type="image/x-icon" href='/images/github.png'>
+    
+    <meta name="theme-color" content="#1e2327">
+
+    
+    <meta name="description"
+  content="Deploying wordgrinder in a Singularity container" />
+<meta name="keywords"
+  content='blog, google analytics' />
+<meta name="robots" content="noodp" />
+<link rel="canonical" href="https://icaoberg.github.io/posts/20230725-singularity-wordgrinder/" />
+
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="wordgrinder - icaoberg" />
+<meta name="twitter:description"
+  content="Deploying wordgrinder in a Singularity container" />
+<meta name="twitter:site" content="https://icaoberg.github.io" />
+<meta name="twitter:creator" content="" />
+<meta name="twitter:image"
+  content="https://icaoberg.github.io">
+
+
+<meta property="og:type" content="article" />
+<meta property="og:title" content="wordgrinder - icaoberg">
+<meta property="og:description"
+  content="Deploying wordgrinder in a Singularity container" />
+<meta property="og:url" content="https://icaoberg.github.io/posts/20230725-singularity-wordgrinder/" />
+<meta property="og:site_name" content="wordgrinder" />
+<meta property="og:image"
+  content="https://icaoberg.github.io">
+<meta property="og:image:width" content="2048">
+<meta property="og:image:height" content="1024">
+
+<meta property="article:published_time" content="2023-07-25 23:14:56 -0400 EDT" />
+
+
+
+
+
+
+
+
+
+
+</head>
+
+<body>
+  <div style="position: relative">
+  <header class="Header js-details-container Details px-3 px-md-4 px-lg-5 flex-wrap flex-md-nowrap open Details--on">
+    <div class="Header-item mobile-none" style="margin-top: -4px; margin-bottom: -4px;">
+      <a class="Header-link" href="https://icaoberg.github.io">
+        <svg class="octicon" height="32" viewBox="0 0 16 16" version="1.1" width="32">
+          <path fill-rule="evenodd"
+            d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z">
+          </path>
+        </svg>
+      </a>
+    </div>
+    <div class="Header-item d-md-none">
+      <button class="Header-link btn-link js-details-target" type="button"
+        onclick="document.querySelector('#header-search').style.display = document.querySelector('#header-search').style.display == 'none'? 'block': 'none'">
+        <svg height="24" class="octicon octicon-three-bars" viewBox="0 0 16 16" version="1.1" width="24">
+          <path fill-rule="evenodd"
+            d="M1 2.75A.75.75 0 011.75 2h12.5a.75.75 0 110 1.5H1.75A.75.75 0 011 2.75zm0 5A.75.75 0 011.75 7h12.5a.75.75 0 110 1.5H1.75A.75.75 0 011 7.75zM1.75 12a.75.75 0 100 1.5h12.5a.75.75 0 100-1.5H1.75z">
+          </path>
+        </svg>
+      </button>
+    </div>
+    <div style="display: none;" id="header-search"
+      class="Header-item Header-item--full flex-column flex-md-row width-full flex-order-2 flex-md-order-none mr-0 mr-md-3 mt-3 mt-md-0 Details-content--hidden-not-important d-md-flex">
+      <div
+        class="Header-search header-search flex-auto js-site-search position-relative flex-self-stretch flex-md-self-auto mb-3 mb-md-0 mr-0 mr-md-3 scoped-search site-scoped-search js-jump-to">
+        <div class="position-relative">
+          <form target="_blank" action="https://www.google.com/search" accept-charset="UTF-8" method="get"
+            autocomplete="off">
+            <label
+              class="Header-search-label form-control input-sm header-search-wrapper p-0 js-chromeless-input-container header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center">
+              <input type="text"
+                class="Header-search-input form-control input-sm header-search-input jump-to-field js-jump-to-field js-site-search-focus js-site-search-field is-clearable"
+                name="q" value="" placeholder="Search" autocomplete="off">
+              <input type="hidden" name="q" value="site:https://icaoberg.github.io">
+            </label>
+          </form>
+        </div>
+      </div>
+    </div>
+
+    <div class="Header-item Header-item--full flex-justify-center d-md-none position-relative">
+      <a class="Header-link " href="https://icaoberg.github.io">
+        <svg class="octicon octicon-mark-github v-align-middle" height="32" viewBox="0 0 16 16" version="1.1"
+          width="32">
+          <path fill-rule="evenodd"
+            d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z">
+          </path>
+        </svg>
+      </a>
+    </div>
+    <div class="Header-item" style="margin-right: 0;">
+      <a href="javascript:void(0)" class="Header-link no-select" onclick="switchTheme()">
+        <svg style="fill: var(--color-profile-color-modes-toggle-moon);" class="no-select" viewBox="0 0 16 16"
+          version="1.1" width="16" height="16">
+          <path fill-rule="evenodd" clip-rule="evenodd"
+            d="M4.52208 7.71754C7.5782 7.71754 10.0557 5.24006 10.0557 2.18394C10.0557 1.93498 10.0392 1.68986 10.0074 1.44961C9.95801 1.07727 10.3495 0.771159 10.6474 0.99992C12.1153 2.12716 13.0615 3.89999 13.0615 5.89383C13.0615 9.29958 10.3006 12.0605 6.89485 12.0605C3.95334 12.0605 1.49286 10.001 0.876728 7.24527C0.794841 6.87902 1.23668 6.65289 1.55321 6.85451C2.41106 7.40095 3.4296 7.71754 4.52208 7.71754Z">
+          </path>
+        </svg>
+      </a>
+    </div>
+  </header>
+</div>
+  
+<div>
+  <main>
+    <div class="gisthead pagehead bg-gray-light pb-0 pt-3 mb-4">
+      <div class="px-0">
+        <div class="mb-3 d-flex px-3 px-md-3 px-lg-5">
+          <div class="flex-auto min-width-0 width-fit mr-3">
+            <div class="d-flex">
+              <div class="d-none d-md-block">
+                <a class="avatar mr-2 flex-shrink-0" href="https://icaoberg.github.io">
+                  <img class=" avatar-user"
+                    src="https://icaoberg.github.io/images/avatar.png"
+                    width="32" height="32"></a>
+              </div>
+              <div class="d-flex flex-column">
+                <h1 class="break-word f3 text-normal mb-md-0 mb-1">
+                  <span class="author">
+                    <a href="https://icaoberg.github.io">icaoberg</a></span><span
+                    class="path-divider">/</span><strong class="css-truncate-target mr-1" style="max-width: 410px"><a
+                      href="https://icaoberg.github.io/posts/20230725-singularity-wordgrinder/">wordgrinder</a></strong>
+                </h1>
+                <div class="note m-0">
+                  Created <relative-time datetime="Tue, 25 Jul 2023 23:14:56 -0400"
+                    class="no-wrap">
+                    Tue, 25 Jul 2023 23:14:56 -0400</relative-time>
+
+                  
+                  <span class="file-info-divider"></span>
+                  Modified <relative-time datetime="Wed, 26 Jul 2023 23:06:16 -0400"
+                    class="no-wrap">
+                    Wed, 26 Jul 2023 23:06:16 -0400</relative-time>
+                  
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="container-lg px-3 new-discussion-timeline">
+      <div class="repository-content gist-content">
+        <div>
+          <div class="js-gist-file-update-container js-task-list-container file-box">
+            <div id="file-pytest" class="file my-2">
+              <div id="post-header" class="file-header d-flex flex-md-items-center flex-items-start sticky-header" style="z-index: 2">
+                <div class="file-info d-flex flex-md-items-center flex-items-start flex-order-1 flex-auto">
+                  <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1 mt-2 mt-md-0">
+                    
+                    <summary id="toc-toggle" onclick="clickToc()" class="btn btn-octicon m-0 mr-2 p-2">
+                      <svg aria-hidden="true" viewBox="0 0 16 16" height="16" width="16" class="octicon octicon-list-unordered">
+                        <path fill-rule="evenodd" d="M2 4a1 1 0 100-2 1 1 0 000 2zm3.75-1.5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zm0 5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zm0 5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zM3 8a1 1 0 11-2 0 1 1 0 012 0zm-1 6a1 1 0 100-2 1 1 0 000 2z"></path>
+                      </svg>
+                    </summary>
+                    <details-menu class="SelectMenu" id="toc-details" style="display: none;">
+                      <div class="SelectMenu-modal rounded-3 mt-1" style="max-height: 340px;">
+                        <div class="SelectMenu-list SelectMenu-list--borderless p-2" style="overscroll-behavior: contain;" id="toc-list">
+                        </div>
+                      </div>
+                    </details-menu>
+                      195 Words
+                    
+
+                  </div>
+                  <div class="file-actions flex-order-2 pt-0">
+                    
+                  </div>
+                </div>
+              </div>
+
+
+              <div class="Box-body px-5 pb-5" style="z-index: 1">
+                <article class="markdown-body entry-content container-lg"><p>I heard about <a href="https://github.com/davidgiven/wordgrinder">wordwrangler</a> in this video</p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=cKqsw_sAsU8" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<h1 id="locally">Locally</h1>
+<p>To install this app locally it is <a href="https://www.hecticgeek.com/wordgrinder-command-line-word-ubuntu-linux/">pretty straighforward</a>, as you only need to run</p>
+<pre tabindex="0"><code>sudo apt-get install wordgrinder
+</code></pre><p><img src="https://hackmd.io/_uploads/rJPkBZ052.png" alt=""></p>
+<p>and works out of the box</p>
+<p><img src="https://hackmd.io/_uploads/H1QZBbC9h.png" alt=""></p>
+<h1 id="on-bridges-2">On Bridges-2</h1>
+<p>On Bridges-2 is a little different, since we do not have privileges to install software.</p>
+<p>So in order to do this, I will install wordwrangle in a Singularity.</p>
+<p>Wait, isn&rsquo;t this an overkill?</p>
+<p><img src="https://hackmd.io/_uploads/Hk0MLZR52.png" alt=""></p>
+<p>Then again, I really like containers.</p>
+<h2 id="singularity-wordwrangler">singularity-wordwrangler</h2>
+<p>Since the installation is pretty-straightforward, the Singularity recipe is easy as well.</p>
+<pre tabindex="0"><code>(base) ➜  0.8 cat Singularity
+Bootstrap: docker
+From: debian:buster
+
+%labels
+    MAINTAINER icaoberg
+    EMAIL icaoberg@psc.edu
+    SUPPORT help@psc.edu
+    REPOSITORY http://gitub.com/pscedu/singularity-wordgrinder
+    COPYRIGHT Copyright © 2023 Pittsburgh Supercomputing Center. All Rights Reserved.  
+    VERSION 0.8
+
+%post
+    apt update
+    apt install -y wordgrinder
+
+</code></pre><p>For simplicity, I created a repo with the recipe and scripts to build this container remotely and locally.</p>
+<!-- raw HTML omitted -->
+<h2 id="list-of-singularity-containers">List of Singularity containers</h2>
+<p>I added this recipe to the list of utilities of containers I maintain at PSC.</p>
+<h2 id="utilities">Utilities</h2>
+<table>
+<thead>
+<tr>
+<th>Name</th>
+<th>Information</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="http://github.com/pscedu/singularity-asciinema">asciinema</a></td>
+<td><img src="https://github.com/pscedu/singularity-asciinema/actions/workflows/main.yml/badge.svg" alt="Status"><img src="https://github.com/pscedu/singularity-asciinema/actions/workflows/pretty.yml/badge.svg" alt="Status"><img src="https://img.shields.io/github/issues/pscedu/singularity-asciinema" alt="Issue"><img src="https://img.shields.io/github/forks/pscedu/singularity-asciinema" alt="forks"><img src="https://img.shields.io/github/stars/pscedu/singularity-asciinema" alt="Stars"><img src="https://img.shields.io/github/license/pscedu/singularity-asciinema" alt="License"></td>
+</tr>
+<tr>
+<td><a href="http://github.com/pscedu/singularity-aws-cli">aws-cli</a></td>
+<td><img src="https://github.com/pscedu/singularity-aws-cli/actions/workflows/main.yml/badge.svg" alt="Status"><img src="https://github.com/pscedu/singularity-aws-cli/actions/workflows/pretty.yml/badge.svg" alt="Status"><img src="https://img.shields.io/github/issues/pscedu/singularity-aws-cli" alt="Issue"><img src="https://img.shields.io/github/forks/pscedu/singularity-aws-cli" alt="forks"><img src="https://img.shields.io/github/stars/pscedu/singularity-aws-cli" alt="Stars"><img src="https://img.shields.io/github/license/pscedu/singularity-aws-cli" alt="License"></td>
+</tr>
+<tr>
+<td><a href="http://github.com/pscedu/singularity-bat">bat</a></td>
+<td><img src="https://github.com/pscedu/singularity-bat/actions/workflows/main.yml/badge.svg" alt="Status"><img src="https://github.com/pscedu/singularity-bat/actions/workflows/pretty.yml/badge.svg" alt="Status"><img src="https://img.shields.io/github/issues/pscedu/singularity-bat" alt="Issue"><img src="https://img.shields.io/github/forks/pscedu/singularity-bat" alt="forks"><img src="https://img.shields.io/github/stars/pscedu/singularity-bat" alt="Stars"><img src="https://img.shields.io/github/license/pscedu/singularity-bat" alt="License"></td>
+</tr>
+<tr>
+<td><a href="http://github.com/pscedu/singularity-browsh">browsh</a></td>
+<td><img src="https://github.com/pscedu/singularity-browsh/actions/workflows/main.yml/badge.svg" alt="Status"><img src="https://github.com/pscedu/singularity-browsh/actions/workflows/pretty.yml/badge.svg" alt="Status"><img src="https://img.shields.io/github/issues/pscedu/singularity-browsh" alt="Issue"><img src="https://img.shields.io/github/forks/pscedu/singularity-browsh" alt="forks"><img src="https://img.shields.io/github/stars/pscedu/singularity-browsh" alt="Stars"><img src="https://img.shields.io/github/license/pscedu/singularity-browsh" alt="License"></td>
+</tr>
+<tr>
+<td><a href="http://github.com/pscedu/singularity-btop">btop</a></td>
+<td><img src="https://github.com/pscedu/singularity-btop/actions/workflows/main.yml/badge.svg" alt="Status"><img src="https://github.com/pscedu/singularity-btop/actions/workflows/pretty.yml/badge.svg" alt="Status"><img src="https://img.shields.io/github/issues/pscedu/singularity-btop" alt="Issue"><img src="https://img.shields.io/github/forks/pscedu/singularity-btop" alt="forks"><img src="https://img.shields.io/github/stars/pscedu/singularity-btop" alt="Stars"><img src="https://img.shields.io/github/license/pscedu/singularity-btop" alt="License"></td>
+</tr>
+<tr>
+<td><a href="http://github.com/pscedu/singularity-circos">circos</a></td>
+<td><img src="https://github.com/pscedu/singularity-circos/actions/workflows/main.yml/badge.svg" alt="Status"><img src="https://github.com/pscedu/singularity-circos/actions/workflows/pretty.yml/badge.svg" alt="Status"><img src="https://img.shields.io/github/issues/pscedu/singularity-circos" alt="Issue"><img src="https://img.shields.io/github/forks/pscedu/singularity-circos" alt="forks"><img src="https://img.shields.io/github/stars/pscedu/singularity-circos" alt="Stars"><img src="https://img.shields.io/github/license/pscedu/singularity-circos" alt="License"></td>
+</tr>
+<tr>
+<td><a href="http://github.com/pscedu/singularity-cwltool">cwltool</a></td>
+<td><img src="https://github.com/pscedu/singularity-cwltool/actions/workflows/main.yml/badge.svg" alt="Status"><img src="https://github.com/pscedu/singularity-cwltool/actions/workflows/pretty.yml/badge.svg" alt="Status"><img src="https://img.shields.io/github/issues/pscedu/singularity-cwltool" alt="Issue"><img src="https://img.shields.io/github/forks/pscedu/singularity-cwltool" alt="forks"><img src="https://img.shields.io/github/stars/pscedu/singularity-cwltool" alt="Stars"><img src="https://img.shields.io/github/license/pscedu/singularity-cwltool" alt="License"></td>
+</tr>
+<tr>
+<td><a href="http://github.com/pscedu/singularity-dust">dust</a></td>
+<td><img src="https://github.com/pscedu/singularity-dust/actions/workflows/main.yml/badge.svg" alt="Status"><img src="https://github.com/pscedu/singularity-dust/actions/workflows/pretty.yml/badge.svg" alt="Status"><img src="https://img.shields.io/github/issues/pscedu/singularity-dust" alt="Issue"><img src="https://img.shields.io/github/forks/pscedu/singularity-dust" alt="forks"><img src="https://img.shields.io/github/stars/pscedu/singularity-dust" alt="Stars"><img src="https://img.shields.io/github/license/pscedu/singularity-dust" alt="License"></td>
+</tr>
+<tr>
+<td><a href="http://github.com/pscedu/singularity-fdupes">fdupes</a></td>
+<td><img src="https://github.com/pscedu/singularity-fdupes/actions/workflows/main.yml/badge.svg" alt="Status"><img src="https://github.com/pscedu/singularity-fdupes/actions/workflows/pretty.yml/badge.svg" alt="Status"><img src="https://img.shields.io/github/issues/pscedu/singularity-fdupes" alt="Issue"><img src="https://img.shields.io/github/forks/pscedu/singularity-fdupes" alt="forks"><img src="https://img.shields.io/github/stars/pscedu/singularity-fdupes" alt="Stars"><img src="https://img.shields.io/github/license/pscedu/singularity-fdupes" alt="License"></td>
+</tr>
+<tr>
+<td><a href="http://github.com/pscedu/singularity-ffmpeg">ffmpeg</a></td>
+<td><img src="https://github.com/pscedu/singularity-ffmpeg/actions/workflows/main.yml/badge.svg" alt="Status"><img src="https://github.com/pscedu/singularity-ffmpeg/actions/workflows/pretty.yml/badge.svg" alt="Status"><img src="https://img.shields.io/github/issues/pscedu/singularity-ffmpeg" alt="Issue"><img src="https://img.shields.io/github/forks/pscedu/singularity-ffmpeg" alt="forks"><img src="https://img.shields.io/github/stars/pscedu/singularity-ffmpeg" alt="Stars"><img src="https://img.shields.io/github/license/pscedu/singularity-ffmpeg" alt="License"></td>
+</tr>
+<tr>
+<td><a href="http://github.com/pscedu/singularity-flac">flac</a></td>
+<td><img src="https://github.com/pscedu/singularity-flac/actions/workflows/main.yml/badge.svg" alt="Status"><img src="https://github.com/pscedu/singularity-flac/actions/workflows/pretty.yml/badge.svg" alt="Status"><img src="https://img.shields.io/github/issues/pscedu/singularity-flac" alt="Issue"><img src="https://img.shields.io/github/forks/pscedu/singularity-flac" alt="forks"><img src="https://img.shields.io/github/stars/pscedu/singularity-flac" alt="Stars"><img src="https://img.shields.io/github/license/pscedu/singularity-flac" alt="License"></td>
+</tr>
+<tr>
+<td><a href="http://github.com/pscedu/singularity-glances">glances</a></td>
+<td><img src="https://github.com/pscedu/singularity-glances/actions/workflows/main.yml/badge.svg" alt="Status"><img src="https://github.com/pscedu/singularity-glances/actions/workflows/pretty.yml/badge.svg" alt="Status"><img src="https://img.shields.io/github/issues/pscedu/singularity-glances" alt="Issue"><img src="https://img.shields.io/github/forks/pscedu/singularity-glances" alt="forks"><img src="https://img.shields.io/github/stars/pscedu/singularity-glances" alt="Stars"><img src="https://img.shields.io/github/license/pscedu/singularity-glances" alt="License"></td>
+</tr>
+<tr>
+<td><a href="http://github.com/pscedu/singularity-gnuplot">gnuplot</a></td>
+<td><img src="https://github.com/pscedu/singularity-gnuplot/actions/workflows/main.yml/badge.svg" alt="Status"><img src="https://github.com/pscedu/singularity-gnuplot/actions/workflows/pretty.yml/badge.svg" alt="Status"><img src="https://img.shields.io/github/issues/pscedu/singularity-gnuplot" alt="Issue"><img src="https://img.shields.io/github/forks/pscedu/singularity-gnuplot" alt="forks"><img src="https://img.shields.io/github/stars/pscedu/singularity-gnuplot" alt="Stars"><img src="https://img.shields.io/github/license/pscedu/singularity-gnuplot" alt="License"></td>
+</tr>
+<tr>
+<td><a href="http://github.com/pscedu/singularity-graphviz">graphviz</a></td>
+<td><img src="https://github.com/pscedu/singularity-graphviz/actions/workflows/main.yml/badge.svg" alt="Status"><img src="https://github.com/pscedu/singularity-graphviz/actions/workflows/pretty.yml/badge.svg" alt="Status"><img src="https://img.shields.io/github/issues/pscedu/singularity-graphviz" alt="Issue"><img src="https://img.shields.io/github/forks/pscedu/singularity-graphviz" alt="forks"><img src="https://img.shields.io/github/stars/pscedu/singularity-graphviz" alt="Stars"><img src="https://img.shields.io/github/license/pscedu/singularity-graphviz" alt="License"></td>
+</tr>
+<tr>
+<td><a href="http://github.com/pscedu/singularity-hashdeep">hashdeep</a></td>
+<td><img src="https://github.com/pscedu/singularity-hashdeep/actions/workflows/main.yml/badge.svg" alt="Status"><img src="https://github.com/pscedu/singularity-hashdeep/actions/workflows/pretty.yml/badge.svg" alt="Status"><img src="https://img.shields.io/github/issues/pscedu/singularity-hashdeep" alt="Issue"><img src="https://img.shields.io/github/forks/pscedu/singularity-hashdeep" alt="forks"><img src="https://img.shields.io/github/stars/pscedu/singularity-hashdeep" alt="Stars"><img src="https://img.shields.io/github/license/pscedu/singularity-hashdeep" alt="License"></td>
+</tr>
+<tr>
+<td><a href="http://github.com/pscedu/singularity-hyperfine">hyperfine</a></td>
+<td><img src="https://github.com/pscedu/singularity-hyperfine/actions/workflows/main.yml/badge.svg" alt="Status"><img src="https://github.com/pscedu/singularity-hyperfine/actions/workflows/pretty.yml/badge.svg" alt="Status"><img src="https://img.shields.io/github/issues/pscedu/singularity-hyperfine" alt="Issue"><img src="https://img.shields.io/github/forks/pscedu/singularity-hyperfine" alt="forks"><img src="https://img.shields.io/github/stars/pscedu/singularity-hyperfine" alt="Stars"><img src="https://img.shields.io/github/license/pscedu/singularity-hyperfine" alt="License"></td>
+</tr>
+<tr>
+<td><a href="http://github.com/pscedu/singularity-imagemagick">imagemagick</a></td>
+<td><img src="https://github.com/pscedu/singularity-imagemagick/actions/workflows/main.yml/badge.svg" alt="Status"><img src="https://github.com/pscedu/singularity-imagemagick/actions/workflows/pretty.yml/badge.svg" alt="Status"><img src="https://img.shields.io/github/issues/pscedu/singularity-imagemagick" alt="Issue"><img src="https://img.shields.io/github/forks/pscedu/singularity-imagemagick" alt="forks"><img src="https://img.shields.io/github/stars/pscedu/singularity-imagemagick" alt="Stars"><img src="https://img.shields.io/github/license/pscedu/singularity-imagemagick" alt="License"></td>
+</tr>
+<tr>
+<td><a href="http://github.com/pscedu/singularity-jp">jp</a></td>
+<td><img src="https://github.com/pscedu/singularity-jp/actions/workflows/main.yml/badge.svg" alt="Status"><img src="https://github.com/pscedu/singularity-jp/actions/workflows/pretty.yml/badge.svg" alt="Status"><img src="https://img.shields.io/github/issues/pscedu/singularity-jp" alt="Issue"><img src="https://img.shields.io/github/forks/pscedu/singularity-jp" alt="forks"><img src="https://img.shields.io/github/stars/pscedu/singularity-jp" alt="Stars"><img src="https://img.shields.io/github/license/pscedu/singularity-jp" alt="License"></td>
+</tr>
+<tr>
+<td><a href="http://github.com/pscedu/singularity-jq">jq</a></td>
+<td><img src="https://github.com/pscedu/singularity-jq/actions/workflows/main.yml/badge.svg" alt="Status"><img src="https://github.com/pscedu/singularity-jq/actions/workflows/pretty.yml/badge.svg" alt="Status"><img src="https://img.shields.io/github/issues/pscedu/singularity-jq" alt="Issue"><img src="https://img.shields.io/github/forks/pscedu/singularity-jq" alt="forks"><img src="https://img.shields.io/github/stars/pscedu/singularity-jq" alt="Stars"><img src="https://img.shields.io/github/license/pscedu/singularity-jq" alt="License"></td>
+</tr>
+<tr>
+<td><a href="http://github.com/pscedu/singularity-lazygit">lazygit</a></td>
+<td><img src="https://github.com/pscedu/singularity-lazygit/actions/workflows/main.yml/badge.svg" alt="Status"><img src="https://github.com/pscedu/singularity-lazygit/actions/workflows/pretty.yml/badge.svg" alt="Status"><img src="https://img.shields.io/github/issues/pscedu/singularity-lazygit" alt="Issue"><img src="https://img.shields.io/github/forks/pscedu/singularity-lazygit" alt="forks"><img src="https://img.shields.io/github/stars/pscedu/singularity-lazygit" alt="Stars"><img src="https://img.shields.io/github/license/pscedu/singularity-lazygit" alt="License"></td>
+</tr>
+<tr>
+<td><a href="http://github.com/pscedu/singularity-libtiff-tools">libtiff-tools</a></td>
+<td><img src="https://github.com/pscedu/singularity-libtiff-tools/actions/workflows/main.yml/badge.svg" alt="Status"><img src="https://github.com/pscedu/singularity-libtiff-tools/actions/workflows/pretty.yml/badge.svg" alt="Status"><img src="https://img.shields.io/github/issues/pscedu/singularity-libtiff-tools" alt="Issue"><img src="https://img.shields.io/github/forks/pscedu/singularity-libtiff-tools" alt="forks"><img src="https://img.shields.io/github/stars/pscedu/singularity-libtiff-tools" alt="Stars"><img src="https://img.shields.io/github/license/pscedu/singularity-libtiff-tools" alt="License"></td>
+</tr>
+<tr>
+<td><a href="http://github.com/pscedu/singularity-lowcharts">lowcharts</a></td>
+<td><img src="https://github.com/pscedu/singularity-lowcharts/actions/workflows/main.yml/badge.svg" alt="Status"><img src="https://github.com/pscedu/singularity-lowcharts/actions/workflows/pretty.yml/badge.svg" alt="Status"><img src="https://img.shields.io/github/issues/pscedu/singularity-lowcharts" alt="Issue"><img src="https://img.shields.io/github/forks/pscedu/singularity-lowcharts" alt="forks"><img src="https://img.shields.io/github/stars/pscedu/singularity-lowcharts" alt="Stars"><img src="https://img.shields.io/github/license/pscedu/singularity-lowcharts" alt="License"></td>
+</tr>
+<tr>
+<td><a href="http://github.com/pscedu/singularity-mc">mc</a></td>
+<td><img src="https://github.com/pscedu/singularity-mc/actions/workflows/main.yml/badge.svg" alt="Status"><img src="https://github.com/pscedu/singularity-mc/actions/workflows/pretty.yml/badge.svg" alt="Status"><img src="https://img.shields.io/github/issues/pscedu/singularity-mc" alt="Issue"><img src="https://img.shields.io/github/forks/pscedu/singularity-mc" alt="forks"><img src="https://img.shields.io/github/stars/pscedu/singularity-mc" alt="Stars"><img src="https://img.shields.io/github/license/pscedu/singularity-mc" alt="License"></td>
+</tr>
+<tr>
+<td><a href="http://github.com/pscedu/singularity-ncdu">ncdu</a></td>
+<td><img src="https://github.com/pscedu/singularity-ncdu/actions/workflows/main.yml/badge.svg" alt="Status"><img src="https://github.com/pscedu/singularity-ncdu/actions/workflows/pretty.yml/badge.svg" alt="Status"><img src="https://img.shields.io/github/issues/pscedu/singularity-ncdu" alt="Issue"><img src="https://img.shields.io/github/forks/pscedu/singularity-ncdu" alt="forks"><img src="https://img.shields.io/github/stars/pscedu/singularity-ncdu" alt="Stars"><img src="https://img.shields.io/github/license/pscedu/singularity-ncdu" alt="License"></td>
+</tr>
+<tr>
+<td><a href="http://github.com/pscedu/singularity-octave">octave</a></td>
+<td><img src="https://github.com/pscedu/singularity-octave/actions/workflows/main.yml/badge.svg" alt="Status"><img src="https://github.com/pscedu/singularity-octave/actions/workflows/pretty.yml/badge.svg" alt="Status"><img src="https://img.shields.io/github/issues/pscedu/singularity-octave" alt="Issue"><img src="https://img.shields.io/github/forks/pscedu/singularity-octave" alt="forks"><img src="https://img.shields.io/github/stars/pscedu/singularity-octave" alt="Stars"><img src="https://img.shields.io/github/license/pscedu/singularity-octave" alt="License"></td>
+</tr>
+<tr>
+<td><a href="http://github.com/pscedu/singularity-pandoc">pandoc</a></td>
+<td><img src="https://github.com/pscedu/singularity-pandoc/actions/workflows/main.yml/badge.svg" alt="Status"><img src="https://github.com/pscedu/singularity-pandoc/actions/workflows/pretty.yml/badge.svg" alt="Status"><img src="https://img.shields.io/github/issues/pscedu/singularity-pandoc" alt="Issue"><img src="https://img.shields.io/github/forks/pscedu/singularity-pandoc" alt="forks"><img src="https://img.shields.io/github/stars/pscedu/singularity-pandoc" alt="Stars"><img src="https://img.shields.io/github/license/pscedu/singularity-pandoc" alt="License"></td>
+</tr>
+<tr>
+<td><a href="http://github.com/pscedu/singularity-rclone">rclone</a></td>
+<td><img src="https://github.com/pscedu/singularity-rclone/actions/workflows/main.yml/badge.svg" alt="Status"><img src="https://github.com/pscedu/singularity-rclone/actions/workflows/pretty.yml/badge.svg" alt="Status"><img src="https://img.shields.io/github/issues/pscedu/singularity-rclone" alt="Issue"><img src="https://img.shields.io/github/forks/pscedu/singularity-rclone" alt="forks"><img src="https://img.shields.io/github/stars/pscedu/singularity-rclone" alt="Stars"><img src="https://img.shields.io/github/license/pscedu/singularity-rclone" alt="License"></td>
+</tr>
+<tr>
+<td><a href="http://github.com/pscedu/singularity-rich-cli">rich-cli</a></td>
+<td><img src="https://github.com/pscedu/singularity-rich-cli/actions/workflows/main.yml/badge.svg" alt="Status"><img src="https://github.com/pscedu/singularity-rich-cli/actions/workflows/pretty.yml/badge.svg" alt="Status"><img src="https://img.shields.io/github/issues/pscedu/singularity-rich-cli" alt="Issue"><img src="https://img.shields.io/github/forks/pscedu/singularity-rich-cli" alt="forks"><img src="https://img.shields.io/github/stars/pscedu/singularity-rich-cli" alt="Stars"><img src="https://img.shields.io/github/license/pscedu/singularity-rich-cli" alt="License"></td>
+</tr>
+<tr>
+<td><a href="http://github.com/pscedu/singularity-shellcheck">shellcheck</a></td>
+<td><img src="https://github.com/pscedu/singularity-shellcheck/actions/workflows/main.yml/badge.svg" alt="Status"><img src="https://github.com/pscedu/singularity-shellcheck/actions/workflows/pretty.yml/badge.svg" alt="Status"><img src="https://img.shields.io/github/issues/pscedu/singularity-shellcheck" alt="Issue"><img src="https://img.shields.io/github/forks/pscedu/singularity-shellcheck" alt="forks"><img src="https://img.shields.io/github/stars/pscedu/singularity-shellcheck" alt="Stars"><img src="https://img.shields.io/github/license/pscedu/singularity-shellcheck" alt="License"></td>
+</tr>
+<tr>
+<td><a href="http://github.com/pscedu/singularity-visidata">visidata</a></td>
+<td><img src="https://github.com/pscedu/singularity-visidata/actions/workflows/main.yml/badge.svg" alt="Status"><img src="https://github.com/pscedu/singularity-visidata/actions/workflows/pretty.yml/badge.svg" alt="Status"><img src="https://img.shields.io/github/issues/pscedu/singularity-visidata" alt="Issue"><img src="https://img.shields.io/github/forks/pscedu/singularity-visidata" alt="forks"><img src="https://img.shields.io/github/stars/pscedu/singularity-visidata" alt="Stars"><img src="https://img.shields.io/github/license/pscedu/singularity-visidata" alt="License"></td>
+</tr>
+<tr>
+<td><a href="http://github.com/pscedu/singularity-wordgrinder">wordgrinder</a></td>
+<td><img src="https://github.com/pscedu/singularity-wordgrinder/actions/workflows/main.yml/badge.svg" alt="Status"><img src="https://github.com/pscedu/singularity-wordgrinder/actions/workflows/pretty.yml/badge.svg" alt="Status"><img src="https://img.shields.io/github/issues/pscedu/singularity-wordgrinder" alt="Issue"><img src="https://img.shields.io/github/forks/pscedu/singularity-wordgrinder" alt="forks"><img src="https://img.shields.io/github/stars/pscedu/singularity-wordgrinder" alt="Stars"><img src="https://img.shields.io/github/license/pscedu/singularity-wordgrinder" alt="License"></td>
+</tr>
+</tbody>
+</table>
+</article>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </main>
+</div>
+<script type="application/javascript" src='https://icaoberg.github.io/js/toc.js'></script>
+<link rel="stylesheet" href='https://icaoberg.github.io/css/toc.css' />
+
+
+  <div class="footer container-xl width-full p-responsive">
+  <div
+    class="position-relative d-flex flex-row-reverse flex-lg-row flex-wrap flex-lg-nowrap flex-justify-center flex-lg-justify-between flex-sm-items-center pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
+    <a aria-label="Homepage" title="GitHub" class="footer-octicon d-none d-lg-block mr-lg-4" href="https://icaoberg.github.io">
+      <svg height="24" class="octicon octicon-mark-github" viewBox="0 0 16 16" version="1.1" width="24">
+        <path fill-rule="evenodd"
+          d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z">
+        </path>
+      </svg>
+    </a>
+    <ul class="list-style-none d-flex flex-wrap col-12 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
+      
+      <li class="mr-3 mr-lg-0">This amazing theme was built and designed by <a href='https://meik2333.com/'>MeiK2333</a> and a number of contributors. Theme can be found <a href='https://github.com/MeiK2333/github-style'>here. Please remember to support your open-source coders.</a></li>
+      
+    </ul>
+  </div>
+  <div class="d-flex flex-justify-center pb-6">
+    <span class="f6 text-gray-light"></span>
+  </div>
+
+
+</div>
+</body>
+
+<script type="application/javascript" src="https://icaoberg.github.io/js/github-style.js"></script>
+
+
+
+
+</html>
